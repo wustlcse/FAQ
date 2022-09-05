@@ -24,8 +24,6 @@ markdown: kramdown
 
 [Can the same course satisfy requirements across majors within SEAS?](#can-the-same-course-satisfy-requirements-across-majors-within-seas)
 
-[Do I have to take CSE 347?](#do-i-have-to-take-cse-)
-
 [Do I need an EIT account for CSE131?  Do I need to buy a computer?](#do-i-need-an-eit-account-for-cse--do-i-need-to-buy-a-computer)
 
 [Do I need any computer science background to succeed in CSE131?](#do-i-need-any-computer-science-background-to-succeed-in-cse)
@@ -405,12 +403,6 @@ markdown: kramdown
 <sub>[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</sub>
 
 ---
-## <a name="do-i-have-to-take-cse-">Do I have to take CSE 347?</a>
- If you are dual degree and your effective first-year of entry is prior to our requring 347, then you do not have to take 347, but you must satisfy all of the requirements of the particular year you choose as your effective year of entry.
-
-<sub>[#academia](#academia) [#dual_degree](#dual_degree) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
-
----
 ## <a name="do-i-need-an-eit-account-for-cse--do-i-need-to-buy-a-computer">Do I need an EIT account for CSE131?  Do I need to buy a computer?</a>
  You already have one and it's accessed by using your WUSTL key and pasword. So you should be able to log into our lab computers using your standard WebSTAC authentication. However, you are able and encouraged to use your own computer following the instructions on the course [home page](https://www.cs.wustl.edu/~cytron/cse131/).
  Do I need to buy a computer for CSE131?
@@ -453,13 +445,15 @@ In addition, 247 assumes prior experience with Calculus concepts:
 
 ---
 ## <a name="do-i-need-to-take-cse">Do I need to take CSE347?</a>
- CSE347 is our Analysis of Algorithms course. A discussion of whether it is required for you appears below; however, you should strongly consider taking it even if it is not required. It is a challenging and extremely worthwhile course.
- CSE347 is a requirement for first- and second-major students who use our current bulletin as the specification of their requirements. While a student at our university, you are are allowed to follow
-*any* bulletin dating back to when you would have been a first-year on campus. Some of those programs do not require 347 specifically, but require a *T* course; 347 counts as a T course. Other programs do not require a T course or 347.
+ CSE 347 is our Analysis of Algorithms course. A discussion of whether it is required for you appears below; however, you should strongly consider taking it even if it is not required.
+
+CSE 347 is currently required for:
+* B.S. in Computer Science / Second Major in Computer Science
+* B.S. in Computer Science + Economics / AB in Economics & Computer Science
+* B.S. in Computer Science + Mathematics / Second Major in Computer Science + Mathematics / AB in Mathematics & Computer Science
 
 
-
-<sub>[#academia](#academia) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="does-our-department-have-an-honor-society">Does our department have an honor society?</a>
@@ -2754,10 +2748,6 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [Can the same course satisfy requirements across majors within SEAS?](#can-the-same-course-satisfy-requirements-across-majors-within-seas)
 
-[Do I have to take CSE 347?](#do-i-have-to-take-cse-)
-
-[Do I need to take CSE347?](#do-i-need-to-take-cse)
-
 [Does our department have an honor society?](#does-our-department-have-an-honor-society)
 
 [How are admissions handled?](#how-are-admissions-handled)
@@ -3062,8 +3052,6 @@ There are only a few CSE courses that require a specific operating systems and t
 
 ## <a name="dual_degree"></a>dual_degree
 
-[Do I have to take CSE 347?](#do-i-have-to-take-cse-)
-
 [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
 ## <a name="earn_money"></a>earn_money
@@ -3156,11 +3144,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [Can the same course satisfy requirements across majors within SEAS?](#can-the-same-course-satisfy-requirements-across-majors-within-seas)
 
-[Do I have to take CSE 347?](#do-i-have-to-take-cse-)
-
 [Do I need to take CSE 240 before CSE 247?](#do-i-need-to-take-cse--before-cse-)
-
-[Do I need to take CSE347?](#do-i-need-to-take-cse)
 
 [Does our department have an honor society?](#does-our-department-have-an-honor-society)
 
@@ -3468,13 +3452,9 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [Can the same course satisfy requirements across majors within SEAS?](#can-the-same-course-satisfy-requirements-across-majors-within-seas)
 
-[Do I have to take CSE 347?](#do-i-have-to-take-cse-)
-
 [Do I need an EIT account for CSE131?  Do I need to buy a computer?](#do-i-need-an-eit-account-for-cse--do-i-need-to-buy-a-computer)
 
 [Do I need any computer science background to succeed in CSE131?](#do-i-need-any-computer-science-background-to-succeed-in-cse)
-
-[Do I need to take CSE347?](#do-i-need-to-take-cse)
 
 [Does our department have an honor society?](#does-our-department-have-an-honor-society)
 
@@ -3911,8 +3891,6 @@ There are only a few CSE courses that require a specific operating systems and t
 [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
 [Can the same course satisfy requirements across majors within SEAS?](#can-the-same-course-satisfy-requirements-across-majors-within-seas)
-
-[Do I have to take CSE 347?](#do-i-have-to-take-cse-)
 
 [Do I need an EIT account for CSE131?  Do I need to buy a computer?](#do-i-need-an-eit-account-for-cse--do-i-need-to-buy-a-computer)
 
