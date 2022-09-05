@@ -2465,6 +2465,139 @@ There are only a few CSE courses that require a specific operating systems and t
 <sub>[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
+[Go to Index](#index)
+# Table of Contents
+
+[Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
+[CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
+[CSE516A and Econ467: how are they different?](#csea-and-econ-how-are-they-different)
+[Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
+[Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
+[Can I take courses outside the department to satisfy core requirements?](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements)
+[Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
+[Can the same course satisfy requirements across majors within SEAS?](#can-the-same-course-satisfy-requirements-across-majors-within-seas)
+[Do I have to take CSE 347?](#do-i-have-to-take-cse-)
+[Do I need an EIT account for CSE131?  Do I need to buy a computer?](#do-i-need-an-eit-account-for-cse--do-i-need-to-buy-a-computer)
+[Do I need any computer science background to succeed in CSE131?](#do-i-need-any-computer-science-background-to-succeed-in-cse)
+[Do I need to take CSE 240 before CSE 247?](#do-i-need-to-take-cse--before-cse-)
+[Do I need to take CSE347?](#do-i-need-to-take-cse)
+[Does our department have an honor society?](#does-our-department-have-an-honor-society)
+[How are TAs chosen?  When does the fantasy draft occur?](#how-are-tas-chosen--when-does-the-fantasy-draft-occur)
+[How are admissions handled?](#how-are-admissions-handled)
+[How can I contribute to this FAQ?](#how-can-i-contribute-to-this-faq)
+[How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
+[How can I get involved in hackathons?](#how-can-i-get-involved-in-hackathons)
+[How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
+[How can I get space for students to get help from my TAs?](#how-can-i-get-space-for-students-to-get-help-from-my-tas)
+[How can I place out of a course if I think I already know that course's material?  <br>What happens to my program of study if I do place out?](#how-can-i-place-out-of-a-course-if-i-think-i-already-know-that-courses-material--brwhat-happens-to-my-program-of-study-if-i-do-place-out)
+[How do I arrange to study abroad?](#how-do-i-arrange-to-study-abroad)
+[How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
+[How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
+[How do I change my open program in computer science and engineering?](#how-do-i-change-my-open-program-in-computer-science-and-engineering)
+[How do I do CS+Math?<br>What upper level electives count?<br>Can I do this as a second major?](#how-do-i-do-csmathbrwhat-upper-level-electives-countbrcan-i-do-this-as-a-second-major)
+[How do I earn a minor in Human-Computer Interaction (HCI)?](#how-do-i-earn-a-minor-in-human-computer-interaction-hci)
+[How do I earn a minor in bioinformatics?](#how-do-i-earn-a-minor-in-bioinformatics)
+[How do I earn a minor in computer engineering?](#how-do-i-earn-a-minor-in-computer-engineering)
+[How do I earn a minor in computer science?](#how-do-i-earn-a-minor-in-computer-science)
+[How do I earn a second major in computer engineering?](#how-do-i-earn-a-second-major-in-computer-engineering)
+[How do I earn participation credit for this course?](#how-do-i-earn-participation-credit-for-this-course)
+[How do I find a summer internship?](#how-do-i-find-a-summer-internship)
+[How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
+[How do I frame my thinking about staying for a master's degree?](#how-do-i-frame-my-thinking-about-staying-for-a-masters-degree)
+[How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
+[How do I sign up for summer classes?](#how-do-i-sign-up-for-summer-classes)
+[How do I study CSE while preparing for medical school?](#how-do-i-study-cse-while-preparing-for-medical-school)
+[How do I subscribe the the department's <EM>jobs</EM> email list?](#how-do-i-subscribe-the-the-departments-emjobsem-email-list)
+[How do the honors math courses count?](#how-do-the-honors-math-courses-count)
+[How does independent study work?](#how-does-independent-study-work)
+[How does pass/fail work?](#how-does-passfail-work)
+[How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
+[How does the CSE131 placement exam work?  Do I need to take CSE 131?](#how-does-the-cse-placement-exam-work--do-i-need-to-take-cse-)
+[How is CS+Math different from a double (second) major?](#how-is-csmath-different-from-a-double-second-major)
+[How is physics counted for our programs?](#how-is-physics-counted-for-our-programs)
+[How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
+[How much time do I spend on a course here?](#how-much-time-do-i-spend-on-a-course-here)
+[How much time should I expect to spend on CSE131?](#how-much-time-should-i-expect-to-spend-on-cse)
+[How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
+[How should I prepare for a Hackathon?](#how-should-i-prepare-for-a-hackathon)
+[How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
+[I accepted a job offer with company X but have since received a more attracive offer from company Y. What should I do?](#i-accepted-a-job-offer-with-company-x-but-have-since-received-a-more-attracive-offer-from-company-y-what-should-i-do)
+[I am in one lab/studio section and need to switch to another.  What should I do?](#i-am-in-one-labstudio-section-and-need-to-switch-to-another--what-should-i-do)
+[I am on the wait list for a course. What should I do?](#i-am-on-the-wait-list-for-a-course-what-should-i-do)
+[I am on the waiting list for CSE131 or for the lab section I need.  Will I be able to take the course?](#i-am-on-the-waiting-list-for-cse-or-for-the-lab-section-i-need--will-i-be-able-to-take-the-course)
+[I am primarily interested in becoming a software engineer; what courses should I take?](#i-am-primarily-interested-in-becoming-a-software-engineer-what-courses-should-i-take)
+[I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
+[I cannot access my repository.  What should I do?](#i-cannot-access-my-repository--what-should-i-do)
+[I have a conflict with one of my exams in this class.  What should I do?](#i-have-a-conflict-with-one-of-my-exams-in-this-class--what-should-i-do)
+[I have accommodation on timed exams and quizzes.  How do I arrange to take these at Cornerstone?](#i-have-accommodation-on-timed-exams-and-quizzes--how-do-i-arrange-to-take-these-at-cornerstone)
+[I have enjoyed 131.  What course should I take next?](#i-have-enjoyed---what-course-should-i-take-next)
+[I have installed eclipse on my Windows computer.  However, when I follow the instructions, the relevant menus don't seem to be there.](#i-have-installed-eclipse-on-my-windows-computer--however-when-i-follow-the-instructions-the-relevant-menus-dont-seem-to-be-there)
+[I have some programming experience.  Will I be bored in CSE131?](#i-have-some-programming-experience--will-i-be-bored-in-cse)
+[I have to take Math 310 as part of my studies for a math major or minor?  Can this count toward my CSE studies?](#i-have-to-take-math--as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies)
+[I need a laptop for my CSE work and don't have one that works; what should I do?](#i-need-a-laptop-for-my-cse-work-and-dont-have-one-that-works-what-should-i-do)
+[I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
+[I'm having trouble with my computer.  Where can I get help?](#im-having-trouble-with-my-computer--where-can-i-get-help)
+[I'm struggling and feeling overwhelmed. What should I do?](#im-struggling-and-feeling-overwhelmed-what-should-i-do)
+[If CSE131 is waived do I have to take another course instead?](#if-cse-is-waived-do-i-have-to-take-another-course-instead)
+[If I am not satisfied with a grade I received on an assignment or in a course, what should I do?](#if-i-am-not-satisfied-with-a-grade-i-received-on-an-assignment-or-in-a-course-what-should-i-do)
+[If I retake a course, what happens on my transcript and how does this affect my GPA?](#if-i-retake-a-course-what-happens-on-my-transcript-and-how-does-this-affect-my-gpa)
+[If I withdraw from a course, what shows up on my transcript and how does the dropped course affect my GPA?](#if-i-withdraw-from-a-course-what-shows-up-on-my-transcript-and-how-does-the-dropped-course-affect-my-gpa)
+[Is CSE131 a weed-out course?](#is-cse-a-weed-out-course)
+[Is it ever worth it to cheat?](#is-it-ever-worth-it-to-cheat)
+[Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
+[Is there a student group in our school?](#is-there-a-student-group-in-our-school)
+[Is there a student group within our department?](#is-there-a-student-group-within-our-department)
+[Is there a textbook for CSE131?](#is-there-a-textbook-for-cse)
+[Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
+[My employer wants a letter from the department for my green card application. How do I do that?](#my-employer-wants-a-letter-from-the-department-for-my-green-card-application-how-do-i-do-that)
+[My plans for Summer 2020 fell through due to COVID-19. What should I do?](#my-plans-for-summer--fell-through-due-to-covid--what-should-i-do)
+[Other ways to get involved](#other-ways-to-get-involved)
+[Reading list](#reading-list)
+[Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
+[Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
+[Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
+[Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
+[Should I switch a course to pass/fail grading in the Spring&nbsp;2020 semester?](#should-i-switch-a-course-to-passfail-grading-in-the-springnbsp-semester)
+[What are residency requirements?](#what-are-residency-requirements)
+[What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
+[What courses count toward my major or minor from outside the CSE department?<br>What are our department's residency requirements?](#what-courses-count-toward-my-major-or-minor-from-outside-the-cse-departmentbrwhat-are-our-departments-residency-requirements)
+[What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
+[What courses should I take if I am interested in machine learning?](#what-courses-should-i-take-if-i-am-interested-in-machine-learning)
+[What do our classrooms look like and how many people can they seat?](#what-do-our-classrooms-look-like-and-how-many-people-can-they-seat)
+[What do our graduates do?](#what-do-our-graduates-do)
+[What does <i>lecture-free</i> mean?  How is this course different from a typical lecture class?](#what-does-ilecture-freei-mean--how-is-this-course-different-from-a-typical-lecture-class)
+[What does a dean do?](#what-does-a-dean-do)
+[What does a provost do?](#what-does-a-provost-do)
+[What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
+[What is CSE&nbsp;501N?  How is it different from 131?](#what-is-csenbspn--how-is-it-different-from-)
+[What is a FAQ?](#what-is-a-faq)
+[What is a hackathon and why should I get involved?](#what-is-a-hackathon-and-why-should-i-get-involved)
+[What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
+[What is academic integrity and how does the academic integrity process work?](#what-is-academic-integrity-and-how-does-the-academic-integrity-process-work)
+[What is recursion?](#what-is-recursion)
+[What is the difference between CSE 400 and CSE 400E?](#what-is-the-difference-between-cse--and-cse-e)
+[What is the difference between CSE131 and CSE131R?](#what-is-the-difference-between-cse-and-cser)
+[What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
+[What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
+[What is the difference between computer science (CS) and computer engineering (CoE)?](#what-is-the-difference-between-computer-science-cs-and-computer-engineering-coe)
+[What is the difference between my 4-year advisor and my departmental advisor?](#what-is-the-difference-between-my--year-advisor-and-my-departmental-advisor)
+[What kind of computer should I have for studies in computer science or computer engineering?](#what-kind-of-computer-should-i-have-for-studies-in-computer-science-or-computer-engineering)
+[What language does CSE247/502N use?  Do I have to have taken CSE131/501N?](#what-language-does-csen-use--do-i-have-to-have-taken-csen)
+[What probability/statistics course should I take?](#what-probabilitystatistics-course-should-i-take)
+[What programming languages do we teach in our curriculum?](#what-programming-languages-do-we-teach-in-our-curriculum)
+[What web design courses can I take?](#what-web-design-courses-can-i-take)
+[When am I allowed to collaborate on assignments?](#when-am-i-allowed-to-collaborate-on-assignments)
+[When and how often should I meet with my departmental advisor?<br>What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-advisorbrwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
+[When trying to commit or update I have conflicts, what do I do?](#when-trying-to-commit-or-update-i-have-conflicts-what-do-i-do)
+[Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
+[Where can I learn more about cyber security?](#where-can-i-learn-more-about-cyber-security)
+[Where do CSE students study abroad?](#where-do-cse-students-study-abroad)
+[Where do I look to see the various dates pertaining to our academic calendar?](#where-do-i-look-to-see-the-various-dates-pertaining-to-our-academic-calendar)
+[Which is better, a mac or a pc?](#which-is-better-a-mac-or-a-pc)
+[Why St. Louis?](#why-st-louis)
+[Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
+[Why would I consider transferring schools?](#why-would-i-consider-transferring-schools)
+[With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 # Questions by Label
 
 
@@ -3857,89 +3990,45 @@ There are only a few CSE courses that require a specific operating systems and t
 
 # <a name="index"></a>Index
 
-
-
 [academia](#academia)
-
 [academic_integrity](#academic_integrity)
-
 [acm](#acm)
-
 [ap_credit](#ap_credit)
-
 [artsci](#artsci)
-
 [computer](#computer)
-
 [computer_engineering](#computer_engineering)
-
 [computer_science](#computer_science)
-
 [courses](#courses)
-
 [credit](#credit)
-
 [cse](#cse)
-
 [curriculum](#curriculum)
-
 [degree](#degree)
-
 [dual_degree](#dual_degree)
-
 [earn_money](#earn_money)
-
 [get_help](#get_help)
-
 [get_involved](#get_involved)
-
 [graduate](#graduate)
-
 [independent_study](#independent_study)
-
 [jobs](#jobs)
-
 [masters](#masters)
-
 [math](#math)
-
 [minor](#minor)
-
 [misc](#misc)
-
 [needs_review](#needs_review)
-
 [olin](#olin)
-
 [pass_fail](#pass_fail)
-
 [plagiarism](#plagiarism)
-
 [prerequisites](#prerequisites)
-
 [programming](#programming)
-
 [recommendation_letters](#recommendation_letters)
-
 [requirements](#requirements)
-
 [research](#research)
-
 [residency](#residency)
-
 [reu](#reu)
-
 [second_major](#second_major)
-
 [student_life](#student_life)
-
 [teaching_assistant](#teaching_assistant)
-
 [transfer_courses](#transfer_courses)
-
 [undergraduate](#undergraduate)
-
 [work_study](#work_study)
-
 [working_with_faculty](#working_with_faculty)
-
