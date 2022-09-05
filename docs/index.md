@@ -2,8 +2,6 @@
 markdown: kramdown
 ---
 
-Hello!!!
-
 [Go to Index](#index)
 
 # Table of Contents
