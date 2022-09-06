@@ -1,10 +1,13 @@
 ---
 markdown: kramdown
 ---
+[Go to Discussions View](https://github.com/wustlcse/FAQ/discussions)
+
+[Contribute Questions/Feedback](https://github.com/wustlcse/FAQ/discussions/2)
 
 [Go to Index](#index)
 
-# Table of Contents
+# Table of Contents <a name="toc"></a>
 
 
 
@@ -34,15 +37,13 @@ markdown: kramdown
 
 [Does our department have an honor society?](#does-our-department-have-an-honor-society)
 
-[How are TAs chosen?  When does the fantasy draft occur?](#how-are-tas-chosen--when-does-the-fantasy-draft-occur)
+[How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
 [How are admissions handled?](#how-are-admissions-handled)
 
 [How can I contribute to this FAQ?](#how-can-i-contribute-to-this-faq)
 
 [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
-
-[How can I get involved in hackathons?](#how-can-i-get-involved-in-hackathons)
 
 [How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
 
@@ -107,8 +108,6 @@ markdown: kramdown
 [How much time should I expect to spend on CSE131?](#how-much-time-should-i-expect-to-spend-on-cse)
 
 [How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
-
-[How should I prepare for a Hackathon?](#how-should-i-prepare-for-a-hackathon)
 
 [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
@@ -212,8 +211,6 @@ markdown: kramdown
 
 [What is a FAQ?](#what-is-a-faq)
 
-[What is a hackathon and why should I get involved?](#what-is-a-hackathon-and-why-should-i-get-involved)
-
 [What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
 
 [What is academic integrity and how does the academic integrity process work?](#what-is-academic-integrity-and-how-does-the-academic-integrity-process-work)
@@ -242,6 +239,8 @@ markdown: kramdown
 
 [What web design courses can I take?](#what-web-design-courses-can-i-take)
 
+[What's a hackathon, where/when/why/how should I get involved?](#whats-a-hackathon-wherewhenwhyhow-should-i-get-involved)
+
 [When am I allowed to collaborate on assignments?](#when-am-i-allowed-to-collaborate-on-assignments)
 
 [When and how often should I meet with my departmental advisor?<br>What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-advisorbrwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
@@ -267,7 +266,7 @@ markdown: kramdown
 [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
 [Go to Index](#index)
-# Contents
+# Contents <a name="contents"></a>
 
 ## <a name="am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university">Am I allowed to follow the requirements from a year other than my year of entry to Washington University?</a>
  The current degree requirements are listed [here](https://cse.wustl.edu/undergraduate/programs/Pages/default.aspx). Once you follow that page to a particular program, you will see a place to click to access previous years' degree requirements. You can pick any year while you are a student at Washington University, but you cannot mix or match between years. You must satisfy all of the requirements of whichever year you designate as your effective requirements year.
@@ -464,16 +463,17 @@ CSE 347 is currently required for:
 <sub>[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</sub>
 
 ---
-## <a name="how-are-tas-chosen--when-does-the-fantasy-draft-occur">How are TAs chosen?  When does the fantasy draft occur?</a>
- We ask our students in our major and minor programs, and often those students who recently took a course, to apply for the department's *fantasy draft*. The timeline for that is generally as follows:
-* The draft will open in the week after students have registered for the next semester's classes. This way, you know your schedule.
- * An email will be sent to you to notify you of the draft.
- * You indicate your interest by filling out the draft, on time and completely, with the information solicited on that form.
- * Professors then make their picks from those who have applied.
- * You are notified about the outcome, generally within a month of the draft's appearance.
+## <a name="how-are-tas-chosen--when-does-the-ta-draft-occur">How are TAs chosen?  When does the TA draft occur?</a>
+ We ask our students in our major and minor programs, and often those students who recently took a course, to apply for the department's *TA draft*. The timeline for that is generally:
+* The draft will open about a week after you register for the next semester.  Some classes hire TAs to help with the class sessions, so it's important you know your schedule. 
+*  You will get an email with details about the draft and a link to an application form.  Many courses also post the draft in their course forums.
+ * You indicate your interest by filling out the form, on time and completely.
+ * Soon after the forms are due, professors review applicants and indicate who they would like to hire.  
+ * Once professors have indicated their preferences, all hiring requests are reviewed and some adjustments are made to balance hiring requests with: a) course needs and b) each individual TAs' availability, which you provide in the application. 
+ * You are notified about the outcome, generally within a month of the draft's appearance. 
 
 
-<sub>[#earn_money](#earn_money) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#student_life](#student_life) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#work_study](#work_study) [#working_with_faculty](#working_with_faculty)</sub>
+<sub>[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#work_study](#work_study) [#working_with_faculty](#working_with_faculty)</sub>
 
 ---
 ## <a name="how-are-admissions-handled">How are admissions handled?</a>
@@ -521,40 +521,9 @@ Post your question to the "[New Questions](https://github.com/wustlcse/FAQ/discu
 <sub>[#academia](#academia) [#degree](#degree) [#get_help](#get_help) [#graduate](#graduate) [#needs_review](#needs_review) [#requirements](#requirements) [#student_life](#student_life) [#undergraduate](#undergraduate)</sub>
 
 ---
-## <a name="how-can-i-get-involved-in-hackathons">How can I get involved in hackathons?</a>
-
-Students in our department are involved in hackathons, both locally and out of town. The information for these events is typically posted and emailed to our students, but two events you might look for are
-[ArchHacks](https://archhacks.io/) and [GlobalHack](https://globalhack.org/events/).
-
-ArchHacks is a Washington University-hackathon hosted here by our students, and brings together the St. Louis community and students of all backgrounds to collaborate and problem-solve on relevant HealthTech issues. 
-
-GlobalHack is another St. Louis hackathon created by three St. Louis entrepreneurs with the goal of generating social impact through technology. GlobalHack hosts youth programs, and has developed solutions to local problems, such as homelessness, through their annual hackathons. 
-
-If you are interested in events outside of the St. Louis area, then two additional resources are [Major League Hacking](https://mlh.io/) and [Devpost](https://devpost.com/hackathons). 
-
-Major League Hacking is the official student hackathon league, and has resources for career-building and coding challenges. Several universities pair with MLH, and will provide reimbursements for travel.
-
-Devpost is specifically for software developers and will frequently list corporate-sponsored hackathons, as well as univeristy-led hackathons. In addition, Devpost has online hackathons where you can submit projects on their site for prizes and feedback. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<sub>[#get_involved](#get_involved) [#needs_review](#needs_review) [#student_life](#student_life)</sub>
-
----
 ## <a name="how-can-i-get-involved-in-programming-contests">How can I get involved in programming contests?</a>
 
-There are many ways to get involved in competitive events and non-competitive events, like Hackathons (See [#get_involved](https://github.com/wustlcse/FAQ/discussions/1#get_involved)]) and online competition sites ([Kaggle Competitions](https://www.kaggle.com/competitions), [LeetCode](https://leetcode.com/), etc.)
+There are many ways to get involved in competitive events and non-competitive events, like Hackathons (See [#get_involved](https://wustlcse.github.io/FAQ/#get_involved)]) and online competition sites ([Kaggle Competitions](https://www.kaggle.com/competitions), [LeetCode](https://leetcode.com/), etc.)
 
 Participation in [Association of Computing Machinery](http://www.acm.org)'s annual [International Collegiate Programming Contest](https://icpc.global/)(ICPC) is one of the best ways to sharpen your problem solving skills with peers.  Teams from Washington University have done well at these contests, including winning [two international contests](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest#Winners)!  You can learn more by contacting our [Student ACM chapter](https://acm.wustl.edu/).  
 
@@ -830,7 +799,7 @@ Modes of conducting research with faculty
 
 
 
-<sub>[#academia](#academia) [#earn_money](#earn_money) [#get_involved](#get_involved) [#graduate](#graduate) [#independent_study](#independent_study) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#research](#research) [#reu](#reu) [#student_life](#student_life) [#undergraduate](#undergraduate) [#work_study](#work_study) [#working_with_faculty](#working_with_faculty)</sub>
+<sub>[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#independent_study](#independent_study) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#research](#research) [#reu](#reu) [#student_life](#student_life) [#undergraduate](#undergraduate) [#work_study](#work_study) [#working_with_faculty](#working_with_faculty)</sub>
 
 ---
 ## <a name="how-do-i-frame-my-thinking-about-staying-for-a-masters-degree">How do I frame my thinking about staying for a master's degree?</a>
@@ -1129,34 +1098,6 @@ See [here](https://cse.wustl.edu/academics/placement-exam.html) to see if you ma
 <sub>[#academia](#academia) [#computer](#computer) [#misc](#misc) [#needs_review](#needs_review) [#student_life](#student_life)</sub>
 
 ---
-## <a name="how-should-i-prepare-for-a-hackathon">How should I prepare for a Hackathon?</a>
-
-Brainstorm ahead of time, and understand there is a difference between what you would like to accomplish and what is possible. Having an idea or plan ahead of time will help you cut down on discussion and start implementing quicker. 
-
-Review your personal skillset, and research the hackathon's theme or topic beforehand, if it has one. 
-Start with your demo. The goal of a hackathon is to produce a working demo or prototype, so make sure you understand which features are an absolute must. 
-
-Get ready to work with a team. Be respectful and considerate. 
-
-Be prepared. Get together a list of everything you need, and check for important event information, such as if food is provided and if you can stay at the venue overnight. 
-
-And finally, don't be intimidated if it's your first hackathon. Everyone remembers their first time, and it is a great opportunity to have fun and challenge yourself. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<sub>[#get_involved](#get_involved) [#needs_review](#needs_review) [#student_life](#student_life)</sub>
-
----
 ## <a name="how-to-i-apply-for-reu-programs">How to I apply for REU programs?</a>
  The information below is meant to be generic advice, but our faculty hope you will take interest and notice of
 [our REU program](https://sites.wustl.edu/csereu/).
@@ -1175,7 +1116,7 @@ And finally, don't be intimidated if it's your first hackathon. Everyone remembe
 
 
 
-<sub>[#academia](#academia) [#earn_money](#earn_money) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#research](#research) [#reu](#reu) [#student_life](#student_life) [#undergraduate](#undergraduate) [#work_study](#work_study) [#working_with_faculty](#working_with_faculty)</sub>
+<sub>[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#research](#research) [#reu](#reu) [#student_life](#student_life) [#undergraduate](#undergraduate) [#work_study](#work_study) [#working_with_faculty](#working_with_faculty)</sub>
 
 ---
 ## <a name="i-accepted-a-job-offer-with-company-x-but-have-since-received-a-more-attracive-offer-from-company-y-what-should-i-do">I accepted a job offer with company X but have since received a more attracive offer from company Y. What should I do?</a>
@@ -1794,7 +1735,7 @@ credit
 
 
 
-<sub>[#academia](#academia) [#earn_money](#earn_money) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#student_life](#student_life) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#work_study](#work_study) [#working_with_faculty](#working_with_faculty)</sub>
+<sub>[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#student_life](#student_life) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#work_study](#work_study) [#working_with_faculty](#working_with_faculty)</sub>
 
 ---
 ## <a name="should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits">Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?</a>
@@ -2097,39 +2038,6 @@ Most schools provide a system to "Audit" your degree.  Most schools use [WUAchie
 <sub>[#misc](#misc) [#needs_review](#needs_review)</sub>
 
 ---
-## <a name="what-is-a-hackathon-and-why-should-i-get-involved">What is a hackathon and why should I get involved?</a>
-
-Hackathons are typically 24-hour to weekend-long competitions/events where people collaborate on teams or by themselves to create a working prototype of a solution or idea. Most hackathons focus on a specific problem or area of interest, and others will hand out awards and prizes based on categories, like best hardware hack or best mobile app. 
-
-You do not need to be a programmer or CS-major to participate. 
-
-While this form of software development is unusual, usually termed a "sprint", it is worthwhile to focus on a single project that could be added to your portfolio. You can network and learn from other programmers, particularly if you choose a project that goes outside your comfort zone. The focus on a singular prototype is challenging, and the time constraint teaches effective collaboration and efficient work. 
-
-Hackathons provide a great opportunity to display your skills, win prizes, and possibly create a project that you will pursue long-term. Corporate sponsors may recruit programmers from top teams, and the end result will always be an interesting project and newly acquired skills to talk about in future networking opportunities. 
-
-Some well-known or large Hackathon events and projects include:
-
-* [Amazon's Deep Lens Challenge](https://aws.amazon.com/deeplens/challenge/)* [TechCrunch's Disrupt Hackathon](https://techcrunch.com/events/)  for start-ups 
-
-* HackMIT
-
-* HackIllinois
-
- 
-
-
-
-
-
-
-
-
-
-
-
-<sub>[#get_involved](#get_involved) [#misc](#misc) [#needs_review](#needs_review) [#student_life](#student_life)</sub>
-
----
 ## <a name="what-is-a-senior-thesis-and-should-i-do-one">What is a senior thesis and should I do one?</a>
  Many of our undergraduates are involved in the research conducted by our department's faculty. It is worthwhile to consider the artifact(s) that might be produced from such research.
  If you are a student interested in graduate school, then the best artifact would be a published paper, even if it is co-authored. Your research advisor can mentor you concerning where and how to publish such a paper. Such papers are often jointly authored with other students and your research advisor. While it's not a document you author solely on your own, the value of having it pass muster with a conference or journal review process is high.
@@ -2427,6 +2335,57 @@ There are many related courses, many of which can be used for the [Minor in Huma
 
 
 <sub>[#courses](#courses) [#graduate](#graduate) [#undergraduate](#undergraduate)</sub>
+
+---
+## <a name="whats-a-hackathon-wherewhenwhyhow-should-i-get-involved">What's a hackathon, where/when/why/how should I get involved?</a>
+
+### What 
+
+Hackathons are typically 24-hour to weekend-long competitions/events where people collaborate on teams or by themselves to create a working prototype of a solution or idea. Most hackathons focus on a specific problem or area of interest, and others will hand out awards and prizes based on categories, like best hardware hack or best mobile app. 
+
+You do not need to be a programmer or CS-major to participate. 
+
+### Why
+
+While this form of software development is unusual, usually termed a "sprint", it is worthwhile to focus on a single project that could be added to your portfolio. You can network and learn from other people, particularly if you choose a project that goes outside your comfort zone. The focus on a singular prototype is challenging, and the time constraint teaches effective collaboration and efficient work. 
+
+Hackathons provide a great opportunity to display your skills, win prizes, and possibly create a project that you will pursue long-term. Corporate sponsors may recruit programmers from top teams, and the end result will always be an interesting project and newly acquired skills to talk about in future networking opportunities. 
+
+### Where/When/How
+
+Some well-known or large Hackathon events and projects include:
+* ArchHacks is/was a Washington University-hackathon hosted by our students that brings together the St. Louis community and students of all backgrounds to collaborate and problem-solve on relevant HealthTech issues. 
+* [GlobalHack](https://globalhack.org/events/) is another St. Louis hackathon created by three St. Louis entrepreneurs with the goal of generating social impact through technology. GlobalHack hosts youth programs, and has developed solutions to local problems, such as homelessness, through their annual hackathons. 
+* [Major League Hacking](https://mlh.io/) is the official student hackathon league, and has resources for career-building and coding challenges. Several universities pair with MLH, and will provide reimbursements for travel.
+* [Devpost](https://devpost.com/hackathons) is specifically for software developers and will frequently list corporate-sponsored hackathons, as well as univeristy-led hackathons. In addition, Devpost has online hackathons where you can submit projects on their site for prizes and feedback. 
+* [Amazon's Deep Lens Challenge](https://aws.amazon.com/deeplens/challenge/)
+* [TechCrunch's Disrupt Hackathon](https://techcrunch.com/events/)  for start-ups 
+* HackMIT
+* HackIllinois
+
+### How: Preparation 
+ 
+Brainstorm ahead of time, and understand there is a difference between what you would like to accomplish and what is possible. Having an idea or plan ahead of time will help you cut down on discussion and start implementing quicker.
+
+Review your personal skillset, and research the hackathon's theme or topic beforehand, if it has one.  Start with your demo. The goal of a hackathon is to produce a working demo or prototype, so make sure you understand which features are an absolute must.   You may want to focus on the core ideas of a [Minimum Viable Product (MVP)](https://en.wikipedia.org/wiki/Minimum_viable_product) and utilize a [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking) process. 
+
+Get ready to work with a team. Be respectful and considerate.
+
+Be prepared. Get together a list of everything you need, and check for important event information, such as if food is provided and if you can stay at the venue overnight.
+
+And finally, don't be intimidated if it's your first hackathon. Everyone remembers their first time, and it is a great opportunity to have fun and challenge yourself.
+
+
+
+
+
+
+
+
+
+
+
+<sub>[#get_involved](#get_involved) [#student_life](#student_life)</sub>
 
 ---
 ## <a name="when-am-i-allowed-to-collaborate-on-assignments">When am I allowed to collaborate on assignments?</a>
@@ -3054,16 +3013,6 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
-## <a name="earn_money"></a>earn_money
-
-[How are TAs chosen?  When does the fantasy draft occur?](#how-are-tas-chosen--when-does-the-fantasy-draft-occur)
-
-[How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
-
-[How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
-
-[Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
-
 ## <a name="get_help"></a>get_help
 
 [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
@@ -3084,11 +3033,9 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [Does our department have an honor society?](#does-our-department-have-an-honor-society)
 
-[How are TAs chosen?  When does the fantasy draft occur?](#how-are-tas-chosen--when-does-the-fantasy-draft-occur)
+[How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
 [How can I contribute to this FAQ?](#how-can-i-contribute-to-this-faq)
-
-[How can I get involved in hackathons?](#how-can-i-get-involved-in-hackathons)
 
 [How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
 
@@ -3099,8 +3046,6 @@ There are only a few CSE courses that require a specific operating systems and t
 [How do I frame my thinking about staying for a master's degree?](#how-do-i-frame-my-thinking-about-staying-for-a-masters-degree)
 
 [How does independent study work?](#how-does-independent-study-work)
-
-[How should I prepare for a Hackathon?](#how-should-i-prepare-for-a-hackathon)
 
 [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
@@ -3122,7 +3067,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
-[What is a hackathon and why should I get involved?](#what-is-a-hackathon-and-why-should-i-get-involved)
+[What's a hackathon, where/when/why/how should I get involved?](#whats-a-hackathon-wherewhenwhyhow-should-i-get-involved)
 
 [Why St. Louis?](#why-st-louis)
 
@@ -3148,7 +3093,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [Does our department have an honor society?](#does-our-department-have-an-honor-society)
 
-[How are TAs chosen?  When does the fantasy draft occur?](#how-are-tas-chosen--when-does-the-fantasy-draft-occur)
+[How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
 [How are admissions handled?](#how-are-admissions-handled)
 
@@ -3290,7 +3235,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 ## <a name="jobs"></a>jobs
 
-[How are TAs chosen?  When does the fantasy draft occur?](#how-are-tas-chosen--when-does-the-fantasy-draft-occur)
+[How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
 [How can I get space for students to get help from my TAs?](#how-can-i-get-space-for-students-to-get-help-from-my-tas)
 
@@ -3410,8 +3355,6 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [What is a FAQ?](#what-is-a-faq)
 
-[What is a hackathon and why should I get involved?](#what-is-a-hackathon-and-why-should-i-get-involved)
-
 [What is academic integrity and how does the academic integrity process work?](#what-is-academic-integrity-and-how-does-the-academic-integrity-process-work)
 
 [What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
@@ -3458,13 +3401,9 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [Does our department have an honor society?](#does-our-department-have-an-honor-society)
 
-[How are TAs chosen?  When does the fantasy draft occur?](#how-are-tas-chosen--when-does-the-fantasy-draft-occur)
-
 [How are admissions handled?](#how-are-admissions-handled)
 
 [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
-
-[How can I get involved in hackathons?](#how-can-i-get-involved-in-hackathons)
 
 [How can I get space for students to get help from my TAs?](#how-can-i-get-space-for-students-to-get-help-from-my-tas)
 
@@ -3521,8 +3460,6 @@ There are only a few CSE courses that require a specific operating systems and t
 [How much time should I expect to spend on CSE131?](#how-much-time-should-i-expect-to-spend-on-cse)
 
 [How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
-
-[How should I prepare for a Hackathon?](#how-should-i-prepare-for-a-hackathon)
 
 [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
@@ -3619,8 +3556,6 @@ There are only a few CSE courses that require a specific operating systems and t
 [What is CSE&nbsp;501N?  How is it different from 131?](#what-is-csenbspn--how-is-it-different-from-)
 
 [What is a FAQ?](#what-is-a-faq)
-
-[What is a hackathon and why should I get involved?](#what-is-a-hackathon-and-why-should-i-get-involved)
 
 [What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
 
@@ -3790,13 +3725,9 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [Does our department have an honor society?](#does-our-department-have-an-honor-society)
 
-[How are TAs chosen?  When does the fantasy draft occur?](#how-are-tas-chosen--when-does-the-fantasy-draft-occur)
-
 [How can I contribute to this FAQ?](#how-can-i-contribute-to-this-faq)
 
 [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
-
-[How can I get involved in hackathons?](#how-can-i-get-involved-in-hackathons)
 
 [How do I arrange to study abroad?](#how-do-i-arrange-to-study-abroad)
 
@@ -3809,8 +3740,6 @@ There are only a few CSE courses that require a specific operating systems and t
 [How does independent study work?](#how-does-independent-study-work)
 
 [How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
-
-[How should I prepare for a Hackathon?](#how-should-i-prepare-for-a-hackathon)
 
 [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
@@ -3846,9 +3775,9 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
-[What is a hackathon and why should I get involved?](#what-is-a-hackathon-and-why-should-i-get-involved)
-
 [What kind of computer should I have for studies in computer science or computer engineering?](#what-kind-of-computer-should-i-have-for-studies-in-computer-science-or-computer-engineering)
+
+[What's a hackathon, where/when/why/how should I get involved?](#whats-a-hackathon-wherewhenwhyhow-should-i-get-involved)
 
 [Where do CSE students study abroad?](#where-do-cse-students-study-abroad)
 
@@ -3856,7 +3785,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 ## <a name="teaching_assistant"></a>teaching_assistant
 
-[How are TAs chosen?  When does the fantasy draft occur?](#how-are-tas-chosen--when-does-the-fantasy-draft-occur)
+[How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
 [How can I get space for students to get help from my TAs?](#how-can-i-get-space-for-students-to-get-help-from-my-tas)
 
@@ -3902,7 +3831,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [Does our department have an honor society?](#does-our-department-have-an-honor-society)
 
-[How are TAs chosen?  When does the fantasy draft occur?](#how-are-tas-chosen--when-does-the-fantasy-draft-occur)
+[How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
 [How are admissions handled?](#how-are-admissions-handled)
 
@@ -4080,7 +4009,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 ## <a name="work_study"></a>work_study
 
-[How are TAs chosen?  When does the fantasy draft occur?](#how-are-tas-chosen--when-does-the-fantasy-draft-occur)
+[How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
 [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
@@ -4090,7 +4019,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 ## <a name="working_with_faculty"></a>working_with_faculty
 
-[How are TAs chosen?  When does the fantasy draft occur?](#how-are-tas-chosen--when-does-the-fantasy-draft-occur)
+[How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
 [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
@@ -4131,8 +4060,6 @@ There are only a few CSE courses that require a specific operating systems and t
 [degree](#degree)
 
 [dual_degree](#dual_degree)
-
-[earn_money](#earn_money)
 
 [get_help](#get_help)
 
