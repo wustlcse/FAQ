@@ -439,7 +439,7 @@ markdown: kramdown
 
 
 
-<sub>[#cse](#cse) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="do-i-need-any-computer-science-background-to-succeed-in-cse">Do I need any computer science background to succeed in CSE131?</a>
@@ -451,7 +451,7 @@ markdown: kramdown
  * If you're looking for an interesting and worthwhile course, welcome!
 
 
-<sub>[#cse](#cse) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="do-i-need-to-take-cse--before-cse-">Do I need to take CSE 240 before CSE 247?</a>
@@ -837,7 +837,7 @@ WebSTAC. Look for the `Change WU School` link. I'm told it's there but because I
 
  There are exercises included with each module, interspersed between the video segments. You earn participation credit by completing those exercises as best you can. Other opportunities may be available as announced or posted on the couse web page.
 
-<sub>[#cse](#cse) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="how-do-i-find-a-summer-internship">How do I find a summer internship?</a>
@@ -1151,7 +1151,7 @@ Having the course waived does not provide credit for the course, but it will all
 See [here](https://cse.wustl.edu/academics/placement-exam.html) to see if you may benefit from taking the exam and for directions to sign up. 
 
 
-<sub>[#ap_credit](#ap_credit) [#cse](#cse) [#undergraduate](#undergraduate)</sub>
+<sub>[#ap_credit](#ap_credit) [#cse131](#cse131) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="how-is-csmath-different-from-a-double-second-major">How is CS+Math different from a double (second) major?</a>
@@ -1226,7 +1226,7 @@ See [here](https://cse.wustl.edu/academics/placement-exam.html) to see if you ma
 
  CSE131 emphasises learning by doing. Most of your time outside of class will be spent on lab assignments. You will spend very little time reading, since everything you need to know will be covered in lecture, studio, or in the lab assignments. Since CSE131 is a 3 unit course, you should expect to spend about 10 hours per week on average, including time spent watching videos, doing assignemnts, and attending studios. Some weeks will require more time, some will require less. 
 
-<sub>[#cse](#cse) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="how-should-i-back-up-my-work-on-my-computer">How should I back up my work on my computer?</a>
@@ -1308,7 +1308,7 @@ See [here](https://cse.wustl.edu/academics/placement-exam.html) to see if you ma
 
 
 
-<sub>[#cse](#cse) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="i-am-on-the-wait-list-for-a-course-what-should-i-do">I am on the wait list for a course. What should I do?</a>
@@ -1330,7 +1330,7 @@ See [here](https://cse.wustl.edu/academics/placement-exam.html) to see if you ma
  You are allowed to register for up to 21 units, so you may have to make
 (strategic) choices about where to register to get the courses you want.
 
-<sub>[#academia](#academia) [#cse](#cse) [#get_help](#get_help) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</sub>
+<sub>[#academia](#academia) [#cse131](#cse131) [#get_help](#get_help) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="i-am-on-the-waiting-list-for-cse-or-for-the-lab-section-i-need--will-i-be-able-to-take-the-course">I am on the waiting list for CSE131 or for the lab section I need.  Will I be able to take the course?</a>
@@ -1340,7 +1340,7 @@ See [here](https://cse.wustl.edu/academics/placement-exam.html) to see if you ma
  Almost certainly!
 **Be sure to do the work on the course calendar and attend studios and labs.** In the past, we have been able to accommodate everyone from the waiting list.
 
-<sub>[#cse](#cse) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="i-am-primarily-interested-in-becoming-a-software-engineer-what-courses-should-i-take">I am primarily interested in becoming a software engineer; what courses should I take?</a>
@@ -1383,7 +1383,7 @@ See [here](https://cse.wustl.edu/academics/placement-exam.html) to see if you ma
 
  Yes. Dean Chris Ramsay keeps a list of available tutors for classes and he can try to match you with somebody who can help. The relevant web page at Engineering Student Services (ESS) is [here](https://engineering.wustl.edu/current-students/student-services/Pages/advising.aspx). If you are primariy a SEAS student you may receive up to 4 hours of tutoring free through ESS. Otherwise, tutors can still be found but you would have to pay.
 
-<sub>[#academia](#academia) [#cse](#cse) [#get_help](#get_help) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</sub>
+<sub>[#academia](#academia) [#cse131](#cse131) [#get_help](#get_help) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="i-cannot-access-my-repository--what-should-i-do">I cannot access my repository.  What should I do?</a>
@@ -1403,7 +1403,7 @@ See [here](https://cse.wustl.edu/academics/placement-exam.html) to see if you ma
 
 
 
-<sub>[#cse](#cse) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="i-have-a-conflict-with-one-of-my-exams-in-this-class--what-should-i-do">I have a conflict with one of my exams in this class.  What should I do?</a>
@@ -1419,7 +1419,7 @@ See [here](https://cse.wustl.edu/academics/placement-exam.html) to see if you ma
 
 
 
-<sub>[#cse](#cse) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="i-have-accommodation-on-timed-exams-and-quizzes--how-do-i-arrange-to-take-these-at-cornerstone">I have accommodation on timed exams and quizzes.  How do I arrange to take these at Cornerstone?</a>
@@ -1428,7 +1428,7 @@ See [here](https://cse.wustl.edu/academics/placement-exam.html) to see if you ma
 
  Please present your accommodation documentation to the instructor the first week of class. 
 
-<sub>[#cse](#cse) [#get_help](#get_help) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#get_help](#get_help) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="i-have-enjoyed---what-course-should-i-take-next">I have enjoyed 131.  What course should I take next?</a>
@@ -1447,7 +1447,7 @@ See [here](https://cse.wustl.edu/academics/placement-exam.html) to see if you ma
 
 
 
-<sub>[#cse](#cse) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="i-have-installed-eclipse-on-my-windows-computer--however-when-i-follow-the-instructions-the-relevant-menus-dont-seem-to-be-there">I have installed eclipse on my Windows computer.  However, when I follow the instructions, the relevant menus don't seem to be there.</a>
@@ -1459,7 +1459,7 @@ See [here](https://cse.wustl.edu/academics/placement-exam.html) to see if you ma
 
 
 
-<sub>[#cse](#cse) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="i-have-some-programming-experience--will-i-be-bored-in-cse">I have some programming experience.  Will I be bored in CSE131?</a>
@@ -1471,7 +1471,7 @@ See [here](https://cse.wustl.edu/academics/placement-exam.html) to see if you ma
 
 
 
-<sub>[#cse](#cse) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="i-have-to-take-math--as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies">I have to take Math 310 as part of my studies for a math major or minor?  Can this count toward my CSE studies?</a>
@@ -1530,7 +1530,7 @@ See [here](https://cse.wustl.edu/academics/placement-exam.html) to see if you ma
 
  Try the EIT/CEC help desk in Lopata Hall on the fourth floor. If your computer is not working, use a lab computer until yours is fixed so that you don't fall behind in your work.
 
-<sub>[#cse](#cse) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="im-struggling-and-feeling-overwhelmed-what-should-i-do">I'm struggling and feeling overwhelmed. What should I do?</a>
@@ -1556,7 +1556,7 @@ Student life can be difficult. Course work, student groups, obligations to famil
 
 
 
-<sub>[#academia](#academia) [#cse](#cse) [#graduate](#graduate) [#minor](#minor) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#academia](#academia) [#cse131](#cse131) [#graduate](#graduate) [#minor](#minor) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="if-i-am-not-satisfied-with-a-grade-i-received-on-an-assignment-or-in-a-course-what-should-i-do">If I am not satisfied with a grade I received on an assignment or in a course, what should I do?</a>
@@ -1670,7 +1670,7 @@ What steps do you take?
 
 
 
-<sub>[#cse](#cse) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="is-it-ever-worth-it-to-cheat">Is it ever worth it to cheat?</a>
@@ -1763,7 +1763,7 @@ In the short-term and long-term, it is never worth it to cheat. There is always 
 
 
 
-<sub>[#cse](#cse) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="is-there-any-news-i-should-see-about-registration">Is there any news I should see about registration?</a>
@@ -2230,7 +2230,7 @@ Most schools provide a system to "Audit" your degree.  Most schools use [WUAchie
 
 
 
-<sub>[#cse](#cse) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="what-does-a-dean-do">What does a dean do?</a>
@@ -2326,7 +2326,7 @@ Most schools provide a system to "Audit" your degree.  Most schools use [WUAchie
 
  The courses are identical in all aspects of the work you do: labs, studios, exams, and quizzes. Some students take this course as preparation for graduate studies in computer science, or to assist in their graduate studies in other disciplines. Such students enroll in this course at the graduate level, using CSE 501N.
 
-<sub>[#cse](#cse) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="what-is-a-faq">What is a FAQ?</a>
@@ -2457,7 +2457,7 @@ See [here](https://github.com/wustlcse/FAQ/discussions/100).
 
 
 
-<sub>[#cse](#cse) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem">What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?</a>
@@ -2818,7 +2818,7 @@ And finally, don't be intimidated if it's your first hackathon. Everyone remembe
 		 - `Override and commit`: this indicates that you want your version of the file to win. Your local version then replaced the one at the server. You can always retrieve any previously committed version from the server.+ When done, return to the `Java` view and commit your work as usual.* If in doubt, ask the TAs or instructor.
 
 
-<sub>[#cse](#cse) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="where-can-i-find-the-form-i-need-to-fill-out-for-independent-study">Where can I find the form I need to fill out for independent study?</a>
@@ -2975,7 +2975,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 
 
-<sub>[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#cse](#cse) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#cse131](#cse131) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="why-would-i-consider-transferring-schools">Why would I consider transferring schools?</a>
@@ -3326,7 +3326,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [Should I switch a course to pass/fail grading in the Spring&nbsp;2020 semester?](#should-i-switch-a-course-to-passfail-grading-in-the-springnbsp-semester)
 
-## <a name="cse"></a>cse : CSE131
+## <a name="cse131"></a>cse131 : CSE131
 
 [Do I need an EIT account for CSE131?  Do I need to buy a computer?](#do-i-need-an-eit-account-for-cse--do-i-need-to-buy-a-computer)
 
@@ -4434,7 +4434,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [credit](#credit) : credit
 
-[cse](#cse) : CSE131
+[cse131](#cse131) : CSE131
 
 [curriculum](#curriculum) : curriculum
 
