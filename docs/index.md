@@ -5,7 +5,17 @@ markdown: kramdown
 
 [Contribute Questions/Feedback](https://github.com/wustlcse/FAQ/discussions/2)
 
+
+
 [Go to Index](#index)
+
+
+
+{::options parse_block_html="true" /}
+
+<div class="toc">
+
+
 
 # Table of Contents {#toc}
 
@@ -267,8 +277,12 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
-[Go to Index](#index)
+</div>[Go to Index](#index)
+
+
+{::options parse_block_html="true" /}
 <div class="body">
+
 # Contents {#contents}
 
 ## Am I allowed to follow the requirements from a year other than my year of entry to Washington University? {#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university}
@@ -3077,6 +3091,8 @@ There are only a few CSE courses that require a specific operating systems and t
 
 <div class="qbylabel">
 
+
+
 # Questions by Label
 
 
@@ -4431,13 +4447,11 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 </div>
 
-
-
 {::options parse_block_html="true" /}
 
-
-
 <div class="index">
+
+
 
 # Index {#index}
 
@@ -4526,10 +4540,3 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 [working_with_faculty](#working_with_faculty) : working_with_faculty
 
 </div>
-
-
-
-{::options parse_block_html="true" /}
-
-
-
