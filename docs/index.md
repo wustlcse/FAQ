@@ -7,7 +7,7 @@ markdown: kramdown
 
 [Go to Index](#index)
 
-# Table of Contents <a name="toc"></a>
+# Table of Contents {#toc}
 
 
 
@@ -243,7 +243,9 @@ markdown: kramdown
 
 [When am I allowed to collaborate on assignments?](#when-am-i-allowed-to-collaborate-on-assignments)
 
-[When and how often should I meet with my departmental advisor?<br>What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-advisorbrwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
+[When and how often should I meet with my departmental faculty advisor?
+
+What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisorwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
 
 [When trying to commit or update I have conflicts, what do I do?](#when-trying-to-commit-or-update-i-have-conflicts-what-do-i-do)
 
@@ -266,7 +268,7 @@ markdown: kramdown
 [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
 [Go to Index](#index)
-# Contents <a name="contents"></a>
+# Contents {#contents}</a>
 
 ## <a name="am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university">Am I allowed to follow the requirements from a year other than my year of entry to Washington University?</a>
 
@@ -495,8 +497,9 @@ CSE 347 is currently required for:
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/108">Discussions View</a></sub>
 
- Yes. Our [UPE](http://upe.wustl.edu/) chapter is the local instantiation of the international UPE honor society, which is endorsed by the [ACM](http://www.acm.org/) and 
-[IEEE Computer Society](https://www.computer.org/). We also have a local ACM chapter that is described elsewhere in this FAQ.
+ Yes. Our [UPE](http://upe.wustl.edu/) chapter is the local instantiation of the international UPE honor society, which is endorsed by the [ACM](http://www.acm.org/) and [IEEE Computer Society](https://www.computer.org/). 
+
+We also have a local [ACM chapter](https://acm.wustl.edu/).
 
 
 <sub>[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</sub>
@@ -1273,27 +1276,21 @@ See [here](https://cse.wustl.edu/academics/placement-exam.html) to see if you ma
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/111">Discussions View</a></sub>
 
- There are various reasons why the offer from Y is more attractive to you:
-* The pay for job Y may be better than X.
- * Job Y may be in a location you prefer to the location of job X.
- * The nature of job Y may be more in line with your career goals and interests than the nature of job X.
 
+It's a decision that should not be made lightly.  Backing out on a commitment can  "[burn bridges](https://en.wiktionary.org/wiki/burn_one%27s_bridges)".  That being said, most companies have encountered this situation and are aware that it's a competitive job market.  Often they will respond in reasonable ways.  
 
- I will admit that when asked this question 20 years ago, I would have advised students not to abandon an accepted offer. It can burn a bridge for you, but also I thought it said something about your character, that you would renege on an accepted offer with a company expecting you to show up.
- I had the opportunity to co-teach our software engineering course a few years ago, and my colleague in that activity was at that time a program manager at Google. He is now at facebook. A student asked this question of him and I was expecting an answer similar to what I would have said.
- To my surprise, his response was that people in the industry are adults and can respond to this situation in reasonable ways. So there is an opening to consider abandoning an accepted offer for another one. His advice, and mine too, would be to make such a decision framed by the following considerations:
-* You owe company X an honest explanation about why are reneging on your acceptance of their offer.
- By having such a conversation, you are also allowing company X to respond to the situation by offering you more pay, or by trying to find you a position better suited to your goals and interests. Sometimes the difference in position cannot be traversed, such as your interest in a start-up company when company X is not such a company. But even here, you should be able to explain your interest at this point in your career in a start-up company position.
- * You should convey as best you can the profound thought you have given to this situation, and your interest in maintaining good relations with company X.
- * You must accept the fact that this course of action may well burn the bridge between you and company X, no matter how considerate the conversation on both sides.
- * Job location for a summer job, or even a full-time job, can be important if there is a real need for you to be in a certain place. Otherwise, I don't feel it's a good cause for abandoning an accepted job offer. If you are honest, and can explain this reason to the satisfaction of company X, then I suppose you can try, but my advice would be to try out the location and make a move subsequently.
+It's important to identify the reasons why the offer from Y is more attractive to you. These often include some elements of:
+* Better pay,
+* Preferable location (location can be important if there is a real need for you to be in a certain place, but short term jobs are just that --- short term.  Being in a new location can be an opportunity to get perspective),
+* The nature of work,
+* Future opportunities from the alternative.
 
- So in summary, this is possible and worth thinking through, but it's a decision that should not be made lightly.
-
-
-
-
-
+Usually it's best to:
+* Give company X as much notice as possible.
+* Give company X an honest explanation about why you want to withdraw from your agreement.  This gives them an opportunity to respond to the situation and possibly offer an alternative to their original offer that's better aligned with the appealing parts of company Y's offer. 
+ * Convey to company X that you have given deep consideration to the issue and you hope to maintain good relations with them.
+ * Accept the fact that you may "burn the bridge" between you and company X, no matter how considerate the conversation on both sides.
+ 
 
 
 <sub>[#jobs](#jobs) [#needs_review](#needs_review)</sub>
@@ -2759,41 +2756,48 @@ And finally, don't be intimidated if it's your first hackathon. Everyone remembe
 <sub>[#academia](#academia) [#academic_integrity](#academic_integrity) [#misc](#misc) [#needs_review](#needs_review) [#plagiarism](#plagiarism)</sub>
 
 ---
-## <a name="when-and-how-often-should-i-meet-with-my-departmental-advisorbrwhat-kind-of-advice-should-i-expect-my-advisor-to-provide">When and how often should I meet with my departmental advisor?<br>What kind of advice should I expect my advisor to provide?</a>
+## <a name="when-and-how-often-should-i-meet-with-my-departmental-faculty-advisorwhat-kind-of-advice-should-i-expect-my-advisor-to-provide">When and how often should I meet with my departmental faculty advisor?
+What kind of advice should I expect my advisor to provide?</a>
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/109">Discussions View</a></sub>
 
- You are assigned a departmental advisor when you choose to major or minor in any of our department's programs. If you are a first major in our department, then your advisor must explicitly approve your ability to register for courses. Each semester, there is an *advising period* during which it is expected that you will make an appointment to meet with your advisor.
- While approval for registration is one subject for such meetings, you and your advisor will likely engage in conversations concerning
+
+You are assigned a departmental faculty advisor when you choose a major or minor from our department. 
+
+**If you are a first major in our department, your advisor must explicitly "authorize" your ability to register for courses for the next semester.**  Registration typically takes place a little after mid semester.  You'll need to get your first major faculty advisors "authorization" before then!
+
+In the weeks before registration there will be an *advising period* where you can work with your faculty advisors to plan the following semester.  Common topics of discussion include:
+* course planning (ensure you are making progress toward graduate, will be prepared for courses, etc.)
 * other majors or minors that might interest you
  * research opportunities
  * internships and job search
  * difficulties you may be facing
  * letters of reference for employment, graduate school, or fellowships
 
- In truth, some students will seek their advisor's approval for registration without such meetings, and some advisors are willing to give such approval. Those students are not making best use of the resources offered by our department, so you are strongly encouraged to meet with your advisor each semester prior to registration. 
- Your advisor can offer advice at other times as well, and if you find yourself in need of such advice, send an email to your advisor and arrange for a conversation to address any concerns you have. Some examples of situations that might trigger a conversation with your advisor are as follows:
-* You are struggling in a course and are not sure how to get help.
- * You are finding yourself in a difficult semester and you need to lighten your load.
- * You are finding yourself with extra time available and would like to consider some activities to enrich your studies.
- * You are trying to choose between multiple job or internship offers.
- * You have been accused of violating the rules for academic integrity.
- * You need a letter of reference.
+All advisors will offer the ability to meet, but some will also be willing to review your schedule via email.  **It's strongly recommended you take advantage of actually meeting with your advisor.  The open back-and-forth discussion of a real-time meeting often brings up important topics.**  
 
+Your advisor can offer advice at other times too Situations that might trigger a conversation with your advisor include:
+ * Struggling with course work and not where where to go for help;
+ * Finding you are overcommitted (i.e., too many courses) and need help identifying what to change;
+ * Seeking activities to enrich your studies;
+ * Trying to choose between multiple job or internship offers;
+ * Having been accused of violating the rules for academic integrity; and
+ * Needing a letter of reference.
+ * 
+Your advisor is best able to help you if they know you well. The best way to establish a solid relationship with your advisor is to meet with them regularly, show up promptly for any meetings you have scheduled, and be as prepared as possible meetings.
 
- In all of the above situations, your advisor is best able to help you if your advisor knows you well, and the best way to establish a solid relationship with your advisor is to meet with the advisor regularly, show up promptly for any meetings you have scheduled, and be as prepared as possible for such meetings.
- While second majors and minors do not require explicit approval from their advisors to register, they are encouraged for all of the above reasons to meet with their advisors regularly and as needed.
-
-
-
-
+While second majors and minors do not require explicit approval from their advisors to register, they are encouraged to meet with their advisors regularly and as needed.
 
 
 
 
 
 
-<sub>[#academia](#academia) [#graduate](#graduate) [#minor](#minor) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</sub>
+
+
+
+
+<sub>[#academia](#academia) [#graduate](#graduate) [#minor](#minor) [#second_major](#second_major) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## <a name="when-trying-to-commit-or-update-i-have-conflicts-what-do-i-do">When trying to commit or update I have conflicts, what do I do?</a>
@@ -3200,7 +3204,9 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [When am I allowed to collaborate on assignments?](#when-am-i-allowed-to-collaborate-on-assignments)
 
-[When and how often should I meet with my departmental advisor?<br>What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-advisorbrwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
+[When and how often should I meet with my departmental faculty advisor?
+
+What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisorwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
 
 [Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
 
@@ -3590,7 +3596,9 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [What web design courses can I take?](#what-web-design-courses-can-i-take)
 
-[When and how often should I meet with my departmental advisor?<br>What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-advisorbrwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
+[When and how often should I meet with my departmental faculty advisor?
+
+What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisorwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
 
 [Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
 
@@ -3690,7 +3698,9 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
 
-[When and how often should I meet with my departmental advisor?<br>What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-advisorbrwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
+[When and how often should I meet with my departmental faculty advisor?
+
+What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisorwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
 
 ## <a name="misc"></a>misc : misc
 
@@ -3962,8 +3972,6 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [When am I allowed to collaborate on assignments?](#when-am-i-allowed-to-collaborate-on-assignments)
 
-[When and how often should I meet with my departmental advisor?<br>What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-advisorbrwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
-
 [When trying to commit or update I have conflicts, what do I do?](#when-trying-to-commit-or-update-i-have-conflicts-what-do-i-do)
 
 [Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
@@ -4098,7 +4106,9 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [What probability/statistics course should I take?](#what-probabilitystatistics-course-should-i-take)
 
-[When and how often should I meet with my departmental advisor?<br>What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-advisorbrwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
+[When and how often should I meet with my departmental faculty advisor?
+
+What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisorwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
 
 ## <a name="student_life"></a>student_life : student life
 
@@ -4374,7 +4384,9 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [What web design courses can I take?](#what-web-design-courses-can-i-take)
 
-[When and how often should I meet with my departmental advisor?<br>What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-advisorbrwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
+[When and how often should I meet with my departmental faculty advisor?
+
+What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisorwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
 
 [When trying to commit or update I have conflicts, what do I do?](#when-trying-to-commit-or-update-i-have-conflicts-what-do-i-do)
 
