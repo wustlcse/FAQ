@@ -7,7 +7,7 @@ markdown: kramdown
 
 [Go to Index](#index)
 
-<div class="toc"># Table of Contents {#toc}
+# Table of Contents {#toc}
 
 
 
@@ -266,14 +266,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 [Why would I consider transferring schools?](#why-would-i-consider-transferring-schools)
 
 [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
-
-</div>
-
-
-
-{::options parse_block_html="true" /}
-
-
 
 [Go to Index](#index)
 <div class="body">
@@ -3089,7 +3081,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 
 
-## <a name="academia"></a>academia : academia
+<a name="academia"></a>academia : academia
 
 : [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
 
@@ -3233,7 +3225,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
-## <a name="academic_integrity"></a>academic_integrity : Issues related to the integrity of your work.
+<a name="academic_integrity"></a>academic_integrity : Issues related to the integrity of your work.
 
 : [Is it ever worth it to cheat?](#is-it-ever-worth-it-to-cheat)
 
@@ -3241,7 +3233,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [When am I allowed to collaborate on assignments?](#when-am-i-allowed-to-collaborate-on-assignments)
 
-## <a name="acm"></a>acm : The Association of Computing Machinery
+<a name="acm"></a>acm : The Association of Computing Machinery
 
 : [How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
 
@@ -3249,13 +3241,13 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Is there a student group within our department?](#is-there-a-student-group-within-our-department)
 
-## <a name="ap_credit"></a>ap_credit : Advanced Placement Credit
+<a name="ap_credit"></a>ap_credit : Advanced Placement Credit
 
 : [How can I place out of a course if I think I already know that course's material?  <br>What happens to my program of study if I do place out?](#how-can-i-place-out-of-a-course-if-i-think-i-already-know-that-courses-material--brwhat-happens-to-my-program-of-study-if-i-do-place-out)
 
 : [How does the CSE131 placement exam work?  Do I need to take CSE 131?](#how-does-the-cse-placement-exam-work--do-i-need-to-take-cse-)
 
-## <a name="artsci"></a>artsci : ArtSci
+<a name="artsci"></a>artsci : ArtSci
 
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
@@ -3263,7 +3255,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Why would I consider transferring schools?](#why-would-i-consider-transferring-schools)
 
-## <a name="computer"></a>computer : computer
+<a name="computer"></a>computer : computer
 
 : [How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
 
@@ -3273,7 +3265,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Which is better, a mac or a pc?](#which-is-better-a-mac-or-a-pc)
 
-## <a name="computer_engineering"></a>computer_engineering : Computer Engineering (CoE)
+<a name="computer_engineering"></a>computer_engineering : Computer Engineering (CoE)
 
 : [How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
 
@@ -3287,7 +3279,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
 
-## <a name="computer_science"></a>computer_science : computer_science
+<a name="computer_science"></a>computer_science : computer_science
 
 : [How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
 
@@ -3305,7 +3297,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
 
-## <a name="courses"></a>courses : courses
+<a name="courses"></a>courses : courses
 
 : [CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
 
@@ -3337,7 +3329,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
-## <a name="credit"></a>credit : credit
+<a name="credit"></a>credit : credit
 
 : [How does independent study work?](#how-does-independent-study-work)
 
@@ -3347,7 +3339,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Should I switch a course to pass/fail grading in the Spring&nbsp;2020 semester?](#should-i-switch-a-course-to-passfail-grading-in-the-springnbsp-semester)
 
-## <a name="cse131"></a>cse131 : CSE 131/501N: Intro. to Computer Science
+<a name="cse131"></a>cse131 : CSE 131/501N: Intro. to Computer Science
 
 : [Do I need an EIT account for CSE131?  Do I need to buy a computer?](#do-i-need-an-eit-account-for-cse--do-i-need-to-buy-a-computer)
 
@@ -3397,13 +3389,13 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
 
-## <a name="curriculum"></a>curriculum : curriculum
+<a name="curriculum"></a>curriculum : curriculum
 
 : [How does independent study work?](#how-does-independent-study-work)
 
 : [What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
 
-## <a name="degree"></a>degree : degree
+<a name="degree"></a>degree : degree
 
 : [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
 
@@ -3411,11 +3403,11 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
-## <a name="dual_degree"></a>dual_degree : Issues specific to Dual Degree students (coming from another school in the Dual Degree program)
+<a name="dual_degree"></a>dual_degree : Issues specific to Dual Degree students (coming from another school in the Dual Degree program)
 
 : [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
-## <a name="get_help"></a>get_help : get_help
+<a name="get_help"></a>get_help : get_help
 
 : [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
 
@@ -3431,7 +3423,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
-## <a name="get_involved"></a>get_involved : get_involved
+<a name="get_involved"></a>get_involved : get_involved
 
 : [Does our department have an honor society?](#does-our-department-have-an-honor-society)
 
@@ -3473,7 +3465,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Why St. Louis?](#why-st-louis)
 
-## <a name="graduate"></a>graduate : graduate
+<a name="graduate"></a>graduate : graduate
 
 : [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
 
@@ -3621,7 +3613,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
-## <a name="independent_study"></a>independent_study : CSE 400 and CSE 400E: Independent study
+<a name="independent_study"></a>independent_study : CSE 400 and CSE 400E: Independent study
 
 : [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
@@ -3637,7 +3629,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
 
-## <a name="jobs"></a>jobs : jobs
+<a name="jobs"></a>jobs : jobs
 
 : [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
@@ -3673,7 +3665,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
-## <a name="masters"></a>masters : masters
+<a name="masters"></a>masters : masters
 
 : [How do I frame my thinking about staying for a master's degree?](#how-do-i-frame-my-thinking-about-staying-for-a-masters-degree)
 
@@ -3687,7 +3679,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [What language does CSE247/502N use?  Do I have to have taken CSE131/501N?](#what-language-does-csen-use--do-i-have-to-have-taken-csen)
 
-## <a name="math"></a>math : math
+<a name="math"></a>math : math
 
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
@@ -3699,7 +3691,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [I have to take Math 310 as part of my studies for a math major or minor?  Can this count toward my CSE studies?](#i-have-to-take-math--as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies)
 
-## <a name="minor"></a>minor : minor
+<a name="minor"></a>minor : minor
 
 : [How do I earn a minor in Human-Computer Interaction (HCI)?](#how-do-i-earn-a-minor-in-human-computer-interaction-hci)
 
@@ -3717,7 +3709,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisorwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
 
-## <a name="misc"></a>misc : misc
+<a name="misc"></a>misc : misc
 
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
@@ -3783,7 +3775,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Why would I consider transferring schools?](#why-would-i-consider-transferring-schools)
 
-## <a name="needs_review"></a>needs_review : Topics that need review.  Posted answer may not be accurate.
+<a name="needs_review"></a>needs_review : Topics that need review.  Posted answer may not be accurate.
 
 : [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
 
@@ -4003,13 +3995,13 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
-## <a name="olin"></a>olin : Olin
+<a name="olin"></a>olin : Olin
 
 : [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
 
 : [What probability/statistics course should I take?](#what-probabilitystatistics-course-should-i-take)
 
-## <a name="pass_fail"></a>pass_fail : pass_fail
+<a name="pass_fail"></a>pass_fail : pass_fail
 
 : [How does pass/fail work?](#how-does-passfail-work)
 
@@ -4019,7 +4011,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Where do I look to see the various dates pertaining to our academic calendar?](#where-do-i-look-to-see-the-various-dates-pertaining-to-our-academic-calendar)
 
-## <a name="plagiarism"></a>plagiarism : plagiarism
+<a name="plagiarism"></a>plagiarism : plagiarism
 
 : [If I retake a course, what happens on my transcript and how does this affect my GPA?](#if-i-retake-a-course-what-happens-on-my-transcript-and-how-does-this-affect-my-gpa)
 
@@ -4029,13 +4021,13 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [When am I allowed to collaborate on assignments?](#when-am-i-allowed-to-collaborate-on-assignments)
 
-## <a name="prerequisites"></a>prerequisites : prerequisites
+<a name="prerequisites"></a>prerequisites : prerequisites
 
 : [Do I need to take CSE 240 before CSE 247?](#do-i-need-to-take-cse--before-cse-)
 
 : [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
 
-## <a name="programming"></a>programming : programming
+<a name="programming"></a>programming : programming
 
 : [How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
 
@@ -4047,7 +4039,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [What programming languages do we teach in our curriculum?](#what-programming-languages-do-we-teach-in-our-curriculum)
 
-## <a name="recommendation_letters"></a>recommendation_letters : recommendation_letters
+<a name="recommendation_letters"></a>recommendation_letters : recommendation_letters
 
 : [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
@@ -4057,7 +4049,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
 
-## <a name="requirements"></a>requirements : requirements
+<a name="requirements"></a>requirements : requirements
 
 : [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
 
@@ -4071,7 +4063,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
 
-## <a name="research"></a>research : research
+<a name="research"></a>research : research
 
 : [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
@@ -4085,7 +4077,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
 
-## <a name="residency"></a>residency : residency
+<a name="residency"></a>residency : residency
 
 : [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
 
@@ -4097,13 +4089,13 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [What courses count toward my major or minor from outside the CSE department?<br>What are our department's residency requirements?](#what-courses-count-toward-my-major-or-minor-from-outside-the-cse-departmentbrwhat-are-our-departments-residency-requirements)
 
-## <a name="reu"></a>reu : REU
+<a name="reu"></a>reu : REU
 
 : [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
 : [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
-## <a name="second_major"></a>second_major : second_major
+<a name="second_major"></a>second_major : second_major
 
 : [How do I do CS+Math?<br>What upper level electives count?<br>Can I do this as a second major?](#how-do-i-do-csmathbrwhat-upper-level-electives-countbrcan-i-do-this-as-a-second-major)
 
@@ -4125,7 +4117,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisorwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
 
-## <a name="student_life"></a>student_life : student life
+<a name="student_life"></a>student_life : student life
 
 : [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
@@ -4189,7 +4181,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Why St. Louis?](#why-st-louis)
 
-## <a name="teaching_assistant"></a>teaching_assistant : teaching_assistant
+<a name="teaching_assistant"></a>teaching_assistant : teaching_assistant
 
 : [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
@@ -4199,7 +4191,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
 
-## <a name="transfer_courses"></a>transfer_courses : transfer_courses
+<a name="transfer_courses"></a>transfer_courses : transfer_courses
 
 : [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
 
@@ -4209,7 +4201,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [What courses count toward my major or minor from outside the CSE department?<br>What are our department's residency requirements?](#what-courses-count-toward-my-major-or-minor-from-outside-the-cse-departmentbrwhat-are-our-departments-residency-requirements)
 
-## <a name="undergraduate"></a>undergraduate : undergraduate
+<a name="undergraduate"></a>undergraduate : undergraduate
 
 : [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
 
@@ -4415,7 +4407,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
-## <a name="work_study"></a>work_study : work_study
+<a name="work_study"></a>work_study : work_study
 
 : [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
@@ -4425,7 +4417,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
 
-## <a name="working_with_faculty"></a>working_with_faculty : working_with_faculty
+<a name="working_with_faculty"></a>working_with_faculty : working_with_faculty
 
 : [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
