@@ -7,7 +7,7 @@ markdown: kramdown
 
 [Go to Index](#index)
 
-# Table of Contents {#toc}
+<div class="toc"># Table of Contents {#toc}
 
 
 
@@ -267,7 +267,16 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
+</div>
+
+
+
+{::options parse_block_html="true" /}
+
+
+
 [Go to Index](#index)
+<div class="body">
 # Contents {#contents}
 
 ## Am I allowed to follow the requirements from a year other than my year of entry to Washington University? {#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university}
@@ -3070,13 +3079,17 @@ There are only a few CSE courses that require a specific operating systems and t
 <sub>[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
+</div>
+
+{::options parse_block_html="true" /}
+
+<div class="qbylabel">
+
 # Questions by Label
 
 
 
-
-
-academia : academia {#academia}
+## <a name="academia"></a>academia : academia
 
 : [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
 
@@ -3220,9 +3233,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
-
-
-academic_integrity : Issues related to the integrity of your work. {#academic_integrity}
+## <a name="academic_integrity"></a>academic_integrity : Issues related to the integrity of your work.
 
 : [Is it ever worth it to cheat?](#is-it-ever-worth-it-to-cheat)
 
@@ -3230,9 +3241,7 @@ academic_integrity : Issues related to the integrity of your work. {#academic_in
 
 : [When am I allowed to collaborate on assignments?](#when-am-i-allowed-to-collaborate-on-assignments)
 
-
-
-acm : The Association of Computing Machinery {#acm}
+## <a name="acm"></a>acm : The Association of Computing Machinery
 
 : [How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
 
@@ -3240,17 +3249,13 @@ acm : The Association of Computing Machinery {#acm}
 
 : [Is there a student group within our department?](#is-there-a-student-group-within-our-department)
 
-
-
-ap_credit : Advanced Placement Credit {#ap_credit}
+## <a name="ap_credit"></a>ap_credit : Advanced Placement Credit
 
 : [How can I place out of a course if I think I already know that course's material?  <br>What happens to my program of study if I do place out?](#how-can-i-place-out-of-a-course-if-i-think-i-already-know-that-courses-material--brwhat-happens-to-my-program-of-study-if-i-do-place-out)
 
 : [How does the CSE131 placement exam work?  Do I need to take CSE 131?](#how-does-the-cse-placement-exam-work--do-i-need-to-take-cse-)
 
-
-
-artsci : ArtSci {#artsci}
+## <a name="artsci"></a>artsci : ArtSci
 
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
@@ -3258,9 +3263,7 @@ artsci : ArtSci {#artsci}
 
 : [Why would I consider transferring schools?](#why-would-i-consider-transferring-schools)
 
-
-
-computer : computer {#computer}
+## <a name="computer"></a>computer : computer
 
 : [How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
 
@@ -3270,9 +3273,7 @@ computer : computer {#computer}
 
 : [Which is better, a mac or a pc?](#which-is-better-a-mac-or-a-pc)
 
-
-
-computer_engineering : Computer Engineering (CoE) {#computer_engineering}
+## <a name="computer_engineering"></a>computer_engineering : Computer Engineering (CoE)
 
 : [How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
 
@@ -3286,9 +3287,7 @@ computer_engineering : Computer Engineering (CoE) {#computer_engineering}
 
 : [Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
 
-
-
-computer_science : computer_science {#computer_science}
+## <a name="computer_science"></a>computer_science : computer_science
 
 : [How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
 
@@ -3306,9 +3305,7 @@ computer_science : computer_science {#computer_science}
 
 : [Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
 
-
-
-courses : courses {#courses}
+## <a name="courses"></a>courses : courses
 
 : [CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
 
@@ -3340,9 +3337,7 @@ courses : courses {#courses}
 
 : [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
-
-
-credit : credit {#credit}
+## <a name="credit"></a>credit : credit
 
 : [How does independent study work?](#how-does-independent-study-work)
 
@@ -3352,9 +3347,7 @@ credit : credit {#credit}
 
 : [Should I switch a course to pass/fail grading in the Spring&nbsp;2020 semester?](#should-i-switch-a-course-to-passfail-grading-in-the-springnbsp-semester)
 
-
-
-cse131 : CSE 131/501N: Intro. to Computer Science {#cse131}
+## <a name="cse131"></a>cse131 : CSE 131/501N: Intro. to Computer Science
 
 : [Do I need an EIT account for CSE131?  Do I need to buy a computer?](#do-i-need-an-eit-account-for-cse--do-i-need-to-buy-a-computer)
 
@@ -3404,17 +3397,13 @@ cse131 : CSE 131/501N: Intro. to Computer Science {#cse131}
 
 : [Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
 
-
-
-curriculum : curriculum {#curriculum}
+## <a name="curriculum"></a>curriculum : curriculum
 
 : [How does independent study work?](#how-does-independent-study-work)
 
 : [What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
 
-
-
-degree : degree {#degree}
+## <a name="degree"></a>degree : degree
 
 : [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
 
@@ -3422,15 +3411,11 @@ degree : degree {#degree}
 
 : [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
-
-
-dual_degree : Issues specific to Dual Degree students (coming from another school in the Dual Degree program) {#dual_degree}
+## <a name="dual_degree"></a>dual_degree : Issues specific to Dual Degree students (coming from another school in the Dual Degree program)
 
 : [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
-
-
-get_help : get_help {#get_help}
+## <a name="get_help"></a>get_help : get_help
 
 : [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
 
@@ -3446,9 +3431,7 @@ get_help : get_help {#get_help}
 
 : [Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
-
-
-get_involved : get_involved {#get_involved}
+## <a name="get_involved"></a>get_involved : get_involved
 
 : [Does our department have an honor society?](#does-our-department-have-an-honor-society)
 
@@ -3490,9 +3473,7 @@ get_involved : get_involved {#get_involved}
 
 : [Why St. Louis?](#why-st-louis)
 
-
-
-graduate : graduate {#graduate}
+## <a name="graduate"></a>graduate : graduate
 
 : [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
 
@@ -3640,9 +3621,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
-
-
-independent_study : CSE 400 and CSE 400E: Independent study {#independent_study}
+## <a name="independent_study"></a>independent_study : CSE 400 and CSE 400E: Independent study
 
 : [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
@@ -3658,9 +3637,7 @@ independent_study : CSE 400 and CSE 400E: Independent study {#independent_study}
 
 : [Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
 
-
-
-jobs : jobs {#jobs}
+## <a name="jobs"></a>jobs : jobs
 
 : [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
@@ -3696,9 +3673,7 @@ jobs : jobs {#jobs}
 
 : [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
-
-
-masters : masters {#masters}
+## <a name="masters"></a>masters : masters
 
 : [How do I frame my thinking about staying for a master's degree?](#how-do-i-frame-my-thinking-about-staying-for-a-masters-degree)
 
@@ -3712,9 +3687,7 @@ masters : masters {#masters}
 
 : [What language does CSE247/502N use?  Do I have to have taken CSE131/501N?](#what-language-does-csen-use--do-i-have-to-have-taken-csen)
 
-
-
-math : math {#math}
+## <a name="math"></a>math : math
 
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
@@ -3726,9 +3699,7 @@ math : math {#math}
 
 : [I have to take Math 310 as part of my studies for a math major or minor?  Can this count toward my CSE studies?](#i-have-to-take-math--as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies)
 
-
-
-minor : minor {#minor}
+## <a name="minor"></a>minor : minor
 
 : [How do I earn a minor in Human-Computer Interaction (HCI)?](#how-do-i-earn-a-minor-in-human-computer-interaction-hci)
 
@@ -3746,9 +3717,7 @@ minor : minor {#minor}
 
 What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisorwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
 
-
-
-misc : misc {#misc}
+## <a name="misc"></a>misc : misc
 
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
@@ -3814,9 +3783,7 @@ misc : misc {#misc}
 
 : [Why would I consider transferring schools?](#why-would-i-consider-transferring-schools)
 
-
-
-needs_review : Topics that need review.  Posted answer may not be accurate. {#needs_review}
+## <a name="needs_review"></a>needs_review : Topics that need review.  Posted answer may not be accurate.
 
 : [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
 
@@ -4036,17 +4003,13 @@ needs_review : Topics that need review.  Posted answer may not be accurate. {#ne
 
 : [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
-
-
-olin : Olin {#olin}
+## <a name="olin"></a>olin : Olin
 
 : [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
 
 : [What probability/statistics course should I take?](#what-probabilitystatistics-course-should-i-take)
 
-
-
-pass_fail : pass_fail {#pass_fail}
+## <a name="pass_fail"></a>pass_fail : pass_fail
 
 : [How does pass/fail work?](#how-does-passfail-work)
 
@@ -4056,9 +4019,7 @@ pass_fail : pass_fail {#pass_fail}
 
 : [Where do I look to see the various dates pertaining to our academic calendar?](#where-do-i-look-to-see-the-various-dates-pertaining-to-our-academic-calendar)
 
-
-
-plagiarism : plagiarism {#plagiarism}
+## <a name="plagiarism"></a>plagiarism : plagiarism
 
 : [If I retake a course, what happens on my transcript and how does this affect my GPA?](#if-i-retake-a-course-what-happens-on-my-transcript-and-how-does-this-affect-my-gpa)
 
@@ -4068,17 +4029,13 @@ plagiarism : plagiarism {#plagiarism}
 
 : [When am I allowed to collaborate on assignments?](#when-am-i-allowed-to-collaborate-on-assignments)
 
-
-
-prerequisites : prerequisites {#prerequisites}
+## <a name="prerequisites"></a>prerequisites : prerequisites
 
 : [Do I need to take CSE 240 before CSE 247?](#do-i-need-to-take-cse--before-cse-)
 
 : [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
 
-
-
-programming : programming {#programming}
+## <a name="programming"></a>programming : programming
 
 : [How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
 
@@ -4090,9 +4047,7 @@ programming : programming {#programming}
 
 : [What programming languages do we teach in our curriculum?](#what-programming-languages-do-we-teach-in-our-curriculum)
 
-
-
-recommendation_letters : recommendation_letters {#recommendation_letters}
+## <a name="recommendation_letters"></a>recommendation_letters : recommendation_letters
 
 : [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
@@ -4102,9 +4057,7 @@ recommendation_letters : recommendation_letters {#recommendation_letters}
 
 : [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
 
-
-
-requirements : requirements {#requirements}
+## <a name="requirements"></a>requirements : requirements
 
 : [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
 
@@ -4118,9 +4071,7 @@ requirements : requirements {#requirements}
 
 : [What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
 
-
-
-research : research {#research}
+## <a name="research"></a>research : research
 
 : [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
@@ -4134,9 +4085,7 @@ research : research {#research}
 
 : [What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
 
-
-
-residency : residency {#residency}
+## <a name="residency"></a>residency : residency
 
 : [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
 
@@ -4148,17 +4097,13 @@ residency : residency {#residency}
 
 : [What courses count toward my major or minor from outside the CSE department?<br>What are our department's residency requirements?](#what-courses-count-toward-my-major-or-minor-from-outside-the-cse-departmentbrwhat-are-our-departments-residency-requirements)
 
-
-
-reu : REU {#reu}
+## <a name="reu"></a>reu : REU
 
 : [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
 : [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
-
-
-second_major : second_major {#second_major}
+## <a name="second_major"></a>second_major : second_major
 
 : [How do I do CS+Math?<br>What upper level electives count?<br>Can I do this as a second major?](#how-do-i-do-csmathbrwhat-upper-level-electives-countbrcan-i-do-this-as-a-second-major)
 
@@ -4180,9 +4125,7 @@ second_major : second_major {#second_major}
 
 What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisorwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
 
-
-
-student_life : student life {#student_life}
+## <a name="student_life"></a>student_life : student life
 
 : [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
@@ -4246,9 +4189,7 @@ student_life : student life {#student_life}
 
 : [Why St. Louis?](#why-st-louis)
 
-
-
-teaching_assistant : teaching_assistant {#teaching_assistant}
+## <a name="teaching_assistant"></a>teaching_assistant : teaching_assistant
 
 : [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
@@ -4258,9 +4199,7 @@ teaching_assistant : teaching_assistant {#teaching_assistant}
 
 : [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
 
-
-
-transfer_courses : transfer_courses {#transfer_courses}
+## <a name="transfer_courses"></a>transfer_courses : transfer_courses
 
 : [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
 
@@ -4270,9 +4209,7 @@ transfer_courses : transfer_courses {#transfer_courses}
 
 : [What courses count toward my major or minor from outside the CSE department?<br>What are our department's residency requirements?](#what-courses-count-toward-my-major-or-minor-from-outside-the-cse-departmentbrwhat-are-our-departments-residency-requirements)
 
-
-
-undergraduate : undergraduate {#undergraduate}
+## <a name="undergraduate"></a>undergraduate : undergraduate
 
 : [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
 
@@ -4478,9 +4415,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
-
-
-work_study : work_study {#work_study}
+## <a name="work_study"></a>work_study : work_study
 
 : [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
@@ -4490,9 +4425,7 @@ work_study : work_study {#work_study}
 
 : [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
 
-
-
-working_with_faculty : working_with_faculty {#working_with_faculty}
+## <a name="working_with_faculty"></a>working_with_faculty : working_with_faculty
 
 : [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
@@ -4503,6 +4436,16 @@ working_with_faculty : working_with_faculty {#working_with_faculty}
 : [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
 : [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
+
+</div>
+
+
+
+{::options parse_block_html="true" /}
+
+
+
+<div class="index">
 
 # Index {#index}
 
@@ -4589,4 +4532,12 @@ working_with_faculty : working_with_faculty {#working_with_faculty}
 [work_study](#work_study) : work_study
 
 [working_with_faculty](#working_with_faculty) : working_with_faculty
+
+</div>
+
+
+
+{::options parse_block_html="true" /}
+
+
 
