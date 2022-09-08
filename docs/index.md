@@ -3212,7 +3212,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
-## <a name="academic_integrity"></a>academic_integrity : academic_integrity
+## <a name="academic_integrity"></a>academic_integrity : Issues related to the integrity of your work.
 
 [Is it ever worth it to cheat?](#is-it-ever-worth-it-to-cheat)
 
@@ -3220,7 +3220,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [When am I allowed to collaborate on assignments?](#when-am-i-allowed-to-collaborate-on-assignments)
 
-## <a name="acm"></a>acm : ACM
+## <a name="acm"></a>acm : The Association of Computing Machinery
 
 [How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
 
@@ -3252,7 +3252,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [Which is better, a mac or a pc?](#which-is-better-a-mac-or-a-pc)
 
-## <a name="computer_engineering"></a>computer_engineering : computer_engineering
+## <a name="computer_engineering"></a>computer_engineering : Computer Engineering (CoE)
 
 [How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
 
@@ -3326,7 +3326,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [Should I switch a course to pass/fail grading in the Spring&nbsp;2020 semester?](#should-i-switch-a-course-to-passfail-grading-in-the-springnbsp-semester)
 
-## <a name="cse131"></a>cse131 : CSE131
+## <a name="cse131"></a>cse131 : CSE 131/501N: Intro. to Computer Science
 
 [Do I need an EIT account for CSE131?  Do I need to buy a computer?](#do-i-need-an-eit-account-for-cse--do-i-need-to-buy-a-computer)
 
@@ -3390,7 +3390,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
-## <a name="dual_degree"></a>dual_degree : dual_degree
+## <a name="dual_degree"></a>dual_degree : Issues specific to Dual Degree students (coming from another school in the Dual Degree program)
 
 [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
@@ -3598,7 +3598,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
-## <a name="independent_study"></a>independent_study : independent_study
+## <a name="independent_study"></a>independent_study : CSE 400 and CSE 400E: Independent study
 
 [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
@@ -3758,7 +3758,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [Why would I consider transferring schools?](#why-would-i-consider-transferring-schools)
 
-## <a name="needs_review"></a>needs_review : needs review
+## <a name="needs_review"></a>needs_review : Topics that need review.  Posted answer may not be accurate.
 
 [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
 
@@ -4416,9 +4416,9 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [academia](#academia) : academia
 
-[academic_integrity](#academic_integrity) : academic_integrity
+[academic_integrity](#academic_integrity) : Issues related to the integrity of your work.
 
-[acm](#acm) : ACM
+[acm](#acm) : The Association of Computing Machinery
 
 [ap_credit](#ap_credit) : Advanced Placement Credit
 
@@ -4426,7 +4426,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [computer](#computer) : computer
 
-[computer_engineering](#computer_engineering) : computer_engineering
+[computer_engineering](#computer_engineering) : Computer Engineering (CoE)
 
 [computer_science](#computer_science) : computer_science
 
@@ -4434,13 +4434,13 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [credit](#credit) : credit
 
-[cse131](#cse131) : CSE131
+[cse131](#cse131) : CSE 131/501N: Intro. to Computer Science
 
 [curriculum](#curriculum) : curriculum
 
 [degree](#degree) : degree
 
-[dual_degree](#dual_degree) : dual_degree
+[dual_degree](#dual_degree) : Issues specific to Dual Degree students (coming from another school in the Dual Degree program)
 
 [get_help](#get_help) : get_help
 
@@ -4448,7 +4448,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [graduate](#graduate) : graduate
 
-[independent_study](#independent_study) : independent_study
+[independent_study](#independent_study) : CSE 400 and CSE 400E: Independent study
 
 [jobs](#jobs) : jobs
 
@@ -4460,7 +4460,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 [misc](#misc) : misc
 
-[needs_review](#needs_review) : needs review
+[needs_review](#needs_review) : Topics that need review.  Posted answer may not be accurate.
 
 [olin](#olin) : Olin
 
