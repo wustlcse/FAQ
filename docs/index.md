@@ -728,7 +728,7 @@ On a final note, your real expertise as a programmer/computer scientist comes fr
 
 
 
-<sub>[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#computer_engineering](#computer_engineering) [#computerscience](#computerscience) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## How do I become a programmer right now?  {#how-do-i-become-a-programmer-right-now-}
@@ -747,7 +747,7 @@ On a final note, your real expertise as a programmer/computer scientist comes fr
 * Make mistakes. Learn from them. Optimize your code. Repeat.
 
 
-<sub>[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#misc](#misc) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</sub>
+<sub>[#computer_engineering](#computer_engineering) [#computerscience](#computerscience) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#misc](#misc) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## How do I change my open program in computer science and engineering? {#how-do-i-change-my-open-program-in-computer-science-and-engineering}
@@ -819,7 +819,7 @@ WebSTAC. Look for the `Change WU School` link. I'm told it's there but because I
 
 
 
-<sub>[#academia](#academia) [#computer_science](#computer_science) [#minor](#minor) [#misc](#misc) [#undergraduate](#undergraduate)</sub>
+<sub>[#academia](#academia) [#computerscience](#computerscience) [#minor](#minor) [#misc](#misc) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## How do I earn a minor in computer engineering? {#how-do-i-earn-a-minor-in-computer-engineering}
@@ -837,7 +837,7 @@ WebSTAC. Look for the `Change WU School` link. I'm told it's there but because I
 
  The requirements for our minor are CSE131 (Introduction to Computer Science), CSE247 (Algorithms and Data Structures, and then three courses of your choosing that end with S, T, M, A, or E. You may also take CSE132, CSE240, or CSE347 and have it count toward the minor. At least 4 of your 5 courses must be traditional classroom courses offered by our department. One of your 5 courses can be outside the traditional classroom, as detailed here.
 
-<sub>[#computer_science](#computer_science) [#minor](#minor) [#misc](#misc) [#needs_review](#needs_review) [#residency](#residency) [#undergraduate](#undergraduate)</sub>
+<sub>[#computerscience](#computerscience) [#minor](#minor) [#misc](#misc) [#needs_review](#needs_review) [#residency](#residency) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## How do I earn a second major in computer engineering? {#how-do-i-earn-a-second-major-in-computer-engineering}
@@ -2108,7 +2108,7 @@ Most schools provide a system to "Audit" your degree.  Most schools use [WUAchie
  * The [bioinformatics minor](https://cse.wustl.edu/undergraduate/programs/Pages/minors.aspx#minorbio).
 
 
-<sub>[#academia](#academia) [#computer_science](#computer_science) [#courses](#courses) [#curriculum](#curriculum) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</sub>
+<sub>[#academia](#academia) [#computerscience](#computerscience) [#courses](#courses) [#curriculum](#curriculum) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## What courses count toward my major or minor from outside the CSE department?<br>What are our department's residency requirements? {#what-courses-count-toward-my-major-or-minor-from-outside-the-cse-departmentbrwhat-are-our-departments-residency-requirements}
@@ -2523,7 +2523,7 @@ rules for multiple degrees in the bulletin where she will discover she needs mor
 
 
 
-<sub>[#academia](#academia) [#computer_science](#computer_science) [#misc](#misc) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</sub>
+<sub>[#academia](#academia) [#computerscience](#computerscience) [#misc](#misc) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## What is the difference between computer science (CS) and computer engineering (CoE)? {#what-is-the-difference-between-computer-science-cs-and-computer-engineering-coe}
@@ -2547,7 +2547,7 @@ WebSTAC to switch majors, and they will typically keep the same departmental adv
 
 
 
-<sub>[#academia](#academia) [#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#academia](#academia) [#computer_engineering](#computer_engineering) [#computerscience](#computerscience) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## What is the difference between my 4-year advisor and my departmental advisor? {#what-is-the-difference-between-my--year-advisor-and-my-departmental-advisor}
@@ -2994,7 +2994,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 
 
-<sub>[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#cse131](#cse131) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#computer_engineering](#computer_engineering) [#computerscience](#computerscience) [#cse131](#cse131) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## Why would I consider transferring schools? {#why-would-i-consider-transferring-schools}
@@ -3097,7 +3097,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 
 
-<a name="academia"></a>academia : academia
+<a name="academia"></a>academia : Misc. topics about university policies, practices, administration, etc.
 
 : [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
 
@@ -3263,7 +3263,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [How does the CSE131 placement exam work?  Do I need to take CSE 131?](#how-does-the-cse-placement-exam-work--do-i-need-to-take-cse-)
 
-<a name="artsci"></a>artsci : ArtSci
+<a name="artsci"></a>artsci : Related to the School of Arts and Sciences
 
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
@@ -3295,7 +3295,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
 
-<a name="computer_science"></a>computer_science : computer_science
+<a name="computerscience"></a>computerscience : The discipline of Computer Science
 
 : [How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
 
@@ -3345,7 +3345,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
-<a name="credit"></a>credit : credit
+<a name="credit"></a>credit : Topics related to academic credits (units)
 
 : [How does independent study work?](#how-does-independent-study-work)
 
@@ -3423,7 +3423,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
-<a name="get_help"></a>get_help : get_help
+<a name="get_help"></a>get_help : Where/how to get help (both academic help and resources for personal help)
 
 : [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
 
@@ -3439,7 +3439,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
-<a name="get_involved"></a>get_involved : get_involved
+<a name="get_involved"></a>get_involved : Ways to get involved in the discipline, or department, or other student activities
 
 : [Does our department have an honor society?](#does-our-department-have-an-honor-society)
 
@@ -3645,7 +3645,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
 
-<a name="jobs"></a>jobs : jobs
+<a name="jobs"></a>jobs : Related to jobs (full time, internships, part time while a student, etc.)
 
 : [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
@@ -4457,7 +4457,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 
 
-[academia](#academia) : academia
+[academia](#academia) : Misc. topics about university policies, practices, administration, etc.
 
 [academic_integrity](#academic_integrity) : Issues related to the integrity of your work.
 
@@ -4465,17 +4465,17 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 [ap_credit](#ap_credit) : Advanced Placement Credit
 
-[artsci](#artsci) : ArtSci
+[artsci](#artsci) : Related to the School of Arts and Sciences
 
 [computer](#computer) : computer
 
 [computer_engineering](#computer_engineering) : Computer Engineering (CoE)
 
-[computer_science](#computer_science) : computer_science
+[computerscience](#computerscience) : The discipline of Computer Science
 
 [courses](#courses) : courses
 
-[credit](#credit) : credit
+[credit](#credit) : Topics related to academic credits (units)
 
 [cse131](#cse131) : CSE 131/501N: Intro. to Computer Science
 
@@ -4485,15 +4485,15 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 [dual_degree](#dual_degree) : Issues specific to Dual Degree students (coming from another school in the Dual Degree program)
 
-[get_help](#get_help) : get_help
+[get_help](#get_help) : Where/how to get help (both academic help and resources for personal help)
 
-[get_involved](#get_involved) : get_involved
+[get_involved](#get_involved) : Ways to get involved in the discipline, or department, or other student activities
 
 [graduate](#graduate) : graduate
 
 [independent_study](#independent_study) : CSE 400 and CSE 400E: Independent study
 
-[jobs](#jobs) : jobs
+[jobs](#jobs) : Related to jobs (full time, internships, part time while a student, etc.)
 
 [masters](#masters) : masters
 
