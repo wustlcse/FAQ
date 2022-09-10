@@ -35,7 +35,7 @@ markdown: kramdown
 
 [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
-[Can the same course satisfy requirements across majors within SEAS?](#can-the-same-course-satisfy-requirements-across-majors-within-seas)
+[Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
 
 [Do I need an EIT account for CSE131?  Do I need to buy a computer?](#do-i-need-an-eit-account-for-cse--do-i-need-to-buy-a-computer)
 
@@ -183,8 +183,6 @@ markdown: kramdown
 
 [Other ways to get involved](#other-ways-to-get-involved)
 
-[Reading list](#reading-list)
-
 [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
 [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
@@ -198,6 +196,8 @@ markdown: kramdown
 [What are residency requirements?](#what-are-residency-requirements)
 
 [What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
+
+[What can I read to learn more about "computing" topics?](#what-can-i-read-to-learn-more-about-computing-topics)
 
 [What courses count toward my major or minor from outside the CSE department?<br>What are our department's residency requirements?](#what-courses-count-toward-my-major-or-minor-from-outside-the-cse-departmentbrwhat-are-our-departments-residency-requirements)
 
@@ -434,13 +434,17 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 <sub>[#academia](#academia) [#artsci](#artsci) [#courses](#courses) [#graduate](#graduate) [#math](#math) [#misc](#misc) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</sub>
 
 ---
-## Can the same course satisfy requirements across majors within SEAS? {#can-the-same-course-satisfy-requirements-across-majors-within-seas}
+## Can the same course satisfy requirements for multiple majors? {#can-the-same-course-satisfy-requirements-for-multiple-majors}
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/86">Discussions View</a></sub>
 
- At the school level, SEAS has no prohibition against the same course satisfying multiple requirements. For example, if CSE131 is required by both computer science and mechanical engineering, then it counts for both by satisfying each such requirement concurrently. If a course is required for electrical engineering, and it is allowed to count toward computer science, there is again no problem at the SEAS level concerning it satisfying both programs concurrently. Some programs of study in SEAS do have rules about double counting, but there are no such rules or restrictions in computer science or computer engineering.
+The McKelvey School of Engineering has no prohibition against the same course satisfying multiple requirements. For example, if CSE 131 is required by both computer science and mechanical engineering, then it counts for both by satisfying each such requirement concurrently.  
 
-<sub>[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</sub>
+Other Departments or Schools, like the School of Arts and Sciences, may have rules that restrict double counting.  If/when there are courses that may be used by a degree that generally restricts "double counting", Computer Science and Engineering is *usually* willing to "waive" requirements on the Computer Science and Engineering degree to offset coursework in recognition of the coursework that was completed for other degrees.  
+
+For example, a student majoring in Math may take MA 310 as a requirement of their Math studies.  Many CSE degrees require either MA 310 or CSE 240 to ensure our students have experience with Discrete Math and proof techniques.  We usually "waive" the requirement for students who have taken MA 310.  They clearly have completed coursework needed for our degree and the waiver allows the MA 310 credit be used by the Math degree rather than being rejected due to double counting rules. 
+
+<sub>[#academia](#academia) [#courses](#courses) [#double_counting](#double_counting) [#requirements](#requirements) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## Do I need an EIT account for CSE131?  Do I need to buy a computer? {#do-i-need-an-eit-account-for-cse--do-i-need-to-buy-a-computer}
@@ -728,7 +732,7 @@ On a final note, your real expertise as a programmer/computer scientist comes fr
 
 
 
-<sub>[#computer_engineering](#computer_engineering) [#computerscience](#computerscience) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## How do I become a programmer right now?  {#how-do-i-become-a-programmer-right-now-}
@@ -747,7 +751,7 @@ On a final note, your real expertise as a programmer/computer scientist comes fr
 * Make mistakes. Learn from them. Optimize your code. Repeat.
 
 
-<sub>[#computer_engineering](#computer_engineering) [#computerscience](#computerscience) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#misc](#misc) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</sub>
+<sub>[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#misc](#misc) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## How do I change my open program in computer science and engineering? {#how-do-i-change-my-open-program-in-computer-science-and-engineering}
@@ -819,7 +823,7 @@ WebSTAC. Look for the `Change WU School` link. I'm told it's there but because I
 
 
 
-<sub>[#academia](#academia) [#computerscience](#computerscience) [#minor](#minor) [#misc](#misc) [#undergraduate](#undergraduate)</sub>
+<sub>[#academia](#academia) [#computer_science](#computer_science) [#minor](#minor) [#misc](#misc) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## How do I earn a minor in computer engineering? {#how-do-i-earn-a-minor-in-computer-engineering}
@@ -837,7 +841,7 @@ WebSTAC. Look for the `Change WU School` link. I'm told it's there but because I
 
  The requirements for our minor are CSE131 (Introduction to Computer Science), CSE247 (Algorithms and Data Structures, and then three courses of your choosing that end with S, T, M, A, or E. You may also take CSE132, CSE240, or CSE347 and have it count toward the minor. At least 4 of your 5 courses must be traditional classroom courses offered by our department. One of your 5 courses can be outside the traditional classroom, as detailed here.
 
-<sub>[#computerscience](#computerscience) [#minor](#minor) [#misc](#misc) [#needs_review](#needs_review) [#residency](#residency) [#undergraduate](#undergraduate)</sub>
+<sub>[#computer_science](#computer_science) [#minor](#minor) [#misc](#misc) [#needs_review](#needs_review) [#residency](#residency) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## How do I earn a second major in computer engineering? {#how-do-i-earn-a-second-major-in-computer-engineering}
@@ -1090,7 +1094,7 @@ Each time you get a message from the list it will include a footer that describe
 
 
 
-<sub>[#academia](#academia) [#credit](#credit) [#graduate](#graduate) [#needs_review](#needs_review) [#pass_fail](#pass_fail) [#undergraduate](#undergraduate)</sub>
+<sub>[#academia](#academia) [#credit](#credit) [#graduate](#graduate) [#needs_review](#needs_review) [#passfail](#passfail) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## How does the BS/MS work?  When do I declare my interest? {#how-does-the-bsms-work--when-do-i-declare-my-interest}
@@ -1308,7 +1312,7 @@ Usually it's best to:
  
 
 
-<sub>[#jobs](#jobs) [#needs_review](#needs_review)</sub>
+<sub>[#jobs](#jobs)</sub>
 
 ---
 ## I am in one lab/studio section and need to switch to another.  What should I do? {#i-am-in-one-labstudio-section-and-need-to-switch-to-another--what-should-i-do}
@@ -1490,11 +1494,10 @@ Usually it's best to:
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/96">Discussions View</a></sub>
 
- Yes! We view Math 310 as a fine substitute for CSE 240. Feel free to take either from our point of view. It directly satisfies the requirements for our first an second major.
- It also can count as elective credit, subject to the limits on how many courses we allow outside of traditional CSE courses.
- You should check with the Math department to see if they lean one way or the other about which of the two courses is best for you. 
- Also, **if you are an ArtSci student**, you should notify the
-[Associate Chair](mailto:associatechair@cse.wustl.edu) if you are taking Math 310 so it can be arranged not to appear to double-count for you. More generally, see our FAQ entry about double counting courses, as it may be helpful.
+ Yes! We view Math 310 as a reasonable substitute for CSE 240.  Either can be used for any CSE degree that requires Discrete Math.  It can also be used as an elective for the CS Minor, but it will count against the limit on "Courses outside the CSE classroom". 
+
+If you're pursuing a Major/Minor from the Math/Stat Department, you should check with your advisors there to see if they have any recommendations.  Also, **if you are a student who is in the School of Arts and Sciences**, you should notify the [Associate Chair](mailto:associatechair@cse.wustl.edu) if you are taking Math 310 so it can be arranged not to appear to "double-count" for you.  You may want to review issues related to "[double counting](https://wustlcse.github.io/FAQ/#double_counting)".
+
 
 
 
@@ -1509,12 +1512,12 @@ Usually it's best to:
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/127">Discussions View</a></sub>
 
- The school (SEAS) has a limited number of laptops that can be loaned out. You must start with the instructor of the course for which you need the laptop. He or she will then request the laptop from EIT, and Sheila Leopold of EIT will then be in touch with you about getting the laptop.
- There is an effort underway at the university level to make sure that all students have laptops on campus.
+There are two major options:
+* The McKelvey School of Engineering  has a limited number of laptops that can be loaned out to students in our courses.  These can be especially useful if you just need access to a computer for a week or two while waiting for repairs or a new laptop.  If you'd like to borrow a loaner for your course work, contact your instructor. 
+* You can utilize a computer lab on campus.  The directory of labs is [here](https://engineering.wustl.edu/offices-services/non-academic/EIT/computer-labs/lab-locations-schedules.html).   You can browse [Reserve-A-Space](https://reserve.wustl.edu/EMSWebApp/) for specific labs to see if/when they are reserved for other uses.
 
 
-
-<sub>[#computer](#computer) [#get_help](#get_help) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</sub>
+<sub>[#computer](#computer) [#get_help](#get_help) [#graduate](#graduate) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## I'd like to help out with grading and earn some money.  How do I do that? {#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that}
@@ -1867,43 +1870,6 @@ Answer questions and spend time with online programming communities, such as:
 <sub>[#get_involved](#get_involved) [#misc](#misc) [#needs_review](#needs_review) [#programming](#programming) [#student_life](#student_life)</sub>
 
 ---
-## Reading list {#reading-list}
-
-<sub><a href="https://github.com//wustlcse/FAQ/discussions/104">Discussions View</a></sub>
-
-
-Introductory topics
-
-* Code: The Hidden Language of Computer Software and Hardware by Charles Petzold
- * Soul of a New Machine by Tracy Kidder
-
-
-Must-reads
-* Goedel, Escher, Bach by Douglas Hofstedler
-
-
-Productivity
-* Deep Work by Cal Newport
-
-
- Machine Learning (gone wrong)
-* Automating Inequality
- * Weapons of Math Destruction
-
-
-
-
-
-
-
-
-
-
-
-
-<sub>[#get_involved](#get_involved) [#misc](#misc) [#needs_review](#needs_review) [#programming](#programming) [#student_life](#student_life)</sub>
-
----
 ## Should I consider an unpaid internship? {#should-i-consider-an-unpaid-internship}
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/55">Discussions View</a></sub>
@@ -2070,7 +2036,7 @@ credit
  If you still have concerns regarding the implication of selecting a pass/fail option for a course this semester, you can reach out to the department's [chair](mailto:chair@cse.wustl.edu) or 
 [associate chair](mailto:associatechair@cse.wustl.edu) for additional assistance.
 
-<sub>[#academia](#academia) [#credit](#credit) [#graduate](#graduate) [#needs_review](#needs_review) [#pass_fail](#pass_fail) [#undergraduate](#undergraduate)</sub>
+<sub>[#academia](#academia) [#credit](#credit) [#graduate](#graduate) [#needs_review](#needs_review) [#passfail](#passfail) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## What are residency requirements? {#what-are-residency-requirements}
@@ -2108,7 +2074,43 @@ Most schools provide a system to "Audit" your degree.  Most schools use [WUAchie
  * The [bioinformatics minor](https://cse.wustl.edu/undergraduate/programs/Pages/minors.aspx#minorbio).
 
 
-<sub>[#academia](#academia) [#computerscience](#computerscience) [#courses](#courses) [#curriculum](#curriculum) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</sub>
+<sub>[#academia](#academia) [#computer_science](#computer_science) [#courses](#courses) [#curriculum](#curriculum) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</sub>
+
+---
+## What can I read to learn more about "computing" topics? {#what-can-i-read-to-learn-more-about-computing-topics}
+
+<sub><a href="https://github.com//wustlcse/FAQ/discussions/104">Discussions View</a></sub>
+
+
+Here are some recommendations by CSE faculty:
+
+### Introductory topics
+* [Code: The Hidden Language of Computer Software and Hardware](https://www.charlespetzold.com/code/) by Charles Petzold
+* [Soul of a New Machine](https://www.tracykidder.com/the-soul-of-a-new-machine.html) by Tracy Kidder
+
+
+### Must-reads
+* [Gödel, Escher, Bach: an Eternal Golden Braid](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) by Douglas Hofstedler
+
+### Productivity
+* [Deep Work: Rules for Focused Success in a Distracted World](https://www.calnewport.com/books/deep-work/) by Cal Newport
+
+ Machine Learning (gone wrong)
+* [Automating Inequality](https://virginia-eubanks.com/books/) by Virginia Eubanks
+ * [Weapons of Math Destruction](https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/) by Cathy O'Neil
+
+
+
+
+
+
+
+
+
+
+
+
+<sub>[#misc](#misc) [#programming](#programming)</sub>
 
 ---
 ## What courses count toward my major or minor from outside the CSE department?<br>What are our department's residency requirements? {#what-courses-count-toward-my-major-or-minor-from-outside-the-cse-departmentbrwhat-are-our-departments-residency-requirements}
@@ -2167,7 +2169,7 @@ Most schools provide a system to "Audit" your degree.  Most schools use [WUAchie
 
 
 
-<sub>[#academia](#academia) [#graduate](#graduate) [#minor](#minor) [#needs_review](#needs_review) [#pass_fail](#pass_fail) [#second_major](#second_major) [#undergraduate](#undergraduate)</sub>
+<sub>[#academia](#academia) [#graduate](#graduate) [#minor](#minor) [#needs_review](#needs_review) [#passfail](#passfail) [#second_major](#second_major) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## What courses should I take if I am interested in machine learning? {#what-courses-should-i-take-if-i-am-interested-in-machine-learning}
@@ -2336,9 +2338,13 @@ Most schools provide a system to "Audit" your degree.  Most schools use [WUAchie
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/103">Discussions View</a></sub>
 
- The courses are identical in all aspects of the work you do: labs, studios, exams, and quizzes. Some students take this course as preparation for graduate studies in computer science, or to assist in their graduate studies in other disciplines. Such students enroll in this course at the graduate level, using CSE 501N.
+The 501N version should only be used by **graduate** students who either: a) don't have prior comparable background in computing and need it to prepare for graduate studies in computer science or b) who need computing skills to support graduate work in another discipline. 
 
-<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+The courses are co-listed (same place/time/instructor and coursework).  The coursework and expectations are identical from both the student's and instructor's points-of-view.
+ 
+Courses with an "N" designation will not count for credit for students in the department's degrees.  Undergraduates should always take the course as 131, which lacks the "N".  Many students decided to pursue a Minor or Major from our department following this course and the 131 version will automatically be applied to their degree. 
+
+<sub>[#cse131](#cse131) [#graduate](#graduate) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## What is a FAQ? {#what-is-a-faq}
@@ -2504,7 +2510,7 @@ rules for multiple degrees in the bulletin where she will discover she needs mor
 
 
 
-<sub>[#academia](#academia) [#degree](#degree) [#dual_degree](#dual_degree) [#graduate](#graduate) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</sub>
+<sub>[#academia](#academia) [#degree](#degree) [#dua_degree](#dua_degree) [#graduate](#graduate) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## What is the difference between a first (primary) major in computer science and a second major in computer science? {#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science}
@@ -2523,31 +2529,35 @@ rules for multiple degrees in the bulletin where she will discover she needs mor
 
 
 
-<sub>[#academia](#academia) [#computerscience](#computerscience) [#misc](#misc) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</sub>
+<sub>[#academia](#academia) [#computer_science](#computer_science) [#misc](#misc) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## What is the difference between computer science (CS) and computer engineering (CoE)? {#what-is-the-difference-between-computer-science-cs-and-computer-engineering-coe}
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/105">Discussions View</a></sub>
 
- We are the Department of Computer Science and Engineering, and we offer majors in both computer science (CS) and computer engineering (CoE) . How do students decide which major they prefer?
- While it's generally true that computer science is more focused on software and computer engineering on hardware, the differences are not that simple. One colleague (Jon Turner) puts it this way:
+CSE is the Department of Computer Science and Engineering.  We offer majors in both computer science (CS) and computer engineering (CoE) . 
+
+It's generally true that computer science is more focused on software and computer engineering on hardware, but it's not always that simple. One colleague ([Jon Turner](https://engineering.wustl.edu/faculty/Jon-Turner.html)) puts it this way:
 * Computer scientists think about solving problems using software.
- * Electrical engineers think about solving problems using hardware.
- * Computer engineers think about the tradeoffs of deploying various parts of an application in hardware or software.
+* Electrical engineers think about solving problems using hardware.
+* Computer engineers think about the tradeoffs of deploying various parts of an application in hardware or software.
 
- Computer engineers are able to consider more options for applications that have performance, response, or error tolerance constraints.
- Because there is substantial overlap between the two majors of study, students can move fluidly between the two programs. Students should use
-WebSTAC to switch majors, and they will typically keep the same departmental advisor when switching.
- The requirements for the majors can be found here, and you can see that the CoE program requires more background in math and in basic electrical engineering than does the CS program.
+Computer engineers are able to consider more options for applications that have performance, response, or error tolerance constraints.
 
+Because there is substantial overlap between the two majors of study, students can usually move between the two programs or pursue degrees in both (changes can be requested via [WebSTAC](https://acadinfo.wustl.edu/WSHome/Default.aspx)).  Computer Engineering is only available as a "primary major", but Computer Science is available as both a primary major (which is possible via a "second degree") or via a Second Major.  Usually the "Second Major" is most reasonable way to complete requirements of both Computer Science and Computer Engineering. 
 
+Here are the requirements for each undergraduate degree: [B.S. Computer Engineering](https://bulletin.wustl.edu/undergrad/engineering/computerscience/bs-computer-engineering/) (CoE) vs. [B.S. Computer Science](https://bulletin.wustl.edu/undergrad/engineering/computerscience/bs-computer-science/) (CS).  CoE requires more background in math and electrical engineering than CS.
 
-
-
+We also have a variety of [Master's and PhD programs in Computer Engineering & Computer Science](https://bulletin.wustl.edu/grad/engineering/computerscience/).
 
 
-<sub>[#academia](#academia) [#computer_engineering](#computer_engineering) [#computerscience](#computerscience) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+
+
+
+
+
+<sub>[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#graduate](#graduate) [#misc](#misc) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## What is the difference between my 4-year advisor and my departmental advisor? {#what-is-the-difference-between-my--year-advisor-and-my-departmental-advisor}
@@ -2950,7 +2960,7 @@ Requirements
 
 
 
-<sub>[#academia](#academia) [#pass_fail](#pass_fail)</sub>
+<sub>[#academia](#academia) [#passfail](#passfail)</sub>
 
 ---
 ## Which is better, a mac or a pc? {#which-is-better-a-mac-or-a-pc}
@@ -2994,7 +3004,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 
 
-<sub>[#computer_engineering](#computer_engineering) [#computerscience](#computerscience) [#cse131](#cse131) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#cse131](#cse131) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## Why would I consider transferring schools? {#why-would-i-consider-transferring-schools}
@@ -3113,7 +3123,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
-: [Can the same course satisfy requirements across majors within SEAS?](#can-the-same-course-satisfy-requirements-across-majors-within-seas)
+: [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
 
 : [Does our department have an honor society?](#does-our-department-have-an-honor-society)
 
@@ -3217,8 +3227,6 @@ There are only a few CSE courses that require a specific operating systems and t
 
 : [What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
 
-: [What is the difference between computer science (CS) and computer engineering (CoE)?](#what-is-the-difference-between-computer-science-cs-and-computer-engineering-coe)
-
 : [What is the difference between my 4-year advisor and my departmental advisor?](#what-is-the-difference-between-my--year-advisor-and-my-departmental-advisor)
 
 : [What language does CSE247/502N use?  Do I have to have taken CSE131/501N?](#what-language-does-csen-use--do-i-have-to-have-taken-csen)
@@ -3271,7 +3279,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Why would I consider transferring schools?](#why-would-i-consider-transferring-schools)
 
-<a name="computer"></a>computer : computer
+<a name="computer"></a>computer : Advice about computers, laptops, etc.
 
 : [How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
 
@@ -3295,7 +3303,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
 
-<a name="computerscience"></a>computerscience : The discipline of Computer Science
+<a name="computer_science"></a>computer_science : The discipline of Computer Science
 
 : [How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
 
@@ -3313,7 +3321,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
 
-<a name="courses"></a>courses : courses
+<a name="courses"></a>courses : General details about our courses and enrolling in our courses
 
 : [CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
 
@@ -3323,7 +3331,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
-: [Can the same course satisfy requirements across majors within SEAS?](#can-the-same-course-satisfy-requirements-across-majors-within-seas)
+: [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
 
 : [How can I place out of a course if I think I already know that course's material?  <br>What happens to my program of study if I do place out?](#how-can-i-place-out-of-a-course-if-i-think-i-already-know-that-courses-material--brwhat-happens-to-my-program-of-study-if-i-do-place-out)
 
@@ -3405,13 +3413,13 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
 
-<a name="curriculum"></a>curriculum : curriculum
+<a name="curriculum"></a>curriculum : Details about content that comprise our degrees.
 
 : [How does independent study work?](#how-does-independent-study-work)
 
 : [What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
 
-<a name="degree"></a>degree : degree
+<a name="degree"></a>degree : Degree details and requirements
 
 : [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
 
@@ -3419,7 +3427,11 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
-<a name="dual_degree"></a>dual_degree : Issues specific to Dual Degree students (coming from another school in the Dual Degree program)
+<a name="double_counting"></a>double_counting : Applying course credits to satisfy requirements of multiple degrees
+
+: [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
+
+<a name="dua_degree"></a>dua_degree : Issues specific to Dual Degree students (coming from another school in the Dual Degree program)
 
 : [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
@@ -3471,8 +3483,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Other ways to get involved](#other-ways-to-get-involved)
 
-: [Reading list](#reading-list)
-
 : [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
 
 : [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
@@ -3481,7 +3491,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Why St. Louis?](#why-st-louis)
 
-<a name="graduate"></a>graduate : graduate
+<a name="graduate"></a>graduate : Graduate degrees (Masters and PhD)
 
 : [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
 
@@ -3496,8 +3506,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 : [Can I take courses outside the department to satisfy core requirements?](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements)
 
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
-
-: [Can the same course satisfy requirements across majors within SEAS?](#can-the-same-course-satisfy-requirements-across-majors-within-seas)
 
 : [Do I need to take CSE 240 before CSE 247?](#do-i-need-to-take-cse--before-cse-)
 
@@ -3606,6 +3614,8 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 : [What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
 
 : [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
+
+: [What is CSE&nbsp;501N?  How is it different from 131?](#what-is-csenbspn--how-is-it-different-from-)
 
 : [What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
 
@@ -3681,7 +3691,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
-<a name="masters"></a>masters : masters
+<a name="masters"></a>masters : Masters Degree Programs
 
 : [How do I frame my thinking about staying for a master's degree?](#how-do-i-frame-my-thinking-about-staying-for-a-masters-degree)
 
@@ -3695,7 +3705,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [What language does CSE247/502N use?  Do I have to have taken CSE131/501N?](#what-language-does-csen-use--do-i-have-to-have-taken-csen)
 
-<a name="math"></a>math : math
+<a name="math"></a>math : Mathematics courses and requirements
 
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
@@ -3707,7 +3717,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [I have to take Math 310 as part of my studies for a math major or minor?  Can this count toward my CSE studies?](#i-have-to-take-math--as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies)
 
-<a name="minor"></a>minor : minor
+<a name="minor"></a>minor : Minors (CS, HCI, and Bioinformatics)
 
 : [How do I earn a minor in Human-Computer Interaction (HCI)?](#how-do-i-earn-a-minor-in-human-computer-interaction-hci)
 
@@ -3725,7 +3735,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisorwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
 
-<a name="misc"></a>misc : misc
+<a name="misc"></a>misc : Miscellaneous topics
 
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
@@ -3749,19 +3759,17 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [I am primarily interested in becoming a software engineer; what courses should I take?](#i-am-primarily-interested-in-becoming-a-software-engineer-what-courses-should-i-take)
 
-: [I need a laptop for my CSE work and don't have one that works; what should I do?](#i-need-a-laptop-for-my-cse-work-and-dont-have-one-that-works-what-should-i-do)
-
 : [Is it ever worth it to cheat?](#is-it-ever-worth-it-to-cheat)
 
 : [My employer wants a letter from the department for my green card application. How do I do that?](#my-employer-wants-a-letter-from-the-department-for-my-green-card-application-how-do-i-do-that)
 
 : [Other ways to get involved](#other-ways-to-get-involved)
 
-: [Reading list](#reading-list)
-
 : [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
 : [What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
+
+: [What can I read to learn more about "computing" topics?](#what-can-i-read-to-learn-more-about-computing-topics)
 
 : [What courses should I take if I am interested in machine learning?](#what-courses-should-i-take-if-i-am-interested-in-machine-learning)
 
@@ -3806,8 +3814,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 : [Can I take courses outside the department to satisfy core requirements?](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements)
 
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
-
-: [Can the same course satisfy requirements across majors within SEAS?](#can-the-same-course-satisfy-requirements-across-majors-within-seas)
 
 : [Do I need an EIT account for CSE131?  Do I need to buy a computer?](#do-i-need-an-eit-account-for-cse--do-i-need-to-buy-a-computer)
 
@@ -3877,8 +3883,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
-: [I accepted a job offer with company X but have since received a more attracive offer from company Y. What should I do?](#i-accepted-a-job-offer-with-company-x-but-have-since-received-a-more-attracive-offer-from-company-y-what-should-i-do)
-
 : [I am in one lab/studio section and need to switch to another.  What should I do?](#i-am-in-one-labstudio-section-and-need-to-switch-to-another--what-should-i-do)
 
 : [I am on the wait list for a course. What should I do?](#i-am-on-the-wait-list-for-a-course-what-should-i-do)
@@ -3902,8 +3906,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 : [I have some programming experience.  Will I be bored in CSE131?](#i-have-some-programming-experience--will-i-be-bored-in-cse)
 
 : [I have to take Math 310 as part of my studies for a math major or minor?  Can this count toward my CSE studies?](#i-have-to-take-math--as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies)
-
-: [I need a laptop for my CSE work and don't have one that works; what should I do?](#i-need-a-laptop-for-my-cse-work-and-dont-have-one-that-works-what-should-i-do)
 
 : [I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
 
@@ -3937,8 +3939,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Other ways to get involved](#other-ways-to-get-involved)
 
-: [Reading list](#reading-list)
-
 : [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
 : [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
@@ -3967,8 +3967,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
-: [What is CSE&nbsp;501N?  How is it different from 131?](#what-is-csenbspn--how-is-it-different-from-)
-
 : [What is a FAQ?](#what-is-a-faq)
 
 : [What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
@@ -3982,8 +3980,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 : [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
 : [What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
-
-: [What is the difference between computer science (CS) and computer engineering (CoE)?](#what-is-the-difference-between-computer-science-cs-and-computer-engineering-coe)
 
 : [What kind of computer should I have for studies in computer science or computer engineering?](#what-kind-of-computer-should-i-have-for-studies-in-computer-science-or-computer-engineering)
 
@@ -4011,13 +4007,13 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
-<a name="olin"></a>olin : Olin
+<a name="olin"></a>olin : Olin Business School
 
 : [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
 
 : [What probability/statistics course should I take?](#what-probabilitystatistics-course-should-i-take)
 
-<a name="pass_fail"></a>pass_fail : pass_fail
+<a name="passfail"></a>passfail : Rules/restrictions and issues about taking a course as pass/fail
 
 : [How does pass/fail work?](#how-does-passfail-work)
 
@@ -4027,7 +4023,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Where do I look to see the various dates pertaining to our academic calendar?](#where-do-i-look-to-see-the-various-dates-pertaining-to-our-academic-calendar)
 
-<a name="plagiarism"></a>plagiarism : plagiarism
+<a name="plagiarism"></a>plagiarism : An academic integrity concern caused by improper use of another's work.
 
 : [If I retake a course, what happens on my transcript and how does this affect my GPA?](#if-i-retake-a-course-what-happens-on-my-transcript-and-how-does-this-affect-my-gpa)
 
@@ -4037,13 +4033,13 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [When am I allowed to collaborate on assignments?](#when-am-i-allowed-to-collaborate-on-assignments)
 
-<a name="prerequisites"></a>prerequisites : prerequisites
+<a name="prerequisites"></a>prerequisites : Details about course or knowledge/skills required prior to individual courses.
 
 : [Do I need to take CSE 240 before CSE 247?](#do-i-need-to-take-cse--before-cse-)
 
 : [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
 
-<a name="programming"></a>programming : programming
+<a name="programming"></a>programming : Writing computer programs (a.k.a. "coding"). Reading/writing programs is a foundation of computing.
 
 : [How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
 
@@ -4051,11 +4047,11 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Other ways to get involved](#other-ways-to-get-involved)
 
-: [Reading list](#reading-list)
+: [What can I read to learn more about "computing" topics?](#what-can-i-read-to-learn-more-about-computing-topics)
 
 : [What programming languages do we teach in our curriculum?](#what-programming-languages-do-we-teach-in-our-curriculum)
 
-<a name="recommendation_letters"></a>recommendation_letters : recommendation_letters
+<a name="recommendation_letters"></a>recommendation_letters : Suggestions for how you can obtain recommendation letters for jobs/graduate school/etc.
 
 : [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
@@ -4071,7 +4067,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
-: [Can the same course satisfy requirements across majors within SEAS?](#can-the-same-course-satisfy-requirements-across-majors-within-seas)
+: [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
 
 : [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
 
@@ -4105,13 +4101,13 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [What courses count toward my major or minor from outside the CSE department?<br>What are our department's residency requirements?](#what-courses-count-toward-my-major-or-minor-from-outside-the-cse-departmentbrwhat-are-our-departments-residency-requirements)
 
-<a name="reu"></a>reu : REU
+<a name="reu"></a>reu : Research Experiences for Undergraduates (supported by the National Science Foundation (NSF))
 
 : [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
 : [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
-<a name="second_major"></a>second_major : second_major
+<a name="second_major"></a>second_major : Issues related to "Second Major" degrees
 
 : [How do I do CS+Math?<br>What upper level electives count?<br>Can I do this as a second major?](#how-do-i-do-csmathbrwhat-upper-level-electives-countbrcan-i-do-this-as-a-second-major)
 
@@ -4133,7 +4129,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisorwhat-kind-of-advice-should-i-expect-my-advisor-to-provide)
 
-<a name="student_life"></a>student_life : student life
+<a name="student_life"></a>student_life : Both academic and non-academic issues common in the life of students
 
 : [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
@@ -4163,8 +4159,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [I have accommodation on timed exams and quizzes.  How do I arrange to take these at Cornerstone?](#i-have-accommodation-on-timed-exams-and-quizzes--how-do-i-arrange-to-take-these-at-cornerstone)
 
-: [I need a laptop for my CSE work and don't have one that works; what should I do?](#i-need-a-laptop-for-my-cse-work-and-dont-have-one-that-works-what-should-i-do)
-
 : [I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
 
 : [I'm struggling and feeling overwhelmed. What should I do?](#im-struggling-and-feeling-overwhelmed-what-should-i-do)
@@ -4182,8 +4176,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 : [My plans for Summer 2020 fell through due to COVID-19. What should I do?](#my-plans-for-summer--fell-through-due-to-covid--what-should-i-do)
 
 : [Other ways to get involved](#other-ways-to-get-involved)
-
-: [Reading list](#reading-list)
 
 : [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
 
@@ -4233,7 +4225,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
-: [Can the same course satisfy requirements across majors within SEAS?](#can-the-same-course-satisfy-requirements-across-majors-within-seas)
+: [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
 
 : [Do I need an EIT account for CSE131?  Do I need to buy a computer?](#do-i-need-an-eit-account-for-cse--do-i-need-to-buy-a-computer)
 
@@ -4467,55 +4459,57 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 [artsci](#artsci) : Related to the School of Arts and Sciences
 
-[computer](#computer) : computer
+[computer](#computer) : Advice about computers, laptops, etc.
 
 [computer_engineering](#computer_engineering) : Computer Engineering (CoE)
 
-[computerscience](#computerscience) : The discipline of Computer Science
+[computer_science](#computer_science) : The discipline of Computer Science
 
-[courses](#courses) : courses
+[courses](#courses) : General details about our courses and enrolling in our courses
 
 [credit](#credit) : Topics related to academic credits (units)
 
 [cse131](#cse131) : CSE 131/501N: Intro. to Computer Science
 
-[curriculum](#curriculum) : curriculum
+[curriculum](#curriculum) : Details about content that comprise our degrees.
 
-[degree](#degree) : degree
+[degree](#degree) : Degree details and requirements
 
-[dual_degree](#dual_degree) : Issues specific to Dual Degree students (coming from another school in the Dual Degree program)
+[double_counting](#double_counting) : Applying course credits to satisfy requirements of multiple degrees
+
+[dua_degree](#dua_degree) : Issues specific to Dual Degree students (coming from another school in the Dual Degree program)
 
 [get_help](#get_help) : Where/how to get help (both academic help and resources for personal help)
 
 [get_involved](#get_involved) : Ways to get involved in the discipline, or department, or other student activities
 
-[graduate](#graduate) : graduate
+[graduate](#graduate) : Graduate degrees (Masters and PhD)
 
 [independent_study](#independent_study) : CSE 400 and CSE 400E: Independent study
 
 [jobs](#jobs) : Related to jobs (full time, internships, part time while a student, etc.)
 
-[masters](#masters) : masters
+[masters](#masters) : Masters Degree Programs
 
-[math](#math) : math
+[math](#math) : Mathematics courses and requirements
 
-[minor](#minor) : minor
+[minor](#minor) : Minors (CS, HCI, and Bioinformatics)
 
-[misc](#misc) : misc
+[misc](#misc) : Miscellaneous topics
 
 [needs_review](#needs_review) : Topics that need review.  Posted answer may not be accurate.
 
-[olin](#olin) : Olin
+[olin](#olin) : Olin Business School
 
-[pass_fail](#pass_fail) : pass_fail
+[passfail](#passfail) : Rules/restrictions and issues about taking a course as pass/fail
 
-[plagiarism](#plagiarism) : plagiarism
+[plagiarism](#plagiarism) : An academic integrity concern caused by improper use of another's work.
 
-[prerequisites](#prerequisites) : prerequisites
+[prerequisites](#prerequisites) : Details about course or knowledge/skills required prior to individual courses.
 
-[programming](#programming) : programming
+[programming](#programming) : Writing computer programs (a.k.a. "coding"). Reading/writing programs is a foundation of computing.
 
-[recommendation_letters](#recommendation_letters) : recommendation_letters
+[recommendation_letters](#recommendation_letters) : Suggestions for how you can obtain recommendation letters for jobs/graduate school/etc.
 
 [requirements](#requirements) : requirements
 
@@ -4523,11 +4517,11 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 [residency](#residency) : residency
 
-[reu](#reu) : REU
+[reu](#reu) : Research Experiences for Undergraduates (supported by the National Science Foundation (NSF))
 
-[second_major](#second_major) : second_major
+[second_major](#second_major) : Issues related to "Second Major" degrees
 
-[student_life](#student_life) : student life
+[student_life](#student_life) : Both academic and non-academic issues common in the life of students
 
 [teaching_assistant](#teaching_assistant) : teaching_assistant
 
