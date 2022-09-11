@@ -1353,10 +1353,15 @@ Usually it's best to:
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/87">Discussions View</a></sub>
 
- Almost certainly!
-**Be sure to do the work on the course calendar and attend studios and labs.** In the past, we have been able to accommodate everyone from the waiting list.
 
-<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+Most semesters CSE 131 has been able to accommodate nearly all students who want to take it, especially those who are on the waitlist before the semester begins.  You can increase your chances of enrollment by selecting a section that has a small waitlist.
+
+Often there is about a 5% change in enrollments in 131 during the first week(s) of class as students are still changing their schedule, which allows 2-8 additional students from waitlists.
+
+**If you're high on the waitlist, be sure to do all course work and attend sections.** 
+
+
+<sub>[#cse131](#cse131) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## I am primarily interested in becoming a software engineer; what courses should I take? {#i-am-primarily-interested-in-becoming-a-software-engineer-what-courses-should-i-take}
@@ -1566,12 +1571,14 @@ Student life can be difficult. Course work, student groups, obligations to famil
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/85">Discussions View</a></sub>
 
- No. Just for CSE131, if our department waives that course, then you do not have to take anything in its place.
- For other courses, if you show proficiency, you will be asked to take something else instead.
+ No. 
+
+CSE131, if our department waives CSE 131, then you do not have to take anything in its place.   This is only true for CSE 131.
+
+In rare cases, other courses can also be waived due to prior experience/proficiency.  For example, if someone has taken a course we'd normally consider equivalent to one of our core courses, but has hit course transfer limits and can't actually get official credit for the course.  In those cases they would be work with the advisor and the associate chair to select another course to replace the waived course.  (See [residency](https://wustlcse.github.io/FAQ/#residency)).
 
 
-
-<sub>[#academia](#academia) [#cse131](#cse131) [#graduate](#graduate) [#minor](#minor) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#minor](#minor) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## If I am not satisfied with a grade I received on an assignment or in a course, what should I do? {#if-i-am-not-satisfied-with-a-grade-i-received-on-an-assignment-or-in-a-course-what-should-i-do}
@@ -2634,23 +2641,16 @@ Students at Washington University are assigned many advisors, and it is helpful 
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/88">Discussions View</a></sub>
 
- The answer here depends on the courses in computer science you wish to take and the other majors or minors you are completing at the university.
- ESE 326 is our school's course in probability and statistics. It's a great course and you are welcome to use that to satisfy our requirement.
- But if you are a major or minor outside our school, you should consider other departments' probability/statistics offerings, which we count as follows:
+ The answer here depends on the courses in computer science you wish to take and the other majors or minors you are completing at the university.  You also may want to consider CSE courses you are interested in taking in the future.  You may want to look at their prerequisites to see if there are any specific prob/stats requirements.  
+
+[ESE 328](https://courses.wustl.edu/CourseInfo.aspx?sch=E&dept=E60&crs=328) is our school's course in probability and statistics. 
+ It satisfies the requirements of the majority of our degrees, however Data Science degrees require [MA 3211](https://courses.wustl.edu/CourseInfo.aspx?sch=L&dept=L24&crs=3211) and [MA 43211](https://courses.wustl.edu/CourseInfo.aspx?sch=L&dept=L24&crs=4211).  
+
+If you are a major or minor outside our school, you should consider other departments' probability/statistics offerings, which we count as follows:
 * Students studying Math may be required to take Math 3200, which we count. 
-* If you are considering a program in the [Olin Business School](https://olin.wustl.edu/EN-US/Pages/default.aspx), most of those require QBA 120 and QBA 121. If you take both of those courses, then Our department considers your probability/statistics requirement satsified.
-* If you are considering a major or minor in Psychology, you may be taking Pysch 300, which we count.
+* If you are considering a program in the [Olin Business School](https://olin.wustl.edu/EN-US/Pages/default.aspx) you are probably required to take [QBA 120](https://courses.wustl.edu/CourseInfo.aspx?sch=B&dept=B59&crs=120) and [QBA 121](https://courses.wustl.edu/CourseInfo.aspx?sch=B&dept=B59&crs=121). If **both** are taken, they will satisfy our department's requirements. 
 
-
-
->  In cases where the course you take is outside our school, look elsewhere in this FAQ for *double counting* to learn how that is handled.
-> 
-
-
- Another important consideration is to think about the courses you want to take in computer science. Which topics do those courses require and which probability/statisics courses cover those topics? Here is a table to help you make an informed decision:
-
->  TBD
-> 
+>  In cases where the course you take is outside our school, look elsewhere in this FAQ for *[double counting](https://wustlcse.github.io/FAQ/#double_counting)* to learn how that is handled.
 
 
 
@@ -2660,7 +2660,7 @@ Students at Washington University are assigned many advisors, and it is helpful 
 
 
 
-<sub>[#academia](#academia) [#misc](#misc) [#needs_review](#needs_review) [#olin](#olin) [#second_major](#second_major) [#undergraduate](#undergraduate)</sub>
+<sub>[#academia](#academia) [#olin](#olin) [#second_major](#second_major) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## What programming languages do we teach in our curriculum? {#what-programming-languages-do-we-teach-in-our-curriculum}
@@ -3175,8 +3175,6 @@ There are only a few CSE courses that require a specific operating systems and t
 
 : [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
 
-: [If CSE131 is waived do I have to take another course instead?](#if-cse-is-waived-do-i-have-to-take-another-course-instead)
-
 : [If I am not satisfied with a grade I received on an assignment or in a course, what should I do?](#if-i-am-not-satisfied-with-a-grade-i-received-on-an-assignment-or-in-a-course-what-should-i-do)
 
 : [If I retake a course, what happens on my transcript and how does this affect my GPA?](#if-i-retake-a-course-what-happens-on-my-transcript-and-how-does-this-affect-my-gpa)
@@ -3579,8 +3577,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [I'm struggling and feeling overwhelmed. What should I do?](#im-struggling-and-feeling-overwhelmed-what-should-i-do)
 
-: [If CSE131 is waived do I have to take another course instead?](#if-cse-is-waived-do-i-have-to-take-another-course-instead)
-
 : [If I am not satisfied with a grade I received on an assignment or in a course, what should I do?](#if-i-am-not-satisfied-with-a-grade-i-received-on-an-assignment-or-in-a-course-what-should-i-do)
 
 : [If I retake a course, what happens on my transcript and how does this affect my GPA?](#if-i-retake-a-course-what-happens-on-my-transcript-and-how-does-this-affect-my-gpa)
@@ -3785,8 +3781,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [What kind of computer should I have for studies in computer science or computer engineering?](#what-kind-of-computer-should-i-have-for-studies-in-computer-science-or-computer-engineering)
 
-: [What probability/statistics course should I take?](#what-probabilitystatistics-course-should-i-take)
-
 : [What programming languages do we teach in our curriculum?](#what-programming-languages-do-we-teach-in-our-curriculum)
 
 : [When am I allowed to collaborate on assignments?](#when-am-i-allowed-to-collaborate-on-assignments)
@@ -3887,8 +3881,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [I am on the wait list for a course. What should I do?](#i-am-on-the-wait-list-for-a-course-what-should-i-do)
 
-: [I am on the waiting list for CSE131 or for the lab section I need.  Will I be able to take the course?](#i-am-on-the-waiting-list-for-cse-or-for-the-lab-section-i-need--will-i-be-able-to-take-the-course)
-
 : [I am primarily interested in becoming a software engineer; what courses should I take?](#i-am-primarily-interested-in-becoming-a-software-engineer-what-courses-should-i-take)
 
 : [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
@@ -3910,8 +3902,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 : [I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
 
 : [I'm having trouble with my computer.  Where can I get help?](#im-having-trouble-with-my-computer--where-can-i-get-help)
-
-: [If CSE131 is waived do I have to take another course instead?](#if-cse-is-waived-do-i-have-to-take-another-course-instead)
 
 : [If I am not satisfied with a grade I received on an assignment or in a course, what should I do?](#if-i-am-not-satisfied-with-a-grade-i-received-on-an-assignment-or-in-a-course-what-should-i-do)
 
@@ -3984,8 +3974,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 : [What kind of computer should I have for studies in computer science or computer engineering?](#what-kind-of-computer-should-i-have-for-studies-in-computer-science-or-computer-engineering)
 
 : [What language does CSE247/502N use?  Do I have to have taken CSE131/501N?](#what-language-does-csen-use--do-i-have-to-have-taken-csen)
-
-: [What probability/statistics course should I take?](#what-probabilitystatistics-course-should-i-take)
 
 : [What programming languages do we teach in our curriculum?](#what-programming-languages-do-we-teach-in-our-curriculum)
 
