@@ -399,12 +399,14 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/13">Discussions View</a></sub>
 
- We describe elsewhere in this FAQ our department's residency requirements, which limits how many courses you can take outside our department and still earn an major or minor from our department.
- Those rules ensure that students graduating from our programs have taken a sufficiency of courses from our department.
- Most often, students seek transfer of elective courses from outside our department. Courses such as game theory, numerical analysis, and operations research are offered by other departments but not by our department: we have no courses that cover those topics. Subject to our residency requirement, we count certain courses toward our students' electives as described elsewhere in this FAQ.
- But what about core courses? Such courses are offered quite frequently by our department and we rarely get requests to consider courses outside our department to count toward our students' core requirements.
- Subject still to our residency requirements, our department will consider allowing our students to take a core course outside our department, almost certainly at another university. Here we look not only for appropriate rigor but also to determine that the outside course is truly a good match for what we teach in a core course. We look for a close match because many courses in our department depend on the material taught in core courses. We want to ensure that students can make progress in our programs, prepared to take courses by having the appropriate prerequisite material.
- A notable exception is that we will waive or transfer outside credit for our introductory course, CSE131, without counting that against any residency requirement in our department. There again we look for a close match to what we teach in that course.
+
+First, be aware of the department's [residency](https://wustlcse.github.io/FAQ/#residency) requirements., which limits how many courses you can take outside our department and still earn an major or minor from our department. Those rules ensure that students graduating from our programs have taken enough courses from WashU's CSE department to merit a degree from our department. 
+
+Most often, students seek to count **elective courses**.  These fall in two categories:
+* Computing courses from other universities.  See [transfer courses](https://wustlcse.github.io/FAQ/#transfer_courses).
+* Other courses at WashU that are relevant to computing. We do count certain courses toward technical electives for some degrees (Majors and Minor in Computer Science).  "Technical Electives" should have a significant component that includes: coding/programming and/or algorithm development/analysis.  If you know of a relevant course you're interested in taking and you are in a Computer Science degree, contact your **CSE faculty advisor** to discuss the course and having it approved for your studies. 
+
+CSE 131 is a little bit of an exception.  Appropriate courses and AP CS-A credit can count as CSE 131 without counting that against any residency requirement in our department.
 
 
 
@@ -415,8 +417,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 
 
-
-<sub>[#academia](#academia) [#graduate](#graduate) [#needs_review](#needs_review) [#residency](#residency) [#transfer_courses](#transfer_courses) [#undergraduate](#undergraduate)</sub>
+<sub>[#graduate](#graduate) [#residency](#residency) [#transfer_courses](#transfer_courses) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## Can the same course satisfy requirements across majors between SEAS and other schools? {#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools}
@@ -537,7 +538,7 @@ We also have a local [ACM chapter](https://acm.wustl.edu/).
  * You are notified about the outcome, generally within a month of the draft's appearance. 
 
 
-<sub>[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#work_study](#work_study) [#working_with_faculty](#working_with_faculty)</sub>
+<sub>[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</sub>
 
 ---
 ## How are admissions handled? {#how-are-admissions-handled}
@@ -830,18 +831,20 @@ WebSTAC. Look for the `Change WU School` link. I'm told it's there but because I
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/80">Discussions View</a></sub>
 
- You can't: we don't offer a minor in computer engineering. May we suggest a minor in computer science? While many computer engineering courses have prerequisites, you may find some courses such as 260M suitable for a minor in computer science that will provide you some background in computer engineering.
+ You can't.  We don't offer a minor in computer engineering, but you might consider a minor in computer science and focus on computer engineering courses.  While many computer engineering courses have prerequisites, you may find some courses, such as [260M: Intro. to Digital Logic and Computer Desicn](https://courses.wustl.edu/CourseInfo.aspx?sch=E&dept=E81&crs=260M), are suitable for a minor in computer science and will provide you some background in computer engineering.
 
-<sub>[#computer_engineering](#computer_engineering) [#graduate](#graduate) [#minor](#minor) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+You may want to browse courses that are required for [Computer Engineering](https://bulletin.wustl.edu/undergrad/engineering/computerscience/bs-computer-engineering/) to select courses of interest.  Note that any course number that ends with an "M", like 260M, are focused on "Machines" and have a computer engineering focus. 
+
+<sub>[#computer_engineering](#computer_engineering) [#minor](#minor) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## How do I earn a minor in computer science? {#how-do-i-earn-a-minor-in-computer-science}
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/75">Discussions View</a></sub>
 
- The requirements for our minor are CSE131 (Introduction to Computer Science), CSE247 (Algorithms and Data Structures, and then three courses of your choosing that end with S, T, M, A, or E. You may also take CSE132, CSE240, or CSE347 and have it count toward the minor. At least 4 of your 5 courses must be traditional classroom courses offered by our department. One of your 5 courses can be outside the traditional classroom, as detailed here.
+ The requirements for our minor are CSE131 (Introduction to Computer Science), CSE247 (Algorithms and Data Structures, and then three courses of your choosing that end with S, T, M, A, or E. You may also take CSE132, CSE240, or CSE347 and have it count toward the minor. At least 4 of your 5 courses must be traditional classroom courses offered by our department. One of your 5 courses can be outside the traditional classroom.  See ["Can I take courses outside the department..."](https://wustlcse.github.io/FAQ/#can-i-take-courses-outside-the-department-to-satisfy-core-requirements).
 
-<sub>[#computer_science](#computer_science) [#minor](#minor) [#misc](#misc) [#needs_review](#needs_review) [#residency](#residency) [#undergraduate](#undergraduate)</sub>
+<sub>[#computer_science](#computer_science) [#minor](#minor) [#residency](#residency) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## How do I earn a second major in computer engineering? {#how-do-i-earn-a-second-major-in-computer-engineering}
@@ -920,7 +923,7 @@ Modes of conducting research with faculty
 
 
 
-<sub>[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#independent_study](#independent_study) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#research](#research) [#reu](#reu) [#student_life](#student_life) [#undergraduate](#undergraduate) [#work_study](#work_study) [#working_with_faculty](#working_with_faculty)</sub>
+<sub>[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#independent_study](#independent_study) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#research](#research) [#reu](#reu) [#student_life](#student_life) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</sub>
 
 ---
 ## How do I frame my thinking about staying for a master's degree? {#how-do-i-frame-my-thinking-about-staying-for-a-masters-degree}
@@ -1180,15 +1183,15 @@ See [here](https://cse.wustl.edu/academics/placement-exam.html) to see if you ma
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/89">Discussions View</a></sub>
 
- The CS+Math major is designed to be the same load as any single major. For example, a first major in computer science requires 14 courses not including the calculus sequence. The CS+Math major has the same number of courses excluding the calculus sequence. It is slightly heavier than a math major.
- The reason for its efficiency is exactly the strong intersection in these two departments' fields of study.
- Students in computer science with an interest in theory or data analytics will find this program attractive. Students in math who want skills and applications of their studies in math will similarly be drawn to this program.
+ The [CS+Math](https://bulletin.wustl.edu/undergrad/engineering/computerscience/bs-applied-computer-science-math/) major is designed to be the same load as any single major. For example, a first major in computer science requires 14 courses (not including the calculus sequence). The CS+Math major has the same number of courses (again, excluding the calculus sequence). It is slightly heavier than a math major.
+
+The reason for its efficiency is exactly the strong intersection in these two departments' fields of study.  Students in computer science with an interest in theory or data analytics will find this program attractive. Students in math who want skills and applications of their studies in math will similarly be drawn to this program.
+
+CS+Math also differs in the electives available.  A CS Major can select any CSE course as an elective.  CS+Math majors can only select from a curated list of electives from Math, CSE, and ESE.  There are a designated minimum number of courses from both CSE and Math.  See both "Electives" and "List of Approved Electives" [here](https://bulletin.wustl.edu/undergrad/engineering/computerscience/bs-applied-computer-science-math/).
 
 
 
-
-
-<sub>[#academia](#academia) [#graduate](#graduate) [#math](#math) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</sub>
+<sub>[#computer_science](#computer_science) [#math](#math) [#second_major](#second_major) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## How is physics counted for our programs? {#how-is-physics-counted-for-our-programs}
@@ -1237,9 +1240,11 @@ See [here](https://cse.wustl.edu/academics/placement-exam.html) to see if you ma
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/81">Discussions View</a></sub>
 
- Our general rule of thumb is that a 3 unit course takes somewhere between 10–12 hours of your time a week, including the time you spend in lecture. For a project, thesis, or independent study, a 15-week semester would therefore take 150–180 hours of your time. If you are interested in a 6 unit project it would take twice that, and that's usually not possible in a single semester, so most 6-unit projects and such are accomplished in two semesters.
+ The [rule of thumb](https://en.wikipedia.org/wiki/Rule_of_thumb) is that a unit of coursework is 3-4 hours of time *outside* class.  Most courses are 3 units, so 9-12 of work outside the classroom plus the ~3 hours of class time.  So regular classes may require ~11-15 hours per week total.  The work in most classes varies from week-to-week, but it's best to plan for the worst case, where all course have a "busy" (~11 hour) week at the same time.
 
-<sub>[#academia](#academia) [#credit](#credit) [#graduate](#graduate) [#independent_study](#independent_study) [#masters](#masters) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+Non-classroom activities, like project, thesis, and independent study have the same work expectations.  For example, a 3 unit project over a 15-week semester should be about 150–180 hours of work. If you are interested in a 6 unit project it would take twice that, and that's usually not possible in a single semester.  Most 6-unit projects and such are accomplished in two semesters.
+
+<sub>[#credit](#credit) [#graduate](#graduate) [#independent_study](#independent_study) [#masters](#masters) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## How much time should I expect to spend on CSE131? {#how-much-time-should-i-expect-to-spend-on-cse}
@@ -1288,7 +1293,7 @@ See [here](https://cse.wustl.edu/academics/placement-exam.html) to see if you ma
 
 
 
-<sub>[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#research](#research) [#reu](#reu) [#student_life](#student_life) [#undergraduate](#undergraduate) [#work_study](#work_study) [#working_with_faculty](#working_with_faculty)</sub>
+<sub>[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#research](#research) [#reu](#reu) [#student_life](#student_life) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</sub>
 
 ---
 ## I accepted a job offer with company X but have since received a more attracive offer from company Y. What should I do? {#i-accepted-a-job-offer-with-company-x-but-have-since-received-a-more-attracive-offer-from-company-y-what-should-i-do}
@@ -1456,19 +1461,22 @@ Often there is about a 5% change in enrollments in 131 during the first week(s) 
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/77">Discussions View</a></sub>
 
- There are usually multiple ways to go and your particular solution here will depend on your interests and the courses' availability. But here are some ideas.
+ There are multiple ways to go and your particular solution here will depend on your interests and the courses' availability. But here are some ideas.
 
- CSE132  Introduction to computer engineering
-  CSE247  Algorithms and data structures. Some students like to take CSE240 prior to this, but it's not necessary if you take a look
-[this](https://www.cse.wustl.edu/~cytron/cse247/Info/prereq.html) to see if you are ready. This course is a gateway to many other courses.
-  CSE240 or Math 310 or Math 310W  Discrete math, which instructs on many topics of interest for computer science.
-  CSE204A  Web design
-  CSE231S  Concurrent and parallel program. It's like what you did in CSE131, but now your programs do multiple things at the same time.
-  CSE330S  Rapid Prototype Development and Creative Programming
+* CSE132  Introduction to computer engineering
+* CSE247  Algorithms and data structures. This course is a gateway to many other courses.
+* CSE240 or Math 310 or Math 310W  Discrete math, which instructs on many topics of interest for computer science.
+* CSE204A  Web design (See note below)
+* CSE231S  Concurrent and parallel program. It's like what you did in CSE131, but now your programs do multiple things at the same time (See note below)
+* CSE330S  Rapid Prototype Development and Creative Programming (As the title implies, it is fast-paced.  330S will introduce many different technologies and may help develop skills beneficial for internships) (See note below)
+
+**NOTE:** Interest in these courses often exceeds the number of students who can take the course.  They may prioritize student in CSE degree who _need_ the course for degree progress.  If you have a strong interest in these courses you may want to pursue a degree in computing, like the Minor or Second Major in Computer Science.
 
 
 
-<sub>[#cse131](#cse131) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+
+
+<sub>[#cse131](#cse131) [#graduate](#graduate) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## I have installed eclipse on my Windows computer.  However, when I follow the instructions, the relevant menus don't seem to be there. {#i-have-installed-eclipse-on-my-windows-computer--however-when-i-follow-the-instructions-the-relevant-menus-dont-seem-to-be-there}
@@ -1488,11 +1496,12 @@ Often there is about a 5% change in enrollments in 131 during the first week(s) 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/50">Discussions View</a></sub>
 
  Most high school computer science courses cover programming, but not computer science as a discipline. In other words, you may have learned the nuts and bolts, but the background and theory are likely to be missing.
- However, we do not want you to waste your time! If you have had an AP course in computer science, or some other substantive experience, please see the instructor. We have a placement exam you can take to see if you should place out of CSE131.
+
+However, we do not want you to waste your time! If you have had an AP course in computer science (AP CS-A in particular), or some other substantive experience, please consider taking the [placement exam](https://wustlcse.github.io/FAQ/#how-does-the-cse-placement-exam-work--do-i-need-to-take-cse-) to see if your experience is commensurate with CSE 131. 
 
 
 
-<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## I have to take Math 310 as part of my studies for a math major or minor?  Can this count toward my CSE studies? {#i-have-to-take-math--as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies}
@@ -1510,7 +1519,7 @@ If you're pursuing a Major/Minor from the Math/Stat Department, you should check
 
 
 
-<sub>[#math](#math) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#math](#math) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## I need a laptop for my CSE work and don't have one that works; what should I do? {#i-need-a-laptop-for-my-cse-work-and-dont-have-one-that-works-what-should-i-do}
@@ -1972,7 +1981,7 @@ credit
 
 
 
-<sub>[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#student_life](#student_life) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#work_study](#work_study) [#working_with_faculty](#working_with_faculty)</sub>
+<sub>[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#student_life](#student_life) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</sub>
 
 ---
 ## Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits? {#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits}
@@ -3119,8 +3128,6 @@ There are only a few CSE courses that require a specific operating systems and t
 
 : [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
 
-: [Can I take courses outside the department to satisfy core requirements?](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements)
-
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
 : [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
@@ -3159,11 +3166,7 @@ There are only a few CSE courses that require a specific operating systems and t
 
 : [How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
 
-: [How is CS+Math different from a double (second) major?](#how-is-csmath-different-from-a-double-second-major)
-
 : [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
-
-: [How much time do I spend on a course here?](#how-much-time-do-i-spend-on-a-course-here)
 
 : [How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
 
@@ -3310,6 +3313,8 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 : [How do I earn a minor in bioinformatics?](#how-do-i-earn-a-minor-in-bioinformatics)
 
 : [How do I earn a minor in computer science?](#how-do-i-earn-a-minor-in-computer-science)
+
+: [How is CS+Math different from a double (second) major?](#how-is-csmath-different-from-a-double-second-major)
 
 : [What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
 
@@ -3529,8 +3534,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [How do I do CS+Math?<br>What upper level electives count?<br>Can I do this as a second major?](#how-do-i-do-csmathbrwhat-upper-level-electives-countbrcan-i-do-this-as-a-second-major)
 
-: [How do I earn a minor in computer engineering?](#how-do-i-earn-a-minor-in-computer-engineering)
-
 : [How do I earn a second major in computer engineering?](#how-do-i-earn-a-second-major-in-computer-engineering)
 
 : [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
@@ -3550,8 +3553,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 : [How does pass/fail work?](#how-does-passfail-work)
 
 : [How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
-
-: [How is CS+Math different from a double (second) major?](#how-is-csmath-different-from-a-double-second-major)
 
 : [How is physics counted for our programs?](#how-is-physics-counted-for-our-programs)
 
@@ -3745,8 +3746,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [How do I earn a minor in bioinformatics?](#how-do-i-earn-a-minor-in-bioinformatics)
 
-: [How do I earn a minor in computer science?](#how-do-i-earn-a-minor-in-computer-science)
-
 : [How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
 
 : [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
@@ -3805,8 +3804,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
 
-: [Can I take courses outside the department to satisfy core requirements?](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements)
-
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
 : [Do I need an EIT account for CSE131?  Do I need to buy a computer?](#do-i-need-an-eit-account-for-cse--do-i-need-to-buy-a-computer)
@@ -3835,10 +3832,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [How do I earn a minor in Human-Computer Interaction (HCI)?](#how-do-i-earn-a-minor-in-human-computer-interaction-hci)
 
-: [How do I earn a minor in computer engineering?](#how-do-i-earn-a-minor-in-computer-engineering)
-
-: [How do I earn a minor in computer science?](#how-do-i-earn-a-minor-in-computer-science)
-
 : [How do I earn a second major in computer engineering?](#how-do-i-earn-a-second-major-in-computer-engineering)
 
 : [How do I earn participation credit for this course?](#how-do-i-earn-participation-credit-for-this-course)
@@ -3863,13 +3856,9 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
 
-: [How is CS+Math different from a double (second) major?](#how-is-csmath-different-from-a-double-second-major)
-
 : [How is physics counted for our programs?](#how-is-physics-counted-for-our-programs)
 
 : [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
-
-: [How much time do I spend on a course here?](#how-much-time-do-i-spend-on-a-course-here)
 
 : [How much time should I expect to spend on CSE131?](#how-much-time-should-i-expect-to-spend-on-cse)
 
@@ -3891,13 +3880,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [I have accommodation on timed exams and quizzes.  How do I arrange to take these at Cornerstone?](#i-have-accommodation-on-timed-exams-and-quizzes--how-do-i-arrange-to-take-these-at-cornerstone)
 
-: [I have enjoyed 131.  What course should I take next?](#i-have-enjoyed---what-course-should-i-take-next)
-
 : [I have installed eclipse on my Windows computer.  However, when I follow the instructions, the relevant menus don't seem to be there.](#i-have-installed-eclipse-on-my-windows-computer--however-when-i-follow-the-instructions-the-relevant-menus-dont-seem-to-be-there)
-
-: [I have some programming experience.  Will I be bored in CSE131?](#i-have-some-programming-experience--will-i-be-bored-in-cse)
-
-: [I have to take Math 310 as part of my studies for a math major or minor?  Can this count toward my CSE studies?](#i-have-to-take-math--as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies)
 
 : [I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
 
@@ -4049,7 +4032,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
 
-<a name="requirements"></a>requirements : requirements
+<a name="requirements"></a>requirements : Requirements for degrees
 
 : [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
 
@@ -4063,7 +4046,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
 
-<a name="research"></a>research : research
+<a name="research"></a>research : Getting involved in CSE research, working with research faculty, and other research opportunities
 
 : [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
@@ -4077,7 +4060,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
 
-<a name="residency"></a>residency : residency
+<a name="residency"></a>residency : The CSE "residency" requirements (minimum number of WashU CSE courses required for our degrees)
 
 : [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
 
@@ -4177,7 +4160,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Why St. Louis?](#why-st-louis)
 
-<a name="teaching_assistant"></a>teaching_assistant : teaching_assistant
+<a name="teaching_assistant"></a>teaching_assistant : Details about being a Teaching Assistant (TA)
 
 : [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
@@ -4187,7 +4170,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
 
-<a name="transfer_courses"></a>transfer_courses : transfer_courses
+<a name="transfer_courses"></a>transfer_courses : Rules and procedures for transfering courses from other academic institutions
 
 : [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
 
@@ -4197,7 +4180,7 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [What courses count toward my major or minor from outside the CSE department?<br>What are our department's residency requirements?](#what-courses-count-toward-my-major-or-minor-from-outside-the-cse-departmentbrwhat-are-our-departments-residency-requirements)
 
-<a name="undergraduate"></a>undergraduate : undergraduate
+<a name="undergraduate"></a>undergraduate : Details relevant to undergraduate degrees (B.S., Minors, etc.)
 
 : [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
 
@@ -4403,16 +4386,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
-<a name="work_study"></a>work_study : work_study
-
-: [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
-
-: [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
-
-: [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
-
-: [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
-
 <a name="working_with_faculty"></a>working_with_faculty : working_with_faculty
 
 : [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
@@ -4499,11 +4472,11 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 [recommendation_letters](#recommendation_letters) : Suggestions for how you can obtain recommendation letters for jobs/graduate school/etc.
 
-[requirements](#requirements) : requirements
+[requirements](#requirements) : Requirements for degrees
 
-[research](#research) : research
+[research](#research) : Getting involved in CSE research, working with research faculty, and other research opportunities
 
-[residency](#residency) : residency
+[residency](#residency) : The CSE "residency" requirements (minimum number of WashU CSE courses required for our degrees)
 
 [reu](#reu) : Research Experiences for Undergraduates (supported by the National Science Foundation (NSF))
 
@@ -4511,13 +4484,11 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 [student_life](#student_life) : Both academic and non-academic issues common in the life of students
 
-[teaching_assistant](#teaching_assistant) : teaching_assistant
+[teaching_assistant](#teaching_assistant) : Details about being a Teaching Assistant (TA)
 
-[transfer_courses](#transfer_courses) : transfer_courses
+[transfer_courses](#transfer_courses) : Rules and procedures for transfering courses from other academic institutions
 
-[undergraduate](#undergraduate) : undergraduate
-
-[work_study](#work_study) : work_study
+[undergraduate](#undergraduate) : Details relevant to undergraduate degrees (B.S., Minors, etc.)
 
 [working_with_faculty](#working_with_faculty) : working_with_faculty
 
