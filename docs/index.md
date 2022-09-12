@@ -31,7 +31,9 @@ markdown: kramdown
 
 [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
 
-[Can I take courses outside the department to satisfy core requirements?](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements)
+[Can I take courses outside the department to satisfy **core** requirements or **electives**?
+
+What courses count toward my major or minor from outside the CSE department? ](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements-or-electiveswhat-courses-count-toward-my-major-or-minor-from-outside-the-cse-department-)
 
 [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
@@ -141,8 +143,6 @@ markdown: kramdown
 
 [I have enjoyed 131.  What course should I take next?](#i-have-enjoyed---what-course-should-i-take-next)
 
-[I have installed eclipse on my Windows computer.  However, when I follow the instructions, the relevant menus don't seem to be there.](#i-have-installed-eclipse-on-my-windows-computer--however-when-i-follow-the-instructions-the-relevant-menus-dont-seem-to-be-there)
-
 [I have some programming experience.  Will I be bored in CSE131?](#i-have-some-programming-experience--will-i-be-bored-in-cse)
 
 [I have to take Math 310 as part of my studies for a math major or minor?  Can this count toward my CSE studies?](#i-have-to-take-math--as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies)
@@ -191,15 +191,11 @@ markdown: kramdown
 
 [Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
 
-[Should I switch a course to pass/fail grading in the Spring&nbsp;2020 semester?](#should-i-switch-a-course-to-passfail-grading-in-the-springnbsp-semester)
-
 [What are residency requirements?](#what-are-residency-requirements)
 
 [What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
 
 [What can I read to learn more about "computing" topics?](#what-can-i-read-to-learn-more-about-computing-topics)
-
-[What courses count toward my major or minor from outside the CSE department?<br>What are our department's residency requirements?](#what-courses-count-toward-my-major-or-minor-from-outside-the-cse-departmentbrwhat-are-our-departments-residency-requirements)
 
 [What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
 
@@ -395,16 +391,20 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 <sub>[#academia](#academia) [#graduate](#graduate) [#needs_review](#needs_review) [#residency](#residency) [#transfer_courses](#transfer_courses) [#undergraduate](#undergraduate)</sub>
 
 ---
-## Can I take courses outside the department to satisfy core requirements? {#can-i-take-courses-outside-the-department-to-satisfy-core-requirements}
+## Can I take courses outside the department to satisfy **core** requirements or **electives**?
+What courses count toward my major or minor from outside the CSE department?  {#can-i-take-courses-outside-the-department-to-satisfy-core-requirements-or-electiveswhat-courses-count-toward-my-major-or-minor-from-outside-the-cse-department-}
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/13">Discussions View</a></sub>
 
 
-First, be aware of the department's [residency](https://wustlcse.github.io/FAQ/#residency) requirements., which limits how many courses you can take outside our department and still earn an major or minor from our department. Those rules ensure that students graduating from our programs have taken enough courses from WashU's CSE department to merit a degree from our department. 
 
-Most often, students seek to count **elective courses**.  These fall in two categories:
-* Computing courses from other universities.  See [transfer courses](https://wustlcse.github.io/FAQ/#transfer_courses).
-* Other courses at WashU that are relevant to computing. We do count certain courses toward technical electives for some degrees (Majors and Minor in Computer Science).  "Technical Electives" should have a significant component that includes: coding/programming and/or algorithm development/analysis.  If you know of a relevant course you're interested in taking and you are in a Computer Science degree, contact your **CSE faculty advisor** to discuss the course and having it approved for your studies. 
+There are a few different categories of "outside" courses:
+
+* Computing courses from other universities (not study abroad)
+  *  If a course has been approved as a transfer equivalent to a **core** course (See [transfer courses](https://wustlcse.github.io/FAQ/#transfer_courses)), it is subject to [residency](https://wustlcse.github.io/FAQ/#residency) requirements and needs to be replaced with a WashU course in a comparable area.  This ensures all WashU CSE grads have had exposure to all core areas via some WashU course, either the designated core course or another course in a comparable area. 
+  * If a course is approved as an **elective** and is a valid transfer, you are still subject to [residency](https://wustlcse.github.io/FAQ/#residency) requirements and may need to take additional WashU electives. 
+* Courses at WashU in other departments that seem like relevant **electives** 
+   * CSE does count certain courses toward technical electives for some degrees (Majors and Minor in Computer Science) with some limits.  "Technical Electives" should have a significant component that includes: coding/programming and/or algorithm development/analysis.  If you know of a relevant course you're interested in taking and you are in a Computer Science degree, contact your **CSE faculty advisor** to discuss the course and having it approved for your studies. 
 
 CSE 131 is a little bit of an exception.  Appropriate courses and AP CS-A credit can count as CSE 131 without counting that against any residency requirement in our department.
 
@@ -851,9 +851,9 @@ You may want to browse courses that are required for [Computer Engineering](http
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/70">Discussions View</a></sub>
 
- You can't: we don't offer a second major in computer engineering. May we suggest a second major in computer science, where you focus on computer engineering courework? Or perhaps you would like to make computer engineering your primary major?
+ You can't: we don't offer a second major in Computer Engineering. Consider a primary major in Computer Engineering and a Second Major in Computer Science.   This approach will ensure you have the background needed for Computer Engineering and still allows you to get a significant amount of work in Computer Science.  In fact, with careful selection of electives it's possible to get both with only a little additional coursework. 
 
-<sub>[#academia](#academia) [#computer_engineering](#computer_engineering) [#graduate](#graduate) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</sub>
+<sub>[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#second_major](#second_major) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## How do I earn participation credit for this course? {#how-do-i-earn-participation-credit-for-this-course}
@@ -1251,9 +1251,9 @@ Non-classroom activities, like project, thesis, and independent study have the s
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/52">Discussions View</a></sub>
 
- CSE131 emphasises learning by doing. Most of your time outside of class will be spent on lab assignments. You will spend very little time reading, since everything you need to know will be covered in lecture, studio, or in the lab assignments. Since CSE131 is a 3 unit course, you should expect to spend about 10 hours per week on average, including time spent watching videos, doing assignemnts, and attending studios. Some weeks will require more time, some will require less. 
+ CSE131 emphasises learning by doing. Most of your time outside of class will be spent on weekly assignments.  Since CSE131 is a 3 unit course, you should expect to spend about 10-11 hours per week on average, including time spent in class sessions and reading/videos. Some weeks will require more time, some will require less. 
 
-<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#cse131](#cse131) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## How should I back up my work on my computer? {#how-should-i-back-up-my-work-on-my-computer}
@@ -1477,18 +1477,6 @@ Often there is about a 5% change in enrollments in 131 during the first week(s) 
 
 
 <sub>[#cse131](#cse131) [#graduate](#graduate) [#undergraduate](#undergraduate)</sub>
-
----
-## I have installed eclipse on my Windows computer.  However, when I follow the instructions, the relevant menus don't seem to be there. {#i-have-installed-eclipse-on-my-windows-computer--however-when-i-follow-the-instructions-the-relevant-menus-dont-seem-to-be-there}
-
-<sub><a href="https://github.com//wustlcse/FAQ/discussions/79">Discussions View</a></sub>
-
- For reasons we have not yet fathomed, this problem occurs only when your eclipse files are in the special `program files` folder in Windows 7. So don't put the files there, just put them on your desktop (the folder will be called `eclipse`, and the thing you click to run eclipse is inside that folder).
- In other words, re-download the eclipse project from the website, but this time unzip the files to your desktop.
-
-
-
-<sub>[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## I have some programming experience.  Will I be bored in CSE131? {#i-have-some-programming-experience--will-i-be-bored-in-cse}
@@ -2018,43 +2006,6 @@ credit
 <sub>[#academia](#academia) [#graduate](#graduate) [#independent_study](#independent_study) [#jobs](#jobs) [#needs_review](#needs_review) [#research](#research) [#undergraduate](#undergraduate)</sub>
 
 ---
-## Should I switch a course to pass/fail grading in the Spring&nbsp;2020 semester? {#should-i-switch-a-course-to-passfail-grading-in-the-springnbsp-semester}
-
-<sub><a href="https://github.com//wustlcse/FAQ/discussions/46">Discussions View</a></sub>
-
-
-
- Background
-  Due to the [COVID-19 crisis](https://en.wikipedia.org/wiki/Coronavirus_disease_2019)  and the resulting mid-semester switch to an online teaching format, the [McKelvey School of Engineering](https://engineering.wustl.edu/), like many of its peers, opted to allow students to switch to a pass/fail grade for any course while still allowing that course to count against the degree requirements the course was originally intended to satisfy. 
- This is an unprecedented step for an unprecedented situation.
-  What can I do?
-  For the Spring 2020 semester only, you are allowed at any point up to and including the last day of instruction (24 April 2020) to designate any of your courses pass/fail. 
- * For students in a McKelvey (CSE) major or minor program, such courses will count as if taken for credit toward any of your major or minor requirements in the McKelvey School of Engineering. 
- * For programs not in the engineering school, you must consult faculty or administrators in those schools to determine how your work will count towards those programs.
-
-
- Why is this option offered?
-  The school and department recognize that finishing your work this semester may be more difficult without physical access to campus.
- The pass/fail option offers you flexibility in how you spend your time. Because the move to pass/fail can be made any time up to and including the last day of instruction, if your success in a given course is suffering for whatever reason, you can switch that course to pass/fail and still have it count as if for credit.
-  How will this look on my transcript?
-  There will be an explicit annotation on students' transcripts explaining the circumstances of the pass/fail grade for this semester.
-  How will employers or graduate schools view such grades?
-  Potential employers and graduate schools are well aware of this situation. Therefore, we fully expect that the presence of pass/fail grades for this semester on a student's transcript will not have adverse effects on either job or graduate school opportunities, but those decisions are beyond our control.
-  Can I change my mind about pass/fail and go back to a letter grade?
-  It depends. We encourage you to make a decision and stick with that. Moreover, instructors are not obligated to keep letter grades for your assignments that are graded when you are registered pass/fail. 
- Before switching back to a letter grade, you should have a conversation with your instructor to make sure a letter grade can be submitted for you at that point in the semester.
-
-
-
-
-
-
- If you still have concerns regarding the implication of selecting a pass/fail option for a course this semester, you can reach out to the department's [chair](mailto:chair@cse.wustl.edu) or 
-[associate chair](mailto:associatechair@cse.wustl.edu) for additional assistance.
-
-<sub>[#academia](#academia) [#credit](#credit) [#graduate](#graduate) [#needs_review](#needs_review) [#passfail](#passfail) [#undergraduate](#undergraduate)</sub>
-
----
 ## What are residency requirements? {#what-are-residency-requirements}
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/118">Discussions View</a></sub>
@@ -2129,37 +2080,6 @@ Here are some recommendations by CSE faculty:
 <sub>[#misc](#misc) [#programming](#programming)</sub>
 
 ---
-## What courses count toward my major or minor from outside the CSE department?<br>What are our department's residency requirements? {#what-courses-count-toward-my-major-or-minor-from-outside-the-cse-departmentbrwhat-are-our-departments-residency-requirements}
-
-<sub><a href="https://github.com//wustlcse/FAQ/discussions/92">Discussions View</a></sub>
-
-
-
->  There is a different answer for study abroad, so please look there for information about that.
-> 
-
- Computer science and computer engineering are broad areas of study, and we recognize this by looking for courses outside our department that we can count toward your major or minor programs.
- On the other hand, it would not make sense for a student to take most of his or her courses outside our department and still earn a CSE major or minor from our department. We therefore have the following residency requirement for our department's elective credits:
-* If you are earning a major, then all but two electives (6 units) must be consist of courses taken (not by transfer) in our department ending in S, T, M, or A.
- * If you are earning a minor, then all but one elective (3 units) must be consist of courses taken (not by transfer) in our department ending in S, T, M, or A.
-
- How should you think about spending your 3 or 6 units?
-* You can take on independent study with faculty. Details of that are covered elsewhere.
- * You can take a course from the approved list of courses below.
- * You can arrange by exception to count a course that doesn't appear in our list below. That conversation starts with your advisor and ends with the department's associate chair.
-
-
-
->  The list of courses TBD
-> 
-
-
-
-
-
-<sub>[#academia](#academia) [#graduate](#graduate) [#needs_review](#needs_review) [#residency](#residency) [#transfer_courses](#transfer_courses) [#undergraduate](#undergraduate)</sub>
-
----
 ## What courses outside the CSE department should I take? {#what-courses-outside-the-cse-department-should-i-take}
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/76">Discussions View</a></sub>
@@ -2220,7 +2140,12 @@ Here are some recommendations by CSE faculty:
 
  Take a look [here](https://teachingcenter.wustl.edu/classrooms/directory/).
 
-<sub>[#academia](#academia) [#misc](#misc) [#needs_review](#needs_review)</sub>
+Many CSE courses use [Active Learning](https://ctl.wustl.edu/active-learning-classrooms/) rooms part of the time.   Manu of our courses also use labs with large, shared screens that facilitate collaboration on computing projects, like the the Urbauer Labs. 
+
+![image](https://user-images.githubusercontent.com/1421446/189672587-c0b10ed0-0910-4ac5-bcb6-a83fc5b3e388.png)
+(Image courtesy of https://engineering.wustl.edu/about/facilities/tour-our-buildings.html#UrbauerTour)
+
+<sub>[#academia](#academia) [#misc](#misc)</sub>
 
 ---
 ## What do our graduates do? {#what-do-our-graduates-do}
@@ -2242,7 +2167,7 @@ Here are some recommendations by CSE faculty:
 
 
 
-<sub>[#jobs](#jobs) [#needs_review](#needs_review)</sub>
+<sub>[#jobs](#jobs)</sub>
 
 ---
 ## What does <i>lecture-free</i> mean?  How is this course different from a typical lecture class? {#what-does-ilecture-freei-mean--how-is-this-course-different-from-a-typical-lecture-class}
@@ -2367,9 +2292,9 @@ Courses with an "N" designation will not count for credit for students in the de
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/63">Discussions View</a></sub>
 
- That's a Frequently Asked Question!
+ That's a Frequently Asked Question! See Wikipedia's [FAQ](https://en.wikipedia.org/wiki/FAQ) for some history of the term.
 
-<sub>[#misc](#misc) [#needs_review](#needs_review)</sub>
+<sub>[#misc](#misc)</sub>
 
 ---
 ## What is a senior thesis and should I do one? {#what-is-a-senior-thesis-and-should-i-do-one}
@@ -2632,10 +2557,11 @@ Students at Washington University are assigned many advisors, and it is helpful 
 
 <sub><a href="https://github.com//wustlcse/FAQ/discussions/61">Discussions View</a></sub>
 
- We use Java in both CSE131 and CSE247 because it is still the language used in the AP computer science curriculum in high schools in the US.
- If you are a transfer student, or an MS student in another department, we welcome you to CSE247/502N, but you will be responsible for completing assignments using Java with the same deadlines as all students. You can probably pick up Java on your own if you have significant experience with another similar programming language.
- The use of Java in this course is fairly straightforward.
- If you have further questions, please contact the instructor of record for the semester in which you want to take CSE247/502N.
+We use Java in both CSE131 and CSE247 because it is still the language used in the AP computer science A curriculum in high schools in the US.
+
+If you are a transfer student, or an MS student in another department, we welcome you to CSE247/502N, but you will be responsible for completing assignments using Java with the same deadlines as all students. You can probably pick up Java on your own if you have significant experience with another similar programming language. (You may want to look at our [CSE Placement Exam](https://cse.wustl.edu/academics/placement-exam.html) page, which includes links to resources for those who have prior programming experience with other languages to do "crash course" in Java. 
+
+The use of Java in this course is fairly straightforward. If you have further questions, please contact the instructor of record for the semester in which you want to take CSE247/502N.
 
 
 
@@ -2643,7 +2569,7 @@ Students at Washington University are assigned many advisors, and it is helpful 
 
 
 
-<sub>[#academia](#academia) [#graduate](#graduate) [#masters](#masters) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</sub>
+<sub>[#graduate](#graduate) [#masters](#masters) [#undergraduate](#undergraduate)</sub>
 
 ---
 ## What probability/statistics course should I take? {#what-probabilitystatistics-course-should-i-take}
@@ -3146,8 +3072,6 @@ There are only a few CSE courses that require a specific operating systems and t
 
 : [How do I earn a minor in bioinformatics?](#how-do-i-earn-a-minor-in-bioinformatics)
 
-: [How do I earn a second major in computer engineering?](#how-do-i-earn-a-second-major-in-computer-engineering)
-
 : [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
 : [How do I frame my thinking about staying for a master's degree?](#how-do-i-frame-my-thinking-about-staying-for-a-masters-degree)
@@ -3198,13 +3122,9 @@ There are only a few CSE courses that require a specific operating systems and t
 
 : [Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
 
-: [Should I switch a course to pass/fail grading in the Spring&nbsp;2020 semester?](#should-i-switch-a-course-to-passfail-grading-in-the-springnbsp-semester)
-
 : [What are residency requirements?](#what-are-residency-requirements)
 
 : [What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
-
-: [What courses count toward my major or minor from outside the CSE department?<br>What are our department's residency requirements?](#what-courses-count-toward-my-major-or-minor-from-outside-the-cse-departmentbrwhat-are-our-departments-residency-requirements)
 
 : [What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
 
@@ -3229,8 +3149,6 @@ There are only a few CSE courses that require a specific operating systems and t
 : [What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
 
 : [What is the difference between my 4-year advisor and my departmental advisor?](#what-is-the-difference-between-my--year-advisor-and-my-departmental-advisor)
-
-: [What language does CSE247/502N use?  Do I have to have taken CSE131/501N?](#what-language-does-csen-use--do-i-have-to-have-taken-csen)
 
 : [What probability/statistics course should I take?](#what-probabilitystatistics-course-should-i-take)
 
@@ -3314,6 +3232,8 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [How do I earn a minor in computer science?](#how-do-i-earn-a-minor-in-computer-science)
 
+: [How do I earn a second major in computer engineering?](#how-do-i-earn-a-second-major-in-computer-engineering)
+
 : [How is CS+Math different from a double (second) major?](#how-is-csmath-different-from-a-double-second-major)
 
 : [What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
@@ -3364,8 +3284,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [How much time do I spend on a course here?](#how-much-time-do-i-spend-on-a-course-here)
 
-: [Should I switch a course to pass/fail grading in the Spring&nbsp;2020 semester?](#should-i-switch-a-course-to-passfail-grading-in-the-springnbsp-semester)
-
 <a name="cse131"></a>cse131 : CSE 131/501N: Intro. to Computer Science
 
 : [Do I need an EIT account for CSE131?  Do I need to buy a computer?](#do-i-need-an-eit-account-for-cse--do-i-need-to-buy-a-computer)
@@ -3393,8 +3311,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 : [I have accommodation on timed exams and quizzes.  How do I arrange to take these at Cornerstone?](#i-have-accommodation-on-timed-exams-and-quizzes--how-do-i-arrange-to-take-these-at-cornerstone)
 
 : [I have enjoyed 131.  What course should I take next?](#i-have-enjoyed---what-course-should-i-take-next)
-
-: [I have installed eclipse on my Windows computer.  However, when I follow the instructions, the relevant menus don't seem to be there.](#i-have-installed-eclipse-on-my-windows-computer--however-when-i-follow-the-instructions-the-relevant-menus-dont-seem-to-be-there)
 
 : [I have some programming experience.  Will I be bored in CSE131?](#i-have-some-programming-experience--will-i-be-bored-in-cse)
 
@@ -3506,7 +3422,9 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
 
-: [Can I take courses outside the department to satisfy core requirements?](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements)
+: [Can I take courses outside the department to satisfy **core** requirements or **electives**?
+
+What courses count toward my major or minor from outside the CSE department? ](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements-or-electiveswhat-courses-count-toward-my-major-or-minor-from-outside-the-cse-department-)
 
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
@@ -3533,8 +3451,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 : [How do I change my open program in computer science and engineering?](#how-do-i-change-my-open-program-in-computer-science-and-engineering)
 
 : [How do I do CS+Math?<br>What upper level electives count?<br>Can I do this as a second major?](#how-do-i-do-csmathbrwhat-upper-level-electives-countbrcan-i-do-this-as-a-second-major)
-
-: [How do I earn a second major in computer engineering?](#how-do-i-earn-a-second-major-in-computer-engineering)
 
 : [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
@@ -3600,13 +3516,9 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
 
-: [Should I switch a course to pass/fail grading in the Spring&nbsp;2020 semester?](#should-i-switch-a-course-to-passfail-grading-in-the-springnbsp-semester)
-
 : [What are residency requirements?](#what-are-residency-requirements)
 
 : [What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
-
-: [What courses count toward my major or minor from outside the CSE department?<br>What are our department's residency requirements?](#what-courses-count-toward-my-major-or-minor-from-outside-the-cse-departmentbrwhat-are-our-departments-residency-requirements)
 
 : [What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
 
@@ -3832,8 +3744,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [How do I earn a minor in Human-Computer Interaction (HCI)?](#how-do-i-earn-a-minor-in-human-computer-interaction-hci)
 
-: [How do I earn a second major in computer engineering?](#how-do-i-earn-a-second-major-in-computer-engineering)
-
 : [How do I earn participation credit for this course?](#how-do-i-earn-participation-credit-for-this-course)
 
 : [How do I find a summer internship?](#how-do-i-find-a-summer-internship)
@@ -3860,8 +3770,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
 
-: [How much time should I expect to spend on CSE131?](#how-much-time-should-i-expect-to-spend-on-cse)
-
 : [How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
 
 : [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
@@ -3879,8 +3787,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 : [I have a conflict with one of my exams in this class.  What should I do?](#i-have-a-conflict-with-one-of-my-exams-in-this-class--what-should-i-do)
 
 : [I have accommodation on timed exams and quizzes.  How do I arrange to take these at Cornerstone?](#i-have-accommodation-on-timed-exams-and-quizzes--how-do-i-arrange-to-take-these-at-cornerstone)
-
-: [I have installed eclipse on my Windows computer.  However, when I follow the instructions, the relevant menus don't seem to be there.](#i-have-installed-eclipse-on-my-windows-computer--however-when-i-follow-the-instructions-the-relevant-menus-dont-seem-to-be-there)
 
 : [I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
 
@@ -3920,27 +3826,17 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
 
-: [Should I switch a course to pass/fail grading in the Spring&nbsp;2020 semester?](#should-i-switch-a-course-to-passfail-grading-in-the-springnbsp-semester)
-
 : [What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
-
-: [What courses count toward my major or minor from outside the CSE department?<br>What are our department's residency requirements?](#what-courses-count-toward-my-major-or-minor-from-outside-the-cse-departmentbrwhat-are-our-departments-residency-requirements)
 
 : [What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
 
 : [What courses should I take if I am interested in machine learning?](#what-courses-should-i-take-if-i-am-interested-in-machine-learning)
-
-: [What do our classrooms look like and how many people can they seat?](#what-do-our-classrooms-look-like-and-how-many-people-can-they-seat)
-
-: [What do our graduates do?](#what-do-our-graduates-do)
 
 : [What does <i>lecture-free</i> mean?  How is this course different from a typical lecture class?](#what-does-ilecture-freei-mean--how-is-this-course-different-from-a-typical-lecture-class)
 
 : [What does a dean do?](#what-does-a-dean-do)
 
 : [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
-
-: [What is a FAQ?](#what-is-a-faq)
 
 : [What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
 
@@ -3955,8 +3851,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 : [What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
 
 : [What kind of computer should I have for studies in computer science or computer engineering?](#what-kind-of-computer-should-i-have-for-studies-in-computer-science-or-computer-engineering)
-
-: [What language does CSE247/502N use?  Do I have to have taken CSE131/501N?](#what-language-does-csen-use--do-i-have-to-have-taken-csen)
 
 : [What programming languages do we teach in our curriculum?](#what-programming-languages-do-we-teach-in-our-curriculum)
 
@@ -3987,8 +3881,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 <a name="passfail"></a>passfail : Rules/restrictions and issues about taking a course as pass/fail
 
 : [How does pass/fail work?](#how-does-passfail-work)
-
-: [Should I switch a course to pass/fail grading in the Spring&nbsp;2020 semester?](#should-i-switch-a-course-to-passfail-grading-in-the-springnbsp-semester)
 
 : [What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
 
@@ -4064,13 +3956,13 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
 
-: [Can I take courses outside the department to satisfy core requirements?](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements)
+: [Can I take courses outside the department to satisfy **core** requirements or **electives**?
+
+What courses count toward my major or minor from outside the CSE department? ](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements-or-electiveswhat-courses-count-toward-my-major-or-minor-from-outside-the-cse-department-)
 
 : [How do I earn a minor in computer science?](#how-do-i-earn-a-minor-in-computer-science)
 
 : [What are residency requirements?](#what-are-residency-requirements)
-
-: [What courses count toward my major or minor from outside the CSE department?<br>What are our department's residency requirements?](#what-courses-count-toward-my-major-or-minor-from-outside-the-cse-departmentbrwhat-are-our-departments-residency-requirements)
 
 <a name="reu"></a>reu : Research Experiences for Undergraduates (supported by the National Science Foundation (NSF))
 
@@ -4174,11 +4066,11 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
 
-: [Can I take courses outside the department to satisfy core requirements?](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements)
+: [Can I take courses outside the department to satisfy **core** requirements or **electives**?
+
+What courses count toward my major or minor from outside the CSE department? ](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements-or-electiveswhat-courses-count-toward-my-major-or-minor-from-outside-the-cse-department-)
 
 : [What are residency requirements?](#what-are-residency-requirements)
-
-: [What courses count toward my major or minor from outside the CSE department?<br>What are our department's residency requirements?](#what-courses-count-toward-my-major-or-minor-from-outside-the-cse-departmentbrwhat-are-our-departments-residency-requirements)
 
 <a name="undergraduate"></a>undergraduate : Details relevant to undergraduate degrees (B.S., Minors, etc.)
 
@@ -4192,7 +4084,9 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
 
-: [Can I take courses outside the department to satisfy core requirements?](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements)
+: [Can I take courses outside the department to satisfy **core** requirements or **electives**?
+
+What courses count toward my major or minor from outside the CSE department? ](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements-or-electiveswhat-courses-count-toward-my-major-or-minor-from-outside-the-cse-department-)
 
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
@@ -4292,8 +4186,6 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [I have enjoyed 131.  What course should I take next?](#i-have-enjoyed---what-course-should-i-take-next)
 
-: [I have installed eclipse on my Windows computer.  However, when I follow the instructions, the relevant menus don't seem to be there.](#i-have-installed-eclipse-on-my-windows-computer--however-when-i-follow-the-instructions-the-relevant-menus-dont-seem-to-be-there)
-
 : [I have some programming experience.  Will I be bored in CSE131?](#i-have-some-programming-experience--will-i-be-bored-in-cse)
 
 : [I have to take Math 310 as part of my studies for a math major or minor?  Can this count toward my CSE studies?](#i-have-to-take-math--as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies)
@@ -4334,13 +4226,9 @@ What kind of advice should I expect my advisor to provide?](#when-and-how-often-
 
 : [Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
 
-: [Should I switch a course to pass/fail grading in the Spring&nbsp;2020 semester?](#should-i-switch-a-course-to-passfail-grading-in-the-springnbsp-semester)
-
 : [What are residency requirements?](#what-are-residency-requirements)
 
 : [What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
-
-: [What courses count toward my major or minor from outside the CSE department?<br>What are our department's residency requirements?](#what-courses-count-toward-my-major-or-minor-from-outside-the-cse-departmentbrwhat-are-our-departments-residency-requirements)
 
 : [What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
 
