@@ -34,8 +34,6 @@ markdown: kramdown
 
 
 
-[Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
-
 [CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
 
 [CSE516A and Econ467: how are they different?](#csea-and-econ-how-are-they-different)
@@ -49,6 +47,8 @@ markdown: kramdown
 [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
 [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
+
+[Degree requirements have changed since I started.  Am I required or allowed to the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-the-new-requirements)
 
 [Do I need any computer science background to succeed in CSE131?](#do-i-need-any-computer-science-background-to-succeed-in-cse)
 
@@ -77,8 +77,6 @@ markdown: kramdown
 [How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
 
 [How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
-
-[How do I change my open program in computer science and engineering?](#how-do-i-change-my-open-program-in-computer-science-and-engineering)
 
 [How do I do CS+Math? What upper level electives count? Can I do this as a second major?](#how-do-i-do-csmath-what-upper-level-electives-count-can-i-do-this-as-a-second-major)
 
@@ -109,8 +107,6 @@ markdown: kramdown
 [How do I subscribe the the department's <EM>jobs</EM> email list?](#how-do-i-subscribe-the-the-departments-emjobsem-email-list)
 
 [How do the honors math courses count?](#how-do-the-honors-math-courses-count)
-
-[How does independent study work?](#how-does-independent-study-work)
 
 [How does pass/fail work?](#how-does-passfail-work)
 
@@ -186,8 +182,6 @@ markdown: kramdown
 
 [My employer wants a letter from the department for my green card application. How do I do that?](#my-employer-wants-a-letter-from-the-department-for-my-green-card-application-how-do-i-do-that)
 
-[My plans for Summer 2020 fell through due to COVID-19. What should I do?](#my-plans-for-summer--fell-through-due-to-covid--what-should-i-do)
-
 [Other ways to get involved](#other-ways-to-get-involved)
 
 [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
@@ -230,7 +224,7 @@ markdown: kramdown
 
 [What is recursion?](#what-is-recursion)
 
-[What is the difference between CSE 400 and CSE 400E?](#what-is-the-difference-between-cse--and-cse-e)
+[What is the difference between CSE 400 and CSE 400E  How does independent study work?](#what-is-the-difference-between-cse--and-cse-e--how-does-independent-study-work)
 
 [What is the difference between CSE131 and CSE131R?](#what-is-the-difference-between-cse-and-cser)
 
@@ -253,6 +247,8 @@ markdown: kramdown
 [What web design courses can I take?](#what-web-design-courses-can-i-take)
 
 [What's a hackathon, where/when/why/how should I get involved?](#whats-a-hackathon-wherewhenwhyhow-should-i-get-involved)
+
+[What's an "open" program?    How do I change/add/drop a degree (open program)?](#whats-an-open-program----how-do-i-changeadddrop-a-degree-open-program)
 
 [When am I allowed to collaborate on assignments?](#when-am-i-allowed-to-collaborate-on-assignments)
 
@@ -285,18 +281,6 @@ markdown: kramdown
 
 # Contents {#contents}
 
-## Am I allowed to follow the requirements from a year other than my year of entry to Washington University? {#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university}
-
-<span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/6">Discussions View</a></span>
-
- The current degree requirements are listed [here](https://cse.wustl.edu/undergraduate/programs/Pages/default.aspx). Once you follow that page to a particular program, you will see a place to click to access previous years' degree requirements. You can pick any year while you are a student at Washington University, but you cannot mix or match between years. You must satisfy all of the requirements of whichever year you designate as your effective requirements year.
- You should visit Engineering Student Services in Lopata 303 after you have decided which year you want, so they can make sure your degree audits reflect your degree requirements.
-
-
-
-<span class="tag-links">[#academia](#academia) [#degree](#degree) [#graduate](#graduate) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
-
----
 ## CSE courses are popular; how do we decide whom to admit to our courses? {#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses}
 
 <span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/45">Discussions View</a></span>
@@ -449,6 +433,24 @@ Other Departments or Schools, like the School of Arts and Sciences, may have rul
 For example, a student majoring in Math may take MA 310 as a requirement of their Math studies.  Many CSE degrees require either MA 310 or CSE 240 to ensure our students have experience with Discrete Math and proof techniques.  We usually "waive" the requirement for students who have taken MA 310.  They clearly have completed coursework needed for our degree and the waiver allows the MA 310 credit be used by the Math degree rather than being rejected due to double counting rules. 
 
 <span class="tag-links">[#academia](#academia) [#courses](#courses) [#double_counting](#double_counting) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
+
+---
+## Degree requirements have changed since I started.  Am I required or allowed to the new requirements? {#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-the-new-requirements}
+
+<span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/6">Discussions View</a></span>
+
+
+By default, degree requirements are based on the year you started that degree (see [here](https://bulletin.wustl.edu/about/editions/). The year you start is referred to as your "catalog year".   Requirements for the **current year**  are listed in the [Bulletin](https://bulletin.wustl.edu/). You can browse prior years at [https://bulletin.wustl.edu/about/prior/](https://bulletin.wustl.edu/about/prior/).  
+
+Degree audits ([WUAchieve](https://registrar.wustl.edu/wuachieve/)) will use the year you added a degree.  You can also run a "What If" report to see how well you comply with other years.   It's not possible to mix-and-match rules from different years, but the School of Engineering generally does allow students to request changes to **newer** catalog years.   If updates to the requirements seem to be beneficial to you, contact your advisors (both faculty and four-year) to review the situation.  If the consensus is that a newer catalog year is beneficial, contact either [Undergraduate Student Services](https://engineering.wustl.edu/offices-services/student-services/undergraduate-student-services/index.html) or [Graduate Student Services](https://engineering.wustl.edu/offices-services/student-services/graduate-student-services/index.html) to request a change (in some cases advisors may contact relevant parties on your behalf).
+
+
+
+
+
+
+
+<span class="tag-links">[#degree](#degree) [#graduate](#graduate) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
 
 ---
 ## Do I need any computer science background to succeed in CSE131? {#do-i-need-any-computer-science-background-to-succeed-in-cse}
@@ -742,35 +744,6 @@ On a final note, your real expertise as a programmer/computer scientist comes fr
 <span class="tag-links">[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#misc](#misc) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 
 ---
-## How do I change my open program in computer science and engineering? {#how-do-i-change-my-open-program-in-computer-science-and-engineering}
-
-<span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/5">Discussions View</a></span>
-
- An open program is a major or minor that you have in progress. 
-[WebSTAC](https://acadinfo.wustl.edu/WSHome/Default.aspx) can show you your open programs, and most changes to your programs can be done there too. You can declare second majors, switch from one major to another within the school, declare a minor program—all within 
-[WebSTAC](https://acadinfo.wustl.edu/WSHome/Default.aspx).
- Some changes require approval of an advisor or two, and emails are generated automatically by the changes you request to obtain such approvals.
- How do you know how your classes you've taken fit into a new major you might choose? [WUAchieve](https://registrar.wustl.edu/wuachieve/) can show you that. If you can't get it to show you the program you want, please see
-[Dean Tobin Harris](mailto:) in the Undergradute Engineering Student Services office.
- Some changes require a more personal touch. Would you like to switch your major program to the one that was in the Bulletin at the start of your sophomore year? If you cannot manage to do that via
-[WebSTAC](https://acadinfo.wustl.edu/WSHome/Default.aspx), then you should correspond with
-[Dean Tobin Harris](mailto:) in the Engineering Student Services office. He has magic powers to make
-[WebSTAC](https://acadinfo.wustl.edu/WSHome/Default.aspx) and
-[WUAchieve](https://engineering.wustl.edu/current-students/student-services/Pages/WUachieve.aspx) follow the programs of your dreams.
- Transferring schools? That's a bigger deal and requires more meetings, emails, and approvals, but it also begins with
-WebSTAC. Look for the `Change WU School` link. I'm told it's there but because I'm not a student, I can't verify its existence. Why transfer schools? That's the subject of another FAQ.
-
-
-
-
-
-
-
-
-
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
-
----
 ## How do I do CS+Math? What upper level electives count? Can I do this as a second major? {#how-do-i-do-csmath-what-upper-level-electives-count-can-i-do-this-as-a-second-major}
 
 <span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/18">Discussions View</a></span>
@@ -793,13 +766,12 @@ WebSTAC. Look for the `Change WU School` link. I'm told it's there but because I
 
 <span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/35">Discussions View</a></span>
 
- HCI studies the way humans and computers interact, aiming to improve the interfaces through which the two sides connect, communicate, and compute.
- The guidelines for completing an HCI minor can be found
-[here](http://bulletin.wustl.edu/undergrad/engineering/computerscience/minor-human-computer-interaction/).
+
+HCI studies the way humans and computers interact, aiming to improve the interfaces through which the two sides connect, communicate, and compute.  See the requirements of the [HCI Minor here](https://bulletin.wustl.edu/undergrad/engineering/computerscience/minor-human-computer-interaction/).
 
 
 
-<span class="tag-links">[#minor](#minor) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#minor](#minor) [#undergraduate](#undergraduate)</span>
 
 ---
 ## How do I earn a minor in bioinformatics? {#how-do-i-earn-a-minor-in-bioinformatics}
@@ -1020,40 +992,6 @@ Each time you get a message from the list it will include a footer that describe
 
 
 <span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#math](#math) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
-
----
-## How does independent study work? {#how-does-independent-study-work}
-
-<span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/4">Discussions View</a></span>
-
- We allow up to 6 units of credit toward our major's programs to be completed outside the traditional classroom. One such experience is an
-*independent study*, which typically involves working with a faculty member on research or a project of mutual interest.
- Independent study requires approval of the supervising faculty member. Students enroll in CSE 400E to receive elective credit for independent study, in the section associated with the supervising faculty member.
- The supervising faculty member must be faculty in our department or hold a courtesy appointment in our department. You must sign up for credit in the section associated with that supervising faculty member. The work you do may be with somebody outside of our department, in which case the *de jure* supervising faculty member will coordinate the activity with the
-*de facto* advisor for the work:
-* Your independent study must not violate our department's rules for the number of courses that can be taken outside our traditional classroom courses. This is articulated elsewhere.
- * It will be detetermined that the scope of work is appropriate for the number of units.
- * The criteria for success will be communicated explicitly between the
-*de facto* and *de jure* advisors.
- * The *de facto* advisor is responsible for writing a statement at the end of the independent study evaluating the quality of your work.
- * The grade for your work is determined at the recommendation of the *de facto* advisor and entered by the *de jure* advisor.
-
-
- As with any course, you will have to devote reasonable time to independent study. We generally hold that 3 units of credit is at least 10 hours of work a week. A semester has 15 weeks, so 3 units of independent study should take about 150 hours of your time.
- Because traditional courses have deadlines and independent study typically is more open-ended and flexible, many students make the mistake of putting off working on their independent study projects. This usually causes faculty to drop the independent study with the student.
- Success depends upon the appropriate investment of time by the student, the accurate and timely reporting of issues and progress, and the regular meetings with supervising faculty to keep the work on track. Most students who succeed at independent study report that they spend *more* than the usual amount of time on independent study, because they find the work interesting and rewarding.
-
-
-
-
-
-
-
-
-
-
-
-<span class="tag-links">[#academia](#academia) [#courses](#courses) [#credit](#credit) [#curriculum](#curriculum) [#get_involved](#get_involved) [#graduate](#graduate) [#independent_study](#independent_study) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 
 ---
 ## How does pass/fail work? {#how-does-passfail-work}
@@ -1647,17 +1585,19 @@ What steps do you take?
 
 <span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/24">Discussions View</a></span>
 
- The university distinguishes dropping a course and withdrawing from a course. Those distinctions are related to when you take action, and the relevant dates are published each semester on that semester's academic calendar, such as the one that appeared in [Spring 2017](Spring 2017).
-* The earlier of the two dates is the last day to drop (D) a course. By taking action on or before that day, the course is erased from your transcript as if you had never enrolled in that course. There is no effect on your transcript.
- * The later of the two dates is the last day to withdraw (W) from a course. The course remains on your transcript, but there is no effect on your GPA.
- Many students worry needlessly about the appearance of a W on their transcript. Quite often, withdrawing from a course is a wise choice, and the W can therefore stand for Wisdom. If you are conflicted about whether to stay or withdraw from a course, then talk with your academic or 4-year advisor.
 
- Note that if you are required to maintain a certain course load, dropping or withdrawing from a course may reduce your enrolled units below that threshold.
- You should check with your school's student services group to make sure that dropping or withdrawing from a course does not trigger an unpleasant consequence.
+The university distinguishes dropping a course and withdrawing from a course. Those distinctions are related to when you take action.  The relevant dates are published each semester on that semester's academic calendar. 
 
+* The earlier of the two dates is the last day to drop (D) a course. By taking action on or before that day, the course is erased from your transcript as if you had never enrolled in that course. This is usually very soon after the class starts (within the first 2 weeks of a full-semester course).
+* The later of the two dates is the last day to withdraw (W) from a course. The course remains on your transcript, but there is no effect on your GPA.  This is often a little after the middle of the course.
 
+Many students worry about the appearance of a W on their transcript. Often people who review transcripts consider a W or two to be a sign that a student was able to prioritize work and/or "cut losses" rather than any sort of shortcoming.   
 
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+If you are conflicted about whether to stay or withdraw from a course:
+* Talk with your academic and/or 4-year advisor.  
+* Review if you are required to maintain a certain course load, if dropping/withdrawing would put you under that threshold, and what the implications may be.  You may want to check with your school's student services group.  (If you're in McKelvey, either [Undergraduate Student Services](https://engineering.wustl.edu/offices-services/student-services/undergraduate-student-services/index.html) or [Graduate Student Services](https://engineering.wustl.edu/offices-services/student-services/graduate-student-services/index.html)).
+
+<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#undergraduate](#undergraduate)</span>
 
 ---
 ## Is CSE131 a weed-out course? {#is-cse-a-weed-out-course}
@@ -1783,39 +1723,6 @@ In the short-term and long-term, it is never worth it to cheat. There is always 
 
 
 <span class="tag-links">[#jobs](#jobs) [#misc](#misc) [#needs_review](#needs_review) [#student_life](#student_life)</span>
-
----
-## My plans for Summer 2020 fell through due to COVID-19. What should I do? {#my-plans-for-summer--fell-through-due-to-covid--what-should-i-do}
-
-<span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/29">Discussions View</a></span>
-
- First, please take all the steps recommended by reputable scientists to keep yourself, your family, and your friends safe.
- A number of summer opportunities have changed because of the spread of the [Novel Coronavirus](https://www.who.int/csr/don/archive/disease/novel_coronavirus/en/) and the associated disease it can cause, 
-[COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/index.html). Some of those internships have moved to remote presence, and others may have been rescinded.
- In any case, if you find yourself with some extra time this summer, here are some suggestions of what you might do:
-* We have a number of courses being offered this summer by our department. They will all be taught online. Please consult the
-[course listings](https://acadinfo.wustl.edu/CourseListings/Semester/Listing.aspx) to see what is offered. You may be interested in
-	+ Taking some courses. These could help satisfy some requirements.
-	 + TAing some of those courses. We can use your help and can pay you
-	$10 an hour.* We are allowing online courses this summer to count for your studies in our department, school, and university. 
-[Courses that already are approved](https://docs.google.com/spreadsheets/d/1xXmqPlaWyaW0Lwdk0zbbS3npBbylkuWvBglC-WKtQNE/edit?usp=sharing) as counting will count even if taught online. The process for petitioning for not-yet-approved courses is the same as usual.
- The department has published the 
-[list of courses that already count](https://docs.google.com/spreadsheets/d/1xXmqPlaWyaW0Lwdk0zbbS3npBbylkuWvBglC-WKtQNE/edit?usp=sharing) for your consideration. We don't know which of those will be offered online this summer.
- A similar list for *math* courses can be found
-[here](https://docs.google.com/spreadsheets/d/1HCaTOTWL79fpU9NWYLBqRSjdQtiT4IIkJW7cxR-XjUA/edit?usp=sharing).
-* You might find a job tutoring students online for our courses or for courses at high schools or colleges elsewhere.
-* There may be international opportunities to participate in remote research or development internships, or to take courses from schools abroad.
-* There are many open-source projects and associated communities. An* You might find a job tutoring students online for our courses or for courses at high schools or colleges elsewhere.
-* There may be international opportunities to participate in remote research or development internships, or to take courses from schools abroad.
-* There are many open-source projects and associated communities. An idea for you here is to take a hobby or interest, find an associated open-source project, and investigate features the associated community has
-*up-voted*. Start small with a simple feature, develop the feature, and contribute it to the community. You will get some realistic feedback about your coding style and implementation, and you will contribute to a project of mutual interest between yourself and others.
-
-
-
-
-
-
-<span class="tag-links">[#academia](#academia) [#courses](#courses) [#get_involved](#get_involved) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 
 ---
 ## Other ways to get involved {#other-ways-to-get-involved}
@@ -2170,14 +2077,16 @@ A traditional 3 unit lecture class consisted of 3 hours of lecture per week. Man
 <span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/25">Discussions View</a></span>
 
  The title of [dean](https://en.wikipedia.org/wiki/Dean_(education)) is usually given to an individual who has significant oversight or responsibility for an academic unit, in our case a school of our university.
- Amoung our schools, there appears to be no consistency between the flavors of dean titles, but an easy way to describe the main dean of a school is to say that he or she reports directly to the provost. These provost-reporting deans are each responsible for all activites of their respective schools: salaries, teaching, research infrastructure, planning, fundraising. The current dean of SEAS is [Aaron Bobick](https://engineering.wustl.edu/Profiles/Pages/Aaron-Bobick.aspx), and he is also a faculty member in CSE.
- Each school also has a dean who supervises the academic activities of that school. [Chris Kroeger](https://engineering.wustl.edu/current-students/student-services/Pages/staff.aspx) is that dean for SEAS, and his office hosts staff who also carry the dean title and who advise and oversee the school's academic programs.
+
+Among our schools, there appears to be no consistency between the flavors of dean titles, but an easy way to describe the main dean of a school is to say that he or she reports directly to the [provost](https://provost.wustl.edu/). These provost-reporting deans are each responsible for all activities of their schools: salaries, teaching, research infrastructure, planning, fundraising. 
+
+The current dean of the McKelvey School of Engineering is [Aaron Bobick](https://engineering.wustl.edu/Profiles/Pages/Aaron-Bobick.aspx), who is also a faculty member in CSE.  
+
+Each school also has an Associate Dean who supervises the academic activities of that school. [Chris Kroeger](https://engineering.wustl.edu/current-students/student-services/Pages/staff.aspx) is the Associate Dean for the School of Engineering. 
 
 
 
-
-
-<span class="tag-links">[#academia](#academia) [#needs_review](#needs_review)</span>
+<span class="tag-links">[#academia](#academia)</span>
 
 ---
 ## What does a provost do? {#what-does-a-provost-do}
@@ -2364,13 +2273,39 @@ See [here](https://github.com/wustlcse/FAQ/discussions/100).
 <span class="tag-links"></span>
 
 ---
-## What is the difference between CSE 400 and CSE 400E? {#what-is-the-difference-between-cse--and-cse-e}
+## What is the difference between CSE 400 and CSE 400E  How does independent study work? {#what-is-the-difference-between-cse--and-cse-e--how-does-independent-study-work}
 
 <span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/30">Discussions View</a></span>
 
- We have set things up so 400E counts as *elective credit* for students in CSE programs. You are allowed a certain number of elective course credits, and 400E will count toward that. CSE 400 counts as general credit at the university, but not toward a student's elective credits in our department.
+We have two course listings for "Independent Study", CSE 400E and CSE 400.  CSE 400E is meant to be used for technical elective credits toward CSE degrees.  CSE 400 is general credits for the university, but not toward a student's elective credits in a CSE degree.  Nearly all Independent Studies are done via **400E**.
 
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#independent_study](#independent_study) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+Independent study is generally meant for: 
+* Independent research into a topic
+* Study of a topic not offered by WashU courses (often this is structured in a course-like way)
+
+Independent study is not for:
+* Work that is paid/compensated, including work that accrues equity, like work for a startup that doesn't have immediate salary. 
+* Work where the Intellectual Property (IP) would not be retained by the student.  Generally, students own intellectual property they develop as part of their studies.  This is often in conflict with work developed for companies, which usually expect to own the rights to the work developed on their behalf.
+
+Most CSE degrees will allow some "independent study" units to count as part of their CSE Technical Electives *if the proposed work is relevant to the degree*.   Degrees that have a limited set of electives, like CS+Math, require additional approval to ensure independent study is aligned with the expectations of the technical electives for the degree.  
+
+If you have a topic you'd like to research/study that seems like a fit for independent study:
+* Contact your **faculty** advisor and start a conversation about the work you'd like to pursue.
+* Develop an outline/plan of:
+  * The planned schedule of work and scope (it should be distributed through the semester and the amount of work should be commensurate with the units desired.  3 units of independent study is course-like and typically ~150 hours of effort.
+  * A rubric for the grading/evaluation of the work. 
+  * Potential CSE faculty members who can supervise the work.  Often supervision involves weekly check-ins to ensure work is on progress and to provide feedback.  It's best to find someone with appropriate expertise or interest in the work.  If may be your faculty advisor. 
+* Once you have a plan, it needs to be approved by all parties:  your faculty advisor, the faculty member overseeing the independent study, and any degree-specific oversight committee.  
+  * Register for designated number of units of CSE  400 or 400E for the person who has agreed to oversee the work.
+  * Contact the [CSE Undergraduate Coordinator](https://cse.wustl.edu/about/staff.html) and request/complete the form for Independent Study, which requires signatures of all parties.  Submit the form.  Once the form is accepted, enrollment in CSE 400/400E will be completed.
+
+Success depends upon investment of time by the student, the accurate and timely reporting of issues and progress, and the regular meetings with supervising faculty to keep the work on track. Most students who succeed at independent study report that they spend *more* than the usual amount of time on independent study, because they find the work interesting and rewarding.
+
+
+
+
+
+<span class="tag-links">[#graduate](#graduate) [#independent_study](#independent_study) [#undergraduate](#undergraduate)</span>
 
 ---
 ## What is the difference between CSE131 and CSE131R? {#what-is-the-difference-between-cse-and-cser}
@@ -2665,6 +2600,35 @@ And finally, don't be intimidated if it's your first hackathon. Everyone remembe
 
 
 <span class="tag-links">[#get_involved](#get_involved) [#student_life](#student_life)</span>
+
+---
+## What's an "open" program?    How do I change/add/drop a degree (open program)? {#whats-an-open-program----how-do-i-changeadddrop-a-degree-open-program}
+
+<span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/5">Discussions View</a></span>
+
+ An open program is a major or minor that you have in progress. 
+
+[WebSTAC](https://acadinfo.wustl.edu/WSHome/Default.aspx) show your open programs.  Most changes to open **undergraduate programs** (adding/dropping/changing degrees) are done via WebSTAC.
+* You can request changes your prime major to another major _within the same school_ via WebSTAC.  (You can't change prime majors to a major in another school.  That requires an inter division transfer).  
+* You can request Minors and Second Majors from another school. 
+* You can also request changes to faculty advisors. 
+* Some combinations of degrees are not allowed, so WebSTAC may not allow you to request a degree based on your currently open programs.  If you are not sure why a particular CSE degree is unavailable to you, contact either the [CSE Associate Chair](mailto:associatechair@cse.wustl.edu) or the [McKelvey Registrar](https://engineering.wustl.edu/offices-services/student-services/undergraduate-student-services/staff.html). 
+* Transferring schools also begins with WebSTAC. Look for the `Change WU School` link.
+
+Graduate students should contact their graduate advisor to discuss degree changes and/or the program director of the degree they want to change to. 
+
+Most changes require approval of advisors or people in charge of the degrees requested.  Emails are automatically sent to notify relevant parties of requests.  If a request is approved, emails are also sent notifying relevant parties (student, old advisor, new advisor). 
+
+If you'd like to know if you are already "on track" for a potential new major, you can use [WUAchieve](https://registrar.wustl.edu/wuachieve/)'s "What If" feature to run a degree audit.  The audit will give a general overview of requirements you've already met and things that you may still be expected to complete.  The degree audit may not perfectly match all courses and may not take into account potential "double counting".  If it isn't clear that you can complete the new degree in a timely fashion, you may want to review the situation with an advisor. 
+
+
+
+
+
+
+
+
+<span class="tag-links">[#graduate](#graduate) [#undergraduate](#undergraduate)</span>
 
 ---
 ## When am I allowed to collaborate on assignments? {#when-am-i-allowed-to-collaborate-on-assignments}
@@ -3022,8 +2986,6 @@ There are only a few CSE courses that require a specific operating systems and t
 
 academia : Misc. topics about university policies, practices, administration, etc. <a class="anchored" name="academia" id="academia"></a>
 
-: [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
-
 : [CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
 
 : [CSE516A and Econ467: how are they different?](#csea-and-econ-how-are-they-different)
@@ -3044,8 +3006,6 @@ academia : Misc. topics about university policies, practices, administration, et
 
 : [How can I place out of a course if I think I already know that course's material?   What happens to my program of study if I do place out?](#how-can-i-place-out-of-a-course-if-i-think-i-already-know-that-courses-material---what-happens-to-my-program-of-study-if-i-do-place-out)
 
-: [How do I change my open program in computer science and engineering?](#how-do-i-change-my-open-program-in-computer-science-and-engineering)
-
 : [How do I do CS+Math? What upper level electives count? Can I do this as a second major?](#how-do-i-do-csmath-what-upper-level-electives-count-can-i-do-this-as-a-second-major)
 
 : [How do I earn a minor in bioinformatics?](#how-do-i-earn-a-minor-in-bioinformatics)
@@ -3061,8 +3021,6 @@ academia : Misc. topics about university policies, practices, administration, et
 : [How do I study CSE while preparing for medical school?](#how-do-i-study-cse-while-preparing-for-medical-school)
 
 : [How do the honors math courses count?](#how-do-the-honors-math-courses-count)
-
-: [How does independent study work?](#how-does-independent-study-work)
 
 : [How does pass/fail work?](#how-does-passfail-work)
 
@@ -3089,8 +3047,6 @@ academia : Misc. topics about university policies, practices, administration, et
 : [Is it ever worth it to cheat?](#is-it-ever-worth-it-to-cheat)
 
 : [Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
-
-: [My plans for Summer 2020 fell through due to COVID-19. What should I do?](#my-plans-for-summer--fell-through-due-to-covid--what-should-i-do)
 
 : [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
@@ -3119,8 +3075,6 @@ academia : Misc. topics about university policies, practices, administration, et
 : [What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
 
 : [What is academic integrity and how does the academic integrity process work?](#what-is-academic-integrity-and-how-does-the-academic-integrity-process-work)
-
-: [What is the difference between CSE 400 and CSE 400E?](#what-is-the-difference-between-cse--and-cse-e)
 
 : [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
@@ -3236,15 +3190,11 @@ courses : General details about our courses and enrolling in our courses <a clas
 
 : [How do I sign up for summer classes?](#how-do-i-sign-up-for-summer-classes)
 
-: [How does independent study work?](#how-does-independent-study-work)
-
 : [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
 
 : [If I am not satisfied with a grade I received on an assignment or in a course, what should I do?](#if-i-am-not-satisfied-with-a-grade-i-received-on-an-assignment-or-in-a-course-what-should-i-do)
 
 : [If I retake a course, what happens on my transcript and how does this affect my GPA?](#if-i-retake-a-course-what-happens-on-my-transcript-and-how-does-this-affect-my-gpa)
-
-: [My plans for Summer 2020 fell through due to COVID-19. What should I do?](#my-plans-for-summer--fell-through-due-to-covid--what-should-i-do)
 
 : [What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
 
@@ -3253,8 +3203,6 @@ courses : General details about our courses and enrolling in our courses <a clas
 : [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
 credit : Topics related to academic credits (units) <a class="anchored" name="credit" id="credit"></a>
-
-: [How does independent study work?](#how-does-independent-study-work)
 
 : [How does pass/fail work?](#how-does-passfail-work)
 
@@ -3304,13 +3252,11 @@ cse131 : CSE 131/501N: Intro. to Computer Science <a class="anchored" name="cse1
 
 curriculum : Details about content that comprise our degrees. <a class="anchored" name="curriculum" id="curriculum"></a>
 
-: [How does independent study work?](#how-does-independent-study-work)
-
 : [What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
 
 degree : Degree details and requirements <a class="anchored" name="degree" id="degree"></a>
 
-: [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
+: [Degree requirements have changed since I started.  Am I required or allowed to the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-the-new-requirements)
 
 : [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
 
@@ -3356,8 +3302,6 @@ get_involved : Ways to get involved in the discipline, or department, or other s
 
 : [How do I frame my thinking about staying for a master's degree?](#how-do-i-frame-my-thinking-about-staying-for-a-masters-degree)
 
-: [How does independent study work?](#how-does-independent-study-work)
-
 : [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
 : [I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
@@ -3367,8 +3311,6 @@ get_involved : Ways to get involved in the discipline, or department, or other s
 : [Is there a student group in our school?](#is-there-a-student-group-in-our-school)
 
 : [Is there a student group within our department?](#is-there-a-student-group-within-our-department)
-
-: [My plans for Summer 2020 fell through due to COVID-19. What should I do?](#my-plans-for-summer--fell-through-due-to-covid--what-should-i-do)
 
 : [Other ways to get involved](#other-ways-to-get-involved)
 
@@ -3382,8 +3324,6 @@ get_involved : Ways to get involved in the discipline, or department, or other s
 
 graduate : Graduate degrees (Masters and PhD) <a class="anchored" name="graduate" id="graduate"></a>
 
-: [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
-
 : [CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
 
 : [CSE516A and Econ467: how are they different?](#csea-and-econ-how-are-they-different)
@@ -3395,6 +3335,8 @@ graduate : Graduate degrees (Masters and PhD) <a class="anchored" name="graduate
 : [Can I take courses outside the department to satisfy **core** requirements or **electives**?  What courses count toward my major or minor from outside the CSE department? ](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements-or-electives--what-courses-count-toward-my-major-or-minor-from-outside-the-cse-department-)
 
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
+
+: [Degree requirements have changed since I started.  Am I required or allowed to the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-the-new-requirements)
 
 : [Do I need to take CSE 240 before CSE 247?](#do-i-need-to-take-cse--before-cse-)
 
@@ -3416,8 +3358,6 @@ graduate : Graduate degrees (Masters and PhD) <a class="anchored" name="graduate
 
 : [How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
 
-: [How do I change my open program in computer science and engineering?](#how-do-i-change-my-open-program-in-computer-science-and-engineering)
-
 : [How do I do CS+Math? What upper level electives count? Can I do this as a second major?](#how-do-i-do-csmath-what-upper-level-electives-count-can-i-do-this-as-a-second-major)
 
 : [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
@@ -3431,8 +3371,6 @@ graduate : Graduate degrees (Masters and PhD) <a class="anchored" name="graduate
 : [How do I study CSE while preparing for medical school?](#how-do-i-study-cse-while-preparing-for-medical-school)
 
 : [How do the honors math courses count?](#how-do-the-honors-math-courses-count)
-
-: [How does independent study work?](#how-does-independent-study-work)
 
 : [How does pass/fail work?](#how-does-passfail-work)
 
@@ -3474,8 +3412,6 @@ graduate : Graduate degrees (Masters and PhD) <a class="anchored" name="graduate
 
 : [Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
-: [My plans for Summer 2020 fell through due to COVID-19. What should I do?](#my-plans-for-summer--fell-through-due-to-covid--what-should-i-do)
-
 : [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
 : [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
@@ -3496,7 +3432,7 @@ graduate : Graduate degrees (Masters and PhD) <a class="anchored" name="graduate
 
 : [What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
 
-: [What is the difference between CSE 400 and CSE 400E?](#what-is-the-difference-between-cse--and-cse-e)
+: [What is the difference between CSE 400 and CSE 400E  How does independent study work?](#what-is-the-difference-between-cse--and-cse-e--how-does-independent-study-work)
 
 : [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
@@ -3505,6 +3441,8 @@ graduate : Graduate degrees (Masters and PhD) <a class="anchored" name="graduate
 : [What language does CSE247/502N use?  Do I have to have taken CSE131/501N?](#what-language-does-csen-use--do-i-have-to-have-taken-csen)
 
 : [What web design courses can I take?](#what-web-design-courses-can-i-take)
+
+: [What's an "open" program?    How do I change/add/drop a degree (open program)?](#whats-an-open-program----how-do-i-changeadddrop-a-degree-open-program)
 
 : [When and how often should I meet with my departmental faculty advisor?  What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisor--what-kind-of-advice-should-i-expect-my-advisor-to-provide)
 
@@ -3518,15 +3456,13 @@ independent_study : CSE 400 and CSE 400E: Independent study <a class="anchored" 
 
 : [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
-: [How does independent study work?](#how-does-independent-study-work)
-
 : [How much time do I spend on a course here?](#how-much-time-do-i-spend-on-a-course-here)
 
 : [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
 : [Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
 
-: [What is the difference between CSE 400 and CSE 400E?](#what-is-the-difference-between-cse--and-cse-e)
+: [What is the difference between CSE 400 and CSE 400E  How does independent study work?](#what-is-the-difference-between-cse--and-cse-e--how-does-independent-study-work)
 
 : [Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
 
@@ -3670,8 +3606,6 @@ misc : Miscellaneous topics <a class="anchored" name="misc" id="misc"></a>
 
 needs_review : Topics that need review.  Posted answer may not be accurate. <a class="anchored" name="needs_review" id="needs_review"></a>
 
-: [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
-
 : [CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
 
 : [CSE516A and Econ467: how are they different?](#csea-and-econ-how-are-they-different)
@@ -3700,11 +3634,7 @@ needs_review : Topics that need review.  Posted answer may not be accurate. <a c
 
 : [How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
 
-: [How do I change my open program in computer science and engineering?](#how-do-i-change-my-open-program-in-computer-science-and-engineering)
-
 : [How do I do CS+Math? What upper level electives count? Can I do this as a second major?](#how-do-i-do-csmath-what-upper-level-electives-count-can-i-do-this-as-a-second-major)
-
-: [How do I earn a minor in Human-Computer Interaction (HCI)?](#how-do-i-earn-a-minor-in-human-computer-interaction-hci)
 
 : [How do I earn participation credit for this course?](#how-do-i-earn-participation-credit-for-this-course)
 
@@ -3721,8 +3651,6 @@ needs_review : Topics that need review.  Posted answer may not be accurate. <a c
 : [How do I study CSE while preparing for medical school?](#how-do-i-study-cse-while-preparing-for-medical-school)
 
 : [How do the honors math courses count?](#how-do-the-honors-math-courses-count)
-
-: [How does independent study work?](#how-does-independent-study-work)
 
 : [How does pass/fail work?](#how-does-passfail-work)
 
@@ -3758,8 +3686,6 @@ needs_review : Topics that need review.  Posted answer may not be accurate. <a c
 
 : [If I retake a course, what happens on my transcript and how does this affect my GPA?](#if-i-retake-a-course-what-happens-on-my-transcript-and-how-does-this-affect-my-gpa)
 
-: [If I withdraw from a course, what shows up on my transcript and how does the dropped course affect my GPA?](#if-i-withdraw-from-a-course-what-shows-up-on-my-transcript-and-how-does-the-dropped-course-affect-my-gpa)
-
 : [Is it ever worth it to cheat?](#is-it-ever-worth-it-to-cheat)
 
 : [Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
@@ -3771,8 +3697,6 @@ needs_review : Topics that need review.  Posted answer may not be accurate. <a c
 : [Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
 : [My employer wants a letter from the department for my green card application. How do I do that?](#my-employer-wants-a-letter-from-the-department-for-my-green-card-application-how-do-i-do-that)
-
-: [My plans for Summer 2020 fell through due to COVID-19. What should I do?](#my-plans-for-summer--fell-through-due-to-covid--what-should-i-do)
 
 : [Other ways to get involved](#other-ways-to-get-involved)
 
@@ -3790,15 +3714,11 @@ needs_review : Topics that need review.  Posted answer may not be accurate. <a c
 
 : [What courses should I take if I am interested in machine learning?](#what-courses-should-i-take-if-i-am-interested-in-machine-learning)
 
-: [What does a dean do?](#what-does-a-dean-do)
-
 : [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
 : [What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
 
 : [What is academic integrity and how does the academic integrity process work?](#what-is-academic-integrity-and-how-does-the-academic-integrity-process-work)
-
-: [What is the difference between CSE 400 and CSE 400E?](#what-is-the-difference-between-cse--and-cse-e)
 
 : [What is the difference between CSE131 and CSE131R?](#what-is-the-difference-between-cse-and-cser)
 
@@ -3882,11 +3802,11 @@ recommendation_letters : Suggestions for how you can obtain recommendation lette
 
 requirements : Requirements for degrees <a class="anchored" name="requirements" id="requirements"></a>
 
-: [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
-
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
 : [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
+
+: [Degree requirements have changed since I started.  Am I required or allowed to the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-the-new-requirements)
 
 : [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
 
@@ -3962,8 +3882,6 @@ student_life : Both academic and non-academic issues common in the life of stude
 
 : [How do I frame my thinking about staying for a master's degree?](#how-do-i-frame-my-thinking-about-staying-for-a-masters-degree)
 
-: [How does independent study work?](#how-does-independent-study-work)
-
 : [How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
 
 : [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
@@ -3987,8 +3905,6 @@ student_life : Both academic and non-academic issues common in the life of stude
 : [Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
 : [My employer wants a letter from the department for my green card application. How do I do that?](#my-employer-wants-a-letter-from-the-department-for-my-green-card-application-how-do-i-do-that)
-
-: [My plans for Summer 2020 fell through due to COVID-19. What should I do?](#my-plans-for-summer--fell-through-due-to-covid--what-should-i-do)
 
 : [Other ways to get involved](#other-ways-to-get-involved)
 
@@ -4024,8 +3940,6 @@ transfer_courses : Rules and procedures for transfering courses from other acade
 
 undergraduate : Details relevant to undergraduate degrees (B.S., Minors, etc.) <a class="anchored" name="undergraduate" id="undergraduate"></a>
 
-: [Am I allowed to follow the requirements from a year other than my year of entry to Washington University?](#am-i-allowed-to-follow-the-requirements-from-a-year-other-than-my-year-of-entry-to-washington-university)
-
 : [CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
 
 : [CSE516A and Econ467: how are they different?](#csea-and-econ-how-are-they-different)
@@ -4039,6 +3953,8 @@ undergraduate : Details relevant to undergraduate degrees (B.S., Minors, etc.) <
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
 : [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
+
+: [Degree requirements have changed since I started.  Am I required or allowed to the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-the-new-requirements)
 
 : [Do I need any computer science background to succeed in CSE131?](#do-i-need-any-computer-science-background-to-succeed-in-cse)
 
@@ -4066,8 +3982,6 @@ undergraduate : Details relevant to undergraduate degrees (B.S., Minors, etc.) <
 
 : [How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
 
-: [How do I change my open program in computer science and engineering?](#how-do-i-change-my-open-program-in-computer-science-and-engineering)
-
 : [How do I do CS+Math? What upper level electives count? Can I do this as a second major?](#how-do-i-do-csmath-what-upper-level-electives-count-can-i-do-this-as-a-second-major)
 
 : [How do I earn a minor in Human-Computer Interaction (HCI)?](#how-do-i-earn-a-minor-in-human-computer-interaction-hci)
@@ -4093,8 +4007,6 @@ undergraduate : Details relevant to undergraduate degrees (B.S., Minors, etc.) <
 : [How do I study CSE while preparing for medical school?](#how-do-i-study-cse-while-preparing-for-medical-school)
 
 : [How do the honors math courses count?](#how-do-the-honors-math-courses-count)
-
-: [How does independent study work?](#how-does-independent-study-work)
 
 : [How does pass/fail work?](#how-does-passfail-work)
 
@@ -4160,8 +4072,6 @@ undergraduate : Details relevant to undergraduate degrees (B.S., Minors, etc.) <
 
 : [Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
-: [My plans for Summer 2020 fell through due to COVID-19. What should I do?](#my-plans-for-summer--fell-through-due-to-covid--what-should-i-do)
-
 : [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
 : [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
@@ -4184,7 +4094,7 @@ undergraduate : Details relevant to undergraduate degrees (B.S., Minors, etc.) <
 
 : [What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
 
-: [What is the difference between CSE 400 and CSE 400E?](#what-is-the-difference-between-cse--and-cse-e)
+: [What is the difference between CSE 400 and CSE 400E  How does independent study work?](#what-is-the-difference-between-cse--and-cse-e--how-does-independent-study-work)
 
 : [What is the difference between CSE131 and CSE131R?](#what-is-the-difference-between-cse-and-cser)
 
@@ -4201,6 +4111,8 @@ undergraduate : Details relevant to undergraduate degrees (B.S., Minors, etc.) <
 : [What probability/statistics course should I take?](#what-probabilitystatistics-course-should-i-take)
 
 : [What web design courses can I take?](#what-web-design-courses-can-i-take)
+
+: [What's an "open" program?    How do I change/add/drop a degree (open program)?](#whats-an-open-program----how-do-i-changeadddrop-a-degree-open-program)
 
 : [When and how often should I meet with my departmental faculty advisor?  What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisor--what-kind-of-advice-should-i-expect-my-advisor-to-provide)
 
