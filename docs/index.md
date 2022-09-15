@@ -749,17 +749,17 @@ On a final note, your real expertise as a programmer/computer scientist comes fr
 <span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/18">Discussions View</a></span>
 
 
-[Here](https://docs.google.com/document/d/1Rq20PiMxZRvr99DngYmszoc_rUUUnpLQ1Q6UU-Ma8MI/edit) is the document and
-[here](https://docs.google.com/spreadsheets/d/1nVxiw2jVScJ7tpwThw5OQ6vPiljGmyAi19Q37_RBsxQ/edit#gid=0) is the sheet with upper level courses that count at present.
- If you don't see a course on the upper-level list, then it could be for one of these reasons:
-* It should be there but we haven't thought to put it there. So talk with us about that. We'd like to improve the list. You should contact the associate chair in the department hosting your CS+Math studies (Computer Science and Engineering, or Math).
- * It's not in the spirit of CS+Math. Courses like CSE132, CSE332S are interesting and useful computer science courses but don't live at the intersection of CS and Math.
+There are multiple options.  Here are the links to details for each:
+*  [B.S. in CS+Math](https://bulletin.wustl.edu/undergrad/engineering/computerscience/bs-applied-computer-science-math/)  from McKelvey School of Engineering.  (Primary major)
+* [A.B. in Math & CS](https://bulletin.wustl.edu/undergrad/artsci/mathematics-and-statistics/#mathematics-computer-science) from Math. (Primary major)
+* [Second Major in CS+Math](https://bulletin.wustl.edu/undergrad/engineering/computerscience/second-major-computer-science-mathematics/) from McKelvey School of Engineering. Second majors are available to any student from any school on campus.
 
- The CS+Math program is also available as a *second major* through the McKelvey School of Engineering. Second majors are available to any student from any school on campus.
+Approved electives are based on agreements between C.S. faculty and Math faculty that the course is highly relevant to both disciplines. If you don't see a course on the upper-level list, then it could be for one of these reasons:
+* It's *not* in the spirit of CS+Math. Courses like CSE132, CSE204A, CSE330S, CSE332S are interesting and useful computer science courses but don't live at the intersection of CS and Math.
+* It should be there but we haven't thought to put it there.  You should contact the associate chair in the department hosting your CS+Math studies (Computer Science and Engineering, or Math).
 
 
-
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#math](#math) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#math](#math) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
 
 ---
 ## How do I earn a minor in Human-Computer Interaction (HCI)? {#how-do-i-earn-a-minor-in-human-computer-interaction-hci}
@@ -1140,14 +1140,16 @@ CS+Math also differs in the electives available.  A CS Major can select any CSE 
 
  There are different answers depending on the school offering the course.
 
- All schools except Olin
- You deserve the truth, so you should know that the university's registration systems do not check that you have already taken prerequisite courses as you enroll in a new course. Thus, prerequisites are advisory but they are there for a reason. You should consider very seriously whether you will perform well in a course for which you have not taken its prerequisites. A conversation with the instructor or your advisor may be helpful, and there are many ways you could prepare on your own for a course for which you have not formally taken that course's prerequisites.
+## All schools *except* Olin
 
-*Caveat emptor!*
- Olin
- The business school takes a more strict approach concerning prerequisite courses. They insist that students must have taken the courses
-*precisely listed as prerequisites*, and they do not allow for students who have had similar courses elsewhere, even at our own university, nor do they consider the background students may have from other learning experiences or studies.
- As an extreme example of this, a student in our department was in an Olin course that required knowledge of python, which is taught in a prerequisite course. As a comp sci student, this student was as prepared as anybody for the course, and the professor of the course was fine having the student in the course. However, the associate dean for undergraduates in Olin discovered that this student had not taken the stated prequisite course. The dean evicted the student from the course, but took that action after the add deadline had passed. The instructor asked the student to TA the course, which he is now doing for credit in our department.
+The university's registration systems do not check prerequisites, but many individual courses that are "managed by waitlist" do.   In many courses that don't explicitly check, the prerequisites are advisory **but they are there for a reason**. You should consider very seriously whether you will perform well in a course if you don't have the appropriate background. A conversation with the instructor or an advisor may be helpful, and there are many ways you could prepare even if you don't have the formal prerequisites.  **[Caveat emptor](https://en.wikipedia.org/wiki/Caveat_emptor): It is not the instructor's responsibility to help individual students overcome lack of preparation.**  
+
+## Olin
+
+The business school takes a strict approach concerning prerequisite courses. They insist that students must have taken the courses
+*precisely listed as prerequisites*, and they do not allow for students who have had similar courses elsewhere, even at WashU, nor do they consider the background students may have from other learning experiences or studies.
+
+As an extreme example of this, a student in our department was in an Olin course that required knowledge of Python, which is taught in a prerequisite course. As a comp sci student, this student was well prepared for the course, and the professor of the course was fine having the student in the course. However, the associate dean for undergraduates in Olin discovered that this student had not taken the stated prerequisite course. The dean evicted the student from the course, but took that action after the add deadline had passed. 
 
 **Olin asks us to make sure you are aware of their strict policy concerning prerequisites.**
 
@@ -1158,7 +1160,7 @@ CS+Math also differs in the electives available.  A CS Major can select any CSE 
 
 
 
-<span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#olin](#olin) [#prerequisites](#prerequisites) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#courses](#courses) [#graduate](#graduate) [#olin](#olin) [#prerequisites](#prerequisites) [#undergraduate](#undergraduate)</span>
 
 ---
 ## How much time do I spend on a course here? {#how-much-time-do-i-spend-on-a-course-here}
@@ -1361,12 +1363,13 @@ Often there is about a 5% change in enrollments in 131 during the first week(s) 
 
 <span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/102">Discussions View</a></span>
 
- Most likely, this class is larger than your other class, and the exam dates are set well in advance of the semester so you should be aware of the conflicts at the beginning of the semester.
- However, other classes sometimes move their exam dates in a way that causes a conflict.
- The policy about conflicts on exams varies each semester. Look for policy documents starting at the course's
-[home page](https://www.cs.wustl.edu/~cytron/cse131/).
 
+You should contact your instructor.  Exam policies are primarily at the instructor's discretion. 
 
+Usually conflicts are due to:
+
+* An evening exam (not during regularly scheduled exam time) that conflicts with another course.  This is somewhat common in very high enrollment courses. The exams are usually scheduled months in advance by the university registrar and are intended to avoid conflict with other high enrollment courses. **It's a students responsibility when planning their semester schedule to avoid such conflicts.**  Due to the logistics of large courses and integrity concerns that crop by when exams are offered in advance or late, some large courses will not allow exams to be taken at alternate time.  
+* A conflict due to personal or non-academic events.  Individual instructors may have different policies based on the nature of the conflict and whether it was avoidable. 
 
 
 
@@ -2612,7 +2615,7 @@ And finally, don't be intimidated if it's your first hackathon. Everyone remembe
 * You can request changes your prime major to another major _within the same school_ via WebSTAC.  (You can't change prime majors to a major in another school.  That requires an inter division transfer).  
 * You can request Minors and Second Majors from another school. 
 * You can also request changes to faculty advisors. 
-* Some combinations of degrees are not allowed, so WebSTAC may not allow you to request a degree based on your currently open programs.  If you are not sure why a particular CSE degree is unavailable to you, contact either the [CSE Associate Chair](mailto:associatechair@cse.wustl.edu) or the [McKelvey Registrar](https://engineering.wustl.edu/offices-services/student-services/undergraduate-student-services/staff.html). 
+* Some combinations of degrees are not allowed, so WebSTAC may not allow you to request a degree based on your currently open programs.  If you are not sure why a particular CSE degree is unavailable to you, contact either the [CSE Associate Chair](mailto:associatechair@cse.wustl.edu) or the [McKelvey Registrar](mailto:McKelveyRegistrar@wustl.edu). 
 * Transferring schools also begins with WebSTAC. Look for the `Change WU School` link.
 
 Graduate students should contact their graduate advisor to discuss degree changes and/or the program director of the degree they want to change to. 
@@ -2857,10 +2860,12 @@ There are only a few CSE courses that require a specific operating systems and t
 <span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/22">Discussions View</a></span>
 
 
-* [A welcoming city](https://www.nytimes.com/2018/03/14/travel/st-louis-budget-affordable.html)* [Explore St. Louis](https://www.youtube.com/user/stlouiscvc/videos)* [A day in St. Louis](https://www.youtube.com/watch?v=FsAd1CTlDSo)
+* [A welcoming city](https://www.nytimes.com/2018/03/14/travel/st-louis-budget-affordable.html)
+* [Explore St. Louis](https://www.youtube.com/user/stlouiscvc/videos)
+* [A day in St. Louis](https://www.youtube.com/watch?v=FsAd1CTlDSo)
 
 
-<span class="tag-links">[#get_involved](#get_involved) [#misc](#misc) [#needs_review](#needs_review) [#student_life](#student_life)</span>
+<span class="tag-links">[#get_involved](#get_involved) [#misc](#misc) [#student_life](#student_life)</span>
 
 ---
 ## Why should I study computer science or computer engineering? {#why-should-i-study-computer-science-or-computer-engineering}
@@ -3006,8 +3011,6 @@ academia : Misc. topics about university policies, practices, administration, et
 
 : [How can I place out of a course if I think I already know that course's material?   What happens to my program of study if I do place out?](#how-can-i-place-out-of-a-course-if-i-think-i-already-know-that-courses-material---what-happens-to-my-program-of-study-if-i-do-place-out)
 
-: [How do I do CS+Math? What upper level electives count? Can I do this as a second major?](#how-do-i-do-csmath-what-upper-level-electives-count-can-i-do-this-as-a-second-major)
-
 : [How do I earn a minor in bioinformatics?](#how-do-i-earn-a-minor-in-bioinformatics)
 
 : [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
@@ -3025,8 +3028,6 @@ academia : Misc. topics about university policies, practices, administration, et
 : [How does pass/fail work?](#how-does-passfail-work)
 
 : [How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
-
-: [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
 
 : [How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
 
@@ -3358,8 +3359,6 @@ graduate : Graduate degrees (Masters and PhD) <a class="anchored" name="graduate
 
 : [How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
 
-: [How do I do CS+Math? What upper level electives count? Can I do this as a second major?](#how-do-i-do-csmath-what-upper-level-electives-count-can-i-do-this-as-a-second-major)
-
 : [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
 : [How do I frame my thinking about staying for a master's degree?](#how-do-i-frame-my-thinking-about-staying-for-a-masters-degree)
@@ -3560,8 +3559,6 @@ misc : Miscellaneous topics <a class="anchored" name="misc" id="misc"></a>
 
 : [How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
 
-: [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
-
 : [How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
 
 : [I am primarily interested in becoming a software engineer; what courses should I take?](#i-am-primarily-interested-in-becoming-a-software-engineer-what-courses-should-i-take)
@@ -3634,8 +3631,6 @@ needs_review : Topics that need review.  Posted answer may not be accurate. <a c
 
 : [How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
 
-: [How do I do CS+Math? What upper level electives count? Can I do this as a second major?](#how-do-i-do-csmath-what-upper-level-electives-count-can-i-do-this-as-a-second-major)
-
 : [How do I earn participation credit for this course?](#how-do-i-earn-participation-credit-for-this-course)
 
 : [How do I find a summer internship?](#how-do-i-find-a-summer-internship)
@@ -3657,8 +3652,6 @@ needs_review : Topics that need review.  Posted answer may not be accurate. <a c
 : [How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
 
 : [How is physics counted for our programs?](#how-is-physics-counted-for-our-programs)
-
-: [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
 
 : [How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
 
@@ -3739,8 +3732,6 @@ needs_review : Topics that need review.  Posted answer may not be accurate. <a c
 : [Where can I learn more about cyber security?](#where-can-i-learn-more-about-cyber-security)
 
 : [Where do CSE students study abroad?](#where-do-cse-students-study-abroad)
-
-: [Why St. Louis?](#why-st-louis)
 
 : [Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
 
