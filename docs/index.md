@@ -226,8 +226,6 @@ markdown: kramdown
 
 [What is the difference between CSE 400 and CSE 400E  How does independent study work?](#what-is-the-difference-between-cse--and-cse-e--how-does-independent-study-work)
 
-[What is the difference between CSE131 and CSE131R?](#what-is-the-difference-between-cse-and-cser)
-
 [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
 [What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
@@ -2304,49 +2302,30 @@ Success depends upon investment of time by the student, the accurate and timely 
 <span class="tag-links">[#graduate](#graduate) [#independent_study](#independent_study) [#undergraduate](#undergraduate)</span>
 
 ---
-## What is the difference between CSE131 and CSE131R? {#what-is-the-difference-between-cse-and-cser}
-
-<span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/66">Discussions View</a></span>
-
- CSE131 is the standard course, and CSE131R is an optional 1-unit pass/fail seminar associated with CSE131 offered in the fall semester. 
-
->  This seminar is intended for students who may intend studies in computer science: a major, a minor, or a second major from another school.
->  Credit is given for CSE131R based on attendance.
-> 
-> 
-> 
-
-
- The seminar features:
-* Guest lectures by Computer Science and Engineering faculty about their research.
- * Further exploration of certain topics covered in the main course.
-
-
-
-
-<span class="tag-links">[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
-
----
 ## What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>? {#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem}
 
 <span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/95">Discussions View</a></span>
 
- The short answer is you almost certainly want a second major and not a second degree. The intrepid can find the whole story below.
- At Washington University, a degree is the primary unit of recognition conferred by a school (such as SEAS or ArtSci) on a student at commencement, indicating that a student has completed one or more programs of study in that school. Within a given school, students can complete multiple majors. Moreover, many programs (and computer science is anong them) have
-*second majors* which allow students to study disciplines outsisde their primary major. A student's transcript indicates all of the majors, first and second, that the student has completed.
- To make sense of this, it is useful to think of a degree and a primary major as coupled: a student studies a primary major in his or her school (SEAS or ArtSci for example) and earns a degree from that school. The rules governing the number and types of courses that must be taken for graduation are drawn from the school in which a student has a primary major.
- A second major brings the burden only of the subject itself, without incurring distribution and other requirements of any school. Thus, a second major in computer science may be earned by students who are primarily situated in any school (including SEAS), but the courses needed to complete the second major are dictated by the second major itself, and not by the school.
- Thus, most students can be described as follows. The student is primarily situated in some school and pursuing a primary major in that school. That same student may be completing second majors in departments and programs across the university. Each such second major has its own requirements, but they do not carry any associated school requirements beyond what the student must complete for his or her primary major. Here are some examples:
-* Alice's primary major is electrical engineering, which situates her in SEAS. Alice would like to earn a second major in computer science. She does this by looking at the web page for the second major, by adding the second major to her programs of study using
+ The short answer is you almost certainly want a **second major** and not a **second degree**. The intrepid can find the whole story below.
+
+At Washington University, a degree is the primary unit of recognition conferred by a school (such as McKelvey School of Engineering or The School of Arts and Sciences) on a student at commencement, indicating that a student has completed one or more programs of study in that school.  Within a given school, students can complete multiple majors.  Moreover, many programs (Computer Science, Data Science, CS+Math, Econ & CS, Math & CS are among them) have *second majors*, which allow students to study disciplines outside their primary major. 
+
+* Second Degrees
+  * Each results in a literal diploma --- second degree means you get two diplomas.  Although this may look more impressive when hanging on a wall, it has little additional significance beyond a second major. 
+  * Each must satisfy *all* the requirements of the degree program in that school, including distribution requirements.  Often this means a second degree literally requires twice as much coursework/effort.  It may require taking additional distribution requirements expected by the school that are not directly related to the major.
+ * Second Major
+   * Second Majors are listed on transcripts (i.e., seen by employers, grad schools, etc.), but do not result in multiple diplomas. 
+   * Second Majors focus on only the critical content for the additional subject.  They are usually around 30 additional units (10 courses).  A single major requires around 120 units, so a second major is only about 25% additional work or less (second degrees in computing often allow some "double counting", which is described elsewhere in the FAQ).
+   
+Here are some examples:
+
+* Second **Majors**
+  * Alice's primary major is electrical engineering, which situates her in McKelvey School of Engineering. Alice would like to earn a second major in computer science. She does this by looking at the web page for the second major, by adding the second major to her programs of study using
 WebSTAC, and by consulting with her second major advisor as needed. That advisor does not need to approve Alice for registration, but serves as needed to support Alice in her studies of computer science.
- * Bob's primary major is economics, which situates him in the College of Arts and Sciences. Bob would like to earn a second major in computer science, and he follows the same steps Alice did to enroll in the second major and to secure an advisor for those studies. Because Bob is primarily in the College of Arts and Sciences, their 
-[rule of 3](http://fairytalez.com/blog/the-power-of-three-why-fairy-tales-often-feature-a-triple/) restriction applies, which means he would not be allowed to add the second major if the sum of his primary majors, second majors, and minors would exceed three. If that is the case, Bob then considers transferring into the School of Engineering and Applied Sciences, which has no *rule of three* restriction.
-
-
- Then what is a second degree? First let me explain that the distinction between a second degree and a second major is almost impossible for people outside our walls to discern. So if you are satisfied with doing a second major, you need not read on. Still here? A second degree acts as if you were also primary in the school of your second degree. Let's return to Alice and Bob.
-* Alice, already a SEAS student, wants a degree in electrical engineering and also a degree in computer science. She must read the
-rules for multiple degrees in the bulletin where she will discover she needs more resident credit in SEAS than if she had chosen a second major. She most likely decides this isn't worth it because she can simply list both majors on her resume, and the difference between the second major and a second degree is difficult to explain.
- * Bob is even in worse shape should he choose the second degree. Because he is in ArtSci, he would have to complete the distribution requirements of both schools to earn both degrees.
+  * Bob's primary major is economics, which situates him in the College of Arts and Sciences. Bob would like to earn a second major in computer science, and he follows the same steps Alice did to enroll in the second major and to secure an advisor for those studies. Because Bob is primarily in the College of Arts and Sciences, their [rule of 3](http://fairytalez.com/blog/the-power-of-three-why-fairy-tales-often-feature-a-triple/) restriction applies, which means he would not be allowed to add the second major if the sum of his primary majors, second majors, and minors would exceed three. If that is the case, Bob then considers transferring into the School of Engineering and Applied Sciences, which has no *rule of three* restriction.
+* Second **Degrees**
+  * Alice, already a McKelvey School of Engineering student, wants a degree in electrical engineering and also a degree in computer science. She must read the rules for multiple degrees in the bulletin where she will discover she needs more resident credit in McKelvey than if she had chosen a second major. She most likely decides this isn't worth it because she can simply list both majors on her resume, and the difference between the second major and a second degree is difficult to explain.
+  * Bob is even in worse shape should he choose the second degree. Because he is in Arts and Sciences, he would have to complete the distribution requirements of both schools to earn both degrees.
 
 
 
@@ -2359,7 +2338,7 @@ rules for multiple degrees in the bulletin where she will discover she needs mor
 
 
 
-<span class="tag-links">[#academia](#academia) [#degree](#degree) [#dua_degree](#dua_degree) [#graduate](#graduate) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#degree](#degree) [#dual_degree](#dual_degree) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
 
 ---
 ## What is the difference between a first (primary) major in computer science and a second major in computer science? {#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science}
@@ -2795,11 +2774,14 @@ There are only a few CSE courses that require a specific operating systems and t
 
 <span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/99">Discussions View</a></span>
 
- These days it is easy to appreciate the role computers play in our lives. Our communications with each other, our planning, our entertainment are made possible or made better by using computers. Social media has made it possible to stay in touch with friends in ways that were previously infeasible. Models that predict dangerous weather events are saving lives as people who face hurricanes and tornadoes can prepare for their arrival.
- Computer science, computer engineering, computer programming, computational thought, computational science—job postings are increasingly asking for experience or skills in those areas. Academically we find that programs of study across the university are seeing benefits for those students who undertake studies in those areas. While the ability to put pen to paper for the purpose of creating clear and persuasive prose was the universally sought skill of our past, the ability to harness the power of computers and computation is the universally sought skill of our future. Commputers are allowing us to ask, and sometimes answer, questions that are far beyond what was deemed possible even two decades ago. The very basis of our life, DNA, was beyond understanding until computers could piece together the human genome.
- Beyond the pragmatic need to understand the use of computers and computation for problem solving, computers are the embodiment of logic. Students who study computer science and engineering find that they think differently as a result of those studies. In a lecture given at our university,
-[Carl Wieman](https://en.wikipedia.org/wiki/Carl_Wieman) claimed that every discipline you study at a university is actually trying to train you to think as they do. As exmplified by [many jokes](https://www-users.cs.york.ac.uk/susan/joke/3.htm), a physicist, mathematician, and computer scientist will approach problems differently. 
- Whatever your primary interests, whatever your majors or minors, some study of computer science and engineering will provide you with greater ability to practice your primary interests, cause you to approach problems in new and useful ways, and provide you with skills that are considered valuable in the marketplace.
+
+There are a variety of reasons!
+
+* Computing provides tools, skills, and ways of thinking that help you tackle big, complex problems in any discipline.  
+  * That is, computing skills can help you further other interests/majors.
+* Computing is a combination of applied logic, critical thinking, and creativity.  *Many people enjoy the computing work and the study of computing!*
+* The job/income prospects are good and wide ranging (everything from startups, to large corporates, to small one-person businesses).   
+  * There are also a wide range of work environments, many of which are inclusive, diverse, and collaborative. 
 
 
 
@@ -2807,7 +2789,11 @@ There are only a few CSE courses that require a specific operating systems and t
 
 
 
-<span class="tag-links">[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#cse131](#cse131) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+
+
+
+
+<span class="tag-links">[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#undergraduate](#undergraduate)</span>
 
 ---
 ## Why would I consider transferring schools? {#why-would-i-consider-transferring-schools}
@@ -2996,8 +2982,6 @@ academia : Misc. topics about university policies, practices, administration, et
 
 : [What is academic integrity and how does the academic integrity process work?](#what-is-academic-integrity-and-how-does-the-academic-integrity-process-work)
 
-: [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
-
 : [What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
 
 : [What is the difference between my 4-year advisor and my departmental advisor?](#what-is-the-difference-between-my--year-advisor-and-my-departmental-advisor)
@@ -3162,11 +3146,7 @@ cse131 : CSE 131/501N: Intro. to Computer Science <a class="anchored" name="cse1
 
 : [What is CSE&nbsp;501N?  How is it different from 131?](#what-is-csenbspn--how-is-it-different-from-)
 
-: [What is the difference between CSE131 and CSE131R?](#what-is-the-difference-between-cse-and-cser)
-
 : [When trying to commit or update I have conflicts, what do I do?](#when-trying-to-commit-or-update-i-have-conflicts-what-do-i-do)
-
-: [Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
 
 curriculum : Details about content that comprise our degrees. <a class="anchored" name="curriculum" id="curriculum"></a>
 
@@ -3184,7 +3164,7 @@ double_counting : Applying course credits to satisfy requirements of multiple de
 
 : [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
 
-dua_degree : Issues specific to Dual Degree students (coming from another school in the Dual Degree program) <a class="anchored" name="dua_degree" id="dua_degree"></a>
+dual_degree : Issues specific to Dual Degree students (coming from another school in the Dual Degree program) <a class="anchored" name="dual_degree" id="dual_degree"></a>
 
 : [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
@@ -3350,8 +3330,6 @@ graduate : Graduate degrees (Masters and PhD) <a class="anchored" name="graduate
 
 : [What is the difference between CSE 400 and CSE 400E  How does independent study work?](#what-is-the-difference-between-cse--and-cse-e--how-does-independent-study-work)
 
-: [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
-
 : [What is the difference between computer science (CS) and computer engineering (CoE)?](#what-is-the-difference-between-computer-science-cs-and-computer-engineering-coe)
 
 : [What language does CSE247/502N use?  Do I have to have taken CSE131/501N?](#what-language-does-csen-use--do-i-have-to-have-taken-csen)
@@ -3363,8 +3341,6 @@ graduate : Graduate degrees (Masters and PhD) <a class="anchored" name="graduate
 : [When and how often should I meet with my departmental faculty advisor?  What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisor--what-kind-of-advice-should-i-expect-my-advisor-to-provide)
 
 : [Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
-
-: [Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
 
 : [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
@@ -3510,8 +3486,6 @@ misc : Miscellaneous topics <a class="anchored" name="misc" id="misc"></a>
 
 : [Why St. Louis?](#why-st-louis)
 
-: [Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
-
 : [Why would I consider transferring schools?](#why-would-i-consider-transferring-schools)
 
 needs_review : Topics that need review.  Posted answer may not be accurate. <a class="anchored" name="needs_review" id="needs_review"></a>
@@ -3616,10 +3590,6 @@ needs_review : Topics that need review.  Posted answer may not be accurate. <a c
 
 : [What is academic integrity and how does the academic integrity process work?](#what-is-academic-integrity-and-how-does-the-academic-integrity-process-work)
 
-: [What is the difference between CSE131 and CSE131R?](#what-is-the-difference-between-cse-and-cser)
-
-: [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
-
 : [What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
 
 : [What kind of computer should I have for studies in computer science or computer engineering?](#what-kind-of-computer-should-i-have-for-studies-in-computer-science-or-computer-engineering)
@@ -3633,8 +3603,6 @@ needs_review : Topics that need review.  Posted answer may not be accurate. <a c
 : [Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
 
 : [Where can I learn more about cyber security?](#where-can-i-learn-more-about-cyber-security)
-
-: [Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
 
 : [Why would I consider transferring schools?](#why-would-i-consider-transferring-schools)
 
@@ -3988,8 +3956,6 @@ undergraduate : Details relevant to undergraduate degrees (B.S., Minors, etc.) <
 
 : [What is the difference between CSE 400 and CSE 400E  How does independent study work?](#what-is-the-difference-between-cse--and-cse-e--how-does-independent-study-work)
 
-: [What is the difference between CSE131 and CSE131R?](#what-is-the-difference-between-cse-and-cser)
-
 : [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
 : [What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
@@ -4072,7 +4038,7 @@ working_with_faculty : Details about how to engage in work with faculty (being a
 
 [double_counting](#double_counting) : Applying course credits to satisfy requirements of multiple degrees
 
-[dua_degree](#dua_degree) : Issues specific to Dual Degree students (coming from another school in the Dual Degree program)
+[dual_degree](#dual_degree) : Issues specific to Dual Degree students (coming from another school in the Dual Degree program)
 
 [get_help](#get_help) : Where/how to get help (both academic help and resources for personal help)
 
