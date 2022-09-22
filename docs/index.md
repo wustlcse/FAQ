@@ -90,8 +90,6 @@ markdown: kramdown
 
 [How do I earn a second major in computer engineering?](#how-do-i-earn-a-second-major-in-computer-engineering)
 
-[How do I earn participation credit for this course?](#how-do-i-earn-participation-credit-for-this-course)
-
 [How do I find a summer internship?](#how-do-i-find-a-summer-internship)
 
 [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
@@ -129,8 +127,6 @@ markdown: kramdown
 [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
 [I accepted a job offer with company X but have since received a more attracive offer from company Y. What should I do?](#i-accepted-a-job-offer-with-company-x-but-have-since-received-a-more-attracive-offer-from-company-y-what-should-i-do)
-
-[I am in one lab/studio section and need to switch to another.  What should I do?](#i-am-in-one-labstudio-section-and-need-to-switch-to-another--what-should-i-do)
 
 [I am on the wait list for a course. What should I do?](#i-am-on-the-wait-list-for-a-course-what-should-i-do)
 
@@ -355,26 +351,16 @@ markdown: kramdown
 
 <span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/51">Discussions View</a></span>
 
- Study abroad is treated differently, and you should look elsewhere in this FAQ for information about how courses count when studying abroad.
- Otherwise, there are two issues that must be considered:
-* Our university, our school, and our department each has a *resdiency requirement*, which you can find elsewhere in this FAQ. There is thus a limit on the number of outside credits you can apply to your Washington University programs.
- * Is the course deemed acceptable for transfer? The process for that decision begins with your four-year advisor, but the decision is usually made by the department closest in area to the subject matter of the course. For example, the merit of a computer science course would be evaluated by the computer science department.
-
->  Our school maintains [this database](http://registrar.seas.wustl.edu/EVALS/evals.asp) of outside courses already approved for transfer credit. 
->  You should check this database before requesting approval.
->  Also the database may help you shop around for already approved courses from a geographic area of interest.
-> 
-> 
-> 
-> 
->
+Approved study abroad courses are accepted as WashU native courses.  See elsewhere in this FAQ for Study Abroad courses.
+ 
+Courses from other universities (non study abroad) may be transferred in with some restrictions:
+* Our university, our school, and our department each has a *residency requirement*, which you can find elsewhere in this FAQ. There is a limit on the number of outside credits you can apply to your Washington University degrees.
+* Not all courses are deemed acceptable for degree needs.  For example, the merit of a computer science course would be evaluated by the computer science and engineering department.
+   * The school of engineering maintains [this database](http://registrar.seas.wustl.edu/EVALS/evals.asp) of outside courses already approved for transfer credit.  You should check this database before requesting approval.  The database also may help you shop around for already approved courses from a geographic area of interest.  **Even if a course is pre-approved, consult with your four-year and faculty advisor to ensure it can count as meaningful credit for you (i.e., that you haven't hit limits on transfer credits or residency policies).**
+   * You can request consideration of courses that are not already in the database by following the [Course Transfer Policies](https://engineering.wustl.edu/current-students/student-services/Pages/transfer-course-credit.aspx).
 
 
-[Here](https://engineering.wustl.edu/current-students/student-services/Pages/transfer-course-credit.aspx) is a step-by-step procedure for applying for approval of transfer course credits.
-
-
-
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#needs_review](#needs_review) [#residency](#residency) [#transfer_courses](#transfer_courses) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#residency](#residency) [#transfer_courses](#transfer_courses) [#undergraduate](#undergraduate)</span>
 
 ---
 ## Can I take courses outside the department to satisfy **core** requirements or **electives**?  What courses count toward my major or minor from outside the CSE department?  {#can-i-take-courses-outside-the-department-to-satisfy-core-requirements-or-electives--what-courses-count-toward-my-major-or-minor-from-outside-the-cse-department-}
@@ -460,7 +446,7 @@ Degree audits ([WUAchieve](https://registrar.wustl.edu/wuachieve/)) will use the
  * If you're looking for an interesting and worthwhile course, welcome!
 
 
-<span class="tag-links">[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#cse131](#cse131) [#undergraduate](#undergraduate)</span>
 
 ---
 ## Do I need to take CSE 240 before CSE 247? {#do-i-need-to-take-cse--before-cse-}
@@ -562,14 +548,11 @@ Post your question to the "[New Questions](https://github.com/wustlcse/FAQ/discu
 
 <span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/9">Discussions View</a></span>
 
- Our school has a long history of automated checking of the courses you have taken against the degrees you seek to complete. John Russell, who directed Engineering Student Services prior to Chris Kroeger, had a program written in FORTRAN that would produce interesting rounding results, showing you had 3.0001 units remaining to complete your degree, for example. But I digress.
- We then had DARS (Degree Audit and Reporting System), but that was only for SEAS.
- Things are much better now.
- [WUAchieve](https://wuachieve.wustl.edu/) is a system Washington University bought to handle degree, major, and minor requirements across the university. While some programs are not yet on board, chances are you can log into [WUAchieve](https://wuachieve.wustl.edu/) and see what remains in the programs you have open. You can see the history of what you have completed, the courses that are currently in progress, and what remains to be accomplished for you to finish.
- Follow the directions on that site, and make sure the open programs it shows for you are correct. See elsewhere in this FAQ for how to change programs.
+[WUAchieve](https://wuachieve.wustl.edu/) is a system Washington University bought to handle degree, major, and minor requirements across the university. It's used for "degree audits" of CSE degree programs (and most others, with Olin School of Business being an exception). 
 
->  Because there is leeway in how some courses count, students in a combined BS and MS program may not see courses counting as they wish. You should use [WUAchieve](https://wuachieve.wustl.edu/) as a starting point and then double check with your advisor. Once approved, the form you have on file for completing an MS degree in our departmental office is the most genuine documentation of what you need to do to finish.
-> 
+You can see the history of what you have completed, the courses that are currently in progress, and what remains to be accomplished for you to finish each of your degree programs. Follow the directions on that site, and make sure the open programs it shows for you are correct. 
+
+Because there is leeway in how some courses count, students in a combined BS and MS program may not see courses counting as they wish. You should use [WUAchieve](https://wuachieve.wustl.edu/) as a starting point and then double check with your advisor. 
 
 
 
@@ -578,8 +561,7 @@ Post your question to the "[New Questions](https://github.com/wustlcse/FAQ/discu
 
 
 
-
-<span class="tag-links">[#academia](#academia) [#degree](#degree) [#get_help](#get_help) [#graduate](#graduate) [#needs_review](#needs_review) [#requirements](#requirements) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
 
 ---
 ## How can I get involved in programming contests? {#how-can-i-get-involved-in-programming-contests}
@@ -804,15 +786,6 @@ You may want to browse courses that are required for [Computer Engineering](http
  You can't: we don't offer a second major in Computer Engineering. Consider a primary major in Computer Engineering and a Second Major in Computer Science.   This approach will ensure you have the background needed for Computer Engineering and still allows you to get a significant amount of work in Computer Science.  In fact, with careful selection of electives it's possible to get both with only a little additional coursework. 
 
 <span class="tag-links">[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
-
----
-## How do I earn participation credit for this course? {#how-do-i-earn-participation-credit-for-this-course}
-
-<span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/54">Discussions View</a></span>
-
- There are exercises included with each module, interspersed between the video segments. You earn participation credit by completing those exercises as best you can. Other opportunities may be available as announced or posted on the couse web page.
-
-<span class="tag-links">[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 
 ---
 ## How do I find a summer internship? {#how-do-i-find-a-summer-internship}
@@ -1238,18 +1211,6 @@ Usually it's best to:
 
 
 <span class="tag-links">[#jobs](#jobs)</span>
-
----
-## I am in one lab/studio section and need to switch to another.  What should I do? {#i-am-in-one-labstudio-section-and-need-to-switch-to-another--what-should-i-do}
-
-<span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/64">Discussions View</a></span>
-
- Stay registered where you are, to make sure you keep your seat in the course. Then come to the lab section that works for you and we will try to make room for you.
- Feel free to do this whenever necessary.
-
-
-
-<span class="tag-links">[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 
 ---
 ## I am on the wait list for a course. What should I do? {#i-am-on-the-wait-list-for-a-course-what-should-i-do}
@@ -1706,13 +1667,15 @@ In the short-term and long-term, it is never worth it to cheat. There is always 
 
 <span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/56">Discussions View</a></span>
 
- Because specific points and language are needed for such letters, the letter originates from your company and is then sent to us for verification, printing on department letterhead, and return to you.
- For our undergraduate students (including those who are in a combined BS/MS program), we follow the following process:
-* Our department staff produce your transcript and pass that and your letter to the associate chair.
- * The associate chair verifies the wording of the letter is an accurate reflection of the courses you took here and the grades you earned in those courses.
- * If approved, the letter is printed on department letterhead, signed by the associate chair, and returned to you. If there needs to be some wording changed in the letter to make it more accurate, you will be contacted.
 
- Graduate students should consult the director of our graduate program for advice about this.
+ Because specific points and language are needed for such letters, the letter originates from your company and is then sent to us for verification, printing on department letterhead, and return to you.
+
+For our undergraduate students (including those who are in a combined BS/MS program), we follow the following process:
+* Our department staff produce your transcript and pass that and your letter to the associate chair.
+* The associate chair verifies the wording of the letter is an accurate reflection of the courses you took here and the grades you earned in those courses.
+* If approved, the letter is printed on department letterhead, signed by the associate chair, and returned to you. If there needs to be some wording changed in the letter to make it more accurate, you will be contacted.
+
+Graduate students should consult the director of our graduate program for advice about this.
 
 
 
@@ -2208,44 +2171,27 @@ Courses with an "N" designation will not count for credit for students in the de
  It is useful to view academic integrity at the university, school, and course levels.
 
 >  Recently a committee of faculty and administrators met to consider broad changes to the academic integrity process at Washington University. This response is accurate as of this writing, and it will be updated should the university decide to make changes.
-> 
+
 
 
 * The university's [Office of Student Conduct and Community Standards](https://studentconduct.wustl.edu/) publishes a page on
-[Academic Integrity](https://studentconduct.wustl.edu/academic-integrity/) which in turn references the university's
-[Academic Integrity Policy](https://wustl.edu/about/compliance-policies/academic-policies/undergraduate-student-academic-integrity-policy/).
+[Academic Integrity](https://studentconduct.wustl.edu/academic-integrity/) which in turn references the university's [Academic Integrity Policy](https://wustl.edu/about/compliance-policies/academic-policies/undergraduate-student-academic-integrity-policy/).
  That policy covers the general principles of academic integrity, but it delegates to each course the specification of allowable collaboration.
-* The school is primarily responsible for prosecuting cases of alleged violation of academic integrity. The details of this process are covered below.
-* Each course should publish the boundaries of allowed collaboration. Such information may be covered on the course's web page or syllabus, or on particular assignments. As covered elsewhere in this FAQ, it is important that students read and understand the boundaries of allowed collaboration, and ask questions where anything is unclear.
+* The school is primarily responsible for adjudicating cases of alleged violation of academic integrity. The details of this process are covered below.
+* Many courses publish the boundaries of allowed collaboration. Such information may be covered on the course's web page or syllabus, or on particular assignments. As covered elsewhere in this FAQ, it is important that students read and understand the boundaries of allowed collaboration and ask for clarification as needed. 
 
- In overview the process for dealing with alleged vioations of integrity proceeds as follows:
-* An instructor, TA, or student files a complaint with the SEAS Engineering Student Services office that a violation may have occurred. The complainant provides evidence along a quote of the particular academic integrity rule that may have been violated.
- * Our school's academic integrity officer requests a meeting with the person accused of the violation. The evidence is presented and the student has the option of agreeing the violation took place, or the student can request a formal hearing.
- * If a hearing is convened, then the complainant presents the evidence and the student can respond. The goal here is a fair hearing in which all relevant material can be presented and heard. The hearing is conducted by an academic integrity officer of SEAS and there are usually three faculty members present to hear and decide the case.
- * Under any finding that a violation has occurred, a sanction is imposed and the event is sent to the University's Office of Student Conduct and Community Standards.
-
->  The violation is part of a student's permanent record at Washington University. See below.
->
-
-
- If the process described above determines that you have not violated our community standards, then no record of the accusation is retained.
- On the other hand, it is important that you understand the short-term consequences of being found in violation of our community standards:
-* A lower grade may be issued for the assignment.
- * A lower grade may be issued for the course.
- * You may be suspended from the university for one or more semesters.
- * You may be expelled.
-
-
-
->  But there are long-term consequences as well. When you are found in violation of our community standards, the university retains the event on your permanent record. The following entities frequently ask the university if you have had problems of this sort, and the university is obligated to report these events to those who ask:
-> * Graduate schools
->  * Medical schools
->  * Law schools
->  * Employers
->  * Government agencies
-> 
-> 
-> 
+In overview the process for dealing with alleged violations of integrity proceeds as follows:
+* An instructor, TA, or student files a complaint with Engineering Student Services office that a violation may have occurred. The complainant provides evidence and references the academic integrity rule that may have been violated.
+ * Our school's academic integrity officer requests a meeting with the person accused of the violation. The evidence is presented and the student has the option of agreeing the violation took place or the student can request a formal hearing.
+ * If a hearing is convened:
+    1. The school's Academic Integrity Officer oversees the hearing.  Both parties provide any evidence they plan to present to the Academic Integrity Officer in advance of the hearing. 
+    2. The complainant presents their evidence.
+    3. The student can respond and also present evidence. 
+    4. A panel of two faculty members and a student review the evidence, may ask for clarification, and eventually convene to decide if a violation is more likely than not.  (Although this is not a legal matter, the Law Insider definition here is a reasonable description of how the outcome is decided: [More likely than not](https://www.lawinsider.com/dictionary/more-likely-than-not)).
+    5. Following the hearing, the Academic Integrity Officer will report the outcome to all parties.  If a violation has been found, a sanction will be imposed.   If not, no record of the accusation is retained.
+> Sanctions vary by course and the nature of the violation.  They include:  A lower grade on an assignment, a lower grade in the course, and failure of the course.  Instructors are generally bound by the policies described in their syllabus.  Extreme or repeated cases may result in suspension or expulsion from the university.
+>  **A confirmed violation is part of a student's permanent record at Washington University! Consequently, details of any violations would be provided to any external entities, like Graduate schools, Medical schools, Law schools, Employers, and Government agencies, that may need to be given access to a student's records** (For example, a student would need to provide academic records when applying to Medical school)
+ 
 
 
 
@@ -2253,7 +2199,8 @@ Courses with an "N" designation will not count for credit for students in the de
 
 
 
-<span class="tag-links">[#academia](#academia) [#academic_integrity](#academic_integrity) [#misc](#misc) [#needs_review](#needs_review) [#plagiarism](#plagiarism)</span>
+
+<span class="tag-links">[#academia](#academia) [#academic_integrity](#academic_integrity) [#plagiarism](#plagiarism)</span>
 
 ---
 ## What is recursion? {#what-is-recursion}
@@ -2714,9 +2661,22 @@ While second majors and minors do not require explicit approval from their advis
 
 <span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/83">Discussions View</a></span>
 
- Cybersecurity is a highly integrated field and requires knowledge of networking, systems software, and programming. Taking a combination of CSE 473 and CSE 361 provides a strong foundation in these concepts. There are also online resources that can teach these subjects, such as [this free one]( https://www.cybrary.it/), which provides excellent courses for all levels.
+Cybersecurity is a highly integrated field and requires knowledge of networking, systems software, and programming.  
 
-<span class="tag-links">[#academia](#academia) [#needs_review](#needs_review)</span>
+Relevant courses, which can be taken by both undergraduates and graduate students, are listed in the core and electives for [MS in Cybersecurity Engineering](https://cse.wustl.edu/academics/graduate/MS-in-Cybersecurity-Engineering.html) and the [Graduate Certificate in Cybersecurity Engineering](https://cse.wustl.edu/academics/graduate/Graduate-Certificate-in-Cybersecurity-Engineering.html).  The Graduate Certificate can be added to any engineering master's degree.  
+
+Systems courses, like [CSE 361S: Intro. to Systems Software](https://courses.wustl.edu/CourseInfo.aspx?sch=E&dept=E81&crs=361S) and [422S: Operating Systems Organization](https://courses.wustl.edu/CourseInfo.aspx?sch=E&dept=E81&crs=422S) and networking courses, like [473S Intro. to Computer Networks](https://courses.wustl.edu/CourseInfo.aspx?sch=E&dept=E81&crs=473S), provide much of the technical background needed for significant work in Cybersecurity.  
+
+Courses directly focused on security / cyber include:
+* [433S: Intro. to Computer Security](https://courses.wustl.edu/CourseInfo.aspx?sch=E&dept=E81&crs=433S)
+* [434S: Reverse Engineering and Malware Analsysis](https://courses.wustl.edu/CourseInfo.aspx?sch=E&dept=E81&crs=434S)
+* [523S: Systems Security](https://courses.wustl.edu/CourseInfo.aspx?sch=E&dept=E81&crs=523S)
+* [571S: Network Security](https://courses.wustl.edu/CourseInfo.aspx?sch=E&dept=E81&crs=571S)
+* [637S: Software Security](https://courses.wustl.edu/CourseInfo.aspx?sch=E&dept=E81&crs=637S)
+
+There are also online resources that can teach these subjects, such as [this free one]( https://www.cybrary.it/), which provides excellent courses for all levels.
+
+<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#undergraduate](#undergraduate)</span>
 
 ---
 ## Where do CSE students study abroad? {#where-do-cse-students-study-abroad}
@@ -2906,8 +2866,6 @@ academia : Misc. topics about university policies, practices, administration, et
 
 : [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
-: [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
-
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
 : [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
@@ -2915,8 +2873,6 @@ academia : Misc. topics about university policies, practices, administration, et
 : [Does our department have an honor society?](#does-our-department-have-an-honor-society)
 
 : [How are admissions handled?](#how-are-admissions-handled)
-
-: [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
 
 : [How can I place out of a course if I think I already know that course's material?   What happens to my program of study if I do place out?](#how-can-i-place-out-of-a-course-if-i-think-i-already-know-that-courses-material---what-happens-to-my-program-of-study-if-i-do-place-out)
 
@@ -3114,13 +3070,9 @@ cse131 : CSE 131/501N: Intro. to Computer Science <a class="anchored" name="cse1
 
 : [Do I need any computer science background to succeed in CSE131?](#do-i-need-any-computer-science-background-to-succeed-in-cse)
 
-: [How do I earn participation credit for this course?](#how-do-i-earn-participation-credit-for-this-course)
-
 : [How does the CSE131 placement exam work?  Do I need to take CSE 131?](#how-does-the-cse-placement-exam-work--do-i-need-to-take-cse-)
 
 : [How much time should I expect to spend on CSE131?](#how-much-time-should-i-expect-to-spend-on-cse)
-
-: [I am in one lab/studio section and need to switch to another.  What should I do?](#i-am-in-one-labstudio-section-and-need-to-switch-to-another--what-should-i-do)
 
 : [I am on the wait list for a course. What should I do?](#i-am-on-the-wait-list-for-a-course-what-should-i-do)
 
@@ -3156,8 +3108,6 @@ degree : Degree details and requirements <a class="anchored" name="degree" id="d
 
 : [Degree requirements have changed since I started.  Am I required or allowed to the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-the-new-requirements)
 
-: [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
-
 : [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
 double_counting : Applying course credits to satisfy requirements of multiple degrees <a class="anchored" name="double_counting" id="double_counting"></a>
@@ -3169,8 +3119,6 @@ dual_degree : Issues specific to Dual Degree students (coming from another schoo
 : [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
 get_help : Where/how to get help (both academic help and resources for personal help) <a class="anchored" name="get_help" id="get_help"></a>
-
-: [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
 
 : [I am on the wait list for a course. What should I do?](#i-am-on-the-wait-list-for-a-course-what-should-i-do)
 
@@ -3342,6 +3290,8 @@ graduate : Graduate degrees (Masters and PhD) <a class="anchored" name="graduate
 
 : [Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
 
+: [Where can I learn more about cyber security?](#where-can-i-learn-more-about-cyber-security)
+
 : [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
 independent_study : CSE 400 and CSE 400E: Independent study <a class="anchored" name="independent_study" id="independent_study"></a>
@@ -3470,8 +3420,6 @@ misc : Miscellaneous topics <a class="anchored" name="misc" id="misc"></a>
 
 : [What is a FAQ?](#what-is-a-faq)
 
-: [What is academic integrity and how does the academic integrity process work?](#what-is-academic-integrity-and-how-does-the-academic-integrity-process-work)
-
 : [What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
 
 : [What is the difference between computer science (CS) and computer engineering (CoE)?](#what-is-the-difference-between-computer-science-cs-and-computer-engineering-coe)
@@ -3496,25 +3444,17 @@ needs_review : Topics that need review.  Posted answer may not be accurate. <a c
 
 : [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
-: [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
-
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
-
-: [Do I need any computer science background to succeed in CSE131?](#do-i-need-any-computer-science-background-to-succeed-in-cse)
 
 : [Does our department have an honor society?](#does-our-department-have-an-honor-society)
 
 : [How are admissions handled?](#how-are-admissions-handled)
-
-: [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
 
 : [How can I get space for students to get help from my TAs?](#how-can-i-get-space-for-students-to-get-help-from-my-tas)
 
 : [How can I place out of a course if I think I already know that course's material?   What happens to my program of study if I do place out?](#how-can-i-place-out-of-a-course-if-i-think-i-already-know-that-courses-material---what-happens-to-my-program-of-study-if-i-do-place-out)
 
 : [How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
-
-: [How do I earn participation credit for this course?](#how-do-i-earn-participation-credit-for-this-course)
 
 : [How do I find a summer internship?](#how-do-i-find-a-summer-internship)
 
@@ -3537,8 +3477,6 @@ needs_review : Topics that need review.  Posted answer may not be accurate. <a c
 : [How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
 
 : [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
-
-: [I am in one lab/studio section and need to switch to another.  What should I do?](#i-am-in-one-labstudio-section-and-need-to-switch-to-another--what-should-i-do)
 
 : [I am on the wait list for a course. What should I do?](#i-am-on-the-wait-list-for-a-course-what-should-i-do)
 
@@ -3588,8 +3526,6 @@ needs_review : Topics that need review.  Posted answer may not be accurate. <a c
 
 : [What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
 
-: [What is academic integrity and how does the academic integrity process work?](#what-is-academic-integrity-and-how-does-the-academic-integrity-process-work)
-
 : [What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
 
 : [What kind of computer should I have for studies in computer science or computer engineering?](#what-kind-of-computer-should-i-have-for-studies-in-computer-science-or-computer-engineering)
@@ -3601,8 +3537,6 @@ needs_review : Topics that need review.  Posted answer may not be accurate. <a c
 : [When trying to commit or update I have conflicts, what do I do?](#when-trying-to-commit-or-update-i-have-conflicts-what-do-i-do)
 
 : [Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
-
-: [Where can I learn more about cyber security?](#where-can-i-learn-more-about-cyber-security)
 
 : [Why would I consider transferring schools?](#why-would-i-consider-transferring-schools)
 
@@ -3732,8 +3666,6 @@ student_life : Both academic and non-academic issues common in the life of stude
 
 : [How can I contribute to this FAQ?](#how-can-i-contribute-to-this-faq)
 
-: [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
-
 : [How do I arrange to study abroad?](#how-do-i-arrange-to-study-abroad)
 
 : [How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
@@ -3854,8 +3786,6 @@ undergraduate : Details relevant to undergraduate degrees (B.S., Minors, etc.) <
 
 : [How do I earn a second major in computer engineering?](#how-do-i-earn-a-second-major-in-computer-engineering)
 
-: [How do I earn participation credit for this course?](#how-do-i-earn-participation-credit-for-this-course)
-
 : [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
 : [How do I frame my thinking about staying for a master's degree?](#how-do-i-frame-my-thinking-about-staying-for-a-masters-degree)
@@ -3885,8 +3815,6 @@ undergraduate : Details relevant to undergraduate degrees (B.S., Minors, etc.) <
 : [How much time should I expect to spend on CSE131?](#how-much-time-should-i-expect-to-spend-on-cse)
 
 : [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
-
-: [I am in one lab/studio section and need to switch to another.  What should I do?](#i-am-in-one-labstudio-section-and-need-to-switch-to-another--what-should-i-do)
 
 : [I am on the wait list for a course. What should I do?](#i-am-on-the-wait-list-for-a-course-what-should-i-do)
 
@@ -3977,6 +3905,8 @@ undergraduate : Details relevant to undergraduate degrees (B.S., Minors, etc.) <
 : [When trying to commit or update I have conflicts, what do I do?](#when-trying-to-commit-or-update-i-have-conflicts-what-do-i-do)
 
 : [Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
+
+: [Where can I learn more about cyber security?](#where-can-i-learn-more-about-cyber-security)
 
 : [Where do CSE students study abroad?](#where-do-cse-students-study-abroad)
 
