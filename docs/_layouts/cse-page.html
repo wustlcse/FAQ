@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{%- include cse-head.html -%}
+
+<body class="dept page-multipurpose">
+  <div class="js-check-scroll" id="page">
+      {%- include faq-header.html -%}
+    <main class="layout" id="swup">
+    <div class="wrapper wysiwyg">
+      <div class="container wysiwyg__container">
+      {{ content }}
+      </div>
+    </div>
+    </main>
+  </div>
+
+{% comment %} 
+Include the anchor links on anchored items (headings by default and anything with the "anchored" class%}
+{% endcomment %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function(event) {
+    anchors.add(".anchored");
+  });
+</script>
+
+<script src="./assets/js/nojq-min.js"></script>
+<script type="text/javascript" src="./assets/js/frontend.js" id="washu-blocks-frontend-js"></script>
+
+</body>
+</html>

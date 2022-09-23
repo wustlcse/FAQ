@@ -1,0 +1,54 @@
+---
+---
+
+/* 
+Overrides of WashU style for FAQ needs / order / elements
+*/
+
+.wysiwyg {
+   ul {
+      margin-left: 1.5rem;
+    }
+}  
+
+
+.index {
+    p {
+        margin-bottom: 5px; /* between paragraphs */
+    }
+
+}
+
+.toc {
+    p {
+        margin-bottom: 5px; /* between paragraphs */
+    }
+
+}
+
+
+.questions-by-label {
+    dd  {
+        margin-bottom: 5px; /* between paragraphs */
+    }
+    p {
+        margin-bottom: 5px; /* between paragraphs */
+    }
+}
+
+
+
+// Via https://markus.oberlehner.net/blog/simple-solution-for-anchor-links-behind-sticky-headers/
+$sticky-breakpoint: 32em;
+
+// 1. Approximate height of sticky navigation.
+html {
+  @media (min-height: $sticky-breakpoint) {
+    scroll-padding-top: 100px; // 1
+  }
+}
+
+
+.navigation {
+  // ...
+}
