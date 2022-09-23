@@ -36,8 +36,6 @@ markdown: kramdown
 
 [CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
 
-[CSE516A and Econ467: how are they different?](#csea-and-econ-how-are-they-different)
-
 [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
 [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
@@ -300,15 +298,6 @@ markdown: kramdown
 
 
 
-
-<span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
-
----
-## CSE516A and Econ467: how are they different? {#csea-and-econ-how-are-they-different}
-
-<span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/47">Discussions View</a></span>
-
- These courses overlap considerably but are worth taking in either order.
 
 <span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 
@@ -1783,23 +1772,23 @@ credit
 
 <span class="discussion-link"><a href="https://github.com//wustlcse/FAQ/discussions/53">Discussions View</a></span>
 
- Well, yes! Almost all of our courses are supported by undergraduate TAs. While TA stands for *teaching assistant*, the duties associated with that title vary widely among institutions, schools, and departments. In our department, a TA is an undergraduate who does one or more of the following:
+
+
+
+Yes!  Almost all of our courses are supported by undergraduate TAs. While TA stands for *teaching assistant*, the duties associated with that title vary widely among institutions, schools, and departments. In our department, a TA is an undergraduate who does one or more of the following:
 * Works with students in a lab or studio setting
- * Grades assignments
- * Holds office hours to help students
- * Assists in the development or preparation of course materials
+* Grades assignments
+* Holds office hours to help students
+* Assists in the development or preparation of course materials
 
+TAs are paid by the hour for their work, at the current rate of $15 an hour (we do not offer course credit for serving as a TA). There are many reasons why you should consider becoming a TA:
+* The best way to learn material is to help teach it to others. Our TAs become the most proficient students at the material they mentor.
+* As a recent student of the material you TA, you are in a great position to understand (and empathize) with the difficulties of mastering that material. Thus you offer a unique perspective on the material that students find valuable.
+* Helping others can be rewarding. Our TAs express satisfaction in using their knowledge to help other students.
+* You develop better communication skills by serving as a TA, and those skills are valued by employers and graduate programs.  Often the discussions TAs have with students are comparable to the conversations that take place during job interviews.  
+* You work closely with faculty as you TA their courses, and this helps to establish a relationship and basis for faculty writing letters of recommendation for you.
 
- TAs are paid by the hour for their work, at the current rate of $10 an hour. We do not offer course credit for serving as a TA. There are many reasons why you should consider becoming a TA:
-* The best way to learn material is to help teach it to others. Our TAs are the most proficient students at the material they mentor.
- * As a recent student of the material you TA, you are in a great position to understand (and empathize) with the difficulties of mastering that material. Thus you offer a unique perspective on the material that students find valuable.
- * It feels good to help others. Our TAs express satisfaction in using their knowledge to help other students.
- * You develop better communication skills by serving as a TA, and those skills are valued by employers and graduate programs.
- * You work closely with faculty as you TA their courses, and this helps to establish a relationship and basis for faculty writing letters of recommendation for you.
-
-
- Look for an email that advertizes our *fantasy TA draft*. There you indicate your experience and interest in TAing our courses. The faculty then draft students to serve as TAs. 
- The size of this effort is impressive. We receive some 350 responses to the draft and typically choose some 250 students to serve.
+Approximately 1-2 weeks after you register for classes you should get an email that advertises our *TA draft*, which is the application process.  Complete the provide form by the deadline to indicate your interest in being a TA. 
 
 
 
@@ -1807,7 +1796,7 @@ credit
 
 
 
-<span class="tag-links">[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#student_life](#student_life) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
+<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#recommendation_letters](#recommendation_letters) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
 
 ---
 ## Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits? {#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits}
@@ -2862,8 +2851,6 @@ academia : Misc. topics about university policies, practices, administration, et
 
 : [CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
 
-: [CSE516A and Econ467: how are they different?](#csea-and-econ-how-are-they-different)
-
 : [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
@@ -2911,8 +2898,6 @@ academia : Misc. topics about university policies, practices, administration, et
 : [Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
 : [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
-
-: [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
 
 : [Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
 
@@ -3033,8 +3018,6 @@ computer_science : The discipline of Computer Science <a class="anchored" name="
 courses : General details about our courses and enrolling in our courses <a class="anchored" name="courses" id="courses"></a>
 
 : [CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
-
-: [CSE516A and Econ467: how are they different?](#csea-and-econ-how-are-they-different)
 
 : [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
@@ -3171,8 +3154,6 @@ get_involved : Ways to get involved in the discipline, or department, or other s
 graduate : Graduate degrees (Masters and PhD) <a class="anchored" name="graduate" id="graduate"></a>
 
 : [CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
-
-: [CSE516A and Econ467: how are they different?](#csea-and-econ-how-are-they-different)
 
 : [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
@@ -3440,8 +3421,6 @@ needs_review : Topics that need review.  Posted answer may not be accurate. <a c
 
 : [CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
 
-: [CSE516A and Econ467: how are they different?](#csea-and-econ-how-are-they-different)
-
 : [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
 : [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
@@ -3511,8 +3490,6 @@ needs_review : Topics that need review.  Posted answer may not be accurate. <a c
 : [Other ways to get involved](#other-ways-to-get-involved)
 
 : [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
-
-: [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
 
 : [Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
 
@@ -3700,8 +3677,6 @@ student_life : Both academic and non-academic issues common in the life of stude
 
 : [Other ways to get involved](#other-ways-to-get-involved)
 
-: [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
-
 : [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
 : [What kind of computer should I have for studies in computer science or computer engineering?](#what-kind-of-computer-should-i-have-for-studies-in-computer-science-or-computer-engineering)
@@ -3733,8 +3708,6 @@ transfer_courses : Rules and procedures for transfering courses from other acade
 undergraduate : Details relevant to undergraduate degrees (B.S., Minors, etc.) <a class="anchored" name="undergraduate" id="undergraduate"></a>
 
 : [CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
-
-: [CSE516A and Econ467: how are they different?](#csea-and-econ-how-are-they-different)
 
 : [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
