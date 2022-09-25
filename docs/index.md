@@ -856,11 +856,11 @@ Each time you get a message from the list it will include a footer that describe
 | CSE 240 or Math 310 |  Math 233 and Math 309 |
 
 
- You can't take Math 204 without first taking Math 203
+ You can't take Math 204 without first taking Math 203.
 
 
 
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#math](#math) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#math](#math) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/84">Discussions View</a></span>
 
 ---
@@ -1312,58 +1312,41 @@ In rare cases, other courses can also be waived due to prior experience/proficie
 
 ---
 <h2 class="anchored" id="if-i-am-not-satisfied-with-a-grade-i-received-on-an-assignment-or-in-a-course-what-should-i-do">If I am not satisfied with a grade I received on an assignment or in a course, what should I do?</h2>
- You should first identify the source of the dissatisfaction:
-* Was the point tally on an assignment computed incorrectly?
- * Do you believe you had a correct response or solution but your grade indicated otherwise?
- * Did you miss a deadline for an assignment? Are seeking to turn in work late?
- * Did you miss turning in an assignment because of school-, athletic-, or career-related events?
 
+You should first identify the source of the dissatisfaction:
 
- Next you should consider the following principles in terms of addressing your concerns:
-* You should address any expected absences before the semester begins. Athletic events, conferences, job interviews—all of these are important to your success and trajectory as a student at Washington University. Faculty are generally supportive of such absences, but to be certain you need to have the appropriate conversation as soon as possible.
- Do not rely on a TA's response to such questions or issues. You must have this conversation with the course's instructor.
- * Some of our courses, especially the larger ones, feature 
-*late coupons* or *dropped grades*. In those courses, you should expect to apply coupons or dropped grades to unexpected as well as expected absences.
- * Unexpected absences can happen, and these usually take the form of extended illness or loss of a friend or family member. In such cases, you should contact your school's academic dean (e.g., [Chris Kroeger](mailto:ckroeger@wustl.edu) for SEAS). The dean will then send faculty an email explaining the circumstances and asking for accommodation.
- * You should address the issue you have with the grading of an assignment as soon as possible after you receive the assignment and its grade. If you wait until the end of the semester, thinking that at that point the grade change will benefit your final grade in the course, you are likely to be turned away. This has to do with the justice of your overall performance evaluation in the course (see below).
+## Late work
 
+Did you miss a deadline for an assignment? Are seeking to turn in work late? or Did you miss turning in an assignment because of school-, athletic-, or career-related events?
 
+* Address any expected absences before the semester begins. Athletic events, conferences, job interviews—all of these are important to your success and trajectory as a student at Washington University. Faculty are generally supportive of such absences, but when at all possible absences and work should be completed in advance.  Consult with course instructors as soon as possible to identify ways to overcome known absences.  **Do not rely on a TA's response to such questions or issues.**
+* Many courses have built-in flexibility to help students overcome typical absences that occur in a student's life (athletics, job interviews, etc.).  Examples of this flexibility include accepting work late (or early, "dropping" lowest scores, and/or extra credit.  In those courses you should expect to utilize the given flexibility for these needs rather than be given additional accommodations. 
+* For significant/prolonged, unexpected absences, due to things like an extended illness or loss of a friend or family member, contact your school's student services (e.g., Engineering [Undergraduate](https://engineering.wustl.edu/offices-services/student-services/undergraduate-student-services/index.html) or [Graduate](https://engineering.wustl.edu/offices-services/student-services/graduate-student-services/index.html) Student Services offices). They will contact relevant faculty on your behalf. 
 
-Where do you address a grading issue? 
-Generally you should start with the staff of your course who issued the grade, working your way up the chain as necessary. That chain from top to bottom is:
-* The school's [academic dean](mailto:ckroeger@wustl.edu)* The course's department's [associate chair](mailto:cytron@wustl.edu)* The instructor(s) of the course
- * A head TA or head grader
+## Grading Issues 
 
- For example, if the grade is for a lab assignment that was graded by any TA, then you would start with the course's head TA or head grader. If the grade is for an exam that the instructor graded, then begin with the instructor unless instructed otherwise.
-What steps do you take?
+Was the point tally on an assignment computed incorrectly? (See "Grading Issues" below) or Do you believe you had a correct response or solution but your grade indicated otherwise?
 
-* First check the courses's web pages or other documentation and look for instructions about how to request a regrade of submitted work. Follow those instructions carefully. If no such instructions are available, then:
- * Write an email to the person who should field your request (see above). In that email provide as much information as possible, but you can also request a meeting during that person's office hours. If you are unable to make that person's office hours, provide specific times for the next 5 business days during which you are available.
-
->  The idea here is to minimize effort on the side of the person receiving your request. If you can be thorough, the matter can be handled expeditiously.
->
-
-
+1. You should address the issue you have with the grading of an assignment as soon as possible after you receive the assignment and its grade. Many courses specify a window of time for such requests and will not review requests beyond the designated time.  If you wait until the end of the semester, you are likely to be turned away. This has to do with the justice of your overall performance evaluation in the course (see below).
+2. Check the courses's web pages or other documentation and look for instructions about how to request a regrade of submitted work. Follow those instructions carefully. If no such instructions are available, then you should start with the staff of your course who issued the grade, working your way up the chain as necessary. You should start with an email or (private) contact via course forums. 
+ That chain from bottom to top is often:
+   a. A head TA or head grader (they can often mitigate simple grading or point tally errors)   
+   b. The course instructor (particularly if the concern is about correctness of an answer or interpretation of work/answers)
+   c. If still not satisfied, continue as described in the School of Engineering's [Student Grievances Policies](https://engineering.wustl.edu/offices-services/student-services/undergraduate-student-services/policies/student-grievances-guidelines.html) (i.e., Instructor, Department Chair, then McKelvey School of Engineering Facilitator, who is listed in the [Student Grievances Policies](https://engineering.wustl.edu/offices-services/student-services/undergraduate-student-services/policies/student-grievances-guidelines.html) policies).
 
 **Some important caveats:**
 * Many faculty will regrade an entire assignment rather than just the place where you feel you received insufficient credit. In some cases, the result may be a lowering of your grade. See the information below on justice.
- * Students have been caught cheating by changing their work between receiving its grade and submitting it for regrading.
+* Students have been caught cheating by changing their work between receiving its grade and submitting it for regrading.  Blatant deception is usually subject to the most severe penalties allowed by Academic Integrity policies. 
+* Do not make any marks or changes to work if you intend to resubmit for regrading.
 
->  This violation of academic integrity is easy to prove and is met with harsh consequences. You will likely receive an F in the course and the infraction will be retained in the permanent record of your work at the university. Look elsewhere in this FAQ for information about academic integrity and community standards.
-> 
-
- Do not make any marks or changes to work if you intend to resubmit for regrading.
-
-
-
-**Justice** Faculty, staff, and students are interested in justice and fairness in grading. This means that the grade given on submitted work fairly evaluates the student's work. Where possible, instructors provide rubrics as to how an assignment will be graded. Some students receive a poor grade for simply not reading the rubric and following an assignment's required instructions. A student truly interested in justice would bring any grading error to the attention of the instructor, whether it benefits the student or not. Instructors are sometimes approached by students who point out grading mistakes not in their favor. Instructors are also approached by students near or at the end of the semester, asking for grade reconsiderations or extra work those students might do to improve their grade. Justice requires that instructors not make opportunities available to *some* students that are not available to 
+**Justice** Faculty, staff, and students are interested in justice and fairness in grading. This means that the grade given on submitted work fairly evaluates the student's work. Where possible, instructors provide rubrics as to how an assignment will be graded. Some students receive a poor grade for simply not reading the rubric and disregarding an assignment's required instructions. A student truly interested in justice would bring any grading error to the attention of the instructor, whether it benefits the student or not. Instructors are sometimes approached by students who point out grading mistakes not in their favor. Instructors are also approached by students near or at the end of the semester, asking for grade reconsiderations or extra work those students might do to improve their grade. Justice requires that instructors not make opportunities available to *some* students that are not available to 
 *all* students. Requests along those lines betray a student's intent and are not recommended.
 
 
 
 
 
-<span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/58">Discussions View</a></span>
 
 ---
@@ -2628,8 +2611,6 @@ There are a variety of reasons!
 
 [How do I study CSE while preparing for medical school?](#how-do-i-study-cse-while-preparing-for-medical-school)
 
-[How do the honors math courses count?](#how-do-the-honors-math-courses-count)
-
 [How does pass/fail work?](#how-does-passfail-work)
 
 [How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
@@ -3012,8 +2993,6 @@ There are a variety of reasons!
 
 [How do I study CSE while preparing for medical school?](#how-do-i-study-cse-while-preparing-for-medical-school)
 
-[How do the honors math courses count?](#how-do-the-honors-math-courses-count)
-
 [How does pass/fail work?](#how-does-passfail-work)
 
 [How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
@@ -3286,8 +3265,6 @@ There are a variety of reasons!
 
 [How do I study CSE while preparing for medical school?](#how-do-i-study-cse-while-preparing-for-medical-school)
 
-[How do the honors math courses count?](#how-do-the-honors-math-courses-count)
-
 [How does pass/fail work?](#how-does-passfail-work)
 
 [How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
@@ -3311,8 +3288,6 @@ There are a variety of reasons!
 [I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
 
 [I'm having trouble with my computer.  Where can I get help?](#im-having-trouble-with-my-computer--where-can-i-get-help)
-
-[If I am not satisfied with a grade I received on an assignment or in a course, what should I do?](#if-i-am-not-satisfied-with-a-grade-i-received-on-an-assignment-or-in-a-course-what-should-i-do)
 
 [Is it ever worth it to cheat?](#is-it-ever-worth-it-to-cheat)
 
@@ -3497,8 +3472,6 @@ There are a variety of reasons!
 [How do I do CS+Math? What upper level electives count? Can I do this as a second major?](#how-do-i-do-csmath-what-upper-level-electives-count-can-i-do-this-as-a-second-major)
 
 [How do I earn a second major in computer engineering?](#how-do-i-earn-a-second-major-in-computer-engineering)
-
-[How do the honors math courses count?](#how-do-the-honors-math-courses-count)
 
 [How is CS+Math different from a double (second) major?](#how-is-csmath-different-from-a-double-second-major)
 
