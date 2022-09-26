@@ -1532,10 +1532,13 @@ Answer questions and spend time with online programming communities, such as:
 
 ---
 <h2 class="anchored" id="readme">README</h2>
-## Tips
+# FAQ Forum policies, practices, and use.
 
-An overview of the parts of this page (accessible by the menu at the top.  If you're on a small screen, you may need to click on the three lines in the upper left corner of the page). 
+This is for frequent questions and answers for students in of Computer Science and Engineering at Washington University in St. Louis.   
 
+### Tips
+
+Here's overview of the parts of the [FAQ page](https://faq.cse.wustl.edu/):
 * Read Me:  This!
 * Table of Contents: Lists all the questions (links).  This can be helpful to skim the topics/questions contained in the FAQ.  
 * Questions: All questions and the corresponding answer
@@ -1543,10 +1546,47 @@ An overview of the parts of this page (accessible by the menu at the top.  If yo
 * Post Questions:  Link to post a new question.  We will try to answer in a few business days.  Questions that seem of general interest may eventually be included in this FAQ. 
 * Discussions:  A "discussion" view of this FAQ and any other pending questions. 
 
+### Views
 
+These pages utilize [GitHub Discussion](https://docs.github.com/en/discussions) forums to manage content. 
+* You can view all official questions and answers on the [FAQ Page](https://faq.cse.wustl.edu/).   The page is regenerated daily from the [FAQ](https://github.com/wustlcse/FAQ/discussions/categories/faq) discussion category, which contains approved questions/answers. 
+* Click [here](https://github.com/wustlcse/FAQ/discussions/new?category=new-questions) to post a new question, which will place it in the [New Questions](https://github.com/wustlcse/FAQ/discussions/categories/new-questions) category. If a question has a broad audience and an official answer, it will be moved to the FAQ/FAQ Category.  Posts may be removed if:
+  * They are not relevant to Computer Science and Engineering students at Washington University in St. Louis
+  * They are deemed uncivil or rude
+  * They are not of broad appeal
+
+### Uses
+
+The [Discussions View](https://github.com/wustlcse/FAQ/discussions) includes the ability to search and filter based on labels (tags / index topics) as well as control sort orders, etc.
+
+The [FAQ page](https://faq.cse.wustl.edu/) can be searched via your web browser's page search.  It also includes a table of contents and an index of keywords, that lists all the questions that contain that keyword.  These can be a useful way to get a general sense of the questions answered in the FAQ or questions related to a particular topic. 
+  
+### Formatting Contributions
+
+* Links to Labels:  If you want to link to a specific label, please refer to the label in the Meta page with the following format:`[LINK](https://wustlcse.github.io/FAQ/#LABEL)`.  It's probably easiest to just go to the [index](https://wustlcse.github.io/FAQ/#index), click on a particular label, and use the URL. For example: `[Computer Science](https://wustlcse.github.io/FAQ/#computer_science)`
+* Links to questions: Like with labels, it's probably best to go to the Meta page, click on the question in the [Table of Contents](https://wustlcse.github.io/FAQ/#toc), and use the URL.  An example may look like: `[Transfering Courses](https://wustlcse.github.io/FAQ/#can-i-take-courses-at-other-universities-and-have-them-count-here)`
+  * If you are already on the question and on a computer, you can hover the mouse over the question title and a link icon will appear at the end of the title.  You can either click on it to get the URL in the URL bar or right click and select "Copy Link Address".
+* Headings:  The Meta Page uses level one and two headings ("#" and "##").  Use headings at level 3 or more in answers.
+
+
+### Acknowledgements
+
+Questions and answer in this FAQ come from a variety of contributors, including:
+* Jeremy Buhler
+* Ben Bush
+* Ben Choi
+* Ron Cytron
+* Monét Demming
+* Roch Guérin
+* Nick Murray
+* Melanie Osborn
+* Arthur Rattew
+* Dave Richard
+* Jon Shidal
+* Andrew Swafford
 
 <span class="tag-links"></span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/134">Discussions View</a></span>
+<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/2">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="should-i-consider-an-unpaid-internship">Should I consider an unpaid internship?</h2>
@@ -2483,7 +2523,7 @@ WashU CSE students study at nearly every school that participates in the study a
 
 ---
 <h2 class="anchored" id="which-is-better-a-mac-or-a-pc">Which is better, a mac or a pc?</h2>
-Students need access to a laptop for many courses.  The School of Engineering has minimum guides here: https://techden.wustl.edu/selecting-a-laptop/mckelvey/.  It recommends against​ Apple silicon (M1 and M2 processors). However, there are few known serious problems for the majority of CSE work and many faculty members are using Apple silicon.  If you chose Apple silicon, start work early enough to ensure you will be able to run required software and be aware of computer labs in case you do encounter compatibility issues.  "My computer couldn't do this" isn't a valid excuse for not completing work on time. 
+Students need access to a laptop for many courses.  The School of Engineering has minimum guides here: [https://techden.wustl.edu/selecting-a-laptop/mckelvey/](https://github.com//wustlcse/FAQ/discussions/129).  It recommends against​ Apple silicon (M1 and M2 processors). However, there are few known serious problems for the majority of CSE work and many faculty members are using Apple silicon.  If you chose Apple silicon, start work early enough to ensure you will be able to run required software and be aware of computer labs in case you do encounter compatibility issues.  "My computer couldn't do this" isn't a valid excuse for not completing work on time. 
 
 There are only a few CSE courses that require a specific operating systems and they usually have alternatives available.  Example courses with machine requirements and alternatives are:
 * CSE 438S (Mobile App Development):  Nearly all semesters require access to a Mac for iOS app development.  There is a Mac lab available for students who don't have a Mac, which is a bit less convenient but allows all course work to be completed.   (This course has been offered for Android a few times, which worked on macOS or Windows)
