@@ -1532,7 +1532,18 @@ Answer questions and spend time with online programming communities, such as:
 
 ---
 <h2 class="anchored" id="readme">README</h2>
-Details to Come.
+## Tips
+
+An overview of the parts of this page (accessible by the menu at the top.  If you're on a small screen, you may need to click on the three lines in the upper left corner of the page). 
+
+* Read Me:  This!
+* Table of Contents: Lists all the questions (links).  This can be helpful to skim the topics/questions contained in the FAQ.  
+* Questions: All questions and the corresponding answer
+* Index: an index of keywords (tags/labels and a brief description of the concepts they cover.  Click on the word to see all questions that have been tagged with it. 
+* Post Questions:  Link to post a new question.  We will try to answer in a few business days.  Questions that seem of general interest may eventually be included in this FAQ. 
+* Discussions:  A "discussion" view of this FAQ and any other pending questions. 
+
+
 
 <span class="tag-links"></span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/134">Discussions View</a></span>
