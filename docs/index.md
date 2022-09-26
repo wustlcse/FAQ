@@ -79,8 +79,6 @@ markdown: kramdown
 
 [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
-[How do I frame my thinking about staying for a master's degree?](#how-do-i-frame-my-thinking-about-staying-for-a-masters-degree)
-
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
 
 [How do I sign up for summer classes?](#how-do-i-sign-up-for-summer-classes)
@@ -125,7 +123,7 @@ markdown: kramdown
 
 [I have a conflict with one of my exams in this class.  What should I do?](#i-have-a-conflict-with-one-of-my-exams-in-this-class--what-should-i-do)
 
-[I have accommodation on timed exams and quizzes.  How do I arrange to take these at Cornerstone?](#i-have-accommodation-on-timed-exams-and-quizzes--how-do-i-arrange-to-take-these-at-cornerstone)
+[I have accommodation on timed exams and quizzes.  How do I arrange to take these?](#i-have-accommodation-on-timed-exams-and-quizzes--how-do-i-arrange-to-take-these)
 
 [I have enjoyed 131.  What course should I take next?](#i-have-enjoyed---what-course-should-i-take-next)
 
@@ -170,6 +168,8 @@ markdown: kramdown
 [Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
 
 [Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
+
+[Should I pursue a master's degree (at WashU / BS/MS)?](#should-i-pursue-a-masters-degree-at-washu--bsms)
 
 [What are residency requirements?](#what-are-residency-requirements)
 
@@ -466,15 +466,24 @@ We also have a local [ACM chapter](https://acm.wustl.edu/).
 ---
 <h2 class="anchored" id="how-are-admissions-handled">How are admissions handled?</h2>
 
-* For graduate admissions, meaning master's and doctoral studies, the department decides on admissions. If you have questions you are enouraged to look at our
-[graduate program pages](https://cse.wustl.edu/graduate/programs/Pages/default.aspx).
-* For transfers between schools (Olin, SEAS, ArtSci, etc.) for students who are already here, the receiving school decides whether or not to admit the transfer student. The conversation should begin with your advisor in your current school. Transfers are usually handled at the end of each semester.
- If you are interested in a program in a school other than your *prime* school, where you are currently advised, then you are encouraged to seek out an advisor in the school of interest as a contact point for questions about that school's programs and procedures. The Undergraduate Engineering Student Services (UESS) office currently housed in Lopata 303 is the place to go.
-* For undergraduate students who are not already here, meaning first-year applications or transfer students from other universities, admissions are decided by the [University Admissions Office](https://admissions.wustl.edu/).
- The department has no say in these admissions, but if you have a point of contact in the department, that person can furnish a reference letter for you, if that person knows you well enough to provide a letter of value. Even so, it is unclear the role such letters play in the admissions decisions.
+
+## Graduate Admissiont
+
+Our department decides on admissions to our Master's and doctoral programs. If you have questions you are encouraged to look at our [graduate program pages](https://cse.wustl.edu/academics/graduate/index.html).
+
+## Interdivision Transfers
+
+Each school (Olin, McKelvey (Engineering), ArtSci, etc.) decides whether or not to admit the transfer student.   The McKelvey School of Engineering's Policies are described in the [Interdivision Transfer Policy](https://wustl.app.box.com/s/7qswlj7uoio1akdh209yp9lez7qevm0x), which includes a section on the requirements for eligibility to transfer to CSE degree programs.  Individual departments, like CSE have no say in individual admissions.
+
+You should start by:
+* Discuss a potential transfer with your current advisors (faculty advisors and four-year advisors)
+* Review the contacts for degrees or schools that you want to join.  If you want to join the School of Engineering, contact one of the [advising staff](https://engineering.wustl.edu/offices-services/student-services/undergraduate-student-services/staff.html) who list "Interdivision Transfer" as one of their areas. 
+* If there's agreement that a change is appropriate, use WebSTAC to make a [Change School](https://webstachelp.wustl.edu/academics/change-school/) request. 
+* Transfers are usually handled at the end of each semester.
 
 
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+
+<span class="tag-links">[#academia](#academia) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/97">Discussions View</a></span>
 
 ---
@@ -763,24 +772,6 @@ Modes of conducting research with faculty
 
 <span class="tag-links">[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#independent_study](#independent_study) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#research](#research) [#reu](#reu) [#student_life](#student_life) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/14">Discussions View</a></span>
-
----
-<h2 class="anchored" id="how-do-i-frame-my-thinking-about-staying-for-a-masters-degree">How do I frame my thinking about staying for a master's degree?</h2>
- Our department and school offer many incentives for you to stay and continue your studies by earning a master's degree. Those are covered elsewhere.
- But how do you decide whether to stay or go?
- Try the following [Gedankenerfahrung](https://en.wikipedia.org/wiki/Thought_experiment):
-* Imagine that are going to stay one or two semesters to complete your master's degree. The number of semesters you need depends on credit you have accumulated and how many courses you would take a semester.
- * How do you feel about staying for that extra time to complete the master's degree? Remember to factor in how you generally feel each semester about coming back, and how you feel once you are here.
- * If on balance, you feel neutral to positive about coming back for the studies, then you should probably do the master's degree. It typically commands a higher starting salary, it allows you to do a project with faculty, and students are generally very satisifed with their advanced studies.
- * If on balance, you would rather schedule root canal than take another class, then you are probably not in the frame of mind to continue your studies. Employment is quite strong and you are advised to take a job and evaluate your feelings about further education in six months or a year.
-
-
-
-
-
-
-<span class="tag-links">[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#masters](#masters) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/124">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="how-do-i-prepare-for-and-find-an-internship">How do I prepare for and find an internship?</h2>
@@ -1195,14 +1186,16 @@ Usually conflicts are due to:
 
 
 
-<span class="tag-links">[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#courses](#courses)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/102">Discussions View</a></span>
 
 ---
-<h2 class="anchored" id="i-have-accommodation-on-timed-exams-and-quizzes--how-do-i-arrange-to-take-these-at-cornerstone">I have accommodation on timed exams and quizzes.  How do I arrange to take these at Cornerstone?</h2>
- Please present your accommodation documentation to the instructor the first week of class. 
+<h2 class="anchored" id="i-have-accommodation-on-timed-exams-and-quizzes--how-do-i-arrange-to-take-these">I have accommodation on timed exams and quizzes.  How do I arrange to take these?</h2>
+Please use the Disability Resources [portal](https://students.wustl.edu/disability-resources/) to request accommodations for all your exams as soon as possible (first week of class).  Typically this will send details to instructors, who may ask that Disability Resources proctor exams or may contact you individually to proctor exams.  
 
-<span class="tag-links">[#cse131](#cse131) [#get_help](#get_help) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
+If you don't hear from instructors, it's best to contact them at least a week before any exams or timed activities to ensure appropriate accommodations. 
+
+<span class="tag-links">[#get_help](#get_help)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/40">Discussions View</a></span>
 
 ---
@@ -1642,6 +1635,27 @@ Approximately 1-2 weeks after you register for classes you should get an email t
 
 <span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#independent_study](#independent_study) [#jobs](#jobs) [#needs_review](#needs_review) [#research](#research) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/78">Discussions View</a></span>
+
+---
+<h2 class="anchored" id="should-i-pursue-a-masters-degree-at-washu--bsms">Should I pursue a master's degree (at WashU / BS/MS)?</h2>
+
+Our department and school offer many incentives for you to stay and continue your studies by earning a master's degree. Those are covered elsewhere (Also, see [Bachelor's/Master's](https://engineering.wustl.edu/academics/graduate-admissions/bachelors-masters.html)).
+
+How do you decide whether to stay or go? Try the following thought experiment:
+
+First, how do you feel about staying for an extra ~2 semesters to complete the master's degree? Think about how you enjoy your time in/at WashU.  Also consider that Master's coursework is focused entirely on your discipline (i.e., all CSE and related courses). 
+* If you feel positive about extending your studies, then you should seriously investigate doing a master's degree. It typically commands a higher starting salary, it allows you to do a project with faculty, and students are generally very satisfied with their advanced studies.
+  * Your next step is consideration of any outside obligations and the financial impact (cost vs. gain).  The [Bachelor's/Master's Program](https://engineering.wustl.edu/academics/graduate-admissions/bachelors-masters.html) page lists some of the scholarships available for M.S. work.  
+  * Note that many employer will pay for some or all of graduate studies for  their employees.  This can offset costs, but sometimes it's not available until completion of a year or more of employment and often studies take place while working full-time, which can cause it to take longer to complete.
+* If on balance, you would rather schedule root canal than take another class, then you are probably not in the frame of mind to continue your studies. You may want to start your post-academic career and evaluate your feelings about further education in six months or a year.
+
+
+
+
+
+
+<span class="tag-links">[#graduate](#graduate) [#masters](#masters) [#undergraduate](#undergraduate)</span>
+<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/124">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="what-are-residency-requirements">What are residency requirements?</h2>
@@ -2130,16 +2144,16 @@ Students at Washington University are assigned many advisors, and it is helpful 
 
 ---
 <h2 class="anchored" id="what-kind-of-computer-should-i-have-for-studies-in-computer-science-or-computer-engineering">What kind of computer should I have for studies in computer science or computer engineering?</h2>
- Computers continue to drop in price as they increase in both speed and available storage. If you are interested in studies in our department, here are some guidelines about a computer:
-* We recommend a laptop over a desktop, so that you can more easily collaborate by bringing your laptop to work in groups. Laptops are also convenient in class for taking notes and for experimenting with ideas presented in some classes.
- * Working on code usually is easier with a larger screen. While this does increase the size and weight of your laptop, you will probably appreciate the extra screen real estate so that you can look at various portions of code at the same same time.
- * If you buy a new laptop, then he clock rate of the CPU is not all that important. Unless you plan to do some heavy computation on your laptop, something at or above 2 GHz is fine.
- * If you have a choice of a solid state disk (SSD) you should pick that over the older moving-head disks. The SSD will make your computer perform much faster. They are generally more expensive, but like all disks, their price is correlated to the space they provide.
- * How much disk space do you need? At least 256 GB for your work in courses. Remember the disk has to accommodate all your system software as well as applications you install for courses and the data you generate for your courses. If you like lots of music and want it resident on your laptop, consider a 512 GB SSD drive. If you are feeling flush or if you like lots of musics resident on our laptop, consider a 1 TB drive.
- * Some students seem to find cheaper installations of operating systems via nonstandard vendors. Please steer clear of those, as the software we use does not always work well on nonstandard installations. If you stop by [EIT](https://engineering.wustl.edu/our-school/leadership/offices/engineering-it/Pages/default.aspx) they can often provide you with standard installations of common software.
+
+"Students need access to a laptop for many courses.  The School of Engineering has minimum guides here: [https://techden.wustl.edu/selecting-a-laptop/mckelvey/](https://techden.wustl.edu/selecting-a-laptop/mckelvey/).  It recommends _against_​ Apple silicon (M1 and M2 processors). However, there are few known serious problems for the majority of CSE work and many faculty members are using Apple silicon.  If you chose Apple silicon, start work early enough to ensure you will be able to run required software and be aware of computer labs in case you do encounter compatibility issues.  "My computer couldn't do this" isn't a valid excuse for not completing work on time. 
+
+There are only a few CSE courses that require a specific operating systems and they usually have alternatives available.  Example courses with machine requirements and alternatives are:
+* CSE 438S (Mobile App Development):  Nearly all semesters require access to a Mac for iOS app development.  There is a Mac lab available for students who don't have a Mac, which is a bit less convenient but allows all course work to be completed.   (This course has been offered for Android a few times, which worked on macOS or Windows)
+* CSE 439S: Mobile App Development II:  Always based on iOS app development and requires access to a Mac.  Again, the lab can be used. 
+* CSE 260M (Introduction to Digital Logic and Computer Design), CSE 362M (Computer Architecture), and CSE 462M (Computer Systems Design) use PC-based tools (Vivado is one).  Students do not need access during class sessions. Those with Macs can use engineering computer labs, remote access, or try to use emulation tools, like Parallels or VMWare Fusion.  All have some potential limitations:  Engineering labs require travelling to campus and finding an available machine.  Remote access is clunky and doesn't support all needs, like connecting to a device via USB.  As of July 2022, I'm not sure emulation has been tested on Apple Silicon to see how well it works. "
 
 
-<span class="tag-links">[#computer](#computer) [#misc](#misc) [#needs_review](#needs_review) [#student_life](#student_life)</span>
+<span class="tag-links">[#computer](#computer) [#misc](#misc)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/15">Discussions View</a></span>
 
 ---
@@ -2480,16 +2494,14 @@ There are a variety of reasons!
 
 ---
 <h2 class="anchored" id="why-would-i-consider-transferring-schools">Why would I consider transferring schools?</h2>
- This question presumes you are in one school and are thinking about transferring to another.
- Why would you want to do such a thing?
- Some programs (e.g., computer science and math) offer a first or second major, giving you the following options:
-* You earn a major in that area of study as a first major, in which case that department's school is your primary school. If you are a first major in computer science or computer engineering, SEAS is your primary school.
- * You earn a major in that area of study as a second major, in which case you must have some other major as your first major. If you are primarily a math major and you are earning a second major in computer science, then ArtSci is your primary school.
+After considering the below, please consult your advisors (both four-year and faculty) to discuss your motivation for pursuing a transfer.  Also see:
+* [Interdivision Transfers / Admissions](https://wustlcse.github.io/FAQ/#how-are-admissions-handled)
+* [Details about open programs](https://wustlcse.github.io/FAQ/#whats-an-open-program----how-do-i-changeadddrop-a-degree-open-program)
+* [Second Degree vs. Second Major](https://wustlcse.github.io/FAQ/#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
- Where students have a choice of first or second major, the considerations students must use in choosing their school usually pertain to the requirements of the school *outside of* the main program of study. For example, you can earn a computer science first or second major, and the program requirements are the same *for the computer science portion*. If you do this as a first major, then you must satisfy SEAS distribution requirements. If you do this as a second major, then you must satisfy your primary school's distribution requirements.
- Thus, the decision of school should be made by thinking about all of the programs (majors and minors) you wish to complete, and then finding the best fit. That fit may be based on the requirements of a particular school, the flexibility it offers to complete programs outside of that school, and the advising and other support you receive.
- CSE and SEAS aim to provide you the maximum flexibility in your studies across the university, but your best option will depend on your particular situation. You are encouraged to consider all options and discuss them with your advisors and other mentors.
- It is helpful to begin this exploration with your academic and 4-year advisors, but you should also talk with other students, in your current and potential future school, to get as much input as possible to make your decision.
+If you already have a primary interest/major and just want to **add** computing to your studies, it's probably not necessary to transfer schools.  You can consider one of the CSE minors or a Second Major, which can be added to studies for students in any major.  (See other FAQ topics on [Second Majors](https://github.com/wustlcse/FAQ/discussions?discussions_q=second+major) and [Minors](https://github.com/wustlcse/FAQ/discussions?discussions_q=minor))
+
+If **you want only one major and want to study computing**, you can consider the [CSE Majors](https://cse.wustl.edu/academics/undergraduate/index.html) offered from the School of Engineering.  Three of the majors are available from both the [School of Engineering](https://cse.wustl.edu/academics/undergraduate/index.html) and the School of Arts and Sciences.  The Arts and Sciences variations are described: [Economics and Computer Science](https://bulletin.wustl.edu/undergrad/artsci/economics/#econcompsci), [Mathematics and Computer Science](https://bulletin.wustl.edu/undergrad/artsci/mathematics-and-statistics/#mathematics-computer-science), and [Data Science](https://bulletin.wustl.edu/undergrad/artsci/mathematics-and-statistics/#data-science).  If you're not in McKelvey and want to pursue one of the majors only offered by CSE, you'll need to pursue a transfer.  If you want to pursue one of the degrees offered by both McKelvey and ArtSci, you should review the [Bulletin](https://bulletin.wustl.edu/) --- The primary school determines a variety of academic policies and degree requirements and you may want to request a transfer to whichever school's policies/requirements are best for you.
 
 
 
@@ -2501,8 +2513,7 @@ There are a variety of reasons!
 
 
 
-
-<span class="tag-links">[#academia](#academia) [#artsci](#artsci) [#misc](#misc) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/12">Discussions View</a></span>
 
 ---
@@ -2605,8 +2616,6 @@ There are a variety of reasons!
 
 [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
-[How do I frame my thinking about staying for a master's degree?](#how-do-i-frame-my-thinking-about-staying-for-a-masters-degree)
-
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
 
 [How do I study CSE while preparing for medical school?](#how-do-i-study-cse-while-preparing-for-medical-school)
@@ -2671,8 +2680,6 @@ There are a variety of reasons!
 
 [Where do I look to see the various dates pertaining to our academic calendar?](#where-do-i-look-to-see-the-various-dates-pertaining-to-our-academic-calendar)
 
-[Why would I consider transferring schools?](#why-would-i-consider-transferring-schools)
-
 [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
 </dd>
@@ -2718,8 +2725,6 @@ There are a variety of reasons!
 [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
 [How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
-
-[Why would I consider transferring schools?](#why-would-i-consider-transferring-schools)
 
 </dd>
 
@@ -2795,6 +2800,8 @@ There are a variety of reasons!
 
 [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
 
+[I have a conflict with one of my exams in this class.  What should I do?](#i-have-a-conflict-with-one-of-my-exams-in-this-class--what-should-i-do)
+
 [If I am not satisfied with a grade I received on an assignment or in a course, what should I do?](#if-i-am-not-satisfied-with-a-grade-i-received-on-an-assignment-or-in-a-course-what-should-i-do)
 
 [If I retake a course, what happens on my transcript and how does this affect my GPA?](#if-i-retake-a-course-what-happens-on-my-transcript-and-how-does-this-affect-my-gpa)
@@ -2836,10 +2843,6 @@ There are a variety of reasons!
 [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
 
 [I cannot access my repository.  What should I do?](#i-cannot-access-my-repository--what-should-i-do)
-
-[I have a conflict with one of my exams in this class.  What should I do?](#i-have-a-conflict-with-one-of-my-exams-in-this-class--what-should-i-do)
-
-[I have accommodation on timed exams and quizzes.  How do I arrange to take these at Cornerstone?](#i-have-accommodation-on-timed-exams-and-quizzes--how-do-i-arrange-to-take-these-at-cornerstone)
 
 [I have enjoyed 131.  What course should I take next?](#i-have-enjoyed---what-course-should-i-take-next)
 
@@ -2899,7 +2902,7 @@ There are a variety of reasons!
 
 [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
 
-[I have accommodation on timed exams and quizzes.  How do I arrange to take these at Cornerstone?](#i-have-accommodation-on-timed-exams-and-quizzes--how-do-i-arrange-to-take-these-at-cornerstone)
+[I have accommodation on timed exams and quizzes.  How do I arrange to take these?](#i-have-accommodation-on-timed-exams-and-quizzes--how-do-i-arrange-to-take-these)
 
 [I need a laptop for my CSE work and don't have one that works; what should I do?](#i-need-a-laptop-for-my-cse-work-and-dont-have-one-that-works-what-should-i-do)
 
@@ -2924,8 +2927,6 @@ There are a variety of reasons!
 [How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
 
 [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
-
-[How do I frame my thinking about staying for a master's degree?](#how-do-i-frame-my-thinking-about-staying-for-a-masters-degree)
 
 [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
@@ -2969,8 +2970,6 @@ There are a variety of reasons!
 
 [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
-[How are admissions handled?](#how-are-admissions-handled)
-
 [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
 
 [How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
@@ -2984,8 +2983,6 @@ There are a variety of reasons!
 [How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
 
 [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
-
-[How do I frame my thinking about staying for a master's degree?](#how-do-i-frame-my-thinking-about-staying-for-a-masters-degree)
 
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
 
@@ -3010,8 +3007,6 @@ There are a variety of reasons!
 [I am primarily interested in becoming a software engineer; what courses should I take?](#i-am-primarily-interested-in-becoming-a-software-engineer-what-courses-should-i-take)
 
 [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
-
-[I have accommodation on timed exams and quizzes.  How do I arrange to take these at Cornerstone?](#i-have-accommodation-on-timed-exams-and-quizzes--how-do-i-arrange-to-take-these-at-cornerstone)
 
 [I have enjoyed 131.  What course should I take next?](#i-have-enjoyed---what-course-should-i-take-next)
 
@@ -3040,6 +3035,8 @@ There are a variety of reasons!
 [Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
 
 [Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
+
+[Should I pursue a master's degree (at WashU / BS/MS)?](#should-i-pursue-a-masters-degree-at-washu--bsms)
 
 [What are residency requirements?](#what-are-residency-requirements)
 
@@ -3135,13 +3132,13 @@ There are a variety of reasons!
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="masters" aria-hidden="false">
 
-[How do I frame my thinking about staying for a master's degree?](#how-do-i-frame-my-thinking-about-staying-for-a-masters-degree)
-
 [How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
 
 [How much time do I spend on a course here?](#how-much-time-do-i-spend-on-a-course-here)
 
 [Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
+
+[Should I pursue a master's degree (at WashU / BS/MS)?](#should-i-pursue-a-masters-degree-at-washu--bsms)
 
 [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
@@ -3231,8 +3228,6 @@ There are a variety of reasons!
 
 [Why St. Louis?](#why-st-louis)
 
-[Why would I consider transferring schools?](#why-would-i-consider-transferring-schools)
-
 </dd>
 
 <dt class="accordion-header" aria-expanded="false" id="needs_review" role="tab" aria-controls="needs_review" aria-selected="false" tabindex="0"><span class="accordion-header-content anchored" id="needs_review">needs_review : Topics that need review.  Posted answer may not be accurate.</span><svg width="20" height="20" viewBox="0 0 20 20"><path fill="#a51417" d="M5 6l5 5 5-5 2 1-7 7-7-7z"></path></svg></dt>
@@ -3247,8 +3242,6 @@ There are a variety of reasons!
 
 [Does our department have an honor society?](#does-our-department-have-an-honor-society)
 
-[How are admissions handled?](#how-are-admissions-handled)
-
 [How can I get space for students to get help from my TAs?](#how-can-i-get-space-for-students-to-get-help-from-my-tas)
 
 [How can I place out of a course if I think I already know that course's material?   What happens to my program of study if I do place out?](#how-can-i-place-out-of-a-course-if-i-think-i-already-know-that-courses-material---what-happens-to-my-program-of-study-if-i-do-place-out)
@@ -3258,8 +3251,6 @@ There are a variety of reasons!
 [How do I find a summer internship?](#how-do-i-find-a-summer-internship)
 
 [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
-
-[How do I frame my thinking about staying for a master's degree?](#how-do-i-frame-my-thinking-about-staying-for-a-masters-degree)
 
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
 
@@ -3280,10 +3271,6 @@ There are a variety of reasons!
 [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
 
 [I cannot access my repository.  What should I do?](#i-cannot-access-my-repository--what-should-i-do)
-
-[I have a conflict with one of my exams in this class.  What should I do?](#i-have-a-conflict-with-one-of-my-exams-in-this-class--what-should-i-do)
-
-[I have accommodation on timed exams and quizzes.  How do I arrange to take these at Cornerstone?](#i-have-accommodation-on-timed-exams-and-quizzes--how-do-i-arrange-to-take-these-at-cornerstone)
 
 [I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
 
@@ -3317,13 +3304,9 @@ There are a variety of reasons!
 
 [What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
 
-[What kind of computer should I have for studies in computer science or computer engineering?](#what-kind-of-computer-should-i-have-for-studies-in-computer-science-or-computer-engineering)
-
 [When trying to commit or update I have conflicts, what do I do?](#when-trying-to-commit-or-update-i-have-conflicts-what-do-i-do)
 
 [Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
-
-[Why would I consider transferring schools?](#why-would-i-consider-transferring-schools)
 
 [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
@@ -3503,15 +3486,11 @@ There are a variety of reasons!
 
 [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
-[How do I frame my thinking about staying for a master's degree?](#how-do-i-frame-my-thinking-about-staying-for-a-masters-degree)
-
 [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
 [I am on the wait list for a course. What should I do?](#i-am-on-the-wait-list-for-a-course-what-should-i-do)
 
 [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
-
-[I have accommodation on timed exams and quizzes.  How do I arrange to take these at Cornerstone?](#i-have-accommodation-on-timed-exams-and-quizzes--how-do-i-arrange-to-take-these-at-cornerstone)
 
 [I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
 
@@ -3528,8 +3507,6 @@ There are a variety of reasons!
 [Other ways to get involved](#other-ways-to-get-involved)
 
 [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
-
-[What kind of computer should I have for studies in computer science or computer engineering?](#what-kind-of-computer-should-i-have-for-studies-in-computer-science-or-computer-engineering)
 
 [What's a hackathon, where/when/why/how should I get involved?](#whats-a-hackathon-wherewhenwhyhow-should-i-get-involved)
 
@@ -3623,8 +3600,6 @@ There are a variety of reasons!
 
 [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
-[How do I frame my thinking about staying for a master's degree?](#how-do-i-frame-my-thinking-about-staying-for-a-masters-degree)
-
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
 
 [How do I sign up for summer classes?](#how-do-i-sign-up-for-summer-classes)
@@ -3660,10 +3635,6 @@ There are a variety of reasons!
 [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
 
 [I cannot access my repository.  What should I do?](#i-cannot-access-my-repository--what-should-i-do)
-
-[I have a conflict with one of my exams in this class.  What should I do?](#i-have-a-conflict-with-one-of-my-exams-in-this-class--what-should-i-do)
-
-[I have accommodation on timed exams and quizzes.  How do I arrange to take these at Cornerstone?](#i-have-accommodation-on-timed-exams-and-quizzes--how-do-i-arrange-to-take-these-at-cornerstone)
 
 [I have enjoyed 131.  What course should I take next?](#i-have-enjoyed---what-course-should-i-take-next)
 
@@ -3702,6 +3673,8 @@ There are a variety of reasons!
 [Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
 
 [Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
+
+[Should I pursue a master's degree (at WashU / BS/MS)?](#should-i-pursue-a-masters-degree-at-washu--bsms)
 
 [What are residency requirements?](#what-are-residency-requirements)
 
