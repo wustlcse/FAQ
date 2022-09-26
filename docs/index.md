@@ -21,8 +21,6 @@ markdown: kramdown
 
 
 
-[CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
-
 [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
 [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
@@ -32,6 +30,10 @@ markdown: kramdown
 [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
 [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
+
+[CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
+
+<hr class="toc-divider">
 
 [Degree requirements have changed since I started.  Am I required or allowed to the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-the-new-requirements)
 
@@ -43,9 +45,11 @@ markdown: kramdown
 
 [Does our department have an honor society?](#does-our-department-have-an-honor-society)
 
-[How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
+<hr class="toc-divider">
 
 [How are admissions handled?](#how-are-admissions-handled)
+
+[How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
 [How can I contribute to this FAQ?](#how-can-i-contribute-to-this-faq)
 
@@ -65,13 +69,13 @@ markdown: kramdown
 
 [How do I do CS+Math? What upper level electives count? Can I do this as a second major?](#how-do-i-do-csmath-what-upper-level-electives-count-can-i-do-this-as-a-second-major)
 
-[How do I earn a minor in Human-Computer Interaction (HCI)?](#how-do-i-earn-a-minor-in-human-computer-interaction-hci)
-
 [How do I earn a minor in bioinformatics?](#how-do-i-earn-a-minor-in-bioinformatics)
 
 [How do I earn a minor in computer engineering?](#how-do-i-earn-a-minor-in-computer-engineering)
 
 [How do I earn a minor in computer science?](#how-do-i-earn-a-minor-in-computer-science)
+
+[How do I earn a minor in Human-Computer Interaction (HCI)?](#how-do-i-earn-a-minor-in-human-computer-interaction-hci)
 
 [How do I earn a second major in computer engineering?](#how-do-i-earn-a-second-major-in-computer-engineering)
 
@@ -108,6 +112,8 @@ markdown: kramdown
 [How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
 
 [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
+
+<hr class="toc-divider">
 
 [I accepted a job offer with company X but have since received a more attracive offer from company Y. What should I do?](#i-accepted-a-job-offer-with-company-x-but-have-since-received-a-more-attracive-offer-from-company-y-what-should-i-do)
 
@@ -157,9 +163,19 @@ markdown: kramdown
 
 [Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
+<hr class="toc-divider">
+
 [My employer wants a letter from the department for my green card application. How do I do that?](#my-employer-wants-a-letter-from-the-department-for-my-green-card-application-how-do-i-do-that)
 
+<hr class="toc-divider">
+
 [Other ways to get involved](#other-ways-to-get-involved)
+
+<hr class="toc-divider">
+
+[README](#readme)
+
+<hr class="toc-divider">
 
 [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
@@ -170,6 +186,8 @@ markdown: kramdown
 [Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
 
 [Should I pursue a master's degree (at WashU / BS/MS)?](#should-i-pursue-a-masters-degree-at-washu--bsms)
+
+<hr class="toc-divider">
 
 [What are residency requirements?](#what-are-residency-requirements)
 
@@ -193,23 +211,23 @@ markdown: kramdown
 
 [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
-[What is CSE&nbsp;501N?  How is it different from 131?](#what-is-csenbspn--how-is-it-different-from-)
-
 [What is a FAQ?](#what-is-a-faq)
 
 [What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
 
 [What is academic integrity and how does the academic integrity process work?](#what-is-academic-integrity-and-how-does-the-academic-integrity-process-work)
 
-[What is recursion?](#what-is-recursion)
+[What is CSE&nbsp;501N?  How is it different from 131?](#what-is-csenbspn--how-is-it-different-from-)
 
-[What is the difference between CSE 400 and CSE 400E  How does independent study work?](#what-is-the-difference-between-cse--and-cse-e--how-does-independent-study-work)
+[What is recursion?](#what-is-recursion)
 
 [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
 [What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
 
 [What is the difference between computer science (CS) and computer engineering (CoE)?](#what-is-the-difference-between-computer-science-cs-and-computer-engineering-coe)
+
+[What is the difference between CSE 400 and CSE 400E  How does independent study work?](#what-is-the-difference-between-cse--and-cse-e--how-does-independent-study-work)
 
 [What is the difference between my 4-year advisor and my departmental advisor?](#what-is-the-difference-between-my--year-advisor-and-my-departmental-advisor)
 
@@ -243,9 +261,9 @@ markdown: kramdown
 
 [Which is better, a mac or a pc?](#which-is-better-a-mac-or-a-pc)
 
-[Why St. Louis?](#why-st-louis)
-
 [Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
+
+[Why St. Louis?](#why-st-louis)
 
 [Why would I consider transferring schools?](#why-would-i-consider-transferring-schools)
 
@@ -258,33 +276,6 @@ markdown: kramdown
 
 # Contents {#contents}
 
-<h2 class="anchored" id="cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses">CSE courses are popular; how do we decide whom to admit to our courses?</h2>
- The popularity of our courses has risen over the years to the extent that unless we take special action, many of our own students would not be able to get seats in our courses.
- Of course we strive to make room for all students interested in our courses, but we can only let in students whom we can effectively mentor, teach, and grade.
- We also try to seat students based on their urgency for taking a given course. Students who will soon graduate will get priority over students who have another semester or year to take the course. The university's automatic registration system doesn't quite achieve this goal. It allows students to register based on their year of entry, not their year of exit.
- With the above provisos in mind, we have therefore adopted the following policy about admission to the most popular courses.
-* For courses required for a particular program in CSE, we prioritize those in the program over those not in the program, subject to other considerations listed below.
- * For graduate courses (those listed at the 4xx or 5xx levels), PhD students from any department have the highest priority.  In practice this has not been a problem, and there is a 
-*fair trade* agreement among schools so that doctoral students can take the courses they need to make progress on their research. If the numbers rise to the level that our students are excluded from seating, we will revisit this policy.
- * Students with an open program in CSE are next seated. This could be a major or minor program.
-	+ This is intended to include CS+X students who are primarily in another school. We treat you as our own.* Students who are primarily in the McKelvey School of Engineering are seated next.
- * All other students are seated last.
-
- We realize that some programs on campus list our courses as required or optional for their own programs, but they do this without communication with our department. We cannot guarantee such students seats in our courses.
- Also, students who have already taken a course may have lower priority than students waiting to take that course for the first time.
-
-
-
-
-
-
-
-
-
-<span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/45">Discussions View</a></span>
-
----
 <h2 class="anchored" id="can-i-earn-money-outside-of-washington-university-while-on-an-f-visa">Can I earn money outside of Washington University while on an F1 visa?</h2>
  Outside of OPT and CPT experiences that are allowed for students on an F1 visa, such students are not allowed to earn money pursuant to self-employment or independent contractor status. They also generally are not able to work off campus unless they can document sever economic hardship. You should check with the International Office for further information.
  Such students can be paid as TAs by the university, because that contributes to the students' studies and is managed by the university.
@@ -381,6 +372,33 @@ For example, a student majoring in Math may take MA 310 as a requirement of thei
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/86">Discussions View</a></span>
 
 ---
+<h2 class="anchored" id="cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses">CSE courses are popular; how do we decide whom to admit to our courses?</h2>
+ The popularity of our courses has risen over the years to the extent that unless we take special action, many of our own students would not be able to get seats in our courses.
+ Of course we strive to make room for all students interested in our courses, but we can only let in students whom we can effectively mentor, teach, and grade.
+ We also try to seat students based on their urgency for taking a given course. Students who will soon graduate will get priority over students who have another semester or year to take the course. The university's automatic registration system doesn't quite achieve this goal. It allows students to register based on their year of entry, not their year of exit.
+ With the above provisos in mind, we have therefore adopted the following policy about admission to the most popular courses.
+* For courses required for a particular program in CSE, we prioritize those in the program over those not in the program, subject to other considerations listed below.
+ * For graduate courses (those listed at the 4xx or 5xx levels), PhD students from any department have the highest priority.  In practice this has not been a problem, and there is a 
+*fair trade* agreement among schools so that doctoral students can take the courses they need to make progress on their research. If the numbers rise to the level that our students are excluded from seating, we will revisit this policy.
+ * Students with an open program in CSE are next seated. This could be a major or minor program.
+	+ This is intended to include CS+X students who are primarily in another school. We treat you as our own.* Students who are primarily in the McKelvey School of Engineering are seated next.
+ * All other students are seated last.
+
+ We realize that some programs on campus list our courses as required or optional for their own programs, but they do this without communication with our department. We cannot guarantee such students seats in our courses.
+ Also, students who have already taken a course may have lower priority than students waiting to take that course for the first time.
+
+
+
+
+
+
+
+
+
+<span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/45">Discussions View</a></span>
+
+---
 <h2 class="anchored" id="degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-the-new-requirements">Degree requirements have changed since I started.  Am I required or allowed to the new requirements?</h2>
 
 By default, degree requirements are based on the year you started that degree (see [here](https://bulletin.wustl.edu/about/editions/). The year you start is referred to as your "catalog year".   Requirements for the **current year**  are listed in the [Bulletin](https://bulletin.wustl.edu/). You can browse prior years at [https://bulletin.wustl.edu/about/prior/](https://bulletin.wustl.edu/about/prior/).  
@@ -450,20 +468,6 @@ We also have a local [ACM chapter](https://acm.wustl.edu/).
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/108">Discussions View</a></span>
 
 ---
-<h2 class="anchored" id="how-are-tas-chosen--when-does-the-ta-draft-occur">How are TAs chosen?  When does the TA draft occur?</h2>
- We ask our students in our major and minor programs, and often those students who recently took a course, to apply for the department's *TA draft*. The timeline for that is generally:
-* The draft will open about a week after you register for the next semester.  Some classes hire TAs to help with the class sessions, so it's important you know your schedule. 
-*  You will get an email with details about the draft and a link to an application form.  Many courses also post the draft in their course forums.
- * You indicate your interest by filling out the form, on time and completely.
- * Soon after the forms are due, professors review applicants and indicate who they would like to hire.  
- * Once professors have indicated their preferences, all hiring requests are reviewed and some adjustments are made to balance hiring requests with: a) course needs and b) each individual TAs' availability, which you provide in the application. 
- * You are notified about the outcome, generally within a month of the draft's appearance. 
-
-
-<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/112">Discussions View</a></span>
-
----
 <h2 class="anchored" id="how-are-admissions-handled">How are admissions handled?</h2>
 
 
@@ -485,6 +489,20 @@ You should start by:
 
 <span class="tag-links">[#academia](#academia) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/97">Discussions View</a></span>
+
+---
+<h2 class="anchored" id="how-are-tas-chosen--when-does-the-ta-draft-occur">How are TAs chosen?  When does the TA draft occur?</h2>
+ We ask our students in our major and minor programs, and often those students who recently took a course, to apply for the department's *TA draft*. The timeline for that is generally:
+* The draft will open about a week after you register for the next semester.  Some classes hire TAs to help with the class sessions, so it's important you know your schedule. 
+*  You will get an email with details about the draft and a link to an application form.  Many courses also post the draft in their course forums.
+ * You indicate your interest by filling out the form, on time and completely.
+ * Soon after the forms are due, professors review applicants and indicate who they would like to hire.  
+ * Once professors have indicated their preferences, all hiring requests are reviewed and some adjustments are made to balance hiring requests with: a) course needs and b) each individual TAs' availability, which you provide in the application. 
+ * You are notified about the outcome, generally within a month of the draft's appearance. 
+
+
+<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
+<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/112">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="how-can-i-contribute-to-this-faq">How can I contribute to this FAQ?</h2>
@@ -674,16 +692,6 @@ Approved electives are based on agreements between C.S. faculty and Math faculty
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/18">Discussions View</a></span>
 
 ---
-<h2 class="anchored" id="how-do-i-earn-a-minor-in-human-computer-interaction-hci">How do I earn a minor in Human-Computer Interaction (HCI)?</h2>
-
-HCI studies the way humans and computers interact, aiming to improve the interfaces through which the two sides connect, communicate, and compute.  See the requirements of the [HCI Minor here](https://bulletin.wustl.edu/undergrad/engineering/computerscience/minor-human-computer-interaction/).
-
-
-
-<span class="tag-links">[#minor](#minor) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/35">Discussions View</a></span>
-
----
 <h2 class="anchored" id="how-do-i-earn-a-minor-in-bioinformatics">How do I earn a minor in bioinformatics?</h2>
 
  This minor is typically of interest for our students who want to study medicine or biology, as it combines studies in both departments. The requirements can be found [here](https://cse.wustl.edu/undergraduate/programs/Pages/minors.aspx#minorbio).  Most Bioinformatics minors are advised by either [Prof. Jeremy Buhler](mailto:jbuhler@wustl.edu) or [Prof. Michael Brent](mailto:brent@wustl.edu).
@@ -708,6 +716,16 @@ You may want to browse courses that are required for [Computer Engineering](http
 
 <span class="tag-links">[#computer_science](#computer_science) [#minor](#minor) [#residency](#residency) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/75">Discussions View</a></span>
+
+---
+<h2 class="anchored" id="how-do-i-earn-a-minor-in-human-computer-interaction-hci">How do I earn a minor in Human-Computer Interaction (HCI)?</h2>
+
+HCI studies the way humans and computers interact, aiming to improve the interfaces through which the two sides connect, communicate, and compute.  See the requirements of the [HCI Minor here](https://bulletin.wustl.edu/undergrad/engineering/computerscience/minor-human-computer-interaction/).
+
+
+
+<span class="tag-links">[#minor](#minor) [#undergraduate](#undergraduate)</span>
+<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/35">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="how-do-i-earn-a-second-major-in-computer-engineering">How do I earn a second major in computer engineering?</h2>
@@ -1513,6 +1531,13 @@ Answer questions and spend time with online programming communities, such as:
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/23">Discussions View</a></span>
 
 ---
+<h2 class="anchored" id="readme">README</h2>
+Details to Come.
+
+<span class="tag-links"></span>
+<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/134">Discussions View</a></span>
+
+---
 <h2 class="anchored" id="should-i-consider-an-unpaid-internship">Should I consider an unpaid internship?</h2>
  First, please realize that you are valuable and that almost all of our students' internships are *paid*.
  But some are not, and there can be good reasons to consider an unpaid internship:
@@ -1910,17 +1935,6 @@ Each school also has an Associate Dean who supervises the academic activities of
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/106">Discussions View</a></span>
 
 ---
-<h2 class="anchored" id="what-is-csenbspn--how-is-it-different-from-">What is CSE&nbsp;501N?  How is it different from 131?</h2>
-The 501N version should only be used by **graduate** students who either: a) don't have prior comparable background in computing and need it to prepare for graduate studies in computer science or b) who need computing skills to support graduate work in another discipline. 
-
-The courses are co-listed (same place/time/instructor and coursework).  The coursework and expectations are identical from both the student's and instructor's points-of-view.
- 
-Courses with an "N" designation will not count for credit for students in the department's degrees.  Undergraduates should always take the course as 131, which lacks the "N".  Many students decided to pursue a Minor or Major from our department following this course and the 131 version will automatically be applied to their degree. 
-
-<span class="tag-links">[#cse131](#cse131) [#graduate](#graduate) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/103">Discussions View</a></span>
-
----
 <h2 class="anchored" id="what-is-a-faq">What is a FAQ?</h2>
  That's a Frequently Asked Question! See Wikipedia's [FAQ](https://en.wikipedia.org/wiki/FAQ) for some history of the term.
 
@@ -1987,6 +2001,17 @@ In overview the process for dealing with alleged violations of integrity proceed
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/122">Discussions View</a></span>
 
 ---
+<h2 class="anchored" id="what-is-csenbspn--how-is-it-different-from-">What is CSE&nbsp;501N?  How is it different from 131?</h2>
+The 501N version should only be used by **graduate** students who either: a) don't have prior comparable background in computing and need it to prepare for graduate studies in computer science or b) who need computing skills to support graduate work in another discipline. 
+
+The courses are co-listed (same place/time/instructor and coursework).  The coursework and expectations are identical from both the student's and instructor's points-of-view.
+ 
+Courses with an "N" designation will not count for credit for students in the department's degrees.  Undergraduates should always take the course as 131, which lacks the "N".  Many students decided to pursue a Minor or Major from our department following this course and the 131 version will automatically be applied to their degree. 
+
+<span class="tag-links">[#cse131](#cse131) [#graduate](#graduate) [#undergraduate](#undergraduate)</span>
+<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/103">Discussions View</a></span>
+
+---
 <h2 class="anchored" id="what-is-recursion">What is recursion?</h2>
 See [here](https://github.com/wustlcse/FAQ/discussions/100).
 
@@ -1994,39 +2019,6 @@ See [here](https://github.com/wustlcse/FAQ/discussions/100).
 
 <span class="tag-links"></span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/100">Discussions View</a></span>
-
----
-<h2 class="anchored" id="what-is-the-difference-between-cse--and-cse-e--how-does-independent-study-work">What is the difference between CSE 400 and CSE 400E  How does independent study work?</h2>
-We have two course listings for "Independent Study", CSE 400E and CSE 400.  CSE 400E is meant to be used for technical elective credits toward CSE degrees.  CSE 400 is general credits for the university, but not toward a student's elective credits in a CSE degree.  Nearly all Independent Studies are done via **400E**.
-
-Independent study is generally meant for: 
-* Independent research into a topic
-* Study of a topic not offered by WashU courses (often this is structured in a course-like way)
-
-Independent study is not for:
-* Work that is paid/compensated, including work that accrues equity, like work for a startup that doesn't have immediate salary. 
-* Work where the Intellectual Property (IP) would not be retained by the student.  Generally, students own intellectual property they develop as part of their studies.  This is often in conflict with work developed for companies, which usually expect to own the rights to the work developed on their behalf.
-
-Most CSE degrees will allow some "independent study" units to count as part of their CSE Technical Electives *if the proposed work is relevant to the degree*.   Degrees that have a limited set of electives, like CS+Math, require additional approval to ensure independent study is aligned with the expectations of the technical electives for the degree.  
-
-If you have a topic you'd like to research/study that seems like a fit for independent study:
-* Contact your **faculty** advisor and start a conversation about the work you'd like to pursue.
-* Develop an outline/plan of:
-  * The planned schedule of work and scope (it should be distributed through the semester and the amount of work should be commensurate with the units desired.  3 units of independent study is course-like and typically ~150 hours of effort.
-  * A rubric for the grading/evaluation of the work. 
-  * Potential CSE faculty members who can supervise the work.  Often supervision involves weekly check-ins to ensure work is on progress and to provide feedback.  It's best to find someone with appropriate expertise or interest in the work.  If may be your faculty advisor. 
-* Once you have a plan, it needs to be approved by all parties:  your faculty advisor, the faculty member overseeing the independent study, and any degree-specific oversight committee.  
-  * Register for designated number of units of CSE  400 or 400E for the person who has agreed to oversee the work.
-  * Contact the [CSE Undergraduate Coordinator](https://cse.wustl.edu/about/staff.html) and request/complete the form for Independent Study, which requires signatures of all parties.  Submit the form.  Once the form is accepted, enrollment in CSE 400/400E will be completed.
-
-Success depends upon investment of time by the student, the accurate and timely reporting of issues and progress, and the regular meetings with supervising faculty to keep the work on track. Most students who succeed at independent study report that they spend *more* than the usual amount of time on independent study, because they find the work interesting and rewarding.
-
-
-
-
-
-<span class="tag-links">[#graduate](#graduate) [#independent_study](#independent_study) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/30">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem">What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?</h2>
@@ -2107,6 +2099,39 @@ We also have a variety of [Master's and PhD programs in Computer Engineering & C
 
 <span class="tag-links">[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#graduate](#graduate) [#misc](#misc) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/105">Discussions View</a></span>
+
+---
+<h2 class="anchored" id="what-is-the-difference-between-cse--and-cse-e--how-does-independent-study-work">What is the difference between CSE 400 and CSE 400E  How does independent study work?</h2>
+We have two course listings for "Independent Study", CSE 400E and CSE 400.  CSE 400E is meant to be used for technical elective credits toward CSE degrees.  CSE 400 is general credits for the university, but not toward a student's elective credits in a CSE degree.  Nearly all Independent Studies are done via **400E**.
+
+Independent study is generally meant for: 
+* Independent research into a topic
+* Study of a topic not offered by WashU courses (often this is structured in a course-like way)
+
+Independent study is not for:
+* Work that is paid/compensated, including work that accrues equity, like work for a startup that doesn't have immediate salary. 
+* Work where the Intellectual Property (IP) would not be retained by the student.  Generally, students own intellectual property they develop as part of their studies.  This is often in conflict with work developed for companies, which usually expect to own the rights to the work developed on their behalf.
+
+Most CSE degrees will allow some "independent study" units to count as part of their CSE Technical Electives *if the proposed work is relevant to the degree*.   Degrees that have a limited set of electives, like CS+Math, require additional approval to ensure independent study is aligned with the expectations of the technical electives for the degree.  
+
+If you have a topic you'd like to research/study that seems like a fit for independent study:
+* Contact your **faculty** advisor and start a conversation about the work you'd like to pursue.
+* Develop an outline/plan of:
+  * The planned schedule of work and scope (it should be distributed through the semester and the amount of work should be commensurate with the units desired.  3 units of independent study is course-like and typically ~150 hours of effort.
+  * A rubric for the grading/evaluation of the work. 
+  * Potential CSE faculty members who can supervise the work.  Often supervision involves weekly check-ins to ensure work is on progress and to provide feedback.  It's best to find someone with appropriate expertise or interest in the work.  If may be your faculty advisor. 
+* Once you have a plan, it needs to be approved by all parties:  your faculty advisor, the faculty member overseeing the independent study, and any degree-specific oversight committee.  
+  * Register for designated number of units of CSE  400 or 400E for the person who has agreed to oversee the work.
+  * Contact the [CSE Undergraduate Coordinator](https://cse.wustl.edu/about/staff.html) and request/complete the form for Independent Study, which requires signatures of all parties.  Submit the form.  Once the form is accepted, enrollment in CSE 400/400E will be completed.
+
+Success depends upon investment of time by the student, the accurate and timely reporting of issues and progress, and the regular meetings with supervising faculty to keep the work on track. Most students who succeed at independent study report that they spend *more* than the usual amount of time on independent study, because they find the work interesting and rewarding.
+
+
+
+
+
+<span class="tag-links">[#graduate](#graduate) [#independent_study](#independent_study) [#undergraduate](#undergraduate)</span>
+<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/30">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="what-is-the-difference-between-my--year-advisor-and-my-departmental-advisor">What is the difference between my 4-year advisor and my departmental advisor?</h2>
@@ -2458,17 +2483,6 @@ There are only a few CSE courses that require a specific operating systems and t
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/129">Discussions View</a></span>
 
 ---
-<h2 class="anchored" id="why-st-louis">Why St. Louis?</h2>
-
-* [A welcoming city](https://www.nytimes.com/2018/03/14/travel/st-louis-budget-affordable.html)
-* [Explore St. Louis](https://www.youtube.com/user/stlouiscvc/videos)
-* [A day in St. Louis](https://www.youtube.com/watch?v=FsAd1CTlDSo)
-
-
-<span class="tag-links">[#get_involved](#get_involved) [#misc](#misc) [#student_life](#student_life)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/22">Discussions View</a></span>
-
----
 <h2 class="anchored" id="why-should-i-study-computer-science-or-computer-engineering">Why should I study computer science or computer engineering?</h2>
 
 There are a variety of reasons!
@@ -2491,6 +2505,17 @@ There are a variety of reasons!
 
 <span class="tag-links">[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/99">Discussions View</a></span>
+
+---
+<h2 class="anchored" id="why-st-louis">Why St. Louis?</h2>
+
+* [A welcoming city](https://www.nytimes.com/2018/03/14/travel/st-louis-budget-affordable.html)
+* [Explore St. Louis](https://www.youtube.com/user/stlouiscvc/videos)
+* [A day in St. Louis](https://www.youtube.com/watch?v=FsAd1CTlDSo)
+
+
+<span class="tag-links">[#get_involved](#get_involved) [#misc](#misc) [#student_life](#student_life)</span>
+<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/22">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="why-would-i-consider-transferring-schools">Why would I consider transferring schools?</h2>
