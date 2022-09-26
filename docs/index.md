@@ -35,7 +35,7 @@ markdown: kramdown
 
 <hr class="toc-divider">
 
-[Degree requirements have changed since I started.  Am I required or allowed to the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-the-new-requirements)
+[Degree requirements have changed since I started.  Am I required or allowed to use the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-use-the-new-requirements)
 
 [Do I need any computer science background to succeed in CSE131?](#do-i-need-any-computer-science-background-to-succeed-in-cse)
 
@@ -274,7 +274,7 @@ markdown: kramdown
 {::options parse_block_html="true" /}
 <div class="contents">
 
-# Contents {#contents}
+# Questions {#questions}
 
 <h2 class="anchored" id="can-i-earn-money-outside-of-washington-university-while-on-an-f-visa">Can I earn money outside of Washington University while on an F1 visa?</h2>
  Outside of OPT and CPT experiences that are allowed for students on an F1 visa, such students are not allowed to earn money pursuant to self-employment or independent contractor status. They also generally are not able to work off campus unless they can document sever economic hardship. You should check with the International Office for further information.
@@ -399,7 +399,7 @@ For example, a student majoring in Math may take MA 310 as a requirement of thei
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/45">Discussions View</a></span>
 
 ---
-<h2 class="anchored" id="degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-the-new-requirements">Degree requirements have changed since I started.  Am I required or allowed to the new requirements?</h2>
+<h2 class="anchored" id="degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-use-the-new-requirements">Degree requirements have changed since I started.  Am I required or allowed to use the new requirements?</h2>
 
 By default, degree requirements are based on the year you started that degree (see [here](https://bulletin.wustl.edu/about/editions/). The year you start is referred to as your "catalog year".   Requirements for the **current year**  are listed in the [Bulletin](https://bulletin.wustl.edu/). You can browse prior years at [https://bulletin.wustl.edu/about/prior/](https://bulletin.wustl.edu/about/prior/).  
 
@@ -2897,7 +2897,7 @@ If **you want only one major and want to study computing**, you can consider the
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="degree" aria-hidden="false">
 
-[Degree requirements have changed since I started.  Am I required or allowed to the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-the-new-requirements)
+[Degree requirements have changed since I started.  Am I required or allowed to use the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-use-the-new-requirements)
 
 [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
@@ -2987,7 +2987,7 @@ If **you want only one major and want to study computing**, you can consider the
 
 [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
-[Degree requirements have changed since I started.  Am I required or allowed to the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-the-new-requirements)
+[Degree requirements have changed since I started.  Am I required or allowed to use the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-use-the-new-requirements)
 
 [Do I need to take CSE 240 before CSE 247?](#do-i-need-to-take-cse--before-cse-)
 
@@ -3421,7 +3421,7 @@ If **you want only one major and want to study computing**, you can consider the
 
 [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
 
-[Degree requirements have changed since I started.  Am I required or allowed to the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-the-new-requirements)
+[Degree requirements have changed since I started.  Am I required or allowed to use the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-use-the-new-requirements)
 
 [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
 
@@ -3583,7 +3583,7 @@ If **you want only one major and want to study computing**, you can consider the
 
 [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
 
-[Degree requirements have changed since I started.  Am I required or allowed to the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-the-new-requirements)
+[Degree requirements have changed since I started.  Am I required or allowed to use the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-use-the-new-requirements)
 
 [Do I need any computer science background to succeed in CSE131?](#do-i-need-any-computer-science-background-to-succeed-in-cse)
 
