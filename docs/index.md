@@ -125,8 +125,6 @@ markdown: kramdown
 
 [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
 
-[I cannot access my repository.  What should I do?](#i-cannot-access-my-repository--what-should-i-do)
-
 [I have a conflict with one of my exams in this class.  What should I do?](#i-have-a-conflict-with-one-of-my-exams-in-this-class--what-should-i-do)
 
 [I have accommodation on timed exams and quizzes.  How do I arrange to take these?](#i-have-accommodation-on-timed-exams-and-quizzes--how-do-i-arrange-to-take-these)
@@ -874,31 +872,21 @@ Each time you get a message from the list it will include a footer that describe
 
 ---
 <h2 class="anchored" id="how-does-passfail-work">How does pass/fail work?</h2>
-<a id=60></a> Most courses at our university allow a student to take that course for a grade (A, B, C, etc.) or for credit only. This latter option is the mechanism for taking a class pass/fail. Here are some notes about taking courses pass/fail:
-* When you register or try to change the enrollment status of yourself in a course, the pass/fail option may not present itself, which means that the course can be taken only for a grade.
- * Some courses, such as seminars, can only be taken pass/fail.
- * It is important for a student taking any course pass/fail to understand with sufficient precision what is required to pass the course. Web pages and syllabi should contain this information, but if they do not, then an email or some other documentation of the standard needed to pass should be obtained.
- * There is a limit to the number of courses you can take pass/fail in a semester, and the total number you can take over your career, as documented here.
- * There is a date by which you must declare the course pass/fail, and a date by which you can change it back from pass/fail to graded. This varies by semester and you should consult the particular year's academic calendar.
+<a id=60></a>Most courses at our university allow a student to take that course for a grade (A, B, C, etc.) or for credit only.  Pass/fail is for credit (the units) only, but pass/fail courses typically require students due the bulk of the work, exams, etc. sufficiently well to "pass".  Many degrees, including all CSE degrees require that all courses for the degree content be taken for credit.  (I.e., often only distribution courses, like humanities / social science courses for CSE degrees, or "extra" courses should be taken pass/fail)
+
+Here are some notes about taking courses pass/fail:
+* If a course can be taken pass/fail, you select the pass/fail option when you register for the course.  Not all courses can be taken pass/fail. 
+ * Some courses, such as seminars, can _only_ be taken pass/fail.
+ * Make sure you understand what is required to achieve a "pass".  Check the course syllabus.  If it doesn't provide guidance, contact the instructor and ask for clear guidance (email or updates on the course page) that describe the requirements.
+* There is a limit to the number of courses you can take pass/fail in a semester and the total number you can take over your academic career.   Check the [bulletin](https://bulletin.wustl.edu) for the requirements for your school and/or consult with your four-year advisor. 
+* It is possible to change between pass/fail and "for credit" during the semester.  **Check the academic calendar for relevant dates.**  
+   * **NOTE:** It's usually possible to change back to "credit" _from_ "pass/fail" about a month later than changing _to_ pass/fail.  That is, if you are enrolled as pass/fail but are doing well and expect to get a satisfactory grade, you can switch to "credit" relatively late in the semester). 
 
 
 
->  While most courses allow you to enroll pass/fail, you must keep in mind that most majors and minors insist that all courses taken for those programs be taken for a letter grade, and *not* pass/fail.
->  All CSE programs require that you take courses that count toward your CSE degree for a letter grade. The only courses you can take pass/fail for us are those that satisfy humanties and social sciences as distribution.
->  This becomes tricky if you take a course thinking that it's only for distribution, and then become so interested in the topic that you subsequently want to open a major or minor program in that area of study.
-> **In such a situation, you might have to re-take the course for a letter grade.**
->  While the window to declare a course pass/fail is fairly short, the window for reverting it back to a letter grade is relatively long. If you find yourself becoming interested in the subject and you are doing well, you should probably revert the pass/fail to a letter grade.
-> 
-> 
-> 
-> 
-> 
-> 
-> 
 
 
-
-<span class="tag-links">[#academia](#academia) [#credit](#credit) [#graduate](#graduate) [#needs_review](#needs_review) [#passfail](#passfail) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#credit](#credit) [#graduate](#graduate) [#passfail](#passfail) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/60">Discussions View</a></span>
 
 ---
@@ -1175,24 +1163,6 @@ Often there is about a 5% change in enrollments in 131 during the first week(s) 
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/8">Discussions View</a></span>
 
 ---
-<h2 class="anchored" id="i-cannot-access-my-repository--what-should-i-do">I cannot access my repository.  What should I do?</h2>
-<a id=59></a> First, make sure you have a repository. If you added the class after the first day of classes, then ask the instructor to make sure you have a repository set up. The information on how to access your repository is included with [Lab 0](../Modules/0/lab.shtml).
-
->  The most common problem is that you are not authenticating correctly with the server.
-> * For your username, be sure to supply your WUSTL key name **but spell it completely in lower case**. For example, if you are used to typing `John.Doe` as your user name, type it in as `john.doe`.
-> 
-> * For your password, be sure to supply the password you use for logging into WebSTAC, **and spell it just as you type it in to WebSTAC**. For example, if your password is `NobodyWillGuessThis`, then type in
-> `NobodyWillGuessThis`.
-> 
-> 
-> 
-
-
-
-<span class="tag-links">[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/59">Discussions View</a></span>
-
----
 <h2 class="anchored" id="i-have-a-conflict-with-one-of-my-exams-in-this-class--what-should-i-do">I have a conflict with one of my exams in this class.  What should I do?</h2>
 <a id=102></a>
 You should contact your instructor.  Exam policies are primarily at the instructor's discretion. 
@@ -1292,9 +1262,13 @@ If you're pursuing a Major/Minor from the Math/Stat Department, you should check
 
 ---
 <h2 class="anchored" id="im-having-trouble-with-my-computer--where-can-i-get-help">I'm having trouble with my computer.  Where can I get help?</h2>
-<a id=41></a> Try the EIT/CEC help desk in Lopata Hall on the fourth floor. If your computer is not working, use a lab computer until yours is fixed so that you don't fall behind in your work.
+<a id=41></a>
+If you need immediate access to a computer, [Engineering IT](https://engineering.wustl.edu/offices-services/non-academic/EIT/index.html) has a list of campus labs that can be used.  
 
-<span class="tag-links">[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+The School of Engineering also has a "laptop loaner" program for students taking courses from the School.  It allows you to borrow a laptop for short term use until you have managed to get a repair/replacement.  Contact your instructor, who will be able to confirm your enrollment and put you in touch with the laptop loaner coordinator.
+
+
+<span class="tag-links">[#computer](#computer)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/41">Discussions View</a></span>
 
 ---
@@ -2696,8 +2670,6 @@ If **you want only one major and want to study computing**, you can consider the
 
 [How do I study CSE while preparing for medical school?](#how-do-i-study-cse-while-preparing-for-medical-school)
 
-[How does pass/fail work?](#how-does-passfail-work)
-
 [How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
 
 [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
@@ -2812,6 +2784,8 @@ If **you want only one major and want to study computing**, you can consider the
 
 [I need a laptop for my CSE work and don't have one that works; what should I do?](#i-need-a-laptop-for-my-cse-work-and-dont-have-one-that-works-what-should-i-do)
 
+[I'm having trouble with my computer.  Where can I get help?](#im-having-trouble-with-my-computer--where-can-i-get-help)
+
 [What kind of computer should I have for studies in computer science or computer engineering?](#what-kind-of-computer-should-i-have-for-studies-in-computer-science-or-computer-engineering)
 
 [Which is better, a mac or a pc?](#which-is-better-a-mac-or-a-pc)
@@ -2918,13 +2892,9 @@ If **you want only one major and want to study computing**, you can consider the
 
 [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
 
-[I cannot access my repository.  What should I do?](#i-cannot-access-my-repository--what-should-i-do)
-
 [I have enjoyed 131.  What course should I take next?](#i-have-enjoyed---what-course-should-i-take-next)
 
 [I have some programming experience.  Will I be bored in CSE131?](#i-have-some-programming-experience--will-i-be-bored-in-cse)
-
-[I'm having trouble with my computer.  Where can I get help?](#im-having-trouble-with-my-computer--where-can-i-get-help)
 
 [If CSE131 is waived do I have to take another course instead?](#if-cse-is-waived-do-i-have-to-take-another-course-instead)
 
@@ -3332,8 +3302,6 @@ If **you want only one major and want to study computing**, you can consider the
 
 [How do I study CSE while preparing for medical school?](#how-do-i-study-cse-while-preparing-for-medical-school)
 
-[How does pass/fail work?](#how-does-passfail-work)
-
 [How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
 
 [How is physics counted for our programs?](#how-is-physics-counted-for-our-programs)
@@ -3346,11 +3314,7 @@ If **you want only one major and want to study computing**, you can consider the
 
 [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
 
-[I cannot access my repository.  What should I do?](#i-cannot-access-my-repository--what-should-i-do)
-
 [I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
-
-[I'm having trouble with my computer.  Where can I get help?](#im-having-trouble-with-my-computer--where-can-i-get-help)
 
 [Is it ever worth it to cheat?](#is-it-ever-worth-it-to-cheat)
 
@@ -3710,8 +3674,6 @@ If **you want only one major and want to study computing**, you can consider the
 
 [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
 
-[I cannot access my repository.  What should I do?](#i-cannot-access-my-repository--what-should-i-do)
-
 [I have enjoyed 131.  What course should I take next?](#i-have-enjoyed---what-course-should-i-take-next)
 
 [I have some programming experience.  Will I be bored in CSE131?](#i-have-some-programming-experience--will-i-be-bored-in-cse)
@@ -3721,8 +3683,6 @@ If **you want only one major and want to study computing**, you can consider the
 [I need a laptop for my CSE work and don't have one that works; what should I do?](#i-need-a-laptop-for-my-cse-work-and-dont-have-one-that-works-what-should-i-do)
 
 [I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
-
-[I'm having trouble with my computer.  Where can I get help?](#im-having-trouble-with-my-computer--where-can-i-get-help)
 
 [I'm struggling and feeling overwhelmed. What should I do?](#im-struggling-and-feeling-overwhelmed-what-should-i-do)
 
