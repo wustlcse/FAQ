@@ -2120,9 +2120,11 @@ CS+Math also differs in the electives available.  A CS Major can select any CSE 
 
 ---
 <h2 class="anchored" id="how-is-physics-counted-for-our-programs">How is physics counted for our programs?</h2>
-<a id=27></a> Physics used to have 4-unit first-year courses 197 and 198 that each counted as 4 units of natural science for our students. Those courses included lab work.
- Physics has changed their formulation to separate lecture from lab in their courses. Each 3-unit lecture course has a 1-unit lab for which a student must explicitly register. Physics 191 and 192 are the lecture courses and their labs are 191L and 192L, respectively.
- Maintaining continuity in how we treat the intro physics sequence, our department will count the lecture and lab units toward your natural science requirements, even though the lab courses (191L and 192L) do not carry the natural science tag for arts and sciences.
+<a id=27></a>
+Physics used to have 4-unit first-year courses 197 and 198 that each counted as 4 units of natural science for our students. Those courses included lab work.
+
+Physics has changed their formulation to separate lecture from lab in their courses. Each 3-unit lecture course has a 1-unit lab for which a student must explicitly register. Physics 191 and 192 are the lecture courses and their labs are 191L and 192L, respectively.
+Maintaining continuity in how we treat the intro physics sequence, our department will count the lecture and lab units toward your natural science requirements, even though the lab courses (191L and 192L) do not carry the natural science tag for arts and sciences.
 
 
 
@@ -2647,7 +2649,8 @@ Answer questions and spend time with online programming communities, such as:
 
 ---
 <h2 class="anchored" id="readme">README</h2>
-<a id=2></a># FAQ Forum policies, practices, and use.
+<a id=2></a>
+## FAQ Forum policies, practices, and use.
 
 This is for frequent questions and answers for students in of Computer Science and Engineering at Washington University in St. Louis.   
 
