@@ -90,8 +90,6 @@ markdown: kramdown
 
 [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
-[What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
-
 [What is academic integrity and how does the academic integrity process work?](#what-is-academic-integrity-and-how-does-the-academic-integrity-process-work)
 
 [What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
@@ -400,8 +398,6 @@ markdown: kramdown
 
 [How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
 
-[How can I get space for students to get help from my TAs?](#how-can-i-get-space-for-students-to-get-help-from-my-tas)
-
 [How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
 
 [How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
@@ -421,8 +417,6 @@ markdown: kramdown
 [How is physics counted for our programs?](#how-is-physics-counted-for-our-programs)
 
 [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
-
-[How much time do I spend on a course here?](#how-much-time-do-i-spend-on-a-course-here)
 
 [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
@@ -472,8 +466,6 @@ markdown: kramdown
 
 [What is CSE&nbsp;501N?  How is it different from 131?](#what-is-csenbspn--how-is-it-different-from-)
 
-[What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
-
 [What is the difference between CSE 400 and CSE 400E  How does independent study work?](#what-is-the-difference-between-cse--and-cse-e--how-does-independent-study-work)
 
 [What is the difference between computer science (CS) and computer engineering (CoE)?](#what-is-the-difference-between-computer-science-cs-and-computer-engineering-coe)
@@ -517,8 +509,6 @@ markdown: kramdown
 <dd class="accordion-content" role="tabpanel" aria-labelledby="jobs" aria-hidden="false">
 
 [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
-
-[How can I get space for students to get help from my TAs?](#how-can-i-get-space-for-students-to-get-help-from-my-tas)
 
 [How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
 
@@ -666,8 +656,6 @@ markdown: kramdown
 
 [Does our department have an honor society?](#does-our-department-have-an-honor-society)
 
-[How can I get space for students to get help from my TAs?](#how-can-i-get-space-for-students-to-get-help-from-my-tas)
-
 [How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
 
 [How do I find a summer internship?](#how-do-i-find-a-summer-internship)
@@ -715,8 +703,6 @@ markdown: kramdown
 [What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
 
 [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
-
-[What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
 
 [What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
 
@@ -932,13 +918,19 @@ markdown: kramdown
 
 </dd>
 
+<dt class="accordion-header" aria-expanded="false" id="teaching" role="tab" aria-controls="teaching" aria-selected="false" tabindex="0"><span class="accordion-header-content anchored" id="teaching">teaching : Info. that may benefit those teaching a course.</span><svg width="20" height="20" viewBox="0 0 20 20"><path fill="#a51417" d="M5 6l5 5 5-5 2 1-7 7-7-7z"></path></svg></dt>
+
+<dd class="accordion-content" role="tabpanel" aria-labelledby="teaching" aria-hidden="false">
+
+[How can I get space for students to get help from my TAs?](#how-can-i-get-space-for-students-to-get-help-from-my-tas)
+
+</dd>
+
 <dt class="accordion-header" aria-expanded="false" id="teaching_assistant" role="tab" aria-controls="teaching_assistant" aria-selected="false" tabindex="0"><span class="accordion-header-content anchored" id="teaching_assistant">teaching_assistant : Details about being a Teaching Assistant (TA)</span><svg width="20" height="20" viewBox="0 0 20 20"><path fill="#a51417" d="M5 6l5 5 5-5 2 1-7 7-7-7z"></path></svg></dt>
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="teaching_assistant" aria-hidden="false">
 
 [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
-
-[How can I get space for students to get help from my TAs?](#how-can-i-get-space-for-students-to-get-help-from-my-tas)
 
 [I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
 
@@ -993,8 +985,6 @@ markdown: kramdown
 [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
 
 [How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
-
-[How can I get space for students to get help from my TAs?](#how-can-i-get-space-for-students-to-get-help-from-my-tas)
 
 [How can I place out of a course if I think I already know that course's material?  / What happens to my program of study if I do place out?](#how-can-i-place-out-of-a-course-if-i-think-i-already-know-that-courses-material---what-happens-to-my-program-of-study-if-i-do-place-out)
 
@@ -1699,9 +1689,10 @@ You should also consider taking [CSE 247R](https://courses.wustl.edu/CourseInfo.
 
 ---
 <h2 class="anchored" id="how-can-i-get-space-for-students-to-get-help-from-my-tas">How can I get space for students to get help from my TAs?</h2>
-<a id=17></a> Pooled classrooms are released after the second week in a semester, and those are your best spaces for hosting TA hours. [Andrew Swafford](mailto:@s.andrew@wustl.edu) in our office can arrange for you to get space. If you need space before the second week, we have Jolley 408 set aside as a TA mentoring space.
+<a id=17></a>
+Pooled classrooms are released after the second week in a semester, and those are your best spaces for hosting TA hours.  The CSE Undergraduate Coordinator can help coordinate room reservations or you can request a reservation directly via [https://reserve.wustl.edu/](https://reserve.wustl.edu/).  (Some reservations require an account code, which the undergraduate coordinator can assist with).
 
-<span class="tag-links">[#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#teaching](#teaching)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/17">Discussions View</a></span>
 
 ---
@@ -2166,7 +2157,7 @@ As an extreme example of this, a student in our department was in an Olin course
 
 Non-classroom activities, like project, thesis, and independent study have the same work expectations.  For example, a 3 unit project over a 15-week semester should be about 150–180 hours of work. If you are interested in a 6 unit project it would take twice that, and that's usually not possible in a single semester.  Most 6-unit projects and such are accomplished in two semesters.
 
-<span class="tag-links">[#credit](#credit) [#graduate](#graduate) [#independent_study](#independent_study) [#masters](#masters) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#credit](#credit) [#independent_study](#independent_study) [#masters](#masters) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/81">Discussions View</a></span>
 
 ---
@@ -2658,9 +2649,9 @@ This is for frequent questions and answers for students in of Computer Science a
 
 Here's overview of the parts of the [FAQ page](https://faq.cse.wustl.edu/):
 * Read Me:  This!
+* Index: an index of keywords (tags/labels and a brief description of the concepts they cover.  Click on the word to see all questions that have been tagged with it. 
 * Table of Contents: Lists all the questions (links).  This can be helpful to skim the topics/questions contained in the FAQ.  
 * Questions: All questions and the corresponding answer
-* Index: an index of keywords (tags/labels and a brief description of the concepts they cover.  Click on the word to see all questions that have been tagged with it. 
 * Post Questions:  Link to post a new question.  We will try to answer in a few business days.  Questions that seem of general interest may eventually be included in this FAQ. 
 * Discussions:  A "discussion" view of this FAQ and any other pending questions. 
 
@@ -3112,12 +3103,14 @@ Each school also has an Associate Dean who supervises the academic activities of
 
 ---
 <h2 class="anchored" id="what-is-a-senior-thesis-and-should-i-do-one">What is a senior thesis and should I do one?</h2>
-<a id=11></a> Many of our undergraduates are involved in the research conducted by our department's faculty. It is worthwhile to consider the artifact(s) that might be produced from such research.
- If you are a student interested in graduate school, then the best artifact would be a published paper, even if it is co-authored. Your research advisor can mentor you concerning where and how to publish such a paper. Such papers are often jointly authored with other students and your research advisor. While it's not a document you author solely on your own, the value of having it pass muster with a conference or journal review process is high.
- A senior thesis is written solely by you. If you wish to do this instead or in addition to publishing a paper externally, then sign up for CSE499 in the section associated with your research advisor.
- Most students favor the published paper or a presented project over writing a thesis, but the choice is up to you and your research advisor.
- How is such a thesis recorded in our records?
- Long ago before the advent of our current information infrastructure, undergraduates who completed a thesis and who had at least a certain GPA (3.7 perhaps) would graduate *with distinction* and that phrase was printed on their diplomas. The university says we have lost the ability to do that, so instead of a designation on your diploma, we use the *milestones* feature of our current information system and record a senoir thesis as such a milestone. It thus shows up on your transcript rather than on your diploma, which ultimately might be more useful for you.
+<a id=11></a>
+Many of our undergraduates are involved in the research conducted by our department's faculty. Often the outcomes are reported in a "published paper" and/or as part of a "senior thesis". 
+
+If you're interested in graduate school, then the best artifact would be a published paper, even if it is co-authored (with your advisor and/or other students). Your research advisor can provide guidance on where and how to publish a paper.  While it's not a document you author solely on your own, acceptance at a conference/journal shows it has undergone moderate review and that you have been a part of substantial work. 
+
+A senior thesis is written **_solely_** by you. If you wish to do this instead or in addition to publishing a paper externally, then sign up for CSE499 in the section associated with your research advisor.  Most students favor the published paper or a presented project over writing a thesis, but the choice is up to you and your research advisor.
+
+Completion of a senior thesis is designated in your transcripts as a "milestone".
 
 
 
@@ -3129,7 +3122,7 @@ Each school also has an Associate Dean who supervises the academic activities of
 
 
 
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#needs_review](#needs_review) [#research](#research) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#research](#research) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/11">Discussions View</a></span>
 
 ---
