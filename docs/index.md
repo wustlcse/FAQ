@@ -50,8 +50,6 @@ markdown: kramdown
 
 [How do I study CSE while preparing for medical school?](#how-do-i-study-cse-while-preparing-for-medical-school)
 
-[How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
-
 [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
 [I am on the wait list for a course. What should I do?](#i-am-on-the-wait-list-for-a-course-what-should-i-do)
@@ -64,8 +62,6 @@ markdown: kramdown
 
 [If I withdraw from a course, what shows up on my transcript and how does the dropped course affect my GPA?](#if-i-withdraw-from-a-course-what-shows-up-on-my-transcript-and-how-does-the-dropped-course-affect-my-gpa)
 
-[Is it ever worth it to cheat?](#is-it-ever-worth-it-to-cheat)
-
 [Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
 [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
@@ -75,8 +71,6 @@ markdown: kramdown
 [Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
 
 [What are residency requirements?](#what-are-residency-requirements)
-
-[What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
 
 [What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
 
@@ -91,8 +85,6 @@ markdown: kramdown
 [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
 [What is academic integrity and how does the academic integrity process work?](#what-is-academic-integrity-and-how-does-the-academic-integrity-process-work)
-
-[What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
 
 [What is the difference between my 4-year advisor and my departmental advisor?](#what-is-the-difference-between-my--year-advisor-and-my-departmental-advisor)
 
@@ -128,8 +120,6 @@ markdown: kramdown
 
 [How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
 
-[Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
-
 [Is there a student group within our department / school?](#is-there-a-student-group-within-our-department--school)
 
 </dd>
@@ -149,8 +139,6 @@ markdown: kramdown
 <dd class="accordion-content" role="tabpanel" aria-labelledby="artsci" aria-hidden="false">
 
 [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
-
-[How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
 
 </dd>
 
@@ -200,7 +188,7 @@ markdown: kramdown
 
 [How is CS+Math different from a double (second) major?](#how-is-csmath-different-from-a-double-second-major)
 
-[What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
+[What are the core courses for my degree?](#what-are-the-core-courses-for-my-degree)
 
 [What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
 
@@ -234,7 +222,7 @@ markdown: kramdown
 
 [If I retake a course, what happens on my transcript and how does this affect my GPA?](#if-i-retake-a-course-what-happens-on-my-transcript-and-how-does-this-affect-my-gpa)
 
-[What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
+[What are the core courses for my degree?](#what-are-the-core-courses-for-my-degree)
 
 [What courses should I take if I am interested in machine learning?](#what-courses-should-i-take-if-i-am-interested-in-machine-learning)
 
@@ -280,15 +268,13 @@ markdown: kramdown
 
 [What is CSE&nbsp;501N?  How is it different from 131?](#what-is-csenbspn--how-is-it-different-from-)
 
-[When trying to commit or update I have conflicts, what do I do?](#when-trying-to-commit-or-update-i-have-conflicts-what-do-i-do)
-
 </dd>
 
 <dt class="accordion-header" aria-expanded="false" id="curriculum" role="tab" aria-controls="curriculum" aria-selected="false" tabindex="0"><span class="accordion-header-content anchored" id="curriculum">curriculum : Details about content that comprise our degrees.</span><svg width="20" height="20" viewBox="0 0 20 20"><path fill="#a51417" d="M5 6l5 5 5-5 2 1-7 7-7-7z"></path></svg></dt>
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="curriculum" aria-hidden="false">
 
-[What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
+[What are the core courses for my degree?](#what-are-the-core-courses-for-my-degree)
 
 </dd>
 
@@ -458,7 +444,7 @@ markdown: kramdown
 
 [What are residency requirements?](#what-are-residency-requirements)
 
-[What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
+[What are the core courses for my degree?](#what-are-the-core-courses-for-my-degree)
 
 [What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
 
@@ -610,13 +596,9 @@ markdown: kramdown
 
 [How do I earn a minor in bioinformatics?](#how-do-i-earn-a-minor-in-bioinformatics)
 
-[How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
-
 [How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
 
 [I am primarily interested in becoming a software engineer; what courses should I take?](#i-am-primarily-interested-in-becoming-a-software-engineer-what-courses-should-i-take)
-
-[Is it ever worth it to cheat?](#is-it-ever-worth-it-to-cheat)
 
 [My employer wants a letter from the department for my green card application. How do I do that?](#my-employer-wants-a-letter-from-the-department-for-my-green-card-application-how-do-i-do-that)
 
@@ -624,15 +606,11 @@ markdown: kramdown
 
 [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
-[What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
-
 [What can I read to learn more about "computing" topics?](#what-can-i-read-to-learn-more-about-computing-topics)
 
 [What do our classrooms look like and how many people can they seat?](#what-do-our-classrooms-look-like-and-how-many-people-can-they-seat)
 
 [What is a FAQ?](#what-is-a-faq)
-
-[What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
 
 [What is the difference between computer science (CS) and computer engineering (CoE)?](#what-is-the-difference-between-computer-science-cs-and-computer-engineering-coe)
 
@@ -666,8 +644,6 @@ markdown: kramdown
 
 [How do I study CSE while preparing for medical school?](#how-do-i-study-cse-while-preparing-for-medical-school)
 
-[How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
-
 [How is physics counted for our programs?](#how-is-physics-counted-for-our-programs)
 
 [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
@@ -679,10 +655,6 @@ markdown: kramdown
 [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
 
 [I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
-
-[Is it ever worth it to cheat?](#is-it-ever-worth-it-to-cheat)
-
-[Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
 
 [Is there a student group within our department / school?](#is-there-a-student-group-within-our-department--school)
 
@@ -698,15 +670,9 @@ markdown: kramdown
 
 [Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
 
-[What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
-
 [What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
 
 [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
-
-[What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
-
-[When trying to commit or update I have conflicts, what do I do?](#when-trying-to-commit-or-update-i-have-conflicts-what-do-i-do)
 
 [Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
 
@@ -804,7 +770,7 @@ markdown: kramdown
 
 [How is physics counted for our programs?](#how-is-physics-counted-for-our-programs)
 
-[What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
+[What are the core courses for my degree?](#what-are-the-core-courses-for-my-degree)
 
 </dd>
 
@@ -1082,7 +1048,7 @@ markdown: kramdown
 
 [What are residency requirements?](#what-are-residency-requirements)
 
-[What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
+[What are the core courses for my degree?](#what-are-the-core-courses-for-my-degree)
 
 [What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
 
@@ -1113,8 +1079,6 @@ markdown: kramdown
 [What's an "open" program?    How do I change/add/drop a degree (open program)?](#whats-an-open-program----how-do-i-changeadddrop-a-degree-open-program)
 
 [When and how often should I meet with my departmental faculty advisor?  What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisor--what-kind-of-advice-should-i-expect-my-advisor-to-provide)
-
-[When trying to commit or update I have conflicts, what do I do?](#when-trying-to-commit-or-update-i-have-conflicts-what-do-i-do)
 
 [Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
 
@@ -1326,7 +1290,7 @@ markdown: kramdown
 
 [What are residency requirements?](#what-are-residency-requirements)
 
-[What are the core courses for computer science?](#what-are-the-core-courses-for-computer-science)
+[What are the core courses for my degree?](#what-are-the-core-courses-for-my-degree)
 
 [What can I read to learn more about "computing" topics?](#what-can-i-read-to-learn-more-about-computing-topics)
 
@@ -1383,8 +1347,6 @@ markdown: kramdown
 [When am I allowed to collaborate on assignments?](#when-am-i-allowed-to-collaborate-on-assignments)
 
 [When and how often should I meet with my departmental faculty advisor?  What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisor--what-kind-of-advice-should-i-expect-my-advisor-to-provide)
-
-[When trying to commit or update I have conflicts, what do I do?](#when-trying-to-commit-or-update-i-have-conflicts-what-do-i-do)
 
 [Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
 
@@ -2023,65 +1985,14 @@ Here are some notes about taking courses pass/fail:
 
 ---
 <h2 class="anchored" id="how-does-the-bsms-work--when-do-i-declare-my-interest">How does the BS/MS work?  When do I declare my interest?</h2>
-<a id=73></a> Our web pages with advising advice for master's students can be found
-[here](https://cse.wustl.edu/graduate/current-students/Pages/masters-advising.aspx).
- You may currently be an undergraduate studying computer science. You may not have begun your studies in computer science. In either case, earning an MS degree in computer science is something you should consider.
- Regardless of your specific area of academic study, experience and credentials in computer science are extremely valuable for employment. An MS in computer science may well be your ticket to a job in your area of interest outside of computer science
-(e.g., economics, business, political science).
- Current information should appear
-[here](https://engineering.wustl.edu/prospective-students/graduate-admissions/Pages/bachelors-masters.aspx) on our web pages. Information speific to the BS/MS program can be found
-[here](https://engineering.wustl.edu/prospective-students/graduate-admissions/Pages/bachelors-masters.aspx). Here is an overview and some guidelines:
-* A combined undergraduate and masters program requires a total of 150 credits.
- * Admission to our masters program is conditional on your performing well in CSE131 and CSE247, also listed as CSE501N and CSE502N, respectively. If you are already a minor or major in computer science, and you have a reasonable GPA, you would almost certainly be admitted to our program. If you do not have 131 or 247, you would be admitted conditionally on taking those courses (501 and 502) and earning a decent grade (B or better) in them.
- Thus you can prepare for masters studies in our department, even if not currently a SEAS or CSE student, by taking 131 and 247 and earning a B or better in them.
- * There are two flavors of masters degrees: M.Eng. and M.S. and there is more detail on those below.
- * Either masters program requires 30 units of credit.
- * If you do the undergrad / masters program without interruption, you are allowed to choose up to 6 units to count toward both the undergrad and masters portions. You must still reach 150 total units of credit. Of the units you designate in this way, each unit must ordinarily count toward each program. For example, 361S cannot be applied in this way because masters courses must be 400-level or higher. But 547T can be designated to count toward your undergraduate and masters programs.
- * If you are already a Washington University undergraduate, you do not need to take the GRE to apply for our masters programs.
- * Washington University students may also qualify for a  **tuition discount**, which is based on your GPA, as shown [here](https://engineering.wustl.edu/prospective-students/graduate-admissions/Pages/bachelors-masters.aspx) (under *Scholarship and Financial Aid*).
- * If you can get a letter of recommendation from a faculty member in CSE, then that letter is the only one you need. Otherwise, three letters are required.
- * You must apply for the undergraduate / masters program by the deadline.
+<a id=73></a>
+See the [Bachelor's/Master's Program](https://engineering.wustl.edu/academics/graduate-admissions/bachelors-masters.html) pages, which include details about application deadlines, scholarships, and degree requirements. 
 
+You may also want review the [Resources for Master's Students](https://cse.wustl.edu/academics/graduate/current-students/Resources-for-Current-Masters-Students.html), which includes the Master's Program Handbook.
 
+For more information go to [Graduate Programs](https://cse.wustl.edu/academics/graduate/index.html), select a degree of interest, then use the "Contact Us" information to contact faculty/staff who can provide further assistance.  
 
-**ArtSci students** We welcome you to our masters' programs, but the arrangements here are more involved. Here are some guidelines:
-* ArtSci will count at most 30 units outside their school toward your undergraduate graduation. Nonetheless, you can take as many courses as you like outside of ArtSci and bank those toward whatever programs you intend to complete. You would still require 90 units within ArtSci to graduate from their school.
- * othr stuff
-
-
- M.Eng. vs M.S.
- At one time, the distinction between these two degrees was:
-* M.Eng. was considered *terminal*, in that students completing this degree were not going to pursue doctoral studies.
- * M.S. was considered a way point toward doctoral studies; some students might continue, but some might not.
-
- The above distinctions don't hold any longer. First, any student can go on for doctoral studies, and it is not necessary to complete an M.S. degree on their way to a PhD (though many do). Second, at one point M.Eng. was considered a 15-month program, but we no longer think of it as any quicker than the M.S. degree.
- So how do you choose? Take a look at the requirements for
-[M.Eng.](https://cse.wustl.edu/graduate/programs/Pages/meng-in-computer-science-engineering.aspx) and [M.S.](https://cse.wustl.edu/graduate/programs/Pages/ms-in-computer-science.aspx) (and there is a version of M.S. for [Computer Engineering](https://cse.wustl.edu/graduate/programs/Pages/ms-in-computer-engineering.aspx)). The primary distinctions are now:
-* The M.Eng. requires a 6-unit project. Thus our faculty are obligated to supervise M.Eng. projects so you can complete your degree.
- * The M.Eng. is more flexible about 400-level courses. It allows you to take up to 15 units of 400-level credit. The M.S. degrees allow at most 9 such units.
- * For the M.S., you can finish using courework alone. Or you can spend up to 6 units on an M.S. project or an M.S. thesis. More on this below.
-
- Our intention is that the M.Eng. degree is more interdisciplinary, allowing explicitly for credit outside our department. The associated project is required, to demonstrate mastery of engineering in computer science or computer engineering.
-
-**Project or thesis or just courses?** For the MS degrees, you can satisfy requirements by taking courses alone. The M.Eng. degree requires a 6-unit project. The issues related to project or thesis are covered elsewhere in this FAQ.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<span class="tag-links">[#academia](#academia) [#artsci](#artsci) [#graduate](#graduate) [#masters](#masters) [#misc](#misc) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#masters](#masters) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/73">Discussions View</a></span>
 
 ---
@@ -2526,49 +2437,44 @@ Your grade is typically based on participation, studio work, weekly assignments,
 <a id=39></a>
 In short, no. 
 
-Cheating not academically breaks the trust of your professors and your peers, but it also impairs the person that matters the most: yourself.
+Cheating undermines the trust of your professors and your peers and impairs the academic progress person that matters the most: yourself.
 
-If you take a shortcut on an assignment, then you are robbing yourself of that next level of understanding, of potential growth and of the pride of having done something yourself.
-
-Completing an assignment and doing well in a class should come with a sense of accomplishment, which will in turn push you to accomplish more. If you ever feel the need to cheat or do something dishonest, then take a step back and look at the bigger picture. 
+If you take a shortcut on an assignment, then you are robbing yourself of that next level of understanding, of potential growth, and of the pride of having done something yourself.  If you ever feel the need to cheat or do something dishonest, then take a step back and look at the bigger picture. 
 
 You are at a top level university with great academic resources and you should be here not only to receive a degree, but also to learn as much as possible. There are a number of alternative options you can take before you cheat:
 
 1. Talk to your professor, and ask for an extension. There is no harm in asking.
 2. Commit to a new schedule, start early, go to TA hours.
-3. Fail the assignment or receive a lower grade. It is perfectly fine to not do well on an assignment as long as you can evaluate what went wrong. Maybe you need to start earlier, cut back on extracurriculars, or perhaps you are in the wrong class.
+3. Fail the assignment or receive a lower grade. It is perfectly fine to not do well on an assignment (or course) as long as you can evaluate what went wrong. Maybe you need to start earlier, cut back on extracurriculars, or perhaps you are in the wrong class.
 4. Drop/Withdraw from the class.
-
 
 In the short-term and long-term, it is never worth it to cheat. There is always another way, and that alternative path will always be more beneficial. Do not risk your personal integrity for one assignment or one class. 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<span class="tag-links">[#academia](#academia) [#academic_integrity](#academic_integrity) [#misc](#misc) [#needs_review](#needs_review) [#plagiarism](#plagiarism)</span>
+<span class="tag-links">[#academic_integrity](#academic_integrity) [#plagiarism](#plagiarism)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/39">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="is-there-a-student-group-for-women-in-computer-science-or-computer-engineering">Is there a student group for women in computer science or computer engineering?</h2>
-<a id=10></a> Yes! The [Women in Computer Science (WiCS)](http://wics.wustl.edu/) group welcomes all women interested in computer science or computer engineering. Our chapter is just one of many, with the goal of increasing the participation and representation of women in CSE, as they are currently in our discipline.
- This group provides mentoring, talks, preparation for job interviews and graduate school. Our department sends a group of students from WiCS to the annual [Grace Hopper](https://ghc.anitaborg.org/) conference, and there have been incredibly positive and life-changing results from attending that meeting.
- If you identify as a women then we urge you to join WiCS so that you can learn from and contribute to this vibrant group of students.
+<a id=10></a>
+Yes! 
+
+* [Women in Computer Science (WiCS)](https://www.wics.wustl.edu/) welcomes all women interested in computing / technology. 
+* [Girls Who Code](https://wustl.presence.io/organization/girls-who-code-washu) is a chapter of Girls Who Code, a national non-profit organization dedicated to closing the gender gap in technology. 
+* [Women in Engineering](https://engineering.wustl.edu/about/diversity/women-and-engineering.html)
+* [Society of Women Engineers (SWE)](https://wustl.presence.io/organization/society-of-women-engineers) (Also see [here](https://wustlcse204.github.io/swe.wustl.edu/index.html))
+
+**Related:**  
+* Our department sends a group of students from WiCS to the annual [Grace Hopper](https://ghc.anitaborg.org/) conference, which most students find to be an immensely positive experience.
+* Our department also sends a group of students to the [Tapia Celebration of Diversity in Computing Conference](https://tapiaconference.cmd-it.org/)
+* You can search for other student organizations [here](https://wustl.presence.io/organizations).
 
 
 
 
 
 
-<span class="tag-links">[#acm](#acm) [#get_involved](#get_involved) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/10">Discussions View</a></span>
 
 ---
@@ -2864,16 +2770,13 @@ Most schools provide a system to "Audit" your degree.  Most schools use [WUAchie
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/118">Discussions View</a></span>
 
 ---
-<h2 class="anchored" id="what-are-the-core-courses-for-computer-science">What are the core courses for computer science?</h2>
-<a id=90></a> The core courses are those courses specifically required for your major.
-* Computer science [first](https://cse.wustl.edu/undergraduate/programs/Pages/bs-in-computer-science.aspx) or 
-[second](https://cse.wustl.edu/undergraduate/programs/Pages/second-major.aspx) major (they are the same)
- * Computer engineering [first major](https://cse.wustl.edu/undergraduate/programs/Pages/bs-in-computer-engineering.aspx) (no second major available)
- * The [minor in computer science](https://cse.wustl.edu/undergraduate/programs/Pages/minors.aspx#minorCS) requires CSE131 and CSE247.
- * The [bioinformatics minor](https://cse.wustl.edu/undergraduate/programs/Pages/minors.aspx#minorbio).
+<h2 class="anchored" id="what-are-the-core-courses-for-my-degree">What are the core courses for my degree?</h2>
+<a id=90></a> The "core courses" are the common set of courses required for all students in a particular major or minor.  In addition to "core" courses, degrees have electives, where students can choose ("elect") which classes to take.  Electives often allow students to focus studies on niches of particular interest.   
+
+For all degree requirements, including the "core courses" see details for your degree(s) in the [Bulletin](https://bulletin.wustl.edu/). 
 
 
-<span class="tag-links">[#academia](#academia) [#computer_science](#computer_science) [#courses](#courses) [#curriculum](#curriculum) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#computer_science](#computer_science) [#courses](#courses) [#curriculum](#curriculum) [#graduate](#graduate) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/90">Discussions View</a></span>
 
 ---
@@ -3221,19 +3124,17 @@ WebSTAC, and by consulting with her second major advisor as needed. That advisor
 
 ---
 <h2 class="anchored" id="what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science">What is the difference between a first (primary) major in computer science and a second major in computer science?</h2>
-<a id=91></a> If you are a primary major in computer science, then you have two kinds of course obligations you must fulfill:
-* Some courses are required for the computer science aspect of your primary major in computer science.
- * Some courses are required because, as a primary major in computer science, you are also primarily situated in SEAS. This brings obligations of coursework you must do that is outside of what the computer science part of your studies require.
+<a id=91></a>
+If you are a primary major in computer science, then you have two kinds of course obligations you must fulfill:
+1. Some courses are required for the computer science aspect of your primary major in computer science.
+2. Some courses are required because, as a primary major in computer science, you are also primarily situated in the McKelvey School of Engineering, which has requirements for all students in the school in addition to the discipline specific (i.e., computer science) requirements. 
 
- A *second major* need only do the first set of courses, and the requirements for the second major are found [here](https://cse.wustl.edu/undergraduate/programs/Pages/second-major.aspx). The careful reader will note that the computer science course requirements for both first and second majors are identical.
- Thus, our department supports students saying they have majored in computer science whether they have done so by primary or by second major.
- Note that a second major in computer science must be a first major in *some* school. The rules and requirements of that school and that student's first major must be followed to graduate from Washington University.
-
+*Second majors* do all the requirements of their primary major (which would include some variation of the school requirements in category 2 above) _**and**_ add in just the courses from category 1 above to complete the second major.   That is, the additional work is just the set of courses that is required for the computer science content.  Please see [Second Degree vs. Second Major](https://faq.cse.wustl.edu/#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem). 
 
 
 
 
-<span class="tag-links">[#academia](#academia) [#computer_science](#computer_science) [#misc](#misc) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#computer_science](#computer_science) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/91">Discussions View</a></span>
 
 ---
@@ -3560,29 +3461,6 @@ While second majors and minors do not require explicit approval from their advis
 
 <span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#minor](#minor) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/109">Discussions View</a></span>
-
----
-<h2 class="anchored" id="when-trying-to-commit-or-update-i-have-conflicts-what-do-i-do">When trying to commit or update I have conflicts, what do I do?</h2>
-<a id=82></a>
-* First, commit any work that you can:
-	+ In the package explorer, right- (control-) click on your main project name,
-	+ choose `Team →`+ choose `Commit`+ In the window you are shown, *uncheck* any entries marked `conflicting`+ Proceed with the commit
-	
-	>  If the commit does not work, seek help from the instructor before doing any of the following steps.
-	>* Then, let's try to clear up the conflicts
-	+ choose `Team →`+ choose `Synchronize with Repository`+ In the resulting window, you see the conflicts.
-	
-	>  Documentation for resolving conflicts can be found
-	> [here](https://eclipse.org/subversive/documentation/teamSupport/workspace_synch.php).
-	> 
-	
-	+ My favorite choices are:
-		- `Override and update`: this indicates that you want to go with the version of the file that is on the server, and replace your version with that one. Your local copy will be lost forever, so be certain this is what you want if you choose this option.
-		 - `Override and commit`: this indicates that you want your version of the file to win. Your local version then replaced the one at the server. You can always retrieve any previously committed version from the server.+ When done, return to the `Java` view and commit your work as usual.* If in doubt, ask the TAs or instructor.
-
-
-<span class="tag-links">[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/82">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="where-can-i-find-the-form-i-need-to-fill-out-for-independent-study">Where can I find the form I need to fill out for independent study?</h2>
