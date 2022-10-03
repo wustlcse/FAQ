@@ -38,8 +38,6 @@ markdown: kramdown
 
 [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
 
-[Does our department have an honor society?](#does-our-department-have-an-honor-society)
-
 [How are admissions handled?](#how-are-admissions-handled)
 
 [How do I earn a minor in bioinformatics?](#how-do-i-earn-a-minor-in-bioinformatics)
@@ -51,12 +49,6 @@ markdown: kramdown
 [How do I study CSE while preparing for medical school?](#how-do-i-study-cse-while-preparing-for-medical-school)
 
 [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
-
-[I am on the wait list for a course. What should I do?](#i-am-on-the-wait-list-for-a-course-what-should-i-do)
-
-[I am primarily interested in becoming a software engineer; what courses should I take?](#i-am-primarily-interested-in-becoming-a-software-engineer-what-courses-should-i-take)
-
-[I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
 
 [If I am not satisfied with a grade I received on an assignment or in a course, what should I do?](#if-i-am-not-satisfied-with-a-grade-i-received-on-an-assignment-or-in-a-course-what-should-i-do)
 
@@ -91,8 +83,6 @@ markdown: kramdown
 [What probability/statistics course should I take?](#what-probabilitystatistics-course-should-i-take)
 
 [When and how often should I meet with my departmental faculty advisor?  What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisor--what-kind-of-advice-should-i-expect-my-advisor-to-provide)
-
-[Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
 
 [Where can I learn more about cyber security?](#where-can-i-learn-more-about-cyber-security)
 
@@ -252,8 +242,6 @@ markdown: kramdown
 
 [How much time should I expect to spend on CSE131?](#how-much-time-should-i-expect-to-spend-on-cse)
 
-[I am on the wait list for a course. What should I do?](#i-am-on-the-wait-list-for-a-course-what-should-i-do)
-
 [I am on the waiting list for CSE131 or for the lab section I need.  Will I be able to take the course?](#i-am-on-the-waiting-list-for-cse-or-for-the-lab-section-i-need--will-i-be-able-to-take-the-course)
 
 [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
@@ -326,8 +314,6 @@ markdown: kramdown
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="get_involved" aria-hidden="false">
 
-[Does our department have an honor society?](#does-our-department-have-an-honor-society)
-
 [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
 [How can I contribute to this FAQ?](#how-can-i-contribute-to-this-faq)
@@ -339,8 +325,6 @@ markdown: kramdown
 [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
 [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
-
-[I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
 
 [Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
 
@@ -376,8 +360,6 @@ markdown: kramdown
 
 [Do I need to take CSE 240 before CSE 247?](#do-i-need-to-take-cse--before-cse-)
 
-[Does our department have an honor society?](#does-our-department-have-an-honor-society)
-
 [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
 [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
@@ -408,15 +390,11 @@ markdown: kramdown
 
 [I am on the wait list for a course. What should I do?](#i-am-on-the-wait-list-for-a-course-what-should-i-do)
 
-[I am primarily interested in becoming a software engineer; what courses should I take?](#i-am-primarily-interested-in-becoming-a-software-engineer-what-courses-should-i-take)
-
 [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
 
 [I have enjoyed 131.  What course should I take next?](#i-have-enjoyed---what-course-should-i-take-next)
 
 [I need a laptop for my CSE work and don't have one that works; what should I do?](#i-need-a-laptop-for-my-cse-work-and-dont-have-one-that-works-what-should-i-do)
-
-[I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
 
 [I'm struggling and feeling overwhelmed. What should I do?](#im-struggling-and-feeling-overwhelmed-what-should-i-do)
 
@@ -464,8 +442,6 @@ markdown: kramdown
 
 [When and how often should I meet with my departmental faculty advisor?  What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisor--what-kind-of-advice-should-i-expect-my-advisor-to-provide)
 
-[Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
-
 [Where can I learn more about cyber security?](#where-can-i-learn-more-about-cyber-security)
 
 [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
@@ -509,10 +485,6 @@ markdown: kramdown
 [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
 [I accepted a job offer with company X but have since received a more attracive offer from company Y. What should I do?](#i-accepted-a-job-offer-with-company-x-but-have-since-received-a-more-attracive-offer-from-company-y-what-should-i-do)
-
-[I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
-
-[I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
 
 [My employer wants a letter from the department for my green card application. How do I do that?](#my-employer-wants-a-letter-from-the-department-for-my-green-card-application-how-do-i-do-that)
 
@@ -598,8 +570,6 @@ markdown: kramdown
 
 [How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
 
-[I am primarily interested in becoming a software engineer; what courses should I take?](#i-am-primarily-interested-in-becoming-a-software-engineer-what-courses-should-i-take)
-
 [My employer wants a letter from the department for my green card application. How do I do that?](#my-employer-wants-a-letter-from-the-department-for-my-green-card-application-how-do-i-do-that)
 
 [Other ways to get involved](#other-ways-to-get-involved)
@@ -632,8 +602,6 @@ markdown: kramdown
 
 [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
-[Does our department have an honor society?](#does-our-department-have-an-honor-society)
-
 [How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
 
 [How do I find a summer internship?](#how-do-i-find-a-summer-internship)
@@ -647,14 +615,6 @@ markdown: kramdown
 [How is physics counted for our programs?](#how-is-physics-counted-for-our-programs)
 
 [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
-
-[I am on the wait list for a course. What should I do?](#i-am-on-the-wait-list-for-a-course-what-should-i-do)
-
-[I am primarily interested in becoming a software engineer; what courses should I take?](#i-am-primarily-interested-in-becoming-a-software-engineer-what-courses-should-i-take)
-
-[I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
-
-[I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
 
 [Is there a student group within our department / school?](#is-there-a-student-group-within-our-department--school)
 
@@ -673,8 +633,6 @@ markdown: kramdown
 [What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
 
 [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
-
-[Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
 
 [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
@@ -731,8 +689,6 @@ markdown: kramdown
 <dd class="accordion-content" role="tabpanel" aria-labelledby="programming" aria-hidden="false">
 
 [How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
-
-[I am primarily interested in becoming a software engineer; what courses should I take?](#i-am-primarily-interested-in-becoming-a-software-engineer-what-courses-should-i-take)
 
 [Other ways to get involved](#other-ways-to-get-involved)
 
@@ -844,8 +800,6 @@ markdown: kramdown
 
 [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
-[Does our department have an honor society?](#does-our-department-have-an-honor-society)
-
 [How can I contribute to this FAQ?](#how-can-i-contribute-to-this-faq)
 
 [How do I arrange to study abroad?](#how-do-i-arrange-to-study-abroad)
@@ -859,8 +813,6 @@ markdown: kramdown
 [I am on the wait list for a course. What should I do?](#i-am-on-the-wait-list-for-a-course-what-should-i-do)
 
 [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
-
-[I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
 
 [I'm struggling and feeling overwhelmed. What should I do?](#im-struggling-and-feeling-overwhelmed-what-should-i-do)
 
@@ -897,8 +849,6 @@ markdown: kramdown
 <dd class="accordion-content" role="tabpanel" aria-labelledby="teaching_assistant" aria-hidden="false">
 
 [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
-
-[I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
 
 [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
 
@@ -941,8 +891,6 @@ markdown: kramdown
 [Do I need to take CSE 240 before CSE 247?](#do-i-need-to-take-cse--before-cse-)
 
 [Do I need to take CSE347?](#do-i-need-to-take-cse)
-
-[Does our department have an honor society?](#does-our-department-have-an-honor-society)
 
 [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
@@ -1004,8 +952,6 @@ markdown: kramdown
 
 [I am on the waiting list for CSE131 or for the lab section I need.  Will I be able to take the course?](#i-am-on-the-waiting-list-for-cse-or-for-the-lab-section-i-need--will-i-be-able-to-take-the-course)
 
-[I am primarily interested in becoming a software engineer; what courses should I take?](#i-am-primarily-interested-in-becoming-a-software-engineer-what-courses-should-i-take)
-
 [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
 
 [I have enjoyed 131.  What course should I take next?](#i-have-enjoyed---what-course-should-i-take-next)
@@ -1015,8 +961,6 @@ markdown: kramdown
 [I have to take Math 310 as part of my studies for a math major or minor?  Can this count toward my CSE studies?](#i-have-to-take-math--as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies)
 
 [I need a laptop for my CSE work and don't have one that works; what should I do?](#i-need-a-laptop-for-my-cse-work-and-dont-have-one-that-works-what-should-i-do)
-
-[I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
 
 [I'm struggling and feeling overwhelmed. What should I do?](#im-struggling-and-feeling-overwhelmed-what-should-i-do)
 
@@ -1144,8 +1088,6 @@ markdown: kramdown
 
 [Do I need to take CSE347?](#do-i-need-to-take-cse)
 
-[Does our department have an honor society?](#does-our-department-have-an-honor-society)
-
 <hr class="toc-divider">
 
 [How are admissions handled?](#how-are-admissions-handled)
@@ -1222,8 +1164,6 @@ markdown: kramdown
 
 [I am on the waiting list for CSE131 or for the lab section I need.  Will I be able to take the course?](#i-am-on-the-waiting-list-for-cse-or-for-the-lab-section-i-need--will-i-be-able-to-take-the-course)
 
-[I am primarily interested in becoming a software engineer; what courses should I take?](#i-am-primarily-interested-in-becoming-a-software-engineer-what-courses-should-i-take)
-
 [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
 
 [I have a conflict with one of my exams in this class.  What should I do?](#i-have-a-conflict-with-one-of-my-exams-in-this-class--what-should-i-do)
@@ -1237,8 +1177,6 @@ markdown: kramdown
 [I have to take Math 310 as part of my studies for a math major or minor?  Can this count toward my CSE studies?](#i-have-to-take-math--as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies)
 
 [I need a laptop for my CSE work and don't have one that works; what should I do?](#i-need-a-laptop-for-my-cse-work-and-dont-have-one-that-works-what-should-i-do)
-
-[I'd like to help out with grading and earn some money.  How do I do that?](#id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that)
 
 [I'm having trouble with my computer.  Where can I get help?](#im-having-trouble-with-my-computer--where-can-i-get-help)
 
@@ -1553,16 +1491,6 @@ CSE 347 is currently required for:
 
 <span class="tag-links">[#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/38">Discussions View</a></span>
-
----
-<h2 class="anchored" id="does-our-department-have-an-honor-society">Does our department have an honor society?</h2>
-<a id=108></a> Yes. Our [UPE](http://upe.wustl.edu/) chapter is the local instantiation of the international UPE honor society, which is endorsed by the [ACM](http://www.acm.org/) and [IEEE Computer Society](https://www.computer.org/). 
-
-We also have a local [ACM chapter](https://acm.wustl.edu/).
-
-
-<span class="tag-links">[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/108">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="how-are-admissions-handled">How are admissions handled?</h2>
@@ -2137,22 +2065,16 @@ Usually it's best to:
 
 ---
 <h2 class="anchored" id="i-am-on-the-wait-list-for-a-course-what-should-i-do">I am on the wait list for a course. What should I do?</h2>
-<a id=42></a> The short answer is you should have plan A and plan Z.
+<a id=42></a>
+The short answer is you should have plan A and plan Z.
 
- Plan A
-  Stay on the wait list for this course. If this is a required course for any of your programs, and you have an urgent need to take the course now, be sure to let the instructor know, and see what might be done to gain admission to the course.
- It is important to show up for class as if you are enrolled if Plan A is your plan. There is an [apochryphal](http://www.dictionary.com/browse/apocryphal) story about a student who just kept showing up. The professor finally eventually enrolled the student in the course.
- Also, be aware that students drop usually in the first two weeks of class, which opens up room in a course.
-  [Plan Z](https://www.cse.wustl.edu/~cytron/planz.mp3)
- Because you might not get in, it's a good idea to sign up for another course that has room. Seek the usual advice about courses from your advisor, colleagues, and friends.
+* **Plan A**: Stay on the wait list for this course. If it (specifically) is a required course for any of your degrees and you have an urgent need to take the course now, be sure to let the instructor know.  They may be able to provide additional guidance.  
+ It is important to show up for class as if you are enrolled if Plan A is your plan.  Also, be aware that students drop usually in the first two weeks of class, which opens up room in a course. 
+* **Plan Z**: Because you might not get in, it's a good idea to sign up for another course that has room. Seek the usual advice about courses from your advisor, colleagues, and friends.
 
+You are allowed to register for up to 21 units, so you may have to make (strategic) choices about where to register to get the courses you want.
 
-
-
- You are allowed to register for up to 21 units, so you may have to make
-(strategic) choices about where to register to get the courses you want.
-
-<span class="tag-links">[#academia](#academia) [#cse131](#cse131) [#get_help](#get_help) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#get_help](#get_help) [#graduate](#graduate) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/42">Discussions View</a></span>
 
 ---
@@ -2169,42 +2091,19 @@ Often there is about a 5% change in enrollments in 131 during the first week(s) 
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/87">Discussions View</a></span>
 
 ---
-<h2 class="anchored" id="i-am-primarily-interested-in-becoming-a-software-engineer-what-courses-should-i-take">I am primarily interested in becoming a software engineer; what courses should I take?</h2>
-<a id=101></a> Our core requirements will ensure that your goals of becoming a proficient software engineer are achieved by becoming an accomplished computer scientist. The core is described elsewhere in this FAQ, so let's look more into the software offerings based on the kind of work you want to do. Generally, those courses ending with an `S` are software courses, but there courses with other suffixes that should interest you as well.
-
- Software engineering
-  Consider taking some or all of the following elective courses:
-* 361S explores the programming stack from the assembly language level into the basic hardware of a computer. For many students, this course serves to *demystify* those aspects of computation that lie below the high-level programming languages (e.g., Java). Software engineers will appreciate the aspects of performance and security covered by this course.
- * 365S is our version of [Shimon Shocken](http://shimonschocken.com/)'s [NAND to Tetris](http://www.nand2tetris.org/) course. Each module of this course features an increasingly higher level of the programming stack. The course begins with simple logic gates and ends with a video game project. While each level cannotonly be covered in great depth, this course serves as great tour of the programming stack.
- * Classic software component courses:
-	+ 422S explores the fundamentals of operating systems such as Windows, Mac OS X, Linux. The coursework is currently hosted on 
-	 [raspberry pi](https://www.raspberrypi.org/) kits. 
-	 + 431S examines the construction of a compiler, which is the software component that translates a high level language (such as Java) into a form that is closer to the actual operations offered on a computer. Students build a compiler for a subset of Java (called Java minus minus) that genrates bytecodes that can be executed by a Java virtual machine (JVM).
-	 + 425S has not been offered for a while, so no description will be offered here.* 330S is a very popular course because the techniques and tools used in this course are valuable skills for employment. The course examines the back-end of a web server, which responds to requests generated from a web browser. The course looks at php, mysql, javascript, nodejs, python, and associated libraries that enable development of web servers. Students work both individually and in groups, and the course features creative projects that allow students to apply what they have learned to problems of interest to them.
- * 427S looks at cloud computing and the MapReduce paradigm, which are important for analyzing large volumes of data.
- * 437S is our software engineering workshop, and it has most recently been co-taught by faculty and industry professionals. The course examines the life-cycle of a project, with students working in teams to develop
-[minimum viable products](https://en.wikipedia.org/wiki/Minimum_viable_product) throughout the semester. Unlike our other courses, the result is subservient to the process for creating the result. Issues of teamwork, design, testing, and documentation are central to the course. Students grapple with tradeoffs between features, resources, and cost. Historically, some groups continue to develop of their ideas into start-ups after completing this course.
- * 438S is our mobile applications course, which most students call our iPhone course. The focus is on the development of applications for a mobile environment. Screen real estate is scarce, and location could be prominent for applications developed here. The course features a project in which students apply what they have learned to a problem of interest to them.
- * 556A examines the interactions between humans and computers, with an emphasis on design and evaluation of designs.
-
-
- Video game development
- 
-* 450A is a course specifically geared for teaching video game development. Most recently, this course was taught by Sam and Seth Coster, co-founders of [Butterscotch Shenanigans](https://www.bscotch.net/). Students in their course developed two games in the semester, and the course focused on design, viability, story, marketability, and user interface.
- * 556A described above.
- * 437S described above.
-
-
-
-
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#programming](#programming) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/101">Discussions View</a></span>
-
----
 <h2 class="anchored" id="i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes">I am struggling and need some help.  Is tutoring available for CSE classes?</h2>
-<a id=8></a> Yes. Dean Chris Ramsay keeps a list of available tutors for classes and he can try to match you with somebody who can help. The relevant web page at Engineering Student Services (ESS) is [here](https://engineering.wustl.edu/current-students/student-services/Pages/advising.aspx). If you are primariy a SEAS student you may receive up to 4 hours of tutoring free through ESS. Otherwise, tutors can still be found but you would have to pay.
+<a id=8></a>If you aren't already doing so, make use of any TA and instructor office hours and pay close attention to post on the course forum. 
 
-<span class="tag-links">[#academia](#academia) [#cse131](#cse131) [#get_help](#get_help) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
+The School of Engineering provides tutoring services for many for many courses.  The tutors will help students understand course content, but will not assist with specific assignments.  
+* Students in the School of Engineering can request tutors for Physics, Math/Calc, Chem, Bio, and many Engineering School courses, including CSE courses. 
+* Students from other Schools can request tutoring for just Engineering School courses. 
+
+Students in the School of Engineering can get some tutoring for free.  Students of other schools may have to pay for tutoring services.  
+
+To get more information on availability, any time limitations or fees, etc., complete the "Tutor Request" form on the "Advising & Services tab [here](https://engineering.wustl.edu/offices-services/student-services/undergraduate-student-services/index.html#tab2),
+
+
+<span class="tag-links">[#cse131](#cse131) [#get_help](#get_help) [#graduate](#graduate) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/8">Discussions View</a></span>
 
 ---
@@ -2287,23 +2186,6 @@ If you're pursuing a Major/Minor from the Math/Stat Department, you should check
 
 <span class="tag-links">[#computer](#computer) [#get_help](#get_help) [#graduate](#graduate) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/127">Discussions View</a></span>
-
----
-<h2 class="anchored" id="id-like-to-help-out-with-grading-and-earn-some-money--how-do-i-do-that">I'd like to help out with grading and earn some money.  How do I do that?</h2>
-<a id=16></a> Some of our courses would like your help with grading exams and other work, even if you are not currently a TA for a particular course needing your help. When the TA draft is published, we ask if you would like to be part of EGRT, the Emergency Grading Response Team.
-
-**If you are hired to be a TA for any course**, then we can also use your help with EGRT. We solicit your help as-needed by an email asking for your help on a particular day at a particular time. You don't need to have taken the class in most cases. You are given a grading rubric and surrounded by people who can help answer any questions you have.
- We try to recruit as many TAs for grading as needed to keep the grading session to two hours. In this way we don't impose too much on your time.
- We can't hire you for EGRT unless you are otherwise employed as a TA. The pay is the standard TA pay, currently $10 an hour.
-
-
-
-
-
-
-
-<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#student_life](#student_life) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/16">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="im-having-trouble-with-my-computer--where-can-i-get-help">I'm having trouble with my computer.  Where can I get help?</h2>
@@ -3464,10 +3346,9 @@ While second majors and minors do not require explicit approval from their advis
 
 ---
 <h2 class="anchored" id="where-can-i-find-the-form-i-need-to-fill-out-for-independent-study">Where can I find the form I need to fill out for independent study?</h2>
-<a id=67></a> You can find it
- [here](https://wustl.app.box.com/s/0h2zmsnvocx7ay4wyedfon79g9j919gk)
+<a id=67></a>See the "Independent Study" section [here](https://cse.wustl.edu/academics/undergraduate/undergraduate-research.html#incdependent-study:~:text=you%20are%20interested.-,Independent%20Study,-During%20the%20academic).
 
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#independent_study](#independent_study) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#independent_study](#independent_study) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/67">Discussions View</a></span>
 
 ---
