@@ -46,8 +46,6 @@ markdown: kramdown
 
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
 
-[How do I study CSE while preparing for medical school?](#how-do-i-study-cse-while-preparing-for-medical-school)
-
 [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
 [If I am not satisfied with a grade I received on an assignment or in a course, what should I do?](#if-i-am-not-satisfied-with-a-grade-i-received-on-an-assignment-or-in-a-course-what-should-i-do)
@@ -59,8 +57,6 @@ markdown: kramdown
 [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
 [Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
-
-[Should I get course credit (CSE 400E) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-or-be-paid-for-research-with-faculty)
 
 [What are residency requirements?](#what-are-residency-requirements)
 
@@ -416,7 +412,7 @@ markdown: kramdown
 
 [Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
 
-[Should I get course credit (CSE 400E) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-or-be-paid-for-research-with-faculty)
+[Should I get course credit (CSE 400E, CSE 599, CSE 598) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-cse--cse--or-be-paid-for-research-with-faculty)
 
 [Should I pursue a master's degree (at WashU / BS/MS)?](#should-i-pursue-a-masters-degree-at-washu--bsms)
 
@@ -458,7 +454,7 @@ markdown: kramdown
 
 [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
-[Should I get course credit (CSE 400E) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-or-be-paid-for-research-with-faculty)
+[Should I get course credit (CSE 400E, CSE 599, CSE 598) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-cse--cse--or-be-paid-for-research-with-faculty)
 
 [What is the difference between CSE 400 and CSE 400E  How does independent study work?](#what-is-the-difference-between-cse--and-cse-e--how-does-independent-study-work)
 
@@ -492,7 +488,7 @@ markdown: kramdown
 
 [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
 
-[Should I get course credit (CSE 400E) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-or-be-paid-for-research-with-faculty)
+[Should I get course credit (CSE 400E, CSE 599, CSE 598) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-cse--cse--or-be-paid-for-research-with-faculty)
 
 [What do our graduates do?](#what-do-our-graduates-do)
 
@@ -736,7 +732,7 @@ markdown: kramdown
 
 [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
-[Should I get course credit (CSE 400E) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-or-be-paid-for-research-with-faculty)
+[Should I get course credit (CSE 400E, CSE 599, CSE 598) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-cse--cse--or-be-paid-for-research-with-faculty)
 
 [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
@@ -982,7 +978,7 @@ markdown: kramdown
 
 [Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
 
-[Should I get course credit (CSE 400E) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-or-be-paid-for-research-with-faculty)
+[Should I get course credit (CSE 400E, CSE 599, CSE 598) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-cse--cse--or-be-paid-for-research-with-faculty)
 
 [Should I pursue a master's degree (at WashU / BS/MS)?](#should-i-pursue-a-masters-degree-at-washu--bsms)
 
@@ -1216,7 +1212,7 @@ markdown: kramdown
 
 [Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
 
-[Should I get course credit (CSE 400E) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-or-be-paid-for-research-with-faculty)
+[Should I get course credit (CSE 400E, CSE 599, CSE 598) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-cse--cse--or-be-paid-for-research-with-faculty)
 
 [Should I pursue a master's degree (at WashU / BS/MS)?](#should-i-pursue-a-masters-degree-at-washu--bsms)
 
@@ -1860,7 +1856,7 @@ Studies in computer science are an excellent fit for medical school preparation 
 
 Once you declare your interest in medicine, you will be assigned a pre-med advisor in your primary school. That advisor will make sure you stay on track to be ready for the MCAT and for medical school.
 
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/72">Discussions View</a></span>
 
 ---
@@ -2601,11 +2597,11 @@ Approximately 1-2 weeks after you register for classes you should get an email t
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/48">Discussions View</a></span>
 
 ---
-<h2 class="anchored" id="should-i-get-course-credit-cse-e-or-be-paid-for-research-with-faculty">Should I get course credit (CSE 400E) or be paid for research with faculty?</h2>
+<h2 class="anchored" id="should-i-get-course-credit-cse-e-cse--cse--or-be-paid-for-research-with-faculty">Should I get course credit (CSE 400E, CSE 599, CSE 598) or be paid for research with faculty?</h2>
 <a id=78></a>
 It's between you and your research or independent study mentor. Some students prefer credit, as it makes progress toward their degree; others prefer to be paid.
 
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#independent_study](#independent_study) [#jobs](#jobs) [#research](#research) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#independent_study](#independent_study) [#jobs](#jobs) [#research](#research) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/78">Discussions View</a></span>
 
 ---
