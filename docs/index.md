@@ -60,7 +60,7 @@ markdown: kramdown
 
 [Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
 
-[Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
+[Should I get course credit (CSE 400E) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-or-be-paid-for-research-with-faculty)
 
 [What are residency requirements?](#what-are-residency-requirements)
 
@@ -416,7 +416,7 @@ markdown: kramdown
 
 [Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
 
-[Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
+[Should I get course credit (CSE 400E) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-or-be-paid-for-research-with-faculty)
 
 [Should I pursue a master's degree (at WashU / BS/MS)?](#should-i-pursue-a-masters-degree-at-washu--bsms)
 
@@ -458,7 +458,7 @@ markdown: kramdown
 
 [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
-[Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
+[Should I get course credit (CSE 400E) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-or-be-paid-for-research-with-faculty)
 
 [What is the difference between CSE 400 and CSE 400E  How does independent study work?](#what-is-the-difference-between-cse--and-cse-e--how-does-independent-study-work)
 
@@ -492,7 +492,7 @@ markdown: kramdown
 
 [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
 
-[Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
+[Should I get course credit (CSE 400E) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-or-be-paid-for-research-with-faculty)
 
 [What do our graduates do?](#what-do-our-graduates-do)
 
@@ -610,8 +610,6 @@ markdown: kramdown
 
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
 
-[How do I study CSE while preparing for medical school?](#how-do-i-study-cse-while-preparing-for-medical-school)
-
 [How is physics counted for our programs?](#how-is-physics-counted-for-our-programs)
 
 [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
@@ -627,8 +625,6 @@ markdown: kramdown
 [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
 [Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
-
-[Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
 
 [What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
 
@@ -740,7 +736,7 @@ markdown: kramdown
 
 [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
-[Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
+[Should I get course credit (CSE 400E) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-or-be-paid-for-research-with-faculty)
 
 [What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
@@ -986,7 +982,7 @@ markdown: kramdown
 
 [Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
 
-[Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
+[Should I get course credit (CSE 400E) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-or-be-paid-for-research-with-faculty)
 
 [Should I pursue a master's degree (at WashU / BS/MS)?](#should-i-pursue-a-masters-degree-at-washu--bsms)
 
@@ -1220,7 +1216,7 @@ markdown: kramdown
 
 [Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
 
-[Should I get credit or pay for my independent study or research with faculty?](#should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty)
+[Should I get course credit (CSE 400E) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-or-be-paid-for-research-with-faculty)
 
 [Should I pursue a master's degree (at WashU / BS/MS)?](#should-i-pursue-a-masters-degree-at-washu--bsms)
 
@@ -1854,15 +1850,17 @@ The School of Engineering provides additional details about summer courses, like
 
 ---
 <h2 class="anchored" id="how-do-i-study-cse-while-preparing-for-medical-school">How do I study CSE while preparing for medical school?</h2>
-<a id=72></a> Studies in computer science are an excellent fit for medical school preparation, for the following reasons:
-* Many advances in medicine would not have been possible without the application of computer science concepts and practices. This trend is expected to continue. Doctors with computer science experience are uniquely positioned to understand the role computer science and computation plays in the treatment of their patients.
- * Our students tell us that studies in computer science change the way they *think*. The application of logic in our discipline is helpful for general problem solving.
- * Weighing in at 14 required CSE courses, our discipline within SEAS allows plenty of room for the courses you take to prepare for the MCAT and medical school.
- * Of particular interest to our pre-med students is the *bioinformatics minor*, which combines studies in biology and computer science. That minor is described elsewhere in this FAQ.
+<a id=72></a>
+Studies in computer science are an excellent fit for medical school preparation because:
+* Many recent/current advances in medicine would not have been possible without the application of computer science. 
+* Doctors with computer science experience are uniquely positioned to understand the role computer science and computation plays in the treatment of their patients.
+* Our students tell us that studies in computer science change the way they *think*. The application of logic in our discipline is helpful for general problem solving.
+* The B.S. in CSE is quite flexible and students can take courses that help prepare for medical school and the MCAT.
+* Of particular interest to our pre-med students is the [*bioinformatics minor*](https://bulletin.wustl.edu/undergrad/engineering/computerscience/minor-bioinformatics/), which combines studies in biology and computer science. 
 
- Once you declare your interest in medicine, you will be assigned a pre-med advisor in your primary school. That advisor will make sure you stay on track to be ready for the MCAT and for medical school.
+Once you declare your interest in medicine, you will be assigned a pre-med advisor in your primary school. That advisor will make sure you stay on track to be ready for the MCAT and for medical school.
 
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/72">Discussions View</a></span>
 
 ---
@@ -2603,10 +2601,11 @@ Approximately 1-2 weeks after you register for classes you should get an email t
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/48">Discussions View</a></span>
 
 ---
-<h2 class="anchored" id="should-i-get-credit-or-pay-for-my-independent-study-or-research-with-faculty">Should I get credit or pay for my independent study or research with faculty?</h2>
-<a id=78></a> It's really between you and your research or independent study mentor. Some students prefer credit, as it makes progress toward their degree; others prefer to be paid
+<h2 class="anchored" id="should-i-get-course-credit-cse-e-or-be-paid-for-research-with-faculty">Should I get course credit (CSE 400E) or be paid for research with faculty?</h2>
+<a id=78></a>
+It's between you and your research or independent study mentor. Some students prefer credit, as it makes progress toward their degree; others prefer to be paid.
 
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#independent_study](#independent_study) [#jobs](#jobs) [#needs_review](#needs_review) [#research](#research) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#independent_study](#independent_study) [#jobs](#jobs) [#research](#research) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/78">Discussions View</a></span>
 
 ---
