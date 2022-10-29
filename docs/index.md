@@ -526,7 +526,7 @@ markdown: kramdown
 
 [How is CS+Math different from a double (second) major?](#how-is-csmath-different-from-a-double-second-major)
 
-[I have to take Math 310 as part of my studies for a math major or minor?  Can this count toward my CSE studies?](#i-have-to-take-math--as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies)
+[I have to take Math 310 (or 310W) as part of my studies for a math major or minor?  Can this count toward my CSE studies?](#i-have-to-take-math--or-w-as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies)
 
 </dd>
 
@@ -950,7 +950,7 @@ markdown: kramdown
 
 [I have some programming experience.  Will I be bored in CSE131?](#i-have-some-programming-experience--will-i-be-bored-in-cse)
 
-[I have to take Math 310 as part of my studies for a math major or minor?  Can this count toward my CSE studies?](#i-have-to-take-math--as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies)
+[I have to take Math 310 (or 310W) as part of my studies for a math major or minor?  Can this count toward my CSE studies?](#i-have-to-take-math--or-w-as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies)
 
 [I need a laptop for my CSE work and don't have one that works; what should I do?](#i-need-a-laptop-for-my-cse-work-and-dont-have-one-that-works-what-should-i-do)
 
@@ -1166,7 +1166,7 @@ markdown: kramdown
 
 [I have some programming experience.  Will I be bored in CSE131?](#i-have-some-programming-experience--will-i-be-bored-in-cse)
 
-[I have to take Math 310 as part of my studies for a math major or minor?  Can this count toward my CSE studies?](#i-have-to-take-math--as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies)
+[I have to take Math 310 (or 310W) as part of my studies for a math major or minor?  Can this count toward my CSE studies?](#i-have-to-take-math--or-w-as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies)
 
 [I need a laptop for my CSE work and don't have one that works; what should I do?](#i-need-a-laptop-for-my-cse-work-and-dont-have-one-that-works-what-should-i-do)
 
@@ -2156,8 +2156,8 @@ However, we do not want you to waste your time! If you have had an AP course in 
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/50">Discussions View</a></span>
 
 ---
-<h2 class="anchored" id="i-have-to-take-math--as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies">I have to take Math 310 as part of my studies for a math major or minor?  Can this count toward my CSE studies?</h2>
-<a id=96></a> Yes! We view Math 310 as a reasonable substitute for CSE 240.  Either can be used for any CSE degree that requires Discrete Math.  It can also be used as an elective for the CS Minor, but it will count against the limit on "Courses outside the CSE classroom". 
+<h2 class="anchored" id="i-have-to-take-math--or-w-as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies">I have to take Math 310 (or 310W) as part of my studies for a math major or minor?  Can this count toward my CSE studies?</h2>
+<a id=96></a> Yes! We view Math 310 (and 310W) as a reasonable substitute for CSE 240.  Either can be used for any CSE degree that requires Discrete Math.  It can also be used as an elective for the CS Minor, but it will count against the limit on "Courses outside the CSE classroom". 
 
 If you're pursuing a Major/Minor from the Math/Stat Department, you should check with your advisors there to see if they have any recommendations.  Also, **if you are a student who is in the School of Arts and Sciences**, you should notify the [Associate Chair](mailto:associatechair@cse.wustl.edu) if you are taking Math 310 so it can be arranged not to appear to "double-count" for you.  You may want to review issues related to "[double counting](https://wustlcse.github.io/FAQ/#double_counting)".
 
