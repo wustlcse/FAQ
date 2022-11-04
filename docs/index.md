@@ -3042,7 +3042,9 @@ We also have a variety of [Master's and PhD programs in Computer Engineering & C
 
 ---
 <h2 class="anchored" id="what-is-the-difference-between-cse--and-cse-e--how-does-independent-study-work">What is the difference between CSE 400 and CSE 400E  How does independent study work?</h2>
-<a id=30></a>We have two course listings for "Independent Study", CSE 400E and CSE 400.  CSE 400E is meant to be used for technical elective credits toward CSE degrees.  CSE 400 is general credits for the university, but not toward a student's elective credits in a CSE degree.  Nearly all Independent Studies are done via **400E**.
+<a id=30></a>We have two course listings for "Independent Study", CSE 400E and CSE 400.  CSE 400E is meant to be used for technical elective credits toward CSE degrees.  CSE 400 is general credits for the university, but not toward a student's elective credits in a CSE degree.  Nearly all Independent Studies are done via **400E**.  
+
+Some degrees limit the "out of CSE classroom" courses.  Independent study is not a traditional class and would be subject to any such restrictions.
 
 Independent study is generally meant for: 
 * Independent research into a topic
