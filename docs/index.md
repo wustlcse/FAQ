@@ -2385,8 +2385,11 @@ For our undergraduate students (including those who are in a combined BS/MS prog
 * The associate chair verifies the wording of the letter is an accurate reflection of the courses you took here and the grades you earned in those courses.
 * If approved, the letter is printed on department letterhead, signed by the associate chair, and returned to you. If there needs to be some wording changed in the letter to make it more accurate, you will be contacted.
 
-Graduate students should consult the director of our graduate program for advice about this.
+For Graduate students:
 
+International students who graduate from our MS programs frequently request the department’s help in preparing letters for green card or H1-B applications. These letters are supposed to document that a student acquired specific skills (e.g. Java programming, machine learning) in the course of their master’s program. Often, the student is prompted to request the letter by their employer or immigration attorney.
+
+The CSE Department does not provide such letters to master’s students. However, GSS will do so based on the contents of the student’s transcript. Requests for skill verification letters by master’s students should therefore be forwarded to Holly Stanwich in GSS.
 
 
 <span class="tag-links">[#jobs](#jobs) [#misc](#misc) [#needs_review](#needs_review) [#student_life](#student_life)</span>
