@@ -2,7 +2,7 @@
 
 # Go to the discussions forum at https://github.com/wustlcse/FAQ/discussions
 # Or the flat wiki view at https://faq.cse.wustl.edu (or https://wustlcse.github.io/FAQ/)
-
+# Details on how to use, curate, and the internals are at https://faq.cse.wustl.edu/details
 
 
 ## Files
