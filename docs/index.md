@@ -3432,8 +3432,8 @@ Many courses are essentially the same size from semester to semester.  It may he
 
 #### Two rules that apply to most waitlists
 
-**1. _Your waitlist position is not relevant in the majority of courses that are managed by waitlist._**  Waitlist position is based on when one adds the course to the schedule.  This does not provide fair access or allow prioritization of students who need specific courses. 
-**2. _There are exceptions and limitations to all prioritization schemes._**  For example, priority may not be given to someone who has recently added/changed degrees and now needs a specific course.  Some courses ensure enrollments of some non-senior undergraduates who may be able to be Teaching Assistants for the course in the future.  
+1. **_Your waitlist position is not relevant in the majority of courses that are managed by waitlist._**  Waitlist position is based on when one adds the course to the schedule.  This does not provide fair access or allow prioritization of students who need specific courses. 
+2. **_There are exceptions and limitations to all prioritization schemes._**  For example, priority may not be given to someone who has recently added/changed degrees and now needs a specific course.  Some courses ensure enrollments of some non-senior undergraduates who may be able to be Teaching Assistants for the course in the future.  
 
 #### Course-by-Course priorities
 
