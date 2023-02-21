@@ -1058,10 +1058,6 @@ markdown: kramdown
 
 
 
-[<span id="wait">Why am I on a waitlist? How are waitlists managed? What are my chances of enrollment? What is "Managed by waitlist"?</span>](#span-idwaitwhy-am-i-on-a-waitlist-how-are-waitlists-managed-what-are-my-chances-of-enrollment-what-is-managed-by-waitlistspan)
-
-<hr class="toc-divider">
-
 [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
 [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
@@ -1292,6 +1288,8 @@ markdown: kramdown
 
 [Which is better, a mac or a pc?](#which-is-better-a-mac-or-a-pc)
 
+[Why am I on a waitlist? How are waitlists managed? What are my chances of enrollment? What is "Managed by waitlist"?](#why-am-i-on-a-waitlist-how-are-waitlists-managed-what-are-my-chances-of-enrollment-what-is-managed-by-waitlist)
+
 [Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
 
 [Why St. Louis?](#why-st-louis)
@@ -1307,61 +1305,6 @@ markdown: kramdown
 
 # Questions {#questions}
 
-<h2 class="anchored" id="span-idwaitwhy-am-i-on-a-waitlist-how-are-waitlists-managed-what-are-my-chances-of-enrollment-what-is-managed-by-waitlistspan"><span id="wait">Why am I on a waitlist? How are waitlists managed? What are my chances of enrollment? What is "Managed by waitlist"?</span></h2>
-<a id=138></a>
-## Why am I on a waitlist? 
-
-It usually depends on the course:
-
-* Waitlists are used when the demand for a course exceeds the capacity. See [Overflow enrollment](#overflow-enrollment) below.
-* Courses that indicate they are "Managed by waitlist" put all students on a waitlist initially.    See [Managed by waitlist](#managed-by-waitlist) below.
-
-## Overflow Enrollment
-
-Most courses that are _not_ "Managed by Waitlist" and have overflow enrollment will usually give students in CSE degrees (or PhDs) priority and will process students in waitlist order. Openings are filled as students drop/add.  Often additions are not done until the first week of the semester when students are changing schedules and there are openings.
-
-Introductory courses (CSE 131/501N, CSE 132, CSE 240, CSE 247/502N) are usually able to accommodate all students, but some students may have to select alternate times/sections with openings.
-
-## Managed by waitlist
-
-Courses that are "Managed by Waitlist" may use a waitlist for a combination of reasons. The most common reasons are: a) to prioritize some groups of student (degrees with high need for the specific course), b) to ensure pre-reqs are met before enrollment, or c) to ensure there is fair access to a high demand course.   Such courses will usually enroll about 80-90% of the course capacity by the end of the registration semester (for example, by the end of the spring semester the vast majority of enrollments will be done for fall semester).  
-
-Many courses are essentially the same size from semester to semester.  It may help to review the enrollment of prior semesters and the current size of the waitlist to get some idea of chances of enrollment.  Go to the course in WebSTAC, expand the "Details" for the course, and select the "History" and then a specific semester to be able to look at enrollments of prior semesters.  There are other factors that influence the size, like having a new/different instructor and the capacity of the assigned room.
-
-### Courses that are managed by waitlist
-
-#### Two rules that apply to most waitlists
-
-**1. _Your waitlist position is not relevant in the majority of courses that are managed by waitlist._**  Waitlist position is based on when one adds the course to the schedule.  This does not provide fair access or allow prioritization of students who need specific courses. 
-**2. _There are exceptions and limitations to all prioritization schemes._**  For example, priority may not be given to someone who has recently added/changed degrees and now needs a specific course.  Some courses ensure enrollments of some non-senior undergraduates who may be able to be Teaching Assistants for the course in the future.  
-
-#### Course-by-Course priorities
-
-Here are the common waitlist processing priorities and guidance for many courses:
-
-* CSE 217A: Intro. to Data Science:   This course is required for Data Science majors, so they get top priority.  Students who are contemplating a data science major would need to take this course in their sophomore year to be able to complete the Major in four years, so sophomores in any CSE degree (Major in CS, Minor, Second Major, etc.) get the second level of priority, followed by other CSE students based on waitlist order. 
-   *  Lab/studio sections are often the major constraint on enrollment. Most students prefer a studio time that aligns with the lecture time.  Selecting a studio time that does not align with lectures may increase the chances of students who are not in the highest priority groups. 
-* CSE 231S Intro. to Parallel and Concurrent Programming:  Priority is given to students in CSE degree programs that accept this course as an elective for the degree program.  Some priority is also given to students who have been waitlisted in prior semesters. 
-* CSE 256A Intro. to Human-Centered Design:  This course is one of two "Integration" course options for HCI minors.  Consequently, HCI Minors get priority followed by other students in CSE degrees that accept the course.   Some priority is also given to students who have been waitlisted in prior semesters.
-* CSE 311A: Introduction to Intelligent Agents Using Science Fiction.  Prioritizing sophomores, then juniors. Not allowed for students who have previously or currently enrolled in CSE 417T or 412A.
-* CSE 314A: Data Manipulation and Management. The course is required for and prioritizes Data Science Majors, then other CSE degrees that accept the course for CSE degree credit. 
-* CSE 347: Analysis of Algorithms:  Enrollment prioritizes by seniority/graduation dates of students in degrees that require CSE 347 specifically. 
-* CSE 417T: Introduction to Machine Learning: Math prerequisites are enforced (or evidence of equivalent experience and permission of instructor).
-* CSE 422S: Operating Systems Organization.   Prerequisite of 361S or graduate standing is enforced (or evidence of equivalent experience and permission of instructor).
-* CSE 428S: Multi-Paradigm Programming in C++.  Prerequisite of 332S or graduate standing is enforced (or evidence of equivalent experience and permission of instructor).
-* CSE 450A: Video Game Programming: Priority is given to degrees that accept the course for credit.  Roughly equal seats are given to graduate students and upper level undergraduates. Some seats reserved for Sophomores and Juniors.  Enrollment is based on random selection from each demographic.  For example, approximately 40% of the course will be randomly selected from senior undergraduates in CSE degrees that accept the course.  Another 40% from graduate students. 20% from undergrad sophomores/juniors. 
-* CSE 451A: Video Game Programming II.   CSE 450A prerequisite is enforced (or evidence of equivalent experience and permission of instructor).
-* CSE 517A: Machine Learning.  Prerequisites of either CSE 417T or ESE 417 is enforced (or evidence of equivalent experience and permission of instructor).
-* CSE 522S: Advanced Operating Systems. Prerequisite of 422S or graduate standing is enforced (or evidence of equivalent experience and permission of instructor).
-* CSE 532S: Advanced Multi-paradigm Software Development. Prerequisite of 332S or graduate standing is enforced (or evidence of equivalent experience and permission of instructor).
-* CSE 587A: Algorithms for Computational Biology. PhD students in the Computational and Systems Biology DBBS PhD program, for whom CSE587A is required, are enrolled first, then all other PhD students, then Bioinformatics minors, then all others (space permitting).
-
-
-
-<span class="tag-links"></span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/138">Discussions View</a></span>
-
----
 <h2 class="anchored" id="can-i-earn-money-outside-of-washington-university-while-on-an-f-visa">Can I earn money outside of Washington University while on an F1 visa?</h2>
 <a id=31></a> Outside of OPT and CPT experiences that are allowed for students on an F1 visa, such students are not allowed to earn money pursuant to self-employment or independent contractor status. They also generally are not able to work off campus unless they can document sever economic hardship. You should check with the International Office for further information.
  Such students can be paid as TAs by the university, because that contributes to the students' studies and is managed by the university.
@@ -3461,6 +3404,62 @@ There are only a few CSE courses that require a specific operating systems and t
 
 <span class="tag-links">[#computer](#computer) [#misc](#misc)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/129">Discussions View</a></span>
+
+---
+<h2 class="anchored" id="why-am-i-on-a-waitlist-how-are-waitlists-managed-what-are-my-chances-of-enrollment-what-is-managed-by-waitlist">Why am I on a waitlist? How are waitlists managed? What are my chances of enrollment? What is "Managed by waitlist"?</h2>
+<a id=138></a><span id="wait">&nbsp;</span>
+
+## Why am I on a waitlist? 
+
+It usually depends on the course:
+
+* Waitlists are used when the demand for a course exceeds the capacity. See [Overflow enrollment](#overflow-enrollment) below.
+* Courses that indicate they are "Managed by waitlist" put all students on a waitlist initially.    See [Managed by waitlist](#managed-by-waitlist) below.
+
+## Overflow Enrollment
+
+Most courses that are _not_ "Managed by Waitlist" and have overflow enrollment will usually give students in CSE degrees (or PhDs) priority and will process students in waitlist order. Openings are filled as students drop/add.  Often additions are not done until the first week of the semester when students are changing schedules and there are openings.
+
+Introductory courses (CSE 131/501N, CSE 132, CSE 240, CSE 247/502N) are usually able to accommodate all students, but some students may have to select alternate times/sections with openings.
+
+## Managed by waitlist
+
+Courses that are "Managed by Waitlist" may use a waitlist for a combination of reasons. The most common reasons are: a) to prioritize some groups of student (degrees with high need for the specific course), b) to ensure pre-reqs are met before enrollment, or c) to ensure there is fair access to a high demand course.   Such courses will usually enroll about 80-90% of the course capacity by the end of the registration semester (for example, by the end of the spring semester the vast majority of enrollments will be done for fall semester).  
+
+Many courses are essentially the same size from semester to semester.  It may help to review the enrollment of prior semesters and the current size of the waitlist to get some idea of chances of enrollment.  Go to the course in WebSTAC, expand the "Details" for the course, and select the "History" and then a specific semester to be able to look at enrollments of prior semesters.  There are other factors that influence the size, like having a new/different instructor and the capacity of the assigned room.
+
+### Courses that are managed by waitlist
+
+#### Two rules that apply to most waitlists
+
+**1. _Your waitlist position is not relevant in the majority of courses that are managed by waitlist._**  Waitlist position is based on when one adds the course to the schedule.  This does not provide fair access or allow prioritization of students who need specific courses. 
+**2. _There are exceptions and limitations to all prioritization schemes._**  For example, priority may not be given to someone who has recently added/changed degrees and now needs a specific course.  Some courses ensure enrollments of some non-senior undergraduates who may be able to be Teaching Assistants for the course in the future.  
+
+#### Course-by-Course priorities
+
+Here are the common waitlist processing priorities and guidance for many courses:
+
+* CSE 217A: Intro. to Data Science:   This course is required for Data Science majors, so they get top priority.  Students who are contemplating a data science major would need to take this course in their sophomore year to be able to complete the Major in four years, so sophomores in any CSE degree (Major in CS, Minor, Second Major, etc.) get the second level of priority, followed by other CSE students based on waitlist order. 
+   *  Lab/studio sections are often the major constraint on enrollment. Most students prefer a studio time that aligns with the lecture time.  Selecting a studio time that does not align with lectures may increase the chances of students who are not in the highest priority groups. 
+* CSE 231S Intro. to Parallel and Concurrent Programming:  Priority is given to students in CSE degree programs that accept this course as an elective for the degree program.  Some priority is also given to students who have been waitlisted in prior semesters. 
+* CSE 256A Intro. to Human-Centered Design:  This course is one of two "Integration" course options for HCI minors.  Consequently, HCI Minors get priority followed by other students in CSE degrees that accept the course.   Some priority is also given to students who have been waitlisted in prior semesters.
+* CSE 311A: Introduction to Intelligent Agents Using Science Fiction.  Prioritizing sophomores, then juniors. Not allowed for students who have previously or currently enrolled in CSE 417T or 412A.
+* CSE 314A: Data Manipulation and Management. The course is required for and prioritizes Data Science Majors, then other CSE degrees that accept the course for CSE degree credit. 
+* CSE 347: Analysis of Algorithms:  Enrollment prioritizes by seniority/graduation dates of students in degrees that require CSE 347 specifically. 
+* CSE 417T: Introduction to Machine Learning: Math prerequisites are enforced (or evidence of equivalent experience and permission of instructor).
+* CSE 422S: Operating Systems Organization.   Prerequisite of 361S or graduate standing is enforced (or evidence of equivalent experience and permission of instructor).
+* CSE 428S: Multi-Paradigm Programming in C++.  Prerequisite of 332S or graduate standing is enforced (or evidence of equivalent experience and permission of instructor).
+* CSE 450A: Video Game Programming: Priority is given to degrees that accept the course for credit.  Roughly equal seats are given to graduate students and upper level undergraduates. Some seats reserved for Sophomores and Juniors.  Enrollment is based on random selection from each demographic.  For example, approximately 40% of the course will be randomly selected from senior undergraduates in CSE degrees that accept the course.  Another 40% from graduate students. 20% from undergrad sophomores/juniors. 
+* CSE 451A: Video Game Programming II.   CSE 450A prerequisite is enforced (or evidence of equivalent experience and permission of instructor).
+* CSE 517A: Machine Learning.  Prerequisites of either CSE 417T or ESE 417 is enforced (or evidence of equivalent experience and permission of instructor).
+* CSE 522S: Advanced Operating Systems. Prerequisite of 422S or graduate standing is enforced (or evidence of equivalent experience and permission of instructor).
+* CSE 532S: Advanced Multi-paradigm Software Development. Prerequisite of 332S or graduate standing is enforced (or evidence of equivalent experience and permission of instructor).
+* CSE 587A: Algorithms for Computational Biology. PhD students in the Computational and Systems Biology DBBS PhD program, for whom CSE587A is required, are enrolled first, then all other PhD students, then Bioinformatics minors, then all others (space permitting).
+
+
+
+<span class="tag-links"></span>
+<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/138">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="why-should-i-study-computer-science-or-computer-engineering">Why should I study computer science or computer engineering?</h2>
