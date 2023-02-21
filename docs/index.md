@@ -3408,7 +3408,8 @@ There are only a few CSE courses that require a specific operating systems and t
 ---
 <h2 class="anchored" id="why-am-i-on-a-waitlist-how-are-waitlists-managed-what-are-my-chances-of-enrollment-what-is-managed-by-waitlist">Why am I on a waitlist? How are waitlists managed? What are my chances of enrollment? What is "Managed by waitlist"?</h2>
 <a id=138></a>## Why am I on a waitlist? 
-<a href="#wait"></a>
+
+<span id="wait"></span>
 
 It usually depends on the course:
 
