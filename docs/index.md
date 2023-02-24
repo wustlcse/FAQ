@@ -214,6 +214,8 @@ markdown: kramdown
 
 [What web design courses can I take?](#what-web-design-courses-can-i-take)
 
+[Why am I on a waitlist? How are waitlists managed? What are my chances of enrollment? What is "Managed by waitlist"?](#why-am-i-on-a-waitlist-how-are-waitlists-managed-what-are-my-chances-of-enrollment-what-is-managed-by-waitlist)
+
 [With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
 </dd>
@@ -269,6 +271,8 @@ markdown: kramdown
 [Degree requirements have changed since I started.  Am I required or allowed to use the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-use-the-new-requirements)
 
 [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
+
+[Why am I on a waitlist? How are waitlists managed? What are my chances of enrollment? What is "Managed by waitlist"?](#why-am-i-on-a-waitlist-how-are-waitlists-managed-what-are-my-chances-of-enrollment-what-is-managed-by-waitlist)
 
 </dd>
 
@@ -673,6 +677,8 @@ markdown: kramdown
 [Do I need to take CSE 240 before CSE 247?](#do-i-need-to-take-cse--before-cse-)
 
 [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
+
+[Why am I on a waitlist? How are waitlists managed? What are my chances of enrollment? What is "Managed by waitlist"?](#why-am-i-on-a-waitlist-how-are-waitlists-managed-what-are-my-chances-of-enrollment-what-is-managed-by-waitlist)
 
 </dd>
 
@@ -3459,7 +3465,7 @@ Here are the common waitlist processing priorities and guidance for many courses
 
 
 
-<span class="tag-links"></span>
+<span class="tag-links">[#courses](#courses) [#degree](#degree) [#prerequisites](#prerequisites)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/138">Discussions View</a></span>
 
 ---
