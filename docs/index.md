@@ -3455,7 +3455,7 @@ Here are the common waitlist processing priorities and guidance for many courses
 * CSE 347: Analysis of Algorithms:  Enrollment prioritizes by seniority/graduation dates of students in degrees that require CSE 347 specifically. 
 * CSE 362M: Computer Architecture:  Prerequisite of CSE 260M or instructor approval of equivalent experience is required.   
 * CSE 400-400E: Independent Study:  You will stay on the waitlist until you submit an independent study form. Then once approved, you will be enrolled. You can find the form [here](https://wustl.app.box.com/s/yvvbc6fswktavvnnqiphfxbqpvdeyeky/file/1139213921334)
-* CSE 411A: AI and Society:  
+* CSE 411A: AI and Society:  Some priority is given to students in CSE degree programs that accept this course as an elective for the degree program. Students who will soon graduate will have some priority over students who have another semester or year to take the course. 
 * CSE 416A: Analysis of Network Data: Prerequisites are enforced (CSE 247, ESE 326, Math 309 or equivalents and permission of the instructor)
 * CSE 417T: Introduction to Machine Learning: Math prerequisites are enforced (or evidence of equivalent experience and permission of instructor).
 * CSE 422S: Operating Systems Organization.  Prerequisite of 422S (or evidence of equivalent experience and permission of instructor) is enforced.
