@@ -3439,7 +3439,7 @@ Many courses are essentially the same size from semester to semester.  It may he
 #### Two rules that apply to most waitlists
 
 1. **_Your waitlist position is not relevant in the majority of courses that are managed by waitlist._**  Waitlist position is based on when one adds the course to the schedule.  This does not provide fair access or allow prioritization of students who need specific courses. 
-2. **_There are exceptions and limitations to all prioritization schemes._**  For example, priority may not be given to someone who has recently added/changed degrees and now needs a specific course.  Some courses ensure enrollments of some non-senior undergraduates who may be able to be Teaching Assistants for the course in the future.  
+2. **_There are exceptions and limitations to all prioritization schemes._**  For example, priority may **_not_** be given to someone who has **_recently_** added/changed degrees and now needs a specific course.  Some courses ensure enrollments of some non-senior undergraduates who may be able to be Teaching Assistants for the course in the future.  
 
 #### Course-by-Course priorities
 
@@ -3454,16 +3454,16 @@ Here are the common waitlist processing priorities and guidance for many courses
 * CSE 314A: Data Manipulation and Management. The course is required for and prioritizes Data Science Majors, then other CSE degrees that accept the course for CSE degree credit. 
 * CSE 347: Analysis of Algorithms:  Enrollment prioritizes by seniority/graduation dates of students in degrees that require CSE 347 specifically. 
 * CSE 362M: Computer Architecture:  Prerequisite of CSE 260M or instructor approval of equivalent experience is required.   
-* CSE 400-400E: Independent Study:  You will stay on the waitlist until you submit an independent study form. Then once approved, you will be enrolled. You can find the form [here](https://wustl.app.box.com/s/yvvbc6fswktavvnnqiphfxbqpvdeyeky/file/1139213921334)
+* CSE 400-400E: Independent Study:  You will stay on the waitlist until you submit an independent study form. Then once approved, you will be enrolled. You can find the form [here].(https://wustl.app.box.com/s/yvvbc6fswktavvnnqiphfxbqpvdeyeky/file/1139213921334)
 * CSE 411A: AI and Society:  Some priority is given to students in CSE degree programs that accept this course as an elective for the degree program. Students who will soon graduate will have some priority over students who have another semester or year to take the course. 
-* CSE 416A: Analysis of Network Data: Prerequisites are enforced (CSE 247, ESE 326, Math 309 or equivalents and permission of the instructor)
+* CSE 416A: Analysis of Network Data: Prerequisites are enforced (CSE 247, ESE 326, Math 309 or equivalents and permission of the instructor).
 * CSE 417T: Introduction to Machine Learning: Math prerequisites are enforced (or evidence of equivalent experience and permission of instructor).
-* CSE 422S: Operating Systems Organization.  Prerequisite of 422S (or evidence of equivalent experience and permission of instructor) is enforced.
+* CSE 422S: Operating Systems Organization.  Prerequisite of 361S (or evidence of equivalent experience and permission of instructor) is enforced.
 * CSE 428S: Multi-Paradigm Programming in C++.  Prerequisite of 332S (or evidence of equivalent experience and permission of instructor) is enforced.
 * CSE 450A: Video Game Programming: Priority is given to degrees that accept the course for credit.  Roughly equal seats are given to graduate students and upper level undergraduates. Some seats reserved for Sophomores and Juniors.  Enrollment is based on random selection from each demographic.  For example, approximately 40% of the course will be randomly selected from senior undergraduates in CSE degrees that accept the course.  Another 40% from graduate students. 20% from undergrad sophomores/juniors. 
 * CSE 451A: Video Game Programming II.   CSE 450A prerequisite is enforced (or evidence of equivalent experience and permission of instructor).
 * CSE 454A: Software Engineering for External Clients. Pre-requisites are strictly enforced. Senior undergraduate students enrolled in a CSE major that meet the pre-requisites are prioritized for enrollment first, followed by Junior undergraduate students meeting the pre-reqs and enrolled in a CSE major, followed by Master's students enrolled in a CSE degree. Graduate students supported by research funding are not able to take the course.
-* CSE 497, 498, 499: Senior Project 1, Senior Project 2, & Undergraduate Honors Thesis:   You will stay on the waitlist until you submit an independent study form. Then once approved, you will be enrolled. You can find the form [here](https://wustl.app.box.com/s/yvvbc6fswktavvnnqiphfxbqpvdeyeky/file/1139213921334)
+* CSE 497, 498, 499: Senior Project 1, Senior Project 2, & Undergraduate Honors Thesis:   You will stay on the waitlist until you submit an independent study form. Then once approved, you will be enrolled. You can find the form [here](https://wustl.app.box.com/s/yvvbc6fswktavvnnqiphfxbqpvdeyeky/file/1139213921334).
 * CSE 517A: Machine Learning.  Prerequisites of either CSE 417T or ESE 417 is enforced (or evidence of equivalent experience and permission of instructor).
 * CSE 522S: Advanced Operating Systems. Prerequisite of 422S or graduate standing is enforced (or evidence of equivalent experience and permission of instructor).
 * CSE 532S: Advanced Multi-paradigm Software Development. Prerequisite of 332S (or evidence of equivalent experience and permission of instructor) is enforced.
