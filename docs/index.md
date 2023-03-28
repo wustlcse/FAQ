@@ -30,8 +30,6 @@ markdown: kramdown
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="academia" aria-hidden="false">
 
-[CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
-
 [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
 [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
@@ -188,8 +186,6 @@ markdown: kramdown
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="courses" aria-hidden="false">
 
-[CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
-
 [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
 [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
@@ -345,8 +341,6 @@ markdown: kramdown
 <dt class="accordion-header" aria-expanded="false" id="graduate" role="tab" aria-controls="graduate" aria-selected="false" tabindex="0"><span class="accordion-header-content anchored" id="graduate">graduate : Graduate degrees (Masters and PhD)</span><svg width="20" height="20" viewBox="0 0 20 20"><path fill="#a51417" d="M5 6l5 5 5-5 2 1-7 7-7-7z"></path></svg></dt>
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="graduate" aria-hidden="false">
-
-[CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
 
 [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
@@ -596,8 +590,6 @@ markdown: kramdown
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="needs_review" aria-hidden="false">
 
-[CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
-
 [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
 [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
@@ -607,8 +599,6 @@ markdown: kramdown
 [How do I find a summer internship?](#how-do-i-find-a-summer-internship)
 
 [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
-
-[How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
 
 [How is physics counted for our programs?](#how-is-physics-counted-for-our-programs)
 
@@ -870,8 +860,6 @@ markdown: kramdown
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="undergraduate" aria-hidden="false">
 
-[CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
-
 [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
 [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
@@ -1073,8 +1061,6 @@ markdown: kramdown
 [Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
 
 [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
-
-[CSE courses are popular; how do we decide whom to admit to our courses?](#cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses)
 
 <hr class="toc-divider">
 
@@ -1405,33 +1391,6 @@ For example, a student majoring in Math may take MA 310 as a requirement of thei
 
 <span class="tag-links">[#academia](#academia) [#courses](#courses) [#double_counting](#double_counting) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/86">Discussions View</a></span>
-
----
-<h2 class="anchored" id="cse-courses-are-popular-how-do-we-decide-whom-to-admit-to-our-courses">CSE courses are popular; how do we decide whom to admit to our courses?</h2>
-<a id=45></a> The popularity of our courses has risen over the years to the extent that unless we take special action, many of our own students would not be able to get seats in our courses.
- Of course we strive to make room for all students interested in our courses, but we can only let in students whom we can effectively mentor, teach, and grade.
- We also try to seat students based on their urgency for taking a given course. Students who will soon graduate will get priority over students who have another semester or year to take the course. The university's automatic registration system doesn't quite achieve this goal. It allows students to register based on their year of entry, not their year of exit.
- With the above provisos in mind, we have therefore adopted the following policy about admission to the most popular courses.
-* For courses required for a particular program in CSE, we prioritize those in the program over those not in the program, subject to other considerations listed below.
- * For graduate courses (those listed at the 4xx or 5xx levels), PhD students from any department have the highest priority.  In practice this has not been a problem, and there is a 
-*fair trade* agreement among schools so that doctoral students can take the courses they need to make progress on their research. If the numbers rise to the level that our students are excluded from seating, we will revisit this policy.
- * Students with an open program in CSE are next seated. This could be a major or minor program.
-	+ This is intended to include CS+X students who are primarily in another school. We treat you as our own.* Students who are primarily in the McKelvey School of Engineering are seated next.
- * All other students are seated last.
-
- We realize that some programs on campus list our courses as required or optional for their own programs, but they do this without communication with our department. We cannot guarantee such students seats in our courses.
- Also, students who have already taken a course may have lower priority than students waiting to take that course for the first time.
-
-
-
-
-
-
-
-
-
-<span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/45">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-use-the-new-requirements">Degree requirements have changed since I started.  Am I required or allowed to use the new requirements?</h2>
@@ -1813,32 +1772,29 @@ Modes of conducting research with faculty
 
 ---
 <h2 class="anchored" id="how-do-i-prepare-for-and-find-an-internship">How do I prepare for and find an internship?</h2>
-<a id=57></a> If you are a minor or major in computer science, the good news is that employment in our industry is extremely strong. Internships are ideal settings for a company and an employee to see if there is a good fit for full-time employment. Here is some advice about preparing for an internship.
+<a id=57></a> If you are a minor or major in computer science, the good news is that employment in our industry is strong. Internships are ideal settings for a company and an employee to see if there is a good fit for full-time employment. Here is some advice about preparing for an internship.
+
 * Accumulate a portfolio of projects and other artifacts of your work in and outside of class. You can do this with a [github](https://github.com/) or [bitbucket](https://bitbucket.org/product) account. 
 
 > Be sure that the code you post from course work is *private*, so that you do not provide your solutions to other students and run afoul of our community standards.
 >  Likewise, companies may have policies that prohibit you from publishing or disclosing code while working for them. 
 >  Be careful!
 > 
-> 
-> 
-> 
-> 
 
- The portfolio serves to document your progress as a student of computer science, but it also serves as a backdrop for a conversation in which you can express your passion and interest about your work. How did you arrive at a given interface? What obstacles did you face in developing your solution? What did you learn about teamwork, algorithms, interfaces?
- * Have a resumé handy. Have it on paper and ready to send electronically. You never know when somebody will ask, and having one current and ready conveys professionalism.
- * Visit the SEAS [Career Center](https://careercenter.wustl.edu/students/engineering/Pages/default.aspx). Your resume and other interview artifacts can be improved by interacting with advisors there.
- * Attend the job fairs every semester. Even before you are ready for an internship, make it a habit to attend the job fairs, to talk with the representatives, and to talk about your work and your interests. Ask other students or your advisor about how to dress. Most companies doing computer science do not expect formal attire, but it's worth finding this out before you show up.
- * Prepare for a phone or other interview.
-	+ Much information can be found online, and it's worth reading through resources such as
-	[Cracking the Coding Interview](http://www.crackingthecodinginterview.com/). One student I know worked over 400 problems before she interviewed with [facebook](https://www.facebook.com/) and she landed the job. That seems extreme, but such preparation serves to make you feel more confident and to help you field questions well.
-	 If your interview is via a video chat session, be sure to dress fully for the interview. Some of our students have been asked to stand up. Crazy, but true.
-	+ Our department's [UPE](http://upe.wustl.edu/) chapter has been organizing 
-	[mock technical interviews](http://upe.wustl.edu/interviews.html). Try to schedule one or two mock interviews before an actual interview. UPE is described elsewhere in this FAQ.* Network as best you can at venues that allow you to do so. One recent student attended the [Grace Hopper Conference](https://ghc.anitaborg.org/), and landed a job as an intern for project management at Apple. Her story is inspiring because at first Apple did not respond to her resumé. However, she returned to the booth and insisted on talking with somebody because she really wanted to be considered for the job. After that conversation, she was hired on the spot.
- * Establish a relationship with faculty so that they can supply letters of recommendation. There is advice elsewhere in this FAQ about that.
+The portfolio documents your progress as a student of computer science as well as material for conversations where you can express your passion and interest about your work. How did you arrive at a given interface? What obstacles did you face in developing your solution? What did you learn about teamwork, algorithms, interfaces?
+* Have a resumé handy. Have it on paper and ready to send electronically. You never know when somebody will ask, and having one current and ready conveys professionalism.
+* Visit the [Career Center](https://students.wustl.edu/career-center/). Your resume and other interview artifacts can be improved by interacting with advisors there.
+* Attend the job fairs every semester. Even before you are ready for an internship, make it a habit to attend the job fairs, to talk with the representatives, and to talk about your work and your interests. Ask other students or your advisor about how to dress. Most companies doing computer science do not expect formal attire, but it's worth finding this out before you show up.
+* Prepare for a phone or other interview.
+   * Much information can be found online, and it's worth reading through resources such as
+	[Cracking the Coding Interview](http://www.crackingthecodinginterview.com/). One student I know worked over 400 problems before she interviewed with [facebook](https://www.facebook.com/) and she landed the job. That seems extreme, but such preparation serves to make you feel more confident and to help you field questions well. If your interview is via a video chat session, be sure to dress fully for the interview. Some of our students have been asked to stand up. Crazy, but true.
+   * Our department's organizations and alums provide an opportunities for "mock interviews" once a year. 
+   * CSE247R is a one-hour seminar that is offered every semester.  It can be taken either concurrently or after CSE 247.  247R includes mock interviews as well as practice with material that has been part of some technical interviews. 
+* Network as best you can at venues that allow you to do so. One recent student attended the [Grace Hopper Conference](https://ghc.anitab.org/), and landed a job as an intern for project management at Apple. Her story is inspiring because at first Apple did not respond to her resumé. However, she returned to the booth and insisted on talking with somebody because she really wanted to be considered for the job. After that conversation, she was hired on the spot.
+* Establish a relationship with faculty so that they can supply letters of recommendation. There is advice elsewhere in this FAQ about that.
 
 
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
+<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#jobs](#jobs) [#recommendation_letters](#recommendation_letters) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/57">Discussions View</a></span>
 
 ---
@@ -3454,7 +3410,7 @@ Here are the common waitlist processing priorities and guidance for many courses
 * CSE 314A: Data Manipulation and Management. The course is required for and prioritizes Data Science Majors, then other CSE degrees that accept the course for CSE degree credit. 
 * CSE 347: Analysis of Algorithms:  Enrollment prioritizes by seniority/graduation dates of students in degrees that require CSE 347 specifically. 
 * CSE 362M: Computer Architecture:  Prerequisite of CSE 260M or instructor approval of equivalent experience is required.   
-* CSE 400-400E: Independent Study:  You will stay on the waitlist until you submit an independent study form. Then once approved, you will be enrolled. You can find the form [here].(https://wustl.app.box.com/s/yvvbc6fswktavvnnqiphfxbqpvdeyeky/file/1139213921334)
+* CSE 400-400E: Independent Study:  You will stay on the waitlist until you submit an independent study form. Then once approved, you will be enrolled. You can find the form [here](https://wustl.app.box.com/s/yvvbc6fswktavvnnqiphfxbqpvdeyeky/file/1139213921334).
 * CSE 411A: AI and Society:  Some priority is given to students in CSE degree programs that accept this course as an elective for the degree program. Students who will soon graduate will have some priority over students who have another semester or year to take the course. 
 * CSE 416A: Analysis of Network Data: Prerequisites are enforced (CSE 247, ESE 326, Math 309 or equivalents and permission of the instructor).
 * CSE 417T: Introduction to Machine Learning: Math prerequisites are enforced (or evidence of equivalent experience and permission of instructor).
