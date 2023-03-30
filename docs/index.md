@@ -104,7 +104,7 @@ markdown: kramdown
 
 [How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
 
-[Is there a student group within our department / school?](#is-there-a-student-group-within-our-department--school)
+[Is there a computing student group within our department / school / university?](#is-there-a-computing-student-group-within-our-department--school--university)
 
 </dd>
 
@@ -322,9 +322,9 @@ markdown: kramdown
 
 [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
-[Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
+[Is there a computing student group within our department / school / university?](#is-there-a-computing-student-group-within-our-department--school--university)
 
-[Is there a student group within our department / school?](#is-there-a-student-group-within-our-department--school)
+[Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
 
 [Other ways to get involved](#other-ways-to-get-involved)
 
@@ -398,9 +398,9 @@ markdown: kramdown
 
 [If I withdraw from a course, what shows up on my transcript and how does the dropped course affect my GPA?](#if-i-withdraw-from-a-course-what-shows-up-on-my-transcript-and-how-does-the-dropped-course-affect-my-gpa)
 
-[Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
+[Is there a computing student group within our department / school / university?](#is-there-a-computing-student-group-within-our-department--school--university)
 
-[Is there a student group within our department / school?](#is-there-a-student-group-within-our-department--school)
+[Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
 
 [Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
@@ -604,8 +604,6 @@ markdown: kramdown
 
 [How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
-[Is there a student group within our department / school?](#is-there-a-student-group-within-our-department--school)
-
 [Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
 [My employer wants a letter from the department for my green card application. How do I do that?](#my-employer-wants-a-letter-from-the-department-for-my-green-card-application-how-do-i-do-that)
@@ -804,9 +802,9 @@ markdown: kramdown
 
 [I'm struggling and feeling overwhelmed. What should I do?](#im-struggling-and-feeling-overwhelmed-what-should-i-do)
 
-[Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
+[Is there a computing student group within our department / school / university?](#is-there-a-computing-student-group-within-our-department--school--university)
 
-[Is there a student group within our department / school?](#is-there-a-student-group-within-our-department--school)
+[Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
 
 [Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
@@ -960,9 +958,9 @@ markdown: kramdown
 
 [Is CSE131 a weed-out course?](#is-cse-a-weed-out-course)
 
-[Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
+[Is there a computing student group within our department / school / university?](#is-there-a-computing-student-group-within-our-department--school--university)
 
-[Is there a student group within our department / school?](#is-there-a-student-group-within-our-department--school)
+[Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
 
 [Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
@@ -1178,9 +1176,9 @@ markdown: kramdown
 
 [Is it ever worth it to cheat?](#is-it-ever-worth-it-to-cheat)
 
-[Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
+[Is there a computing student group within our department / school / university?](#is-there-a-computing-student-group-within-our-department--school--university)
 
-[Is there a student group within our department / school?](#is-there-a-student-group-within-our-department--school)
+[Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
 
 [Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
@@ -2295,6 +2293,69 @@ In the short-term and long-term, it is never worth it to cheat. There is always 
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/39">Discussions View</a></span>
 
 ---
+<h2 class="anchored" id="is-there-a-computing-student-group-within-our-department--school--university">Is there a computing student group within our department / school / university?</h2>
+<a id=120></a>
+Yes!  
+
+There are a variety of formal and informal clubs and organizations that may be appeal to those with an interest in computing or in the School of Engineering.   Here are some of the **formal** clubs/organizations (in alphabetical order) --- quotes are the clubs description of itself:
+
+
+## Association of Computing Machinery (ACM)
+
+Details about the student chapter of ACM can be found at the [WashU ACM page](https://acm.wustl.edu/).
+
+Yes! The [ACM](http://www.acm.org/) is an international organization for those who study or practice computer science or computer engineering. ACM is an umbrella organization for various special interest groups, each of which concentrates on a specific area of computer science. For example, [SIGPLAN](http://www.sigplan.org/) is the special interest group on programming languages.
+ Many colleges and universities have student-organized ACM chapters, and we are fortunate to have a vibrant [WashU ACM](https://acm.wustl.edu/) chapter here. We strongly encourage you to check out their web page, follow their twitter feed, and attend events. The chapter typically organizes speakers, trivia nights, movie nights, registration discussion, and a fireside chat each semester with faculty.
+
+## Developer Student Club WashU
+
+The [Developer Student Club WashU](https://www.dscwashu.com/) (also [here](https://wustl.presence.io/organization/developer-student-club-washu)) (DSC) is described as:
+
+> Developer Student Club at Washington University in St. Louis is a university-based community group powered by Google Developers. By joining DSC WashU, students gain experience working in a team environment and building solutions for their community.
+
+## EnCouncil
+
+[EnCouncil](https://wustl.presence.io/organizations)) serves the interest of undergraduates in the School of Engineering.  It is described as:
+
+> We provide a voice for the engineering student body to voice their opinions to the engineering undergraduate student services office and provide spaces for engineering students to mingle with their peers, faculty, and professionals.  
+
+## Girls Who Code WashU 
+
+The Girls Who Code page can be found on Facebook: [Girls Who Code WashU](https://www.facebook.com/gwcwashu) (or [here](https://wustl.presence.io/organization/girls-who-code-washu)).
+
+> Girls Who Code is a national non-profit organization dedicated to closing the gender gap in technology. Girls Who Code WashU is a branch of this national non-profit organization with the same goals - empowering, inspiring, motivating, and supporting girls to dream big, think outside of the box, and have the confidence in themselves to change their world. 
+
+## Human-Computer Interaction Club
+
+The [HCI Club](https://www.washuhciclub.com/) (also [here](https://wustl.presence.io/organization/human-computer-interaction-club)) is a club, that in their own words: 
+> We're a group of students passionate about design & development.
+
+## Institute of Electrical and Electronic Engineers (IEEE)
+
+The [IEEE Student Chapter](https://wustl.presence.io/organization/institute-of-electrical-and-electronics-engineers) is a chapter of the international IEEE.  The global organization describes itself as:
+
+> IEEE and its members inspire a global community to innovate for a better tomorrow through highly cited publications, conferences, technology standards, and professional and educational activities. IEEE is the trusted “voice” for engineering, computing, and technology information around the globe.
+
+And the student chapter is described as: 
+
+> IEEE's core purpose is to foster technological innovation and excellence for the benefit of humanity. If you'd like to learn more about IEEE and the projects we support, come down to one of our general meetings!
+
+## WashU Robotics Club
+
+The [WashU Robotics Club](https://www.washurobotics.com/) (also [here](https://wustl.presence.io/organization/washu-robotics-club)) is described as:
+
+> WashU Robotics Club is a student-run organization at Washington University in St. Louis seeking to create a community surrounding the growing topic of robotics by leading exciting robotics projects, attending robotics competitions, and hosting relevant robotics workshops and events. It was established in January 2022.
+
+## Women in Computer Science (WiCS)
+
+[WiCS](https://acm.wustl.edu/)  (also [here](https://wustl.presence.io/organization/women-in-computer-science)) describes itself as:
+> Washington University Women in Computer Science’s mission is to create a welcoming and supportive community for women in computing, bolster professional development by providing networking and mentorship opportunities, and inspire future generations of women by giving back to the greater St. Louis community.
+
+
+<span class="tag-links">[#acm](#acm) [#get_involved](#get_involved) [#graduate](#graduate) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
+<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/120">Discussions View</a></span>
+
+---
 <h2 class="anchored" id="is-there-a-student-group-for-women-in-computer-science-or-computer-engineering">Is there a student group for women in computer science or computer engineering?</h2>
 <a id=10></a>
 Yes! 
@@ -2316,21 +2377,6 @@ Yes!
 
 <span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/10">Discussions View</a></span>
-
----
-<h2 class="anchored" id="is-there-a-student-group-within-our-department--school">Is there a student group within our department / school?</h2>
-<a id=120></a>
-
- Yes! The [ACM](http://www.acm.org/) is an international organization for those who study or practice computer science or computer engineering. ACM is an umbrella organization for varoius special interest groups, each of which concentrates on a specific area of computer science. For example,
-[SIGPLAN](http://www.sigplan.org/) is th special interest group on programming languages.
- Many colleges and universities have student-organized ACM chapters, and we are fortunate to have a vibrant [WashU ACM](https://acm.wustl.edu/) chapter here. We strongly encourage you to check out their web page, follow their twitter feed, and attend events. The chapter typically organizes speakers, trivia nights, movie nights, registration discussion, and a fireside chat each semester with faculty.
-
- Yes! All SEAS students are invited to particpate in
-[EnCouncil](http://encouncil.wustl.edu/). They organize social and academic events, and our faculty and administration look to EnCouncil to provide feedback about our offerings and programs.
-
-
-<span class="tag-links">[#acm](#acm) [#get_involved](#get_involved) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/120">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="is-there-any-news-i-should-see-about-registration">Is there any news I should see about registration?</h2>
