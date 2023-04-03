@@ -32,11 +32,13 @@ markdown: kramdown
 
 [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
-[Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
+[Can the same course satisfy requirements across majors between Engineering (McKelvey School of Engineering) and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-engineering-mckelvey-school-of-engineering-and-other-schools)
 
 [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
 
 [How are admissions handled?](#how-are-admissions-handled)
+
+[How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
 
 [How do I earn a minor in bioinformatics?](#how-do-i-earn-a-minor-in-bioinformatics)
 
@@ -44,13 +46,9 @@ markdown: kramdown
 
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
 
-[How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
-
 [If I am not satisfied with a grade I received on an assignment or in a course, what should I do?](#if-i-am-not-satisfied-with-a-grade-i-received-on-an-assignment-or-in-a-course-what-should-i-do)
 
 [If I withdraw from a course, what shows up on my transcript and how does the dropped course affect my GPA?](#if-i-withdraw-from-a-course-what-shows-up-on-my-transcript-and-how-does-the-dropped-course-affect-my-gpa)
-
-[Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
 [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
@@ -122,7 +120,7 @@ markdown: kramdown
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="artsci" aria-hidden="false">
 
-[Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
+[Can the same course satisfy requirements across majors between Engineering (McKelvey School of Engineering) and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-engineering-mckelvey-school-of-engineering-and-other-schools)
 
 </dd>
 
@@ -188,7 +186,7 @@ markdown: kramdown
 
 [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
-[Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
+[Can the same course satisfy requirements across majors between Engineering (McKelvey School of Engineering) and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-engineering-mckelvey-school-of-engineering-and-other-schools)
 
 [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
 
@@ -302,8 +300,6 @@ markdown: kramdown
 
 [I'm struggling and feeling overwhelmed. What should I do?](#im-struggling-and-feeling-overwhelmed-what-should-i-do)
 
-[Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
-
 </dd>
 
 <dt class="accordion-header" aria-expanded="false" id="get_involved" role="tab" aria-controls="get_involved" aria-selected="false" tabindex="0"><span class="accordion-header-content anchored" id="get_involved">get_involved : Ways to get involved in the discipline, or department, or other student activities</span><svg width="20" height="20" viewBox="0 0 20 20"><path fill="#a51417" d="M5 6l5 5 5-5 2 1-7 7-7-7z"></path></svg></dt>
@@ -316,11 +312,11 @@ markdown: kramdown
 
 [How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
 
+[How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
+
 [How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
 
 [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
-
-[How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
 [Is there a computing student group within our department / school / university?](#is-there-a-computing-student-group-within-our-department--school--university)
 
@@ -348,7 +344,7 @@ markdown: kramdown
 
 [Can I take courses outside the department to satisfy **core** requirements or **electives**?  What courses count toward my major or minor from outside the CSE department? ](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements-or-electives--what-courses-count-toward-my-major-or-minor-from-outside-the-cse-department-)
 
-[Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
+[Can the same course satisfy requirements across majors between Engineering (McKelvey School of Engineering) and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-engineering-mckelvey-school-of-engineering-and-other-schools)
 
 [Degree requirements have changed since I started.  Am I required or allowed to use the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-use-the-new-requirements)
 
@@ -359,6 +355,8 @@ markdown: kramdown
 [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
 
 [How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
+
+[How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
 
 [How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
 
@@ -380,8 +378,6 @@ markdown: kramdown
 
 [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
 
-[How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
-
 [I am on the wait list for a course. What should I do?](#i-am-on-the-wait-list-for-a-course-what-should-i-do)
 
 [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
@@ -401,8 +397,6 @@ markdown: kramdown
 [Is there a computing student group within our department / school / university?](#is-there-a-computing-student-group-within-our-department--school--university)
 
 [Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
-
-[Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
 [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
@@ -466,6 +460,8 @@ markdown: kramdown
 
 [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
+[How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
+
 [How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
 
 [How do I find a summer internship?](#how-do-i-find-a-summer-internship)
@@ -475,8 +471,6 @@ markdown: kramdown
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
 
 [How do I subscribe the the department's <EM>jobs</EM> email list?](#how-do-i-subscribe-the-the-departments-emjobsem-email-list)
-
-[How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
 [I accepted a job offer with company X but have since received a more attracive offer from company Y. What should I do?](#i-accepted-a-job-offer-with-company-x-but-have-since-received-a-more-attracive-offer-from-company-y-what-should-i-do)
 
@@ -516,7 +510,7 @@ markdown: kramdown
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="math" aria-hidden="false">
 
-[Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
+[Can the same course satisfy requirements across majors between Engineering (McKelvey School of Engineering) and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-engineering-mckelvey-school-of-engineering-and-other-schools)
 
 [How do I do CS+Math? What upper level electives count? Can I do this as a second major?](#how-do-i-do-csmath-what-upper-level-electives-count-can-i-do-this-as-a-second-major)
 
@@ -552,7 +546,7 @@ markdown: kramdown
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="misc" aria-hidden="false">
 
-[Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
+[Can the same course satisfy requirements across majors between Engineering (McKelvey School of Engineering) and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-engineering-mckelvey-school-of-engineering-and-other-schools)
 
 [How can I contribute to this FAQ?](#how-can-i-contribute-to-this-faq)
 
@@ -592,19 +586,13 @@ markdown: kramdown
 
 [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
-[Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
+[How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
 
 [How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
-
-[How do I find a summer internship?](#how-do-i-find-a-summer-internship)
 
 [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
 [How is physics counted for our programs?](#how-is-physics-counted-for-our-programs)
-
-[How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
-
-[Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
 [My employer wants a letter from the department for my green card application. How do I do that?](#my-employer-wants-a-letter-from-the-department-for-my-green-card-application-how-do-i-do-that)
 
@@ -688,11 +676,11 @@ markdown: kramdown
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="recommendation_letters" aria-hidden="false">
 
+[How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
+
 [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
-
-[How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
 [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
 
@@ -702,7 +690,7 @@ markdown: kramdown
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="requirements" aria-hidden="false">
 
-[Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
+[Can the same course satisfy requirements across majors between Engineering (McKelvey School of Engineering) and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-engineering-mckelvey-school-of-engineering-and-other-schools)
 
 [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
 
@@ -720,9 +708,9 @@ markdown: kramdown
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="research" aria-hidden="false">
 
-[How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
+[How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
 
-[How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
+[How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
 [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
@@ -752,9 +740,9 @@ markdown: kramdown
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="reu" aria-hidden="false">
 
-[How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
+[How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
 
-[How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
+[How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
 </dd>
 
@@ -788,13 +776,13 @@ markdown: kramdown
 
 [How can I contribute to this FAQ?](#how-can-i-contribute-to-this-faq)
 
+[How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
+
 [How do I arrange to study abroad?](#how-do-i-arrange-to-study-abroad)
 
 [How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
 
 [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
-
-[How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
 [I am on the wait list for a course. What should I do?](#i-am-on-the-wait-list-for-a-course-what-should-i-do)
 
@@ -805,8 +793,6 @@ markdown: kramdown
 [Is there a computing student group within our department / school / university?](#is-there-a-computing-student-group-within-our-department--school--university)
 
 [Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
-
-[Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
 [My employer wants a letter from the department for my green card application. How do I do that?](#my-employer-wants-a-letter-from-the-department-for-my-green-card-application-how-do-i-do-that)
 
@@ -864,7 +850,7 @@ markdown: kramdown
 
 [Can I take courses outside the department to satisfy **core** requirements or **electives**?  What courses count toward my major or minor from outside the CSE department? ](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements-or-electives--what-courses-count-toward-my-major-or-minor-from-outside-the-cse-department-)
 
-[Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
+[Can the same course satisfy requirements across majors between Engineering (McKelvey School of Engineering) and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-engineering-mckelvey-school-of-engineering-and-other-schools)
 
 [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
 
@@ -885,6 +871,8 @@ markdown: kramdown
 [How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
 
 [How can I place out of a course if I think I already know that course's material?  / What happens to my program of study if I do place out?](#how-can-i-place-out-of-a-course-if-i-think-i-already-know-that-courses-material---what-happens-to-my-program-of-study-if-i-do-place-out)
+
+[How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
 
 [How do I arrange to study abroad?](#how-do-i-arrange-to-study-abroad)
 
@@ -930,8 +918,6 @@ markdown: kramdown
 
 [How much time should I expect to spend on CSE131?](#how-much-time-should-i-expect-to-spend-on-cse)
 
-[How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
-
 [I am on the wait list for a course. What should I do?](#i-am-on-the-wait-list-for-a-course-what-should-i-do)
 
 [I am on the waiting list for CSE131 or for the lab section I need.  Will I be able to take the course?](#i-am-on-the-waiting-list-for-cse-or-for-the-lab-section-i-need--will-i-be-able-to-take-the-course)
@@ -961,8 +947,6 @@ markdown: kramdown
 [Is there a computing student group within our department / school / university?](#is-there-a-computing-student-group-within-our-department--school--university)
 
 [Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
-
-[Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
 [Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
@@ -1028,11 +1012,11 @@ markdown: kramdown
 
 [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
+[How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
+
 [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
-
-[How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
 
 [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
 
@@ -1056,7 +1040,7 @@ markdown: kramdown
 
 [Can I take courses outside the department to satisfy **core** requirements or **electives**?  What courses count toward my major or minor from outside the CSE department? ](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements-or-electives--what-courses-count-toward-my-major-or-minor-from-outside-the-cse-department-)
 
-[Can the same course satisfy requirements across majors between SEAS and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools)
+[Can the same course satisfy requirements across majors between Engineering (McKelvey School of Engineering) and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-engineering-mckelvey-school-of-engineering-and-other-schools)
 
 [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
 
@@ -1085,6 +1069,8 @@ markdown: kramdown
 [How can I get space for students to get help from my TAs?](#how-can-i-get-space-for-students-to-get-help-from-my-tas)
 
 [How can I place out of a course if I think I already know that course's material?  / What happens to my program of study if I do place out?](#how-can-i-place-out-of-a-course-if-i-think-i-already-know-that-courses-material---what-happens-to-my-program-of-study-if-i-do-place-out)
+
+[How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
 
 [How do I arrange to study abroad?](#how-do-i-arrange-to-study-abroad)
 
@@ -1136,8 +1122,6 @@ markdown: kramdown
 
 [How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
 
-[How to I apply for REU programs?](#how-to-i-apply-for-reu-programs)
-
 <hr class="toc-divider">
 
 [I accepted a job offer with company X but have since received a more attracive offer from company Y. What should I do?](#i-accepted-a-job-offer-with-company-x-but-have-since-received-a-more-attracive-offer-from-company-y-what-should-i-do)
@@ -1179,8 +1163,6 @@ markdown: kramdown
 [Is there a computing student group within our department / school / university?](#is-there-a-computing-student-group-within-our-department--school--university)
 
 [Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
-
-[Is there any news I should see about registration?](#is-there-any-news-i-should-see-about-registration)
 
 <hr class="toc-divider">
 
@@ -1296,31 +1278,21 @@ markdown: kramdown
 # Questions {#questions}
 
 <h2 class="anchored" id="can-i-earn-money-outside-of-washington-university-while-on-an-f-visa">Can I earn money outside of Washington University while on an F1 visa?</h2>
-<a id=31></a> Outside of OPT and CPT experiences that are allowed for students on an F1 visa, such students are not allowed to earn money pursuant to self-employment or independent contractor status. They also generally are not able to work off campus unless they can document sever economic hardship. You should check with the International Office for further information.
- Such students can be paid as TAs by the university, because that contributes to the students' studies and is managed by the university.
- Attempts to earn money outside the university are treacherous for students on an F1 visa. Especially in recent times, the 
-[USCIS](https://www.uscis.gov/) agency has been both more vigilant in finding offenders and more quick to take action, which can include removal (deportation).
- A relevant example would be a student posting an app to the
-[Apple](https://www.apple.com/)
-[iTunes store](https://www.apple.com/itunes/). There are the following possible problems with that for students with an F1 visa:
-* If the student earns money from publication of the app, the student becomes self-employed, which is prohibited for such students. Most likely a tax form will be issued, which can then alert authorities that the student has earned money and violated his or her visa status. That could then lead to the student accruing unlawful presence and possible removal proceedings.
- * If the student does not earn any money from the published app, the work done to create and publish the app could be construed as *volunteer work*, which is also prohibited by 
-[USCIS](https://www.uscis.gov/). While it is much less likely the student would be caught, the danger still exists.
+<a id=31></a>Outside of OPT and CPT experiences that are allowed for students on an F1 visa, such students are not allowed to earn money pursuant to self-employment or independent contractor status. They also generally are not able to work off campus unless they can document severe economic hardship. You should check with the [Office of International Students and Scholars](https://students.wustl.edu/international-students-scholars/) for further information.
 
- Students are advised to consult counsel and to take steps to be on the safe side of any line drawn for such issues.
- For the reasons above, no course taught in our department can require students to publish an app. They can submit the app for evaluation by a company, but they are not required to publish the app.
+Such students can be paid as TAs by the university, because that contributes to the students' studies and is managed by the university.
+
+Attempts to earn money outside the university are treacherous for students on an F1 visa. Especially in recent times, the 
+[USCIS](https://www.uscis.gov/) agency has been both more vigilant in finding offenders and more quick to take action, which can include removal (deportation).
+
+A relevant example would be a student posting an app to the [Apple](https://www.apple.com/) [App store](https://www.apple.com/app-store/). There are the following possible problems with that for students with an F1 visa:
+* If the student earns money from publication of the app, the student becomes self-employed, which is prohibited for such students. Most likely a tax form will be issued, which can then alert authorities that the student has earned money and violated his or her visa status. That could then lead to the student accruing unlawful presence and possible removal proceedings.
+* If the student does not earn any money from the published app, the work done to create and publish the app could be construed as *volunteer work*, which is also prohibited by [USCIS](https://www.uscis.gov/). While it is much less likely the student would be caught, the danger still exists.
+
+Students are advised to consult counsel and to take steps to be on the safe side of any line drawn for such issues. For the reasons above, no course taught in our department can require students to publish an app. They can submit the app for evaluation by a company, but they are not required to publish the app.
 
 **Group work:** the issues above become even trickier if the student is involved in group work. It is important that the group establish 
 *up-front* whether any or all members are interested in publishing their work for money or even for free. If some members want to earn money or publish their work, and others do not, it is best that the group disband.
-
-
-
-
-
-
-
-
-
 
 
 <span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
@@ -1367,16 +1339,19 @@ CSE 131 is a little bit of an exception.  Appropriate courses and AP CS-A credit
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/13">Discussions View</a></span>
 
 ---
-<h2 class="anchored" id="can-the-same-course-satisfy-requirements-across-majors-between-seas-and-other-schools">Can the same course satisfy requirements across majors between SEAS and other schools?</h2>
-<a id=65></a> Each school is allowed to have its own rules concerning how courses count toward its programs of study. For example, ArtSci prohibits double counting of almost all courses, so that if a student takes discrete math within the math department (Math 310), then it can count toward a math program or toward computer science, but not both from the ArtSci perspective.
- However, it is up to each school to reason about whether a given course is necessary for students in its programs of study. Thus, if a student has taken Math 310 there is no reason our department would require that student to take another course (say, CSE240) in discrete math. We indicate this by waiving the discrete math requirement for that student's computer science program, by saying it has been satisfied by studies outside our department. This avoids double counting Math 310, which allows the student to use that course in a math program (or once in any program of study in ArtSci that requires or counts Math 310 as an elective).
- Similarly, if a student takes an upper level math course, say Number Theory and Cryptography, we would say that the student then has 3 fewer units to satisfy for elective credit by virtue of studies outside of our department. This allows the Number Theory and Cryptography course to count within ArtSci without any problems.
+<h2 class="anchored" id="can-the-same-course-satisfy-requirements-across-majors-between-engineering-mckelvey-school-of-engineering-and-other-schools">Can the same course satisfy requirements across majors between Engineering (McKelvey School of Engineering) and other schools?</h2>
+<a id=65></a>Each school has rules concerning how courses count toward its programs of study. For example, Arts and Sciences (ArtSci) prohibits double counting of almost all courses, so that if a student takes discrete math within the math department (Math 310), then it can count toward a math program or toward computer science, but not both from the ArtSci perspective.
+
+However, it is up to each school to reason about whether a given course is necessary for students in its programs of study. Thus, if a student has taken Math 310 there is no reason our department would require that student to take another course (say, CSE240) in discrete math. We indicate this by waiving the discrete math requirement for that student's computer science program, by saying it has been satisfied by studies outside our department. This avoids double counting Math 310, which allows the student to use that course in a math program (or once in any program of study in ArtSci that requires or counts Math 310 as an elective).
+
+Similarly, if a student takes a course from another department that CSE feels has sufficient computing content or relevance to their degree, CSE can waive some degree credit.  The B.S. in C.S. and Second Major in C.S. allows up to 6 units to come from "Out of the CSE classroom", which includes courses like this as well as independent work, like CSE 400E (Independent Study).  The Minor in C.S. allows 3 units to come from "Out of the CSE classroom".  In both cases if a course from another department is deemed to be an acceptable addition to a students C.S. degree and that course is also needed for another degree program, CSE will "waive" an appropriate number of units of Tech Electives to acknowledge the relevant coursework while still allowing the specific course to count for another degree. 
 
 
 
 
 
-<span class="tag-links">[#academia](#academia) [#artsci](#artsci) [#courses](#courses) [#graduate](#graduate) [#math](#math) [#misc](#misc) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
+
+<span class="tag-links">[#academia](#academia) [#artsci](#artsci) [#courses](#courses) [#graduate](#graduate) [#math](#math) [#misc](#misc) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/65">Discussions View</a></span>
 
 ---
@@ -1573,6 +1548,30 @@ If you feel you know the majority of the content:
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/20">Discussions View</a></span>
 
 ---
+<h2 class="anchored" id="how-do-i-apply-for-reu-programs">How do I apply for REU programs?</h2>
+<a id=121></a>The information below is meant to be generic advice, but our faculty hope you will take interest and notice of
+[our REU program](https://sites.wustl.edu/csereu/).
+
+Many institutions offer the chance to spend part of your summer working with faculty and graduate students on research. These programs are designed to show its participants the nature of research: identifying interesting problems, formulating methods to try to solve those problems, and communicating results to diverse audiences.
+
+While the applications for REU sites will vary, they almost all require some statement of purpose, some letters of recommendation, some record of your academic progress to date, and some idea of the projects that interest you. You are therefore advised as follows:
+* Peruse the REU institution's web site and find projects and their associated faculty that interest you. The interest need not stem from extant exposure or experience in that area.
+* Identify your letter writers. Reference letters should come from those who are familiar with your achievements and who can address your work ethic, potential, and suitability for the research experience. Contact those letter writers in advance of their receiving any solicitation for letters. Provide those letter writers with your statement of purpose and a current resume.
+* Be sure to observe the deadlines posted for applications. Be sure to line up your letter writers well in advance of those deadlines.
+
+
+ While the NSF largely funding our REU programs only pays for US citizens to participate, our department has some funds that allow us to recruit and train non-US citizens in this same program.
+
+
+
+
+
+
+
+<span class="tag-links">[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#research](#research) [#reu](#reu) [#student_life](#student_life) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
+<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/121">Discussions View</a></span>
+
+---
 <h2 class="anchored" id="how-do-i-arrange-to-study-abroad">How do I arrange to study abroad?</h2>
 <a id=110></a>
 Many of our students are interested in studying abroad. You should start to plan for study abroad about a year in advance, typically sophomore or junior year.  You should:
@@ -1714,15 +1713,13 @@ HCI studies the way humans and computers interact, aiming to improve the interfa
 ---
 <h2 class="anchored" id="how-do-i-find-a-summer-internship">How do I find a summer internship?</h2>
 <a id=33></a>
-* Subscribe to our department's *jobs* email list by contacting
-[Monet Demming](mailto:monet@wustl.edu).
- * Look for REU opportunities
- * Look for mentoring / teaching opportunities
-	+ CTY
-	 + IDTech
+* Subscribe to our department's *jobs* email list by contacting the CSE Undergraduate Coordinator, [María Sanchez](smaria@wustl.edu)
+ * Look for REU opportunities (also via the CSE Undergraduate Coordinator)
+* Participate in Career Fairs, company presentations, and other activities sponsored by [The Career Center](https://students.wustl.edu/career-center/). 
+* Participate in one of the School of Engineering's many [Mentoring Programs](https://engineering.wustl.edu/offices-services/student-services/mentor-programs.html). 
 
 
-<span class="tag-links">[#jobs](#jobs) [#needs_review](#needs_review)</span>
+<span class="tag-links">[#jobs](#jobs)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/33">Discussions View</a></span>
 
 ---
@@ -1974,28 +1971,6 @@ Non-classroom activities, like project, thesis, and independent study have the s
 
 <span class="tag-links">[#computer](#computer) [#misc](#misc)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/131">Discussions View</a></span>
-
----
-<h2 class="anchored" id="how-to-i-apply-for-reu-programs">How to I apply for REU programs?</h2>
-<a id=121></a> The information below is meant to be generic advice, but our faculty hope you will take interest and notice of
-[our REU program](https://sites.wustl.edu/csereu/).
- Many institutions offer the chance to spend part of your summer working with faculty and graduate students on research. These programs are designed to show its participants the nature of research: identifying interesting problems, formulating methods to try to solve those problems, and communicating results to diverse audiences.
- While the applications for REU sits will vary, they almost all require some statement of purpose, some letters of recommendation, some record of your academic progress to date, and some idea of the projects that interest you. You are therefore advised as follows:
-* Peruse the REU institution's web site and find projects and their associated faculty that interest you. The interest need not stem from extant exposure or experience in that area.
- * Identify your letter writers. Reference letters should come from those who are familiar with your achievements and who can address your work ethic, potential, and suitability for the research experience. Contact those letter writers in advance of their receiving any solicitation for letters. Provide those letter writers with your statement of purpose and a current resume.
- * Be sure to observe the deadlines posted for applications. Be sure to line up your letter writers well in advance of those deadlines.
-
-
- While the NSF largely funding our REU programs only pays for US citizens to participate, our department has some funds that allow us to recruit and train non-US citizens in this same program.
-
-
-
-
-
-
-
-<span class="tag-links">[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#research](#research) [#reu](#reu) [#student_life](#student_life) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/121">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="i-accepted-a-job-offer-with-company-x-but-have-since-received-a-more-attracive-offer-from-company-y-what-should-i-do">I accepted a job offer with company X but have since received a more attracive offer from company Y. What should I do?</h2>
@@ -2377,13 +2352,6 @@ Yes!
 
 <span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/10">Discussions View</a></span>
-
----
-<h2 class="anchored" id="is-there-any-news-i-should-see-about-registration">Is there any news I should see about registration?</h2>
-<a id=68></a> Yes! Every semester [this document](https://docs.google.com/document/d/1czTqasUWijOKA2ZMoYvtKv_1yhNwH2g9q_Wc44GqyCI/edit?usp=sharing) is revised to provide up-to-date registration information.
-
-<span class="tag-links">[#academia](#academia) [#get_help](#get_help) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/68">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="my-employer-wants-a-letter-from-the-department-for-my-green-card-application-how-do-i-do-that">My employer wants a letter from the department for my green card application. How do I do that?</h2>
