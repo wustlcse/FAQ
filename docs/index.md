@@ -584,10 +584,6 @@ markdown: kramdown
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="needs_review" aria-hidden="false">
 
-[Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
-
-[How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
-
 [How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
 
 [How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
@@ -1295,7 +1291,7 @@ Students are advised to consult counsel and to take steps to be on the safe side
 *up-front* whether any or all members are interested in publishing their work for money or even for free. If some members want to earn money or publish their work, and others do not, it is best that the group disband.
 
 
-<span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/31">Discussions View</a></span>
 
 ---
@@ -1568,7 +1564,7 @@ While the applications for REU sites will vary, they almost all require some sta
 
 
 
-<span class="tag-links">[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#research](#research) [#reu](#reu) [#student_life](#student_life) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
+<span class="tag-links">[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#recommendation_letters](#recommendation_letters) [#research](#research) [#reu](#reu) [#student_life](#student_life) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/121">Discussions View</a></span>
 
 ---
