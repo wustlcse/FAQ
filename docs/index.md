@@ -1032,6 +1032,8 @@ markdown: kramdown
 
 [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
+[Can I get a different faculty advisor?](#can-i-get-a-different-faculty-advisor)
+
 [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
 
 [Can I take courses outside the department to satisfy **core** requirements or **electives**?  What courses count toward my major or minor from outside the CSE department? ](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements-or-electives--what-courses-count-toward-my-major-or-minor-from-outside-the-cse-department-)
@@ -1293,6 +1295,22 @@ Students are advised to consult counsel and to take steps to be on the safe side
 
 <span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/31">Discussions View</a></span>
+
+---
+<h2 class="anchored" id="can-i-get-a-different-faculty-advisor">Can I get a different faculty advisor?</h2>
+<a id=139></a>In most cases you can request a new faculty advisor yourself in WebSTAC.  These requests may take up to a month to be reviewed, but they are generally granted.  Requests for a specific advisor may not be granted though (advisors may already have a full advising load or they may not be well suited to advise about a specific degree). 
+
+The "Change" link can be found to the right of the Advisor's name in the "Current Programs" section on WebSTAC.  See [WebSTAC Help](https://webstachelp.wustl.edu/academics/major-programs/#Current_Programs). 
+
+The change link should look like:
+
+![ChangeAdvisors](https://user-images.githubusercontent.com/1421446/230128267-7de51b7d-a901-41ba-918a-16828d0db247.png)
+
+That option may not be available during advising/registration periods or for certain degree programs that don't allow students to make such requests (all CSE programs _do_ allow this).   If the option isn't available and it is _not_ advising/registration time (approximately mid-semester until the last week of the semester), contact the registrar in the school that is the home to the degree program where you'd like a new advisor. 
+
+
+<span class="tag-links"></span>
+<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/139">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="can-i-take-courses-at-other-universities-and-have-them-count-here">Can I take courses at other universities and have them count here?</h2>
