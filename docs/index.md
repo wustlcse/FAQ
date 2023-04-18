@@ -3436,6 +3436,7 @@ Here are the common waitlist processing priorities and guidance for many courses
 * CSE 256A Intro. to Human-Centered Design:  This course is one of two "Integration" course options for HCI minors.  Consequently, HCI Minors get priority followed by other students in CSE degrees that accept the course.   Some priority is also given to students who have been waitlisted in prior semesters.
 * CSE 311A: Introduction to Intelligent Agents Using Science Fiction.  Prioritizing sophomores, then juniors. Not allowed for students who have previously or currently enrolled in CSE 417T or 412A.
 * CSE 314A: Data Manipulation and Management. The course is required for and prioritizes Data Science Majors, then other CSE degrees that accept the course for CSE degree credit. 
+* CSE 337A: Retro Game Design. Priority is given to degrees that accept the course for credit. Enrollment is based on random selection from each class rank, weighted as follows: approx. 30% seniors, 30% juniors, 30% sophomores, 10% first years. 
 * CSE 347: Analysis of Algorithms:  Enrollment prioritizes by seniority/graduation dates of students in degrees that require CSE 347 specifically. 
 * CSE 362M: Computer Architecture:  Prerequisite of CSE 260M or instructor approval of equivalent experience is required.   
 * CSE 400-400E: Independent Study:  You will stay on the waitlist until you submit an independent study form. Then once approved, you will be enrolled. You can find the form [here](https://wustl.app.box.com/s/yvvbc6fswktavvnnqiphfxbqpvdeyeky/file/1139213921334).
