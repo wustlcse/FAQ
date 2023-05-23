@@ -3452,7 +3452,11 @@ Here are the common waitlist processing priorities and guidance for many courses
 * CSE 497, 498, 499: Senior Project 1, Senior Project 2, & Undergraduate Honors Thesis:   You will stay on the waitlist until you submit an independent study form. Then once approved, you will be enrolled. You can find the form [here](https://wustl.app.box.com/s/yvvbc6fswktavvnnqiphfxbqpvdeyeky/file/1139213921334).
 * CSE 517A: Machine Learning.  Prerequisites of either CSE 417T or ESE 417 is enforced (or evidence of equivalent experience and permission of instructor).
 * CSE 522S: Advanced Operating Systems. Prerequisite of 422S or graduate standing is enforced (or evidence of equivalent experience and permission of instructor).
+* CSE 527A: Natural Language Processing.  Prerequisites of basic linear algebra, basic probability and statistics, basic machine learning (CSE 417T or ESE 417 or equivalent courses or instructor consent) and Python programming enforced.
 * CSE 532S: Advanced Multi-paradigm Software Development. Prerequisite of 332S (or evidence of equivalent experience and permission of instructor) is enforced.
+* CSE 533T: Coding and Information Theory for Data Science.  [TBD]
+* CSE 537T: Trustworthy Autonomy. [TBD]
+* CSE 570S: Recent Advances in Networking.  Priority is given to CSE and ESE students.
 * CSE 587A: Algorithms for Computational Biology. PhD students in the Computational and Systems Biology DBBS PhD program, for whom CSE587A is required, are enrolled first, then all other PhD students, then Bioinformatics minors, then all others (space permitting).
 
 
