@@ -3455,7 +3455,7 @@ Here are the common waitlist processing priorities and guidance for many courses
 * CSE 527A: Natural Language Processing.  Prerequisites of basic linear algebra, basic probability and statistics, basic machine learning (CSE 417T or ESE 417 or equivalent courses or instructor consent) and Python programming enforced.
 * CSE 532S: Advanced Multi-paradigm Software Development. Prerequisite of 332S (or evidence of equivalent experience and permission of instructor) is enforced.
 * CSE 533T: Coding and Information Theory for Data Science.  [TBD]
-* CSE 537T: Trustworthy Autonomy. [TBD]
+* CSE 537T: Trustworthy Autonomy. Pre-reqs are strictly enforced.  CSE and ESE PhD students have the highest priority, then CSE students in degrees that accept the course for degree credit (in waitlist order), then, space permitting, anyone else (in waitlist order).
 * CSE 570S: Recent Advances in Networking.  Priority is given to CSE and ESE students.
 * CSE 587A: Algorithms for Computational Biology. PhD students in the Computational and Systems Biology DBBS PhD program, for whom CSE587A is required, are enrolled first, then all other PhD students, then Bioinformatics minors, then all others (space permitting).
 
