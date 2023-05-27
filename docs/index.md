@@ -42,21 +42,13 @@ markdown: kramdown
 
 [How do I earn a minor in bioinformatics?](#how-do-i-earn-a-minor-in-bioinformatics)
 
-[How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
-
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
 
 [If I am not satisfied with a grade I received on an assignment or in a course, what should I do?](#if-i-am-not-satisfied-with-a-grade-i-received-on-an-assignment-or-in-a-course-what-should-i-do)
 
 [If I withdraw from a course, what shows up on my transcript and how does the dropped course affect my GPA?](#if-i-withdraw-from-a-course-what-shows-up-on-my-transcript-and-how-does-the-dropped-course-affect-my-gpa)
 
-[Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
-
-[Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
-
 [What are residency requirements?](#what-are-residency-requirements)
-
-[What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
 
 [What courses should I take if I am interested in machine learning?](#what-courses-should-i-take-if-i-am-interested-in-machine-learning)
 
@@ -65,8 +57,6 @@ markdown: kramdown
 [What does a dean do?](#what-does-a-dean-do)
 
 [What does a provost do?](#what-does-a-provost-do)
-
-[What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
 [What is academic integrity and how does the academic integrity process work?](#what-is-academic-integrity-and-how-does-the-academic-integrity-process-work)
 
@@ -79,8 +69,6 @@ markdown: kramdown
 [Where can I learn more about cyber security?](#where-can-i-learn-more-about-cyber-security)
 
 [Where do I look to see the various dates pertaining to our academic calendar?](#where-do-i-look-to-see-the-various-dates-pertaining-to-our-academic-calendar)
-
-[With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
 </dd>
 
@@ -144,8 +132,6 @@ markdown: kramdown
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="computer_engineering" aria-hidden="false">
 
-[How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
-
 [How do I earn a minor in computer engineering?](#how-do-i-earn-a-minor-in-computer-engineering)
 
 [How do I earn a second major in computer engineering?](#how-do-i-earn-a-second-major-in-computer-engineering)
@@ -159,8 +145,6 @@ markdown: kramdown
 <dt class="accordion-header" aria-expanded="false" id="computer_science" role="tab" aria-controls="computer_science" aria-selected="false" tabindex="0"><span class="accordion-header-content anchored" id="computer_science">computer_science : The discipline of Computer Science</span><svg width="20" height="20" viewBox="0 0 20 20"><path fill="#a51417" d="M5 6l5 5 5-5 2 1-7 7-7-7z"></path></svg></dt>
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="computer_science" aria-hidden="false">
-
-[How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
 
 [How do I earn a minor in bioinformatics?](#how-do-i-earn-a-minor-in-bioinformatics)
 
@@ -209,8 +193,6 @@ markdown: kramdown
 [What web design courses can I take?](#what-web-design-courses-can-i-take)
 
 [Why am I on a waitlist? How are waitlists managed? What are my chances of enrollment? What is "Managed by waitlist"?](#why-am-i-on-a-waitlist-how-are-waitlists-managed-what-are-my-chances-of-enrollment-what-is-managed-by-waitlist)
-
-[With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
 </dd>
 
@@ -316,17 +298,11 @@ markdown: kramdown
 
 [How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
 
-[How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
-
 [Is there a computing student group within our department / school / university?](#is-there-a-computing-student-group-within-our-department--school--university)
 
 [Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
 
-[Other ways to get involved](#other-ways-to-get-involved)
-
 [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
-
-[What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
 [What's a hackathon, where/when/why/how should I get involved?](#whats-a-hackathon-wherewhenwhyhow-should-i-get-involved)
 
@@ -358,11 +334,7 @@ markdown: kramdown
 
 [How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
 
-[How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
-
 [How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
-
-[How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
 
@@ -373,8 +345,6 @@ markdown: kramdown
 [How does pass/fail work?](#how-does-passfail-work)
 
 [How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
-
-[How is physics counted for our programs?](#how-is-physics-counted-for-our-programs)
 
 [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
 
@@ -398,11 +368,7 @@ markdown: kramdown
 
 [Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
 
-[Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
-
 [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
-
-[Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
 
 [Should I get course credit (CSE 400E, CSE 599, CSE 598) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-cse--cse--or-be-paid-for-research-with-faculty)
 
@@ -411,10 +377,6 @@ markdown: kramdown
 [What are residency requirements?](#what-are-residency-requirements)
 
 [What are the core courses for my degree?](#what-are-the-core-courses-for-my-degree)
-
-[What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
-
-[What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
 [What is CSE&nbsp;501N?  How is it different from 131?](#what-is-csenbspn--how-is-it-different-from-)
 
@@ -432,19 +394,13 @@ markdown: kramdown
 
 [Where can I learn more about cyber security?](#where-can-i-learn-more-about-cyber-security)
 
-[With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
-
 </dd>
 
 <dt class="accordion-header" aria-expanded="false" id="independent_study" role="tab" aria-controls="independent_study" aria-selected="false" tabindex="0"><span class="accordion-header-content anchored" id="independent_study">independent_study : CSE 400 and CSE 400E: Independent study</span><svg width="20" height="20" viewBox="0 0 20 20"><path fill="#a51417" d="M5 6l5 5 5-5 2 1-7 7-7-7z"></path></svg></dt>
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="independent_study" aria-hidden="false">
 
-[How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
-
 [How much time do I spend on a course here?](#how-much-time-do-i-spend-on-a-course-here)
-
-[Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
 [Should I get course credit (CSE 400E, CSE 599, CSE 598) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-cse--cse--or-be-paid-for-research-with-faculty)
 
@@ -466,25 +422,17 @@ markdown: kramdown
 
 [How do I find a summer internship?](#how-do-i-find-a-summer-internship)
 
-[How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
-
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
 
 [How do I subscribe the the department's <EM>jobs</EM> email list?](#how-do-i-subscribe-the-the-departments-emjobsem-email-list)
 
 [I accepted a job offer with company X but have since received a more attracive offer from company Y. What should I do?](#i-accepted-a-job-offer-with-company-x-but-have-since-received-a-more-attracive-offer-from-company-y-what-should-i-do)
 
-[My employer wants a letter from the department for my green card application. How do I do that?](#my-employer-wants-a-letter-from-the-department-for-my-green-card-application-how-do-i-do-that)
-
-[Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
-
 [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
 
 [Should I get course credit (CSE 400E, CSE 599, CSE 598) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-cse--cse--or-be-paid-for-research-with-faculty)
 
 [What do our graduates do?](#what-do-our-graduates-do)
-
-[What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
 </dd>
 
@@ -496,11 +444,7 @@ markdown: kramdown
 
 [How much time do I spend on a course here?](#how-much-time-do-i-spend-on-a-course-here)
 
-[Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
-
 [Should I pursue a master's degree (at WashU / BS/MS)?](#should-i-pursue-a-masters-degree-at-washu--bsms)
-
-[What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
 [What language does CSE247/502N use?  Do I have to have taken CSE131/501N?](#what-language-does-csen-use--do-i-have-to-have-taken-csen)
 
@@ -536,8 +480,6 @@ markdown: kramdown
 
 [If CSE131 is waived do I have to take another course instead?](#if-cse-is-waived-do-i-have-to-take-another-course-instead)
 
-[What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
-
 [When and how often should I meet with my departmental faculty advisor?  What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisor--what-kind-of-advice-should-i-expect-my-advisor-to-provide)
 
 </dd>
@@ -552,17 +494,9 @@ markdown: kramdown
 
 [How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
 
-[How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
-
 [How do I earn a minor in bioinformatics?](#how-do-i-earn-a-minor-in-bioinformatics)
 
 [How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
-
-[My employer wants a letter from the department for my green card application. How do I do that?](#my-employer-wants-a-letter-from-the-department-for-my-green-card-application-how-do-i-do-that)
-
-[Other ways to get involved](#other-ways-to-get-involved)
-
-[Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
 
 [What can I read to learn more about "computing" topics?](#what-can-i-read-to-learn-more-about-computing-topics)
 
@@ -577,32 +511,6 @@ markdown: kramdown
 [Which is better, a mac or a pc?](#which-is-better-a-mac-or-a-pc)
 
 [Why St. Louis?](#why-st-louis)
-
-</dd>
-
-<dt class="accordion-header" aria-expanded="false" id="needs_review" role="tab" aria-controls="needs_review" aria-selected="false" tabindex="0"><span class="accordion-header-content anchored" id="needs_review">needs_review : Topics that need review.  Posted answer may not be accurate.</span><svg width="20" height="20" viewBox="0 0 20 20"><path fill="#a51417" d="M5 6l5 5 5-5 2 1-7 7-7-7z"></path></svg></dt>
-
-<dd class="accordion-content" role="tabpanel" aria-labelledby="needs_review" aria-hidden="false">
-
-[How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
-
-[How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
-
-[How is physics counted for our programs?](#how-is-physics-counted-for-our-programs)
-
-[My employer wants a letter from the department for my green card application. How do I do that?](#my-employer-wants-a-letter-from-the-department-for-my-green-card-application-how-do-i-do-that)
-
-[Other ways to get involved](#other-ways-to-get-involved)
-
-[Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
-
-[Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
-
-[What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
-
-[What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
-
-[With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
 </dd>
 
@@ -621,8 +529,6 @@ markdown: kramdown
 <dd class="accordion-content" role="tabpanel" aria-labelledby="passfail" aria-hidden="false">
 
 [How does pass/fail work?](#how-does-passfail-work)
-
-[What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
 
 [Where do I look to see the various dates pertaining to our academic calendar?](#where-do-i-look-to-see-the-various-dates-pertaining-to-our-academic-calendar)
 
@@ -660,8 +566,6 @@ markdown: kramdown
 
 [How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
 
-[Other ways to get involved](#other-ways-to-get-involved)
-
 [What can I read to learn more about "computing" topics?](#what-can-i-read-to-learn-more-about-computing-topics)
 
 [What programming languages do we teach in our curriculum?](#what-programming-languages-do-we-teach-in-our-curriculum)
@@ -673,8 +577,6 @@ markdown: kramdown
 <dd class="accordion-content" role="tabpanel" aria-labelledby="recommendation_letters" aria-hidden="false">
 
 [How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
-
-[How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
 
@@ -694,8 +596,6 @@ markdown: kramdown
 
 [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
 
-[How is physics counted for our programs?](#how-is-physics-counted-for-our-programs)
-
 [What are the core courses for my degree?](#what-are-the-core-courses-for-my-degree)
 
 </dd>
@@ -706,13 +606,7 @@ markdown: kramdown
 
 [How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
 
-[How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
-
-[Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
-
 [Should I get course credit (CSE 400E, CSE 599, CSE 598) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-cse--cse--or-be-paid-for-research-with-faculty)
-
-[What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
 [What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
 
@@ -738,8 +632,6 @@ markdown: kramdown
 
 [How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
 
-[How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
-
 </dd>
 
 <dt class="accordion-header" aria-expanded="false" id="second_major" role="tab" aria-controls="second_major" aria-selected="false" tabindex="0"><span class="accordion-header-content anchored" id="second_major">second_major : Issues related to "Second Major" degrees</span><svg width="20" height="20" viewBox="0 0 20 20"><path fill="#a51417" d="M5 6l5 5 5-5 2 1-7 7-7-7z"></path></svg></dt>
@@ -751,8 +643,6 @@ markdown: kramdown
 [How do I earn a second major in computer engineering?](#how-do-i-earn-a-second-major-in-computer-engineering)
 
 [How is CS+Math different from a double (second) major?](#how-is-csmath-different-from-a-double-second-major)
-
-[What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
 
 [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
@@ -778,8 +668,6 @@ markdown: kramdown
 
 [How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
 
-[How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
-
 [I am on the wait list for a course. What should I do?](#i-am-on-the-wait-list-for-a-course-what-should-i-do)
 
 [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
@@ -789,12 +677,6 @@ markdown: kramdown
 [Is there a computing student group within our department / school / university?](#is-there-a-computing-student-group-within-our-department--school--university)
 
 [Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
-
-[My employer wants a letter from the department for my green card application. How do I do that?](#my-employer-wants-a-letter-from-the-department-for-my-green-card-application-how-do-i-do-that)
-
-[Other ways to get involved](#other-ways-to-get-involved)
-
-[What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
 [What's a hackathon, where/when/why/how should I get involved?](#whats-a-hackathon-wherewhenwhyhow-should-i-get-involved)
 
@@ -872,8 +754,6 @@ markdown: kramdown
 
 [How do I arrange to study abroad?](#how-do-i-arrange-to-study-abroad)
 
-[How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
-
 [How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
 
 [How do I do CS+Math? What upper level electives count? Can I do this as a second major?](#how-do-i-do-csmath-what-upper-level-electives-count-can-i-do-this-as-a-second-major)
@@ -887,8 +767,6 @@ markdown: kramdown
 [How do I earn a minor in computer science?](#how-do-i-earn-a-minor-in-computer-science)
 
 [How do I earn a second major in computer engineering?](#how-do-i-earn-a-second-major-in-computer-engineering)
-
-[How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
 
@@ -905,8 +783,6 @@ markdown: kramdown
 [How does the CSE131 placement exam work?  Do I need to take CSE 131?](#how-does-the-cse-placement-exam-work--do-i-need-to-take-cse-)
 
 [How is CS+Math different from a double (second) major?](#how-is-csmath-different-from-a-double-second-major)
-
-[How is physics counted for our programs?](#how-is-physics-counted-for-our-programs)
 
 [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
 
@@ -944,11 +820,7 @@ markdown: kramdown
 
 [Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
 
-[Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
-
 [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
-
-[Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
 
 [Should I get course credit (CSE 400E, CSE 599, CSE 598) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-cse--cse--or-be-paid-for-research-with-faculty)
 
@@ -958,11 +830,7 @@ markdown: kramdown
 
 [What are the core courses for my degree?](#what-are-the-core-courses-for-my-degree)
 
-[What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
-
 [What does *lecture-free* mean?  How is that different from a typical lecture class?](#what-does-lecture-free-mean--how-is-that-different-from-a-typical-lecture-class)
-
-[What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
 [What is CSE&nbsp;501N?  How is it different from 131?](#what-is-csenbspn--how-is-it-different-from-)
 
@@ -998,8 +866,6 @@ markdown: kramdown
 
 [Why would I consider transferring schools?](#why-would-i-consider-transferring-schools)
 
-[With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
-
 </dd>
 
 <dt class="accordion-header" aria-expanded="false" id="working_with_faculty" role="tab" aria-controls="working_with_faculty" aria-selected="false" tabindex="0"><span class="accordion-header-content anchored" id="working_with_faculty">working_with_faculty : Details about how to engage in work with faculty (being a TA, research, etc.)</span><svg width="20" height="20" viewBox="0 0 20 20"><path fill="#a51417" d="M5 6l5 5 5-5 2 1-7 7-7-7z"></path></svg></dt>
@@ -1009,8 +875,6 @@ markdown: kramdown
 [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
 [How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
-
-[How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
 
@@ -1072,8 +936,6 @@ markdown: kramdown
 
 [How do I arrange to study abroad?](#how-do-i-arrange-to-study-abroad)
 
-[How do I become a computer programmer/scientist?](#how-do-i-become-a-computer-programmerscientist)
-
 [How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
 
 [How do I do CS+Math? What upper level electives count? Can I do this as a second major?](#how-do-i-do-csmath-what-upper-level-electives-count-can-i-do-this-as-a-second-major)
@@ -1089,8 +951,6 @@ markdown: kramdown
 [How do I earn a second major in computer engineering?](#how-do-i-earn-a-second-major-in-computer-engineering)
 
 [How do I find a summer internship?](#how-do-i-find-a-summer-internship)
-
-[How do I find out about research opportunities in the department?](#how-do-i-find-out-about-research-opportunities-in-the-department)
 
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
 
@@ -1109,8 +969,6 @@ markdown: kramdown
 [How does the CSE131 placement exam work?  Do I need to take CSE 131?](#how-does-the-cse-placement-exam-work--do-i-need-to-take-cse-)
 
 [How is CS+Math different from a double (second) major?](#how-is-csmath-different-from-a-double-second-major)
-
-[How is physics counted for our programs?](#how-is-physics-counted-for-our-programs)
 
 [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
 
@@ -1164,23 +1022,11 @@ markdown: kramdown
 
 <hr class="toc-divider">
 
-[My employer wants a letter from the department for my green card application. How do I do that?](#my-employer-wants-a-letter-from-the-department-for-my-green-card-application-how-do-i-do-that)
-
-<hr class="toc-divider">
-
-[Other ways to get involved](#other-ways-to-get-involved)
-
-<hr class="toc-divider">
-
 [README](#readme)
 
 <hr class="toc-divider">
 
-[Should I consider an unpaid internship?](#should-i-consider-an-unpaid-internship)
-
 [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
-
-[Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?](#should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits)
 
 [Should I get course credit (CSE 400E, CSE 599, CSE 598) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-cse--cse--or-be-paid-for-research-with-faculty)
 
@@ -1194,8 +1040,6 @@ markdown: kramdown
 
 [What can I read to learn more about "computing" topics?](#what-can-i-read-to-learn-more-about-computing-topics)
 
-[What courses outside the CSE department should I take?](#what-courses-outside-the-cse-department-should-i-take)
-
 [What courses should I take if I am interested in machine learning?](#what-courses-should-i-take-if-i-am-interested-in-machine-learning)
 
 [What do our classrooms look like and how many people can they seat?](#what-do-our-classrooms-look-like-and-how-many-people-can-they-seat)
@@ -1207,8 +1051,6 @@ markdown: kramdown
 [What does a dean do?](#what-does-a-dean-do)
 
 [What does a provost do?](#what-does-a-provost-do)
-
-[What funding options are available to support my graduate studies?](#what-funding-options-are-available-to-support-my-graduate-studies)
 
 [What is a FAQ?](#what-is-a-faq)
 
@@ -1265,8 +1107,6 @@ markdown: kramdown
 [Why St. Louis?](#why-st-louis)
 
 [Why would I consider transferring schools?](#why-would-i-consider-transferring-schools)
-
-[With what frequency are courses offered?](#with-what-frequency-are-courses-offered)
 
 </div>
 
@@ -1608,43 +1448,6 @@ Many of our students are interested in studying abroad. You should start to plan
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/110">Discussions View</a></span>
 
 ---
-<h2 class="anchored" id="how-do-i-become-a-computer-programmerscientist">How do I become a computer programmer/scientist?</h2>
-<a id=28></a>
-Before you look at which courses to take or your curriculum plan, it is also a good idea to understand what it takes to become a programmer or computer scientist. Peter Norvig, a well-known American computer scientist and director of research at Google, wrote a brief article [“Teach Yourself Programming in Ten Years”](http://norvig.com/21-days.html) that highlights the steps to success. 
-
-He first discusses a key idea that is central to any discipline or skill: *deliberate practice*. You don‘t want to just do something repetitively, but instead challenge yourself with increasing difficult tasks that push your current ability. Make mistakes, learn and analyze them, then correct them. 
-
-Repeat ad nauseam and understand that mastering computer science/programming will NOT happen in a week, over the course of a semester, or even over the course of your college career. Research has shown that it takes about TEN years, or Malcolm Gladwell‘ 10,000 hours, to develop expertise in your area of interest. 
-
-So, if you have decided to become a programmer/computer scientist, then here‘s a shortened and adapted list of Peter Norvig‘s 
-“recipe for programming success” that can help you reach those 10 years/10,000 hours. 
-1. Get **interested** in programming, and do some because it is fun. Take a look at areas of research in computer science [here](https://cse.wustl.edu/research/areas/Pages/default.aspx) at WashU. Start with simple, easy to understand programs and look for something you enjoy doing.
-2. **Program** and learn by doing. It is appropriate to mention this brief parable from “Art and Fear” by David Bayles and Ted Orland. 
-“The ceramics teacher announced on opening day that he was dividing the class into two groups. All those on the left side of the studio, he said, would be graded solely on the *quantity* of work they produced, all those on the right solely on its *quality*. His procedure was simple: on the final day of class he would bring in his bathroom scales and weigh the work of the "quantity" group: fifty pound of pots rated an "A", forty pounds a "B", and so on. Those being graded on "quality", however, needed to produce only one pot - albeit a perfect one - to get an "A".
- Well, came grading time and a curious fact emerged: the works of highest quality were all produced by the group being graded for quantity. It seems that while the "quantity" group was busily churning out piles of work - and learning from their mistakes - the "quality" group had sat theorizing about perfection, and in the end had little more to show for their efforts than grandiose theories and a pile of dead clay.”
-3. **Talk** with other programmers. Your fellow students, TAs, and professors will be your greatest resource. Read other programs and ask lots of questions. As Peter Norvig says, “This is more important than any book or training course.”
-
-
-Peter Norvig has more great advice in his article, and you can read more of his writing [here](http://norvig.com). 
-
-On a final note, your real expertise as a programmer/computer scientist comes from consistency and an effort to improve over the long-term. So start programming! 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<span class="tag-links">[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/28">Discussions View</a></span>
-
----
 <h2 class="anchored" id="how-do-i-become-a-programmer-right-now-">How do I become a programmer right now? </h2>
 <a id=19></a>
 
@@ -1735,49 +1538,6 @@ HCI studies the way humans and computers interact, aiming to improve the interfa
 
 <span class="tag-links">[#jobs](#jobs)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/33">Discussions View</a></span>
-
----
-<h2 class="anchored" id="how-do-i-find-out-about-research-opportunities-in-the-department">How do I find out about research opportunities in the department?</h2>
-<a id=14></a> All departments across Washington University are eager to involve you in their research, so we are glad you asked this question! The points to address here are:
-* How do you find out the research topics of interest to the department?
- * What is the best way to approach faculty about working with them?
- * What modes of interaction are available for collaborating with faculty on research?
- * Why should you have a research experience?
-
-
-
-Research areas
- There are two approaches but each uses our 
- [web pages](https://cse.wustl.edu/Pages/default.aspx).
-* You can take a look at the
- [general overview of our research areas](https://cse.wustl.edu/research/areas/Pages/default.aspx). You can click on an area to find more information and to see which faculty work in that area.
- * If you want to start with the faculty because you know some of us already, then visit the [faculty](https://cse.wustl.edu/faculty/Pages/default.aspx) section and you can click on a faculty member to see his or her research interests.
-
-
- Approaching faculty
- Many students will send us emails or drop by and we are always glad to talk about our research. However, the best approach is to engage in a conversation based on preparing yourself to ask meaningful questions about our research. Take a look at our web pages as suggested above, and try to read the introductory portions of some of our papers. This will allow you to have a more meaningful conversation in person or by email and you will likely get a more meaningful response from faculty.
- When students approach us about working in our groups, we typically give them a small problem as a *starter*. Many students never return with questions or results from that starter problem. The interested and diligent student will follow up with questions and hopefully results from this small exercise. Successful completion will likely result in increased involvement in our research groups.
-Modes of conducting research with faculty
- Consider one or more of the following ways you can become involved with our research:
-* Attending research group meetings or seminars
- * Working in a research group for credit (independent study CSE 400E)
- * Working in a research group for pay
- * Conducting research as part of a project for a course
- * Participating in our summer [REU](https://sites.wustl.edu/csereu/) (Research Experience for Undergrads) program
- * Taking on a research problem as part of a master's project (CSE 598) or master's thesis (CSE 599)
-
- The [REU](https://sites.wustl.edu/csereu/) program deserves more explanation. Each Spring we accept applications for students to work with faculty in our [REU](https://sites.wustl.edu/csereu/) program. Students are accepted from Washington University and also from other institutions. The students spend about 8 weeks on campus in the summer. They participate in some training sessions and are assigned to work with a specific group on a research problem.
- For our participants, we hope they learn about the process of conducting research so as to make an informed decision about pursuing doctoral studies after their undergraduate studies. The faculty aim to mentor students, convince them that research is exciting and worthwhile, and attract them to further their studies in our department. Both participants and faculty are interested in developing results of publishable quality.
- Why should you have a research experience?
- In almost all aspects of an undergraduate's academic life, they solve problems whose answers are already known. While those efforts help educate and train our undergraduates, we add to the knowledge of the world by attacking problems that do not already have solutions. This is the nature of research, and there is no better way to become familiar with the life of a researcher than to collaborate in research with our faculty.
-
-
-
-
-
-
-<span class="tag-links">[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#independent_study](#independent_study) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#research](#research) [#reu](#reu) [#student_life](#student_life) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/14">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="how-do-i-prepare-for-and-find-an-internship">How do I prepare for and find an internship?</h2>
@@ -1914,21 +1674,6 @@ CS+Math also differs in the electives available.  A CS Major can select any CSE 
 
 <span class="tag-links">[#computer_science](#computer_science) [#math](#math) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/89">Discussions View</a></span>
-
----
-<h2 class="anchored" id="how-is-physics-counted-for-our-programs">How is physics counted for our programs?</h2>
-<a id=27></a>
-Physics used to have 4-unit first-year courses 197 and 198 that each counted as 4 units of natural science for our students. Those courses included lab work.
-
-Physics has changed their formulation to separate lecture from lab in their courses. Each 3-unit lecture course has a 1-unit lab for which a student must explicitly register. Physics 191 and 192 are the lecture courses and their labs are 191L and 192L, respectively.
-Maintaining continuity in how we treat the intro physics sequence, our department will count the lecture and lab units toward your natural science requirements, even though the lab courses (191L and 192L) do not carry the natural science tag for arts and sciences.
-
-
-
-
-
-<span class="tag-links">[#graduate](#graduate) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/27">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="how-much-attention-should-i-pay-to-a-courses-stated-prerequisites">How much attention should I pay to a course's stated prerequisites?</h2>
@@ -2368,54 +2113,6 @@ Yes!
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/10">Discussions View</a></span>
 
 ---
-<h2 class="anchored" id="my-employer-wants-a-letter-from-the-department-for-my-green-card-application-how-do-i-do-that">My employer wants a letter from the department for my green card application. How do I do that?</h2>
-<a id=56></a>
- Because specific points and language are needed for such letters, the letter originates from your company and is then sent to us for verification, printing on department letterhead, and return to you.
-
-For our undergraduate students (including those who are in a combined BS/MS program), we follow the following process:
-* Our department staff produce your transcript and pass that and your letter to the associate chair.
-* The associate chair verifies the wording of the letter is an accurate reflection of the courses you took here and the grades you earned in those courses.
-* If approved, the letter is printed on department letterhead, signed by the associate chair, and returned to you. If there needs to be some wording changed in the letter to make it more accurate, you will be contacted.
-
-For Graduate students:
-
-International students who graduate from our MS programs frequently request the department’s help in preparing letters for green card or H1-B applications. These letters are supposed to document that a student acquired specific skills (e.g. Java programming, machine learning) in the course of their master’s program. Often, the student is prompted to request the letter by their employer or immigration attorney.
-
-The CSE Department does not provide such letters to master’s students. However, GSS will do so based on the contents of the student’s transcript. Requests for skill verification letters by master’s students should therefore be forwarded to Holly Stanwich in GSS.
-
-
-<span class="tag-links">[#jobs](#jobs) [#misc](#misc) [#needs_review](#needs_review) [#student_life](#student_life)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/56">Discussions View</a></span>
-
----
-<h2 class="anchored" id="other-ways-to-get-involved">Other ways to get involved</h2>
-<a id=23></a>
-Contribute to an open-source project. Open source software is source code that anyone can inspect, copy, modify, and share. It's a great way to learn and try modern development practices. Some examples include:
-* [Linux](https://www.linuxfoundation.org/resources/open-source-guides/)* [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md), text editor from github.
-
-
-Get involved in a standardization effort. 
-
-* [C++ committee](https://isocpp.org/std/meetings-and-participation)
-
-
-Answer questions and spend time with online programming communities, such as:
-
-* Stack Overflow
-
-* Reddit
-
-
-
-
-
-
-
-
-<span class="tag-links">[#get_involved](#get_involved) [#misc](#misc) [#needs_review](#needs_review) [#programming](#programming) [#student_life](#student_life)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/23">Discussions View</a></span>
-
----
 <h2 class="anchored" id="readme">README</h2>
 <a id=2></a>
 ## FAQ Forum policies, practices, and use.
@@ -2475,71 +2172,6 @@ Questions and answer in this FAQ come from a variety of contributors, including:
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/2">Discussions View</a></span>
 
 ---
-<h2 class="anchored" id="should-i-consider-an-unpaid-internship">Should I consider an unpaid internship?</h2>
-<a id=55></a> First, please realize that you are valuable and that almost all of our students' internships are *paid*.
- But some are not, and there can be good reasons to consider an unpaid internship:
-* A nonprofit may be in need of your skills and lack the funds to pay you.
- * There may be a particular experience or set of skills you wish to
- develop and you are willing to do so without pay.
-
-
- There are some issues you should consider in taking on an unpaid internship:
-
-credit
- Our department does not award credit for paid internships. For an
- unpaid internship, you may be eligible to receive credit for the work
- you do, subject to the following:
- * The work should be for a non-profit or not-for-profit institution.
- Our department generally is unwilling to sponsor work for companies
- that make (or hope to make) profit without paying our students accordingly. We have
- made exceptions where the student benefits substantially from
- the experience.
- * A three-unit course is generally 10 hours of work a week. Thus,
- to receive credit for three units of study, you should be spending between
- 140 and 150 hours on your project.
- * A faculty member must agree to sponsor the credit portion of your
- work, in the sense of evaluating the grade you will receive and
- ensuring that the work you do is worthy of the credit.
- * A supervisor at your unpaid internship must be willing to correspond
- with said faculty member for the purposes of establishing that you
- did the work and to assess the quality of the work.
-
- * You have to register for CSE400E in the section associated with
- the faculty member supervising your project. To do so in summer, when
- you are otherwise not a student, is unwise, because you are then
- paying for credit while not being paid for your work.
-
- Our department generally allows you to defer enrolling for credit until
- the next semester in which you are able to enroll in CSE400E without
- experiencing extra financial burden for taking that independent study
- course.
- Once you have your faculty member and supervisor lined up, you can register for CSE400E and will appear on the waitlist. Ask your faculty member to notify the department of the arrangement and you will be admitted to the independent study course.
-
-
- Intellectual Property (IP)
-  Our university generally holds that work our undergraduates perform
- while students is completely their intellectual property. When
- you work for a company and are paid, you typically sign away rights to
- intellectual property developed during that time.
-
- But what happens with an unpaid internship? This varies by situation,
- and you are advised to get a written answer to this question before
- starting an unpaid internship. Because you are not paid, you might
- expect to own any intellectual property you develop while working
- without pay for an institution. But the institution may have other
- ideas and expectations about IP ownership.
-
-
-
-
-
-
-
-
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#independent_study](#independent_study) [#jobs](#jobs) [#misc](#misc) [#needs_review](#needs_review) [#research](#research) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/55">Discussions View</a></span>
-
----
 <h2 class="anchored" id="should-i-consider-becoming-a-ta">Should I consider becoming a TA?</h2>
 <a id=53></a>
 
@@ -2567,29 +2199,6 @@ Approximately 1-2 weeks after you register for classes you should get an email t
 
 <span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#recommendation_letters](#recommendation_letters) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/53">Discussions View</a></span>
-
----
-<h2 class="anchored" id="should-i-do-a-project-or-thesis-for-my-masters-studies-or-fulfill-my-requirements-with-courses-alone--can-i-switch-between-project-and-thesis-credits">Should I do a project or thesis for my master's studies, or fulfill my requirements with courses alone?  Can I switch between project and thesis credits?</h2>
-<a id=48></a> For the MS degrees, you can satisfy requirements by taking courses alone. The M.Eng. degree requires a 6-unit project, and the MS degrees allow a project or a thesis.
- The differences are described below, but it's worth saying that our dean's office supports students moving between thesis and project credits with the agreement of their advisors. So a student may start out with a project, but if the work develops along the lines of a thesis, the advisor and student can ask the credit to be changed. Similarly, the change can go in the other direction.
- So you *can* spend up to 6 units on a project or thesis for the M.S. degrees. Here are some thoughts and guideline about that:
-* In either case, you must secure the supervision of a faculty member for a project or thesis. The work involved would have to be of mutual interest.
- * A thesis requires a written document, and must represent original work, usually of publishable quality. The writing and substance of your thesis is defended orally in front of a committee in an open forum. 
- While this is arguably more work that coursework or a project, it is recommended for students interested in research and for whom doctoral studies may be in their future.
- * The project requires a two-page extended abstract of your work, and the result of your work is presented to a committee in a closed or open forum.
- A project demonstrates your mastery of computer science. It is akin to independent study, in that the hours you spend are determined by you. However, we usually say that 3 units of credit is about 10 hours of work a week. Thus, a 6-unit project over two semesters should consume about 300 hours of your time.
-
- It takes discpline and a strong work ethic to complete either a project or a thesis. If you work better in a structured class-like environment, then perhaps the course-only option is best for you. However, students express satisfaction and experience growth doing theses or projects.
- So consider the options carefully, talk with your colleagues and advisors, and make an informed decision.
-
-
-
-
-
-
-
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#masters](#masters) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/48">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="should-i-get-course-credit-cse-e-cse--cse--or-be-paid-for-research-with-faculty">Should I get course credit (CSE 400E, CSE 599, CSE 598) or be paid for research with faculty?</h2>
@@ -2684,32 +2293,6 @@ Here are some recommendations by CSE faculty:
 
 <span class="tag-links">[#misc](#misc) [#programming](#programming)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/104">Discussions View</a></span>
-
----
-<h2 class="anchored" id="what-courses-outside-the-cse-department-should-i-take">What courses outside the CSE department should I take?</h2>
-<a id=76></a> This is a great question and you should ask for advice on this topic from all fronts: your four-year advisor, your departmental advisor, your friends and colleagues.
- A great advantage of being a student at Washington University is the large breadth of topics covered by our faculty. You can and you should take courses outside your main interests to become a more educated, well rounded, and balanced student. We hear many stories from our students about the course they took to satisfy some distribution requirement that truly changed their thinking, encouraging them to take on a new minor or major, or even reshaping their career goals.
- In truth, it's hard to predict which course might be life-changing for you, but here are some ideas:
-* How do you like spending your free time?
- * Do you have artistic or musical inclinations?
- * Have you thought about acting or production of plays or musicals?
- * Is there a culture or country you would like to explore?
-
- We also hear that as much as the material might interest a student, the passion, expertise, and engagement of the professor teaching the course matters greatly. You might look for professors who excel at teaching by reading [course evaluations](https://asapps.artsci.wustl.edu/evals/login.asp) using
-* our [new system](https://registrar.wustl.edu/washu-course-evaluations/) (in use since 2016) or
-* the [old one](https://asapps.artsci.wustl.edu/evals/LoginRedirect.asp?AccessKey=0&AdminReports=False).
-
-.
- Another way students look at this question is to see what it would take to complete a major or minor in program outside CSE given what they take to earn their CSE major or minor. For example, many students find themselves close to completing a program in math, electrical engineering, or systems sciences as they finish coursework for their CSE major or minor.
-
-
-
-
-
-
-
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#minor](#minor) [#needs_review](#needs_review) [#passfail](#passfail) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/76">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="what-courses-should-i-take-if-i-am-interested-in-machine-learning">What courses should I take if I am interested in machine learning?</h2>
@@ -2808,66 +2391,6 @@ Each school also has an Associate Dean who supervises the academic activities of
 
 <span class="tag-links">[#academia](#academia)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/116">Discussions View</a></span>
-
----
-<h2 class="anchored" id="what-funding-options-are-available-to-support-my-graduate-studies">What funding options are available to support my graduate studies?</h2>
-<a id=106></a> Many students seek to expand or deepen their knowledge of computer science and engineering by pursuing graduate study after or in concert with their undergraduate studies. The financial assistance and incentive programs described here are written assuming you are a current Washington University undergraduate student. If you are not such a student, you can find more information about programs that are available to you
- [here](https://engineering.wustl.edu/prospective-students/graduate-admissions/Pages/default.aspx).
- While we encourage applications for graduate study from outside our campus, the financial assistance and incentive programs described here are not available for such students.
- Our faculty conduct research to push the field of computer science and computer engineering in new, interesting, and important directions. We encourage you to conduct research with faculty 
-* to help us with our research and 
- * to help you decide whether you want to perform research as part of graduate studies.
-
- Other parts of this FAQ describe the
- [research](#quicklinkresearch)  you might do as an undergraduate.
- At this point, you might find yourself somewhere on the spectrum of interest in graduate studies as follows:
-
- You like taking classes and learning more about computer science, but you are not interested in participating in research.
-  In this case, the best advice is to work ahead toward the courses you need to complete a master's degree while you are an undergraduate. The requirements for those degrees can be found on
-[these pages](https://cse.wustl.edu/graduate/programs/Pages/default.aspx), and you are encouraged to take courses that count for those degrees as you are able.
- Thereafter, you may stay one or more semesters to finish the master's work, and the tuition you pay may be decreased by our dean's
-[scholarship program](https://engineering.wustl.edu/prospective-students/graduate-admissions/Pages/bachelors-masters.aspx) (see table near bottom of that page), which is based on your undergraduate cumulative GPA at Washington University.
- Most students find they can finish the combined undergraduate and master's work in one extra semester. Rarely, a student finds that the work can be done in the same four years as the undergraduate degree. Sometimes the work may take two extra semesters.
-  You are certain you want to earn a doctorate in computer science
-  In this case, you are encouraged to become involved in research with our faculty as soon as possible and develop an impressive application for doctoral graduate study.
- Doctoral students in computer science (at Washington University and elsewhere) are *fully funded* with a stipend to support living expenses and no tuition expenses whatsoever.
- Doctoral work typically takes some 5 or 6 years to complete.
-  You are interested in research and a master's degree but don't want a PhD
-  In this case you have the following options, but all paths here begin by establishing a research relationship with a faculty member.
-* You fund yourself to continue your studies into a master's program, but complete up to 6 units of master's project or thesis credit in place of the same number of units you could earn by completing courses. As described above, your tuition may be discounted by the dean's
-[scholarship program](https://engineering.wustl.edu/prospective-students/graduate-admissions/Pages/bachelors-masters.aspx) (see table near bottom of that page), which is based on your undergraduate cumulative GPA at Washington University.
- Up to 6 units are earned as a master's project or thesis through the research you conduct with a faculty member. Faculty usually agree to such an arrangement only where the student has demonstrated interest and ability to work as a reseacher with faculty and other students.
- * You are funded by a faculty member to complete your master's studies. Here it is especially important for you to have *already engaged* with a faculty member in research, perhaps working in a lab or with a faculty member for one or more semesters or over the summer on research.
- There are currently two forms of this kind of support, which differ in terms of the time commitment made by the student for the research efforts. As stated above, these are available only for our current students and each requires recommendation by a faculty member.
-
- Master's Fellowship
-  Think of this as some funding you can receive one semester at a time by helping a faculty member with research.
- This arrangement takes place one semester at a time and is usually based on a faculty member's need for immediate help with research. For this one semester, you receive a fellowship at a level that is 50 percent of the stipend support given to doctoral students, and your tuition is discounted from its full price by 15 percent.
- With mutual agreement this could be extended into subsequent semesters.
-  Master of Science Research Assistantship
-  Think of this as a slow (2-year) but fully funded (tuition and stipend) path to an MS degree.
- You commit to being a full-time graduate student for a particular faculty member for two years, taking no more than two regular classes each semester, and devoting the rest of your time to research. Over a period of two years, you will finish the eight courses you need for the MS as well as a master's project or thesis for the other two courses needed for the degree. Your tuition is covered by the school, and you receive a research assistantship at a level that is 80 percent of the support given to PhD students.
- There are high expectations here of devotion to and progress on the research. The trust that such progress would be made is developed by prior experiences with the particular faculty member, who must be suitably impressed with your work ethic, research potential, and time management to make this commitment to you. Failure to sustain progress could terminate this arrangement at the faculty member's discretion.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<span class="tag-links">[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#masters](#masters) [#needs_review](#needs_review) [#research](#research) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/106">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="what-is-a-faq">What is a FAQ?</h2>
@@ -3522,63 +3045,6 @@ If **you want only one major and want to study computing**, you can consider the
 
 <span class="tag-links">[#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/12">Discussions View</a></span>
-
----
-<h2 class="anchored" id="with-what-frequency-are-courses-offered">With what frequency are courses offered?</h2>
-<a id=117></a> With the proviso that conditions sometimes conspire to prevent us from following this schedule exactly, the table below documents the frequency with which we have typically offered our courses.
-
-
-
-|  Course | Typically offered | Summer? | Curator(s) |
-| --- | --- | --- | --- |
-| Core Courses |
-| CSE131CSE501N | Every semester | Yes | Cytron |
-| CSE132CSE502N | Spring |  | Chamberlain |
-| CSE240 | Every semester |  | Baruah |
-| CSE247 | Every semester | Sometimes | Cole |
-| CSE332S | Every semester | Sometimes | Shidal |
-| CSE347 | Every semester |  | Juba |
-| Electives |
-| CSE222S | Once a year |  | Siever |
-| CSE231S | Every semester |  | Cosgrove |
-| CSE260M | Every semester |  | Richard |
-| CSE311A | Fall |  | Yeoh |
-| CSE330SCSE503S | Every semester | Yes | Sproull |
-| CSE341T | Fall, odd years |  | Agrawal |
-| CSE361S | Every semester |  | Lee |
-| CSE362M | Fall |  | Richard |
-| CSE365S | Fall |  | Cole |
-| CSE416A | Fall |  | Neumann |
-| CSE417T | Fall |  | Das |
-| CSE422S | Every semester |  | Kokolowski |
-| CSE427S | Every semester |  | Neumann |
-| CSE431S | Every third semester |  | Shook |
-| CSE437S | Every semester |  | Cytron |
-| CSE438S | Every semester | Yes | Sproull |
-| CSE450A | Spring |  | Kelleher |
-| CSE452A | Every two years |  | Ju |
-| CSE460T | Spring, even years |  | Richard |
-| CSE462M | Spring, odd years |  | Richard |
-| CSE465M | Taught by ESE |  | Richard |
-| CSE467S |  |  | Lu |
-| CSE473S |  |  | Guérin |
-| CSE511A |  |  | Garnett |
-| CSE517A |  |  | Neumann |
-| CSE520S |  |  | Lu |
-| CSE521S |  |  | Lu |
-| CSE523S |  |  | Shidal |
-| CSE530S |  | Sometimes | Shook |
-| Other Courses |
-| CSE104 | Best effort |  | Cytron |
-| CSE131R | Fall |  | Cytron |
-| CSE247R | Every semester |  | Cole |
-| CSE232 | Fall, best effort |  | Cytron |
-
-
-
-
-<span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/117">Discussions View</a></span>
 
 ---
 </div>
