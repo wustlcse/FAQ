@@ -44,6 +44,8 @@ markdown: kramdown
 
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
 
+[How is the Data Science Practicum requirement met?](#how-is-the-data-science-practicum-requirement-met)
+
 [If I am not satisfied with a grade I received on an assignment or in a course, what should I do?](#if-i-am-not-satisfied-with-a-grade-i-received-on-an-assignment-or-in-a-course-what-should-i-do)
 
 [If I withdraw from a course, what shows up on my transcript and how does the dropped course affect my GPA?](#if-i-withdraw-from-a-course-what-shows-up-on-my-transcript-and-how-does-the-dropped-course-affect-my-gpa)
@@ -237,6 +239,14 @@ markdown: kramdown
 <dd class="accordion-content" role="tabpanel" aria-labelledby="curriculum" aria-hidden="false">
 
 [What are the core courses for my degree?](#what-are-the-core-courses-for-my-degree)
+
+</dd>
+
+<dt class="accordion-header" aria-expanded="false" id="data_science" role="tab" aria-controls="data_science" aria-selected="false" tabindex="0"><span class="accordion-header-content anchored" id="data_science">data_science : Issues related to Data Science and the BS/AB in Data Science degrees.</span><svg width="20" height="20" viewBox="0 0 20 20"><path fill="#a51417" d="M5 6l5 5 5-5 2 1-7 7-7-7z"></path></svg></dt>
+
+<dd class="accordion-content" role="tabpanel" aria-labelledby="data_science" aria-hidden="false">
+
+[How is the Data Science Practicum requirement met?](#how-is-the-data-science-practicum-requirement-met)
 
 </dd>
 
@@ -526,8 +536,6 @@ markdown: kramdown
 
 [Can I take courses outside the department to satisfy **core** requirements or **electives**?  What courses count toward my major or minor from outside the CSE department? ](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements-or-electives--what-courses-count-toward-my-major-or-minor-from-outside-the-cse-department-)
 
-[Can the same course satisfy requirements across majors between Engineering (McKelvey School of Engineering) and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-engineering-mckelvey-school-of-engineering-and-other-schools)
-
 [Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
 
 [Degree requirements have changed since I started.  Am I required or allowed to use the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-use-the-new-requirements)
@@ -633,8 +641,6 @@ markdown: kramdown
 [Is CSE131 a weed-out course?](#is-cse-a-weed-out-course)
 
 [Is it ever worth it to cheat?](#is-it-ever-worth-it-to-cheat)
-
-[Is there a computing student group within our department / school / university?](#is-there-a-computing-student-group-within-our-department--school--university)
 
 [Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
 
@@ -1178,6 +1184,8 @@ markdown: kramdown
 
 [How is CS+Math different from a double (second) major?](#how-is-csmath-different-from-a-double-second-major)
 
+[How is the Data Science Practicum requirement met?](#how-is-the-data-science-practicum-requirement-met)
+
 [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
 
 [How much time do I spend on a course here?](#how-much-time-do-i-spend-on-a-course-here)
@@ -1413,7 +1421,7 @@ Similarly, if a student takes a course from another department that CSE feels ha
 
 
 
-<span class="tag-links">[#academia](#academia) [#artsci](#artsci) [#courses](#courses) [#graduate](#graduate) [#math](#math) [#misc](#misc) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#artsci](#artsci) [#courses](#courses) [#graduate](#graduate) [#math](#math) [#misc](#misc) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/65">Discussions View</a></span>
 
 ---
@@ -1884,6 +1892,27 @@ CS+Math also differs in the electives available.  A CS Major can select any CSE 
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/89">Discussions View</a></span>
 
 ---
+<h2 class="anchored" id="how-is-the-data-science-practicum-requirement-met">How is the Data Science Practicum requirement met?</h2>
+<a id=140></a>## Registration and Evaluation Process
+
+_**<u>Before</u>**_ starting the project, the project needs to be approved via the practicum registration form. This means it needs to be proposed by the student and approved by both the advisor and one member of the BS/ABDS committee. If being satisfied via a course the name and number, such as CSE400E, etc., must be provided.  
+
+_**<u>After</u>**_ completing the project (before the end of the semester it is counted for) the advisor and a BS/ABDS committee member will need to evaluate the project (report/presentation/documented software product or the like) and determine if the work satisfies the practicum.  If it does, academic records will be updated to indicate the Practicum Requirement has been fulfilled.
+
+**Incomplete**: If the project is not finished in the semester it is registered for, the advisor (or course instructor) or a AB/BSDS committee member will need to issue an incomplete (I) for the course the practicum is registered for.  
+
+**Grading**: The letter grade is up to the advisor (or course instructor) similar to our independent study or MS projects.
+
+Any deviation from the approved practicum approaches must be explicitly approved by the BS/ABDS committee in advance of the work.  This ensures the work will meet the objectives of the practicum, there will be sufficient faculty oversight, and the outcome will be reported in a way that can be reviewed by the BS/AB DS committee.
+ 
+## Internship Experiences
+We lean towards accepting internship experiences in satisfaction of the requirements, subject to faculty agreeing to oversee it. If it is paid, it cannot count for credit, but can satisfy the requirements.  The oversight requirements may require sharing Intellectual Property and internal details of the project and, consequently, should also be approved by employers in advance.  Evidence of such approval should be submitted with the Practicum registration form. 
+
+
+<span class="tag-links">[#academia](#academia) [#data_science](#data_science)</span>
+<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/140">Discussions View</a></span>
+
+---
 <h2 class="anchored" id="how-much-attention-should-i-pay-to-a-courses-stated-prerequisites">How much attention should I pay to a course's stated prerequisites?</h2>
 <a id=21></a> There are different answers depending on the school offering the course.
 
@@ -2257,7 +2286,7 @@ The [Developer Student Club WashU](https://www.dscwashu.com/) (also [here](https
 
 ## EnCouncil
 
-[EnCouncil](https://wustl.presence.io/organizations)) serves the interest of undergraduates in the School of Engineering.  It is described as:
+[EnCouncil](http://encouncil.wustl.edu/) serves the interest of undergraduates in the School of Engineering.  It is described as:
 
 > We provide a voice for the engineering student body to voice their opinions to the engineering undergraduate student services office and provide spaces for engineering students to mingle with their peers, faculty, and professionals.  
 
@@ -2294,7 +2323,7 @@ The [WashU Robotics Club](https://www.washurobotics.com/) (also [here](https://w
 > Washington University Women in Computer Science’s mission is to create a welcoming and supportive community for women in computing, bolster professional development by providing networking and mentorship opportunities, and inspire future generations of women by giving back to the greater St. Louis community.
 
 
-<span class="tag-links">[#acm](#acm) [#get_involved](#get_involved) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#acm](#acm) [#get_involved](#get_involved) [#graduate](#graduate) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/120">Discussions View</a></span>
 
 ---
