@@ -1895,7 +1895,7 @@ CS+Math also differs in the electives available.  A CS Major can select any CSE 
 <h2 class="anchored" id="how-is-the-data-science-practicum-requirement-met">How is the Data Science Practicum requirement met?</h2>
 <a id=140></a>## Registration and Evaluation Process
 
-_**<u>Before</u>**_ starting the project, the project needs to be approved via the practicum registration form. This means it needs to be proposed by the student and approved by both the advisor and one member of the BS/ABDS committee. If being satisfied via a course the name and number, such as CSE400E, etc., must be provided.  
+_**<u>Before</u>**_ starting the project, the project needs to be approved via the practicum registration form ([here](https://wustl.app.box.com/s/xfrrpne12unn00s8omnvktw4e2wrjh12)). This means it needs to be proposed by the student and approved by both the advisor and one member of the BS/ABDS committee. If being satisfied via a course the name and number, such as CSE400E, etc., must be provided.  
 
 _**<u>After</u>**_ completing the project (before the end of the semester it is counted for) the advisor and a BS/ABDS committee member will need to evaluate the project (report/presentation/documented software product or the like) and determine if the work satisfies the practicum.  If it does, academic records will be updated to indicate the Practicum Requirement has been fulfilled.
 
