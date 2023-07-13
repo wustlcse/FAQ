@@ -562,8 +562,6 @@ markdown: kramdown
 
 [How can I get space for students to get help from my TAs?](#how-can-i-get-space-for-students-to-get-help-from-my-tas)
 
-[How can I place out of a course if I think I already know that course's material?  / What happens to my program of study if I do place out?](#how-can-i-place-out-of-a-course-if-i-think-i-already-know-that-courses-material---what-happens-to-my-program-of-study-if-i-do-place-out)
-
 [How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
 
 [How do I arrange to study abroad?](#how-do-i-arrange-to-study-abroad)
@@ -607,8 +605,6 @@ markdown: kramdown
 [How much time do I spend on a course here?](#how-much-time-do-i-spend-on-a-course-here)
 
 [How much time should I expect to spend on CSE131?](#how-much-time-should-i-expect-to-spend-on-cse)
-
-[How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
 
 [I accepted a job offer with company X but have since received a more attracive offer from company Y. What should I do?](#i-accepted-a-job-offer-with-company-x-but-have-since-received-a-more-attracive-offer-from-company-y-what-should-i-do)
 
@@ -654,8 +650,6 @@ markdown: kramdown
 
 [What do our graduates do?](#what-do-our-graduates-do)
 
-[What does *lecture-free* mean?  How is that different from a typical lecture class?](#what-does-lecture-free-mean--how-is-that-different-from-a-typical-lecture-class)
-
 [What does a dean do?](#what-does-a-dean-do)
 
 [What does a provost do?](#what-does-a-provost-do)
@@ -667,8 +661,6 @@ markdown: kramdown
 [What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
 
 [What is recursion?](#what-is-recursion)
-
-[What is the difference between CSE 400 and CSE 400E  How does independent study work?](#what-is-the-difference-between-cse--and-cse-e--how-does-independent-study-work)
 
 [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
@@ -1022,8 +1014,6 @@ markdown: kramdown
 
 [What are the core courses for my degree?](#what-are-the-core-courses-for-my-degree)
 
-[What does *lecture-free* mean?  How is that different from a typical lecture class?](#what-does-lecture-free-mean--how-is-that-different-from-a-typical-lecture-class)
-
 [What is CSE&nbsp;501N?  How is it different from 131?](#what-is-csenbspn--how-is-it-different-from-)
 
 [What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
@@ -1239,8 +1229,6 @@ markdown: kramdown
 [What do our classrooms look like and how many people can they seat?](#what-do-our-classrooms-look-like-and-how-many-people-can-they-seat)
 
 [What do our graduates do?](#what-do-our-graduates-do)
-
-[What does *lecture-free* mean?  How is that different from a typical lecture class?](#what-does-lecture-free-mean--how-is-that-different-from-a-typical-lecture-class)
 
 [What does a dean do?](#what-does-a-dean-do)
 
@@ -1592,7 +1580,7 @@ If you feel you know the majority of the content:
 
 
 
-<span class="tag-links">[#ap_credit](#ap_credit) [#courses](#courses) [#needs_review](#needs_review) [#transfer_courses](#transfer_courses) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#ap_credit](#ap_credit) [#courses](#courses) [#transfer_courses](#transfer_courses) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/20">Discussions View</a></span>
 
 ---
@@ -1943,7 +1931,7 @@ Non-classroom activities, like project, thesis, and independent study have the s
 * Other files can be backed up to [dropbox](https://www.dropbox.com/) or [box](https://box.wustl.edu/) or other such providers.
 
 
-<span class="tag-links">[#computer](#computer) [#misc](#misc) [#needs_review](#needs_review)</span>
+<span class="tag-links">[#computer](#computer) [#misc](#misc)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/131">Discussions View</a></span>
 
 ---
@@ -2571,21 +2559,6 @@ Image from [https://engineering.wustl.edu/about/facilities/tour-our-buildings.ht
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/44">Discussions View</a></span>
 
 ---
-<h2 class="anchored" id="what-does-lecture-free-mean--how-is-that-different-from-a-typical-lecture-class">What does *lecture-free* mean?  How is that different from a typical lecture class?</h2>
-<a id=37></a>A traditional 3 unit lecture class consisted of 3 hours of lecture per week. Many courses use a different model. 
-
-"Lecture Free" courses often rely on a combination of:
-
-1. Preparing by assigned reading or watching videos (which are often broken into small parts and more carefully structured than a traditional lecture) 
-2. [Active Learning](http://en.wikipedia.org/wiki/Active_learning) to actively explore content.  Many CSE courses use the term "Studio" for this time. Studio sessions were partly informed by the concept of a creative collaborative [studio](https://en.wikipedia.org/wiki/Studio) space used in other disciplines. 
-
-
-
-
-<span class="tag-links">[#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
-<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/37">Discussions View</a></span>
-
----
 <h2 class="anchored" id="what-does-a-dean-do">What does a dean do?</h2>
 <a id=25></a> The title of [dean](https://en.wikipedia.org/wiki/Dean_(education)) is usually given to an individual who has significant oversight or responsibility for an academic unit, in our case a school of our university.
 
@@ -2798,7 +2771,7 @@ If you have a topic you'd like to research/study that seems like a fit for indep
   * Potential CSE faculty members who can supervise the work.  Often supervision involves weekly check-ins to ensure work is on progress and to provide feedback.  It's best to find someone with appropriate expertise or interest in the work.  If may be your faculty advisor. 
 * Once you have a plan, it needs to be approved by all parties:  your faculty advisor, the faculty member overseeing the independent study, and any degree-specific oversight committee.  
   * Register for designated number of units of CSE  400 or 400E for the person who has agreed to oversee the work.
-  * Contact the [CSE Undergraduate Coordinator](https://cse.wustl.edu/about/staff.html) and request/complete the form for Independent Study, which requires signatures of all parties.  Submit the form.  Once the form is accepted, enrollment in CSE 400/400E will be completed.
+  * Contact the CSE Undergraduate Coordinator ([email](mailto:cse.undergrad@email.wustl.edu) or [other contact info](https://cse.wustl.edu/about/staff.html)) and request/complete the form for Independent Study, which requires signatures of all parties.  Submit the form.  Once the form is accepted, enrollment in CSE 400/400E will be completed.
 
 Success depends upon investment of time by the student, the accurate and timely reporting of issues and progress, and the regular meetings with supervising faculty to keep the work on track. Most students who succeed at independent study report that they spend *more* than the usual amount of time on independent study, because they find the work interesting and rewarding.
 
@@ -2806,7 +2779,7 @@ Success depends upon investment of time by the student, the accurate and timely 
 
 
 
-<span class="tag-links">[#graduate](#graduate) [#independent_study](#independent_study) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#independent_study](#independent_study) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/30">Discussions View</a></span>
 
 ---
@@ -2946,7 +2919,7 @@ You do not need to be a programmer or CS-major to participate.
 
 While this form of software development is unusual, usually termed a "sprint", it is worthwhile to focus on a single project that could be added to your portfolio. You can network and learn from other people, particularly if you choose a project that goes outside your comfort zone. The focus on a singular prototype is challenging, and the time constraint teaches effective collaboration and efficient work. 
 
-Hackathons provide a great opportunity to display your skills, win prizes, and possibly create a project that you will pursue long-term. Corporate sponsors may recruit programmers from top teams, and the end result will always be an interesting project and newly acquired skills to talk about in future networking opportunities. 
+Hackathons provide a great opportunity to display your skills, meet new people, learn new things, win prizes, and possibly create a project that you will pursue long-term. Corporate sponsors may recruit programmers from top teams, and the end result will always be an interesting project and newly acquired skills to talk about in future networking opportunities. 
 
 ### Where/When/How
 
