@@ -2285,7 +2285,7 @@ The [WashU Robotics Club](https://www.washurobotics.com/) (also [here](https://w
 
 ## Women in Computer Science (WiCS)
 
-[WiCS](https://acm.wustl.edu/)  (also [here](https://wustl.presence.io/organization/women-in-computer-science)) describes itself as:
+[WiCS](https://www.wics.wustl.edu/)  (also [here](https://wustl.presence.io/organization/women-in-computer-science)) describes itself as:
 > Washington University Women in Computer Science’s mission is to create a welcoming and supportive community for women in computing, bolster professional development by providing networking and mentorship opportunities, and inspire future generations of women by giving back to the greater St. Louis community.
 
 
