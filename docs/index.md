@@ -3137,6 +3137,10 @@ Many courses are essentially the same size from semester to semester.  It may he
 1. **_Your waitlist position is not relevant in the majority of courses that are managed by waitlist._**  Waitlist position is based on when one adds the course to the schedule.  This does not provide fair access or allow prioritization of students who need specific courses. 
 2. **_There are exceptions and limitations to all prioritization schemes._**  For example, priority may **_not_** be given to someone who has **_recently_** added/changed degrees and now needs a specific course.  Some courses ensure enrollments of some non-senior undergraduates who may be able to be Teaching Assistants for the course in the future.  
 
+#### If you are on a waitlist when class begins
+
+If you are still on a waitlist when class begins, there may still be some chance of enrollment.  You should attend the first session(s) if space permits and do work/etc. (officially enrolled students get priority if there is insufficient classroom space).  If the instructor does not address waitlisted students during the first class session or you are unable to attend due to space constraints, you may contact them following the session (in person after class if scheduling permits or via email) to seek guidance on your chances of enrollment. 
+
 #### Course-by-Course priorities
 
 Here are the common waitlist processing priorities and guidance for many courses:
