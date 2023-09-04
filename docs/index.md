@@ -538,11 +538,7 @@ markdown: kramdown
 
 [How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
 
-[How are admissions handled?](#how-are-admissions-handled)
-
 [How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
-
-[How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
 
 [How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
 
@@ -552,35 +548,23 @@ markdown: kramdown
 
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
 
-[How do the honors math courses count?](#how-do-the-honors-math-courses-count)
-
 [I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
 
 [I have a conflict with one of my exams in this class.  What should I do?](#i-have-a-conflict-with-one-of-my-exams-in-this-class--what-should-i-do)
 
 [I have to take Math 310 (or 310W) as part of my studies for a math major or minor?  Can this count toward my CSE studies?](#i-have-to-take-math--or-w-as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies)
 
-[I'm having trouble with my computer.  Where can I get help?](#im-having-trouble-with-my-computer--where-can-i-get-help)
-
 [If I am not satisfied with a grade I received on an assignment or in a course, what should I do?](#if-i-am-not-satisfied-with-a-grade-i-received-on-an-assignment-or-in-a-course-what-should-i-do)
 
 [Is it ever worth it to cheat?](#is-it-ever-worth-it-to-cheat)
 
-[Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
-
 [What courses should I take if I am interested in machine learning?](#what-courses-should-i-take-if-i-am-interested-in-machine-learning)
-
-[What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
 
 [What probability/statistics course should I take?](#what-probabilitystatistics-course-should-i-take)
 
 [What programming languages do we teach in our curriculum?](#what-programming-languages-do-we-teach-in-our-curriculum)
 
 [Where can I learn more about cyber security?](#where-can-i-learn-more-about-cyber-security)
-
-[Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
-
-[Why would I consider transferring schools?](#why-would-i-consider-transferring-schools)
 
 </dd>
 
@@ -1351,7 +1335,7 @@ You should start by:
 
 
 
-<span class="tag-links">[#academia](#academia) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/97">Discussions View</a></span>
 
 ---
@@ -1413,7 +1397,7 @@ You should also consider taking [CSE 247R](https://courses.wustl.edu/CourseInfo.
 
 
 
-<span class="tag-links">[#acm](#acm) [#get_involved](#get_involved) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#programming](#programming) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#acm](#acm) [#get_involved](#get_involved) [#graduate](#graduate) [#misc](#misc) [#programming](#programming) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/125">Discussions View</a></span>
 
 ---
@@ -1661,7 +1645,7 @@ Each time you get a message from the list it will include a footer that describe
 
 
 
-<span class="tag-links">[#math](#math) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#math](#math) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/84">Discussions View</a></span>
 
 ---
@@ -1937,7 +1921,7 @@ If you need immediate access to a computer, [Engineering IT](https://engineering
 The School of Engineering also has a "laptop loaner" program for students taking courses from the School.  It allows you to borrow a laptop for short term use until you have managed to get a repair/replacement.  Contact your instructor, who will be able to confirm your enrollment and put you in touch with the laptop loaner coordinator.
 
 
-<span class="tag-links">[#computer](#computer) [#needs_review](#needs_review)</span>
+<span class="tag-links">[#computer](#computer)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/41">Discussions View</a></span>
 
 ---
@@ -2249,7 +2233,7 @@ Approximately 1-2 weeks after you register for classes you should get an email t
 
 
 
-<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
+<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#recommendation_letters](#recommendation_letters) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/53">Discussions View</a></span>
 
 ---
@@ -2458,7 +2442,7 @@ Completion of a senior thesis is designated in your transcripts as a "milestone"
 
 
 
-<span class="tag-links">[#needs_review](#needs_review) [#research](#research) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#research](#research) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/11">Discussions View</a></span>
 
 ---
@@ -3051,7 +3035,7 @@ There are a variety of reasons!
 
 
 
-<span class="tag-links">[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/99">Discussions View</a></span>
 
 ---
@@ -3086,7 +3070,7 @@ If **you want only one major and want to study computing**, you can consider the
 
 
 
-<span class="tag-links">[#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/12">Discussions View</a></span>
 
 ---
