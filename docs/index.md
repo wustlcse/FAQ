@@ -530,44 +530,6 @@ markdown: kramdown
 
 </dd>
 
-<dt class="accordion-header" aria-expanded="false" id="needs_review" role="tab" aria-controls="needs_review" aria-selected="false" tabindex="0"><span class="accordion-header-content anchored" id="needs_review">needs_review : Topics that need review.  Posted answer may not be accurate.</span><svg width="20" height="20" viewBox="0 0 20 20"><path fill="#a51417" d="M5 6l5 5 5-5 2 1-7 7-7-7z"></path></svg></dt>
-
-<dd class="accordion-content" role="tabpanel" aria-labelledby="needs_review" aria-hidden="false">
-
-[Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
-
-[How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
-
-[How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
-
-[How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
-
-[How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
-
-[How do I find a summer internship?](#how-do-i-find-a-summer-internship)
-
-[How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
-
-[I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
-
-[I have a conflict with one of my exams in this class.  What should I do?](#i-have-a-conflict-with-one-of-my-exams-in-this-class--what-should-i-do)
-
-[I have to take Math 310 (or 310W) as part of my studies for a math major or minor?  Can this count toward my CSE studies?](#i-have-to-take-math--or-w-as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies)
-
-[If I am not satisfied with a grade I received on an assignment or in a course, what should I do?](#if-i-am-not-satisfied-with-a-grade-i-received-on-an-assignment-or-in-a-course-what-should-i-do)
-
-[Is it ever worth it to cheat?](#is-it-ever-worth-it-to-cheat)
-
-[What courses should I take if I am interested in machine learning?](#what-courses-should-i-take-if-i-am-interested-in-machine-learning)
-
-[What probability/statistics course should I take?](#what-probabilitystatistics-course-should-i-take)
-
-[What programming languages do we teach in our curriculum?](#what-programming-languages-do-we-teach-in-our-curriculum)
-
-[Where can I learn more about cyber security?](#where-can-i-learn-more-about-cyber-security)
-
-</dd>
-
 <dt class="accordion-header" aria-expanded="false" id="olin" role="tab" aria-controls="olin" aria-selected="false" tabindex="0"><span class="accordion-header-content anchored" id="olin">olin : Olin Business School</span><svg width="20" height="20" viewBox="0 0 20 20"><path fill="#a51417" d="M5 6l5 5 5-5 2 1-7 7-7-7z"></path></svg></dt>
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="olin" aria-hidden="false">
@@ -1169,7 +1131,7 @@ Students are advised to consult counsel and to take steps to be on the safe side
 *up-front* whether any or all members are interested in publishing their work for money or even for free. If some members want to earn money or publish their work, and others do not, it is best that the group disband.
 
 
-<span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/31">Discussions View</a></span>
 
 ---
@@ -1349,7 +1311,7 @@ You should start by:
  * You are notified about the outcome, generally within a month of the draft's appearance. 
 
 
-<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
+<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/112">Discussions View</a></span>
 
 ---
@@ -1379,7 +1341,7 @@ Because there is leeway in how some courses count, students in a combined BS and
 
 
 
-<span class="tag-links">[#graduate](#graduate) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/9">Discussions View</a></span>
 
 ---
@@ -1451,7 +1413,7 @@ While the applications for REU sites will vary, they almost all require some sta
 
 
 
-<span class="tag-links">[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#research](#research) [#reu](#reu) [#student_life](#student_life) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
+<span class="tag-links">[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#recommendation_letters](#recommendation_letters) [#research](#research) [#reu](#reu) [#student_life](#student_life) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/121">Discussions View</a></span>
 
 ---
@@ -1494,7 +1456,7 @@ Things that can help:
 
 
 
-<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/19">Discussions View</a></span>
 
 ---
@@ -1559,13 +1521,13 @@ HCI studies the way humans and computers interact, aiming to improve the interfa
 ---
 <h2 class="anchored" id="how-do-i-find-a-summer-internship">How do I find a summer internship?</h2>
 <a id=33></a>
-* Subscribe to our department's *jobs* email list by contacting the CSE Undergraduate Coordinator, [María Sanchez](smaria@wustl.edu)
+* Subscribe to our department's *jobs* email list by contacting the [CSE Undergraduate Coordinator](mailto:cse.undergrad@email.wustl.edu)
  * Look for REU opportunities (also via the CSE Undergraduate Coordinator)
 * Participate in Career Fairs, company presentations, and other activities sponsored by [The Career Center](https://students.wustl.edu/career-center/). 
 * Participate in one of the School of Engineering's many [Mentoring Programs](https://engineering.wustl.edu/offices-services/student-services/mentor-programs.html). 
 
 
-<span class="tag-links">[#jobs](#jobs) [#needs_review](#needs_review)</span>
+<span class="tag-links">[#jobs](#jobs)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/33">Discussions View</a></span>
 
 ---
@@ -1592,7 +1554,7 @@ The portfolio documents your progress as a student of computer science as well a
 * Establish a relationship with faculty so that they can supply letters of recommendation. There is advice elsewhere in this FAQ about that.
 
 
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
+<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#jobs](#jobs) [#recommendation_letters](#recommendation_letters) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/57">Discussions View</a></span>
 
 ---
@@ -1818,18 +1780,18 @@ Often there is about a 5% change in enrollments in 131 during the first week(s) 
 
 ---
 <h2 class="anchored" id="i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes">I am struggling and need some help.  Is tutoring available for CSE classes?</h2>
-<a id=8></a>If you aren't already doing so, make use of any TA and instructor office hours and pay close attention to post on the course forum. 
+<a id=8></a>If you aren't already doing so, make use of any TA and instructor office hours.  Most courses also have some sort of forum platform, like Piazza.  Make use of it:  Read existing posts, post questions about content (which others probably share), etc. 
 
-The School of Engineering provides tutoring services for many for many courses.  The tutors will help students understand course content, but will not assist with specific assignments.  
+The School of Engineering provides tutoring services for many courses.  The tutors will help students understand course content, but will not assist with specific assignments.  
 * Students in the School of Engineering can request tutors for Physics, Math/Calc, Chem, Bio, and many Engineering School courses, including CSE courses. 
-* Students from other Schools can request tutoring for just Engineering School courses. 
+* Students from other Schools can request tutoring from Engineering for Engineering School courses. 
 
 Students in the School of Engineering can get some tutoring for free.  Students of other schools may have to pay for tutoring services.  
 
 To get more information on availability, any time limitations or fees, etc., complete the "Tutor Request" form on the "Advising & Services tab [here](https://engineering.wustl.edu/offices-services/student-services/undergraduate-student-services/index.html#tab2),
 
 
-<span class="tag-links">[#cse131](#cse131) [#get_help](#get_help) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#cse131](#cse131) [#get_help](#get_help) [#graduate](#graduate) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/8">Discussions View</a></span>
 
 ---
@@ -1844,7 +1806,7 @@ Usually conflicts are due to:
 
 
 
-<span class="tag-links">[#courses](#courses) [#needs_review](#needs_review)</span>
+<span class="tag-links">[#courses](#courses)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/102">Discussions View</a></span>
 
 ---
@@ -1900,7 +1862,7 @@ If you're pursuing a Major/Minor from the Math/Stat Department, you should check
 
 
 
-<span class="tag-links">[#math](#math) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#math](#math) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/96">Discussions View</a></span>
 
 ---
@@ -1955,7 +1917,7 @@ You should first identify the source of the dissatisfaction:
 
 ## Late work
 
-Did you miss a deadline for an assignment? Are seeking to turn in work late? or Did you miss turning in an assignment because of school-, athletic-, or career-related events?
+Did you miss a deadline for an assignment? Are you seeking to turn in work late? or Did you miss turning in an assignment because of school-, athletic-, or career-related events?
 
 * Address any expected absences before the semester begins. Athletic events, conferences, job interviews—all of these are important to your success and trajectory as a student at Washington University. Faculty are generally supportive of such absences, but when at all possible absences and work should be completed in advance.  Consult with course instructors as soon as possible to identify ways to overcome known absences.  **Do not rely on a TA's response to such questions or issues.**
 * Many courses have built-in flexibility to help students overcome typical absences that occur in a student's life (athletics, job interviews, etc.).  Examples of this flexibility include accepting work late (or early, "dropping" lowest scores, and/or extra credit.  In those courses you should expect to utilize the given flexibility for these needs rather than be given additional accommodations. 
@@ -1984,7 +1946,7 @@ Was the point tally on an assignment computed incorrectly? (See "Grading Issues"
 
 
 
-<span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/58">Discussions View</a></span>
 
 ---
@@ -2059,7 +2021,7 @@ You are at a top level university with great academic resources and you should b
 In the short-term and long-term, it is never worth it to cheat. There is always another way, and that alternative path will always be more beneficial. Do not risk your personal integrity for one assignment or one class. 
 
 
-<span class="tag-links">[#academic_integrity](#academic_integrity) [#needs_review](#needs_review) [#plagiarism](#plagiarism)</span>
+<span class="tag-links">[#academic_integrity](#academic_integrity) [#plagiarism](#plagiarism)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/39">Discussions View</a></span>
 
 ---
@@ -2352,7 +2314,7 @@ Machine learning requires a strong background in Probability, especially Bayesia
 
 
 
-<span class="tag-links">[#academia](#academia) [#courses](#courses) [#needs_review](#needs_review)</span>
+<span class="tag-links">[#academia](#academia) [#courses](#courses)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/74">Discussions View</a></span>
 
 ---
@@ -2684,8 +2646,9 @@ The use of Java in this course is fairly straightforward. If you have further qu
 <h2 class="anchored" id="what-probabilitystatistics-course-should-i-take">What probability/statistics course should I take?</h2>
 <a id=88></a> The answer here depends on the courses in computer science you wish to take and the other majors or minors you are completing at the university.  You also may want to consider CSE courses you are interested in taking in the future.  You may want to look at their prerequisites to see if there are any specific prob/stats requirements.  
 
-[ESE 328](https://courses.wustl.edu/CourseInfo.aspx?sch=E&dept=E60&crs=328) is our school's course in probability and statistics. 
- It satisfies the requirements of the majority of our degrees, however Data Science degrees require [MA 3211](https://courses.wustl.edu/CourseInfo.aspx?sch=L&dept=L24&crs=3211) and [MA 43211](https://courses.wustl.edu/CourseInfo.aspx?sch=L&dept=L24&crs=4211).  
+[ESE 326](https://courses.wustl.edu/CourseInfo.aspx?sch=E&dept=E35&crs=326): Probability and Statistics for Engineering is one of our school's course in probability and statistics.  It satisfies the requirements of the majority of our degrees, however Data Science degrees require [MA 3211](https://courses.wustl.edu/CourseInfo.aspx?sch=L&dept=L24&crs=3211) and [MA 43211](https://courses.wustl.edu/CourseInfo.aspx?sch=L&dept=L24&crs=4211).  
+
+Note that the School also offers [Engr 328](https://courses.wustl.edu/CourseInfo.aspx?sch=E&dept=E60&crs=328): Engineering Statistics with Probability.  Engr 328 has a slightly different focus and more emphasis on statistics.  **Engr 328 is NOT accepted for CSE degrees**.  
 
 If you are a major or minor outside our school, you should consider other departments' probability/statistics offerings, which we count as follows:
 * Students studying Math may be required to take Math 3200, which we count. 
@@ -2696,12 +2659,7 @@ If you are a major or minor outside our school, you should consider other depart
 
 
 
-
-
-
-
-
-<span class="tag-links">[#academia](#academia) [#needs_review](#needs_review) [#olin](#olin) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#olin](#olin) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/88">Discussions View</a></span>
 
 ---
@@ -2721,7 +2679,7 @@ For those who are interested in programming languages as a subject of study, we 
 
 
 
-<span class="tag-links">[#needs_review](#needs_review) [#programming](#programming)</span>
+<span class="tag-links">[#programming](#programming)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/7">Discussions View</a></span>
 
 ---
@@ -2901,12 +2859,13 @@ Courses directly focused on security / cyber include:
 * [433S: Intro. to Computer Security](https://courses.wustl.edu/CourseInfo.aspx?sch=E&dept=E81&crs=433S)
 * [434S: Reverse Engineering and Malware Analsysis](https://courses.wustl.edu/CourseInfo.aspx?sch=E&dept=E81&crs=434S)
 * [523S: Systems Security](https://courses.wustl.edu/CourseInfo.aspx?sch=E&dept=E81&crs=523S)
+* [527S: Data-driven Privacy and Security](https://courses.wustl.edu/CourseInfo.aspx?sch=E&dept=E81&crs=527S)
 * [571S: Network Security](https://courses.wustl.edu/CourseInfo.aspx?sch=E&dept=E81&crs=571S)
 * [637S: Software Security](https://courses.wustl.edu/CourseInfo.aspx?sch=E&dept=E81&crs=637S)
 
 There are also online resources that can teach these subjects, such as [this free one]( https://www.cybrary.it/), which provides excellent courses for all levels.
 
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/83">Discussions View</a></span>
 
 ---
