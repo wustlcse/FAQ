@@ -2938,7 +2938,7 @@ If you are still on a waitlist when class begins, there may still be some chance
 
 Here are the common waitlist processing priorities and guidance for many courses:
 
-* CSE 204A: Web Development:  204A follows wait-list order and is strictly capped at the number of seats listed for each section.   If your waitlist position is greater than 15% of the total course enrollment you are not likely to be able to join the course.  For example, if the course has 60 seats and you are higher than 9th on the waitlist you probably won't be able to join. 
+* CSE 204A: Web Development:  Priority is given to students in CSE degree programs that accept this course as an elective for the degree program.  Eligible students are admitted in waitlist order and the course is strictly capped at the number of seats listed for each section. If your waitlist position is greater than 15% of the total course enrollment you are not likely to be able to join the course. For example, if the course has 60 seats and you are higher than 9th on the waitlist you probably won’t be able to join.
 * CSE 217A: Intro. to Data Science:   This course is required for Data Science majors, so they get top priority.  Students who are contemplating a data science major would need to take this course in their sophomore year to be able to complete the Major in four years, so sophomores in any CSE degree (Major in CS, Minor, Second Major, etc.) get the second level of priority, followed by other CSE students based on waitlist order. 
    *  Lab/studio sections are often the major constraint on enrollment. Most students prefer a studio time that aligns with the lecture time.  Selecting a studio time that does not align with lectures may increase the chances of students who are not in the highest priority groups. 
 * CSE 231S Intro. to Parallel and Concurrent Programming:  Priority is given to students in CSE degree programs that accept this course as an elective for the degree program.  Some priority is also given to students who have been waitlisted in prior semesters. 
@@ -2961,11 +2961,13 @@ Here are the common waitlist processing priorities and guidance for many courses
 * CSE 497, 498, 499: Senior Project 1, Senior Project 2, & Undergraduate Honors Thesis:   You will stay on the waitlist until you submit an independent study form. Then once approved, you will be enrolled. You can find the form [here](https://wustl.app.box.com/s/yvvbc6fswktavvnnqiphfxbqpvdeyeky/file/1139213921334).
 * CSE 517A: Machine Learning.  Prerequisites of either CSE 417T or ESE 417 is enforced (or evidence of equivalent experience and permission of instructor).
 * CSE 522S: Advanced Operating Systems. Prerequisite of 422S or graduate standing is enforced (or evidence of equivalent experience and permission of instructor).
-* CSE 527A: Natural Language Processing.  Prerequisites of basic linear algebra, basic probability and statistics, basic machine learning (CSE 417T or ESE 417 or equivalent courses or instructor consent) and Python programming enforced.
+* CSE 527A: Natural Language Processing.  Priority is given to students in CSE degree programs that accept this course as an elective for the degree program. Prerequisites of basic linear algebra, basic probability and statistics, basic machine learning (CSE 417T or ESE 417 or equivalent courses or instructor consent) and Python programming enforced.
 * CSE 532S: Advanced Multi-paradigm Software Development. Prerequisite of 332S (or evidence of equivalent experience and permission of instructor) is enforced.
 * CSE 533T: Coding and Information Theory for Data Science.  Pre-req knowledge will be strictly enforced.  The instructor will survey students to confirm adequate preparation prior to processing the waitlist. 
 * CSE 537T: Trustworthy Autonomy. Pre-reqs are strictly enforced.  CSE and ESE PhD students have the highest priority, then CSE students in degrees that accept the course for degree credit (in waitlist order), then, space permitting, anyone else (in waitlist order).
 * CSE 570S: Recent Advances in Networking.  Priority is given to CSE and ESE students.
+* CSE 559A: Computer Vision. Priority is given to students in CSE degrees that accept the course for degree credit.  Priority will be given to PhD students and then in waitlist order.
+* CSE 571S: Network Security.  Students in the M.S. in Cybersecurity Engineering or the Cybersecurity Graduate Certificate have priority.  Enrollment is strictly capped. 
 * CSE 587A: Algorithms for Computational Biology. PhD students in the Computational and Systems Biology DBBS PhD program, for whom CSE587A is required, are enrolled first, then all other PhD students, then Bioinformatics minors, then all others (space permitting).
 
 
