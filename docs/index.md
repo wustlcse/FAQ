@@ -2928,7 +2928,7 @@ Many courses are essentially the same size from semester to semester.  It may he
 #### Two rules that apply to most waitlists
 
 1. **_Your waitlist position is not relevant in the majority of courses that are managed by waitlist._**  Waitlist position is based on when one adds the course to the schedule.  This does not provide fair access or allow prioritization of students who need specific courses. 
-2. **_There are exceptions and limitations to all prioritization schemes._**  For example, priority may **_not_** be given to someone who has **_recently_** added/changed degrees.  Some courses ensure enrollments of some non-senior undergraduates who may be able to be Teaching Assistants for the course in the future.  
+2. **_There are exceptions and limitations to all prioritization schemes._**  For example, priority may **_not_** be given to someone who has **_recently_** added/changed degrees and now needs a specific course.  Some courses ensure enrollments of some non-senior undergraduates who may be able to be Teaching Assistants for the course in the future.  
 
 #### If you are on a waitlist when class begins
 
@@ -2963,6 +2963,7 @@ Here are the common waitlist processing priorities and guidance for many courses
 * CSE 517A: Machine Learning.  Prerequisites of either CSE 417T or ESE 417 is enforced (or evidence of equivalent experience and permission of instructor).
 * CSE 522S: Advanced Operating Systems. Prerequisite of 422S or graduate standing is enforced (or evidence of equivalent experience and permission of instructor).
 * CSE 527A: Natural Language Processing.  Priority is given to students in CSE degree programs that accept this course as an elective for the degree program. Prerequisites of basic linear algebra, basic probability and statistics, basic machine learning (CSE 417T or ESE 417 or equivalent courses or instructor consent) and Python programming enforced.
+* 531A: AI for Health. Pre-reqs are strictly enforced: CSE 417T (ML), ESE 417 (ML), CSE 514A (Data Mining), or CSE 517A (ML). CSE PhD students have the highest priority, then CSE students in degrees that accept the course for degree credit (in waitlist order), then, space permitting, anyone else (in waitlist order).
 * CSE 532S: Advanced Multi-paradigm Software Development. Prerequisite of 332S (or evidence of equivalent experience and permission of instructor) is enforced.
 * CSE 533T: Coding and Information Theory for Data Science.  Pre-req knowledge will be strictly enforced.  The instructor will survey students to confirm adequate preparation prior to processing the waitlist. 
 * CSE 537T: Trustworthy Autonomy. Pre-reqs are strictly enforced.  CSE and ESE PhD students have the highest priority, then CSE students in degrees that accept the course for degree credit (in waitlist order), then, space permitting, anyone else (in waitlist order).
