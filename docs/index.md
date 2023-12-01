@@ -2969,6 +2969,7 @@ Here are the common waitlist processing priorities and guidance for many courses
 * CSE 537T: Trustworthy Autonomy. Pre-reqs are strictly enforced.  CSE and ESE PhD students have the highest priority, then CSE students in degrees that accept the course for degree credit (in waitlist order), then, space permitting, anyone else (in waitlist order).
 * CSE 570S: Recent Advances in Networking.  Priority is given to CSE and ESE students.
 * CSE 559A: Computer Vision. Pre-reqs are strictly enforced. Priority is given to students in CSE degrees that accept the course for degree credit.  Priority will be given to PhD students and then other CSE degrees in waitlist order.
+* CSE 561A: Large Language Models.  Priority to PhD students, then CSE students in degrees that accept the course for technical elective credit, then other CSE students, then Engineering students, then others.
 * CSE 571S: Network Security.  Students in the M.S. in Cybersecurity Engineering or the Cybersecurity Graduate Certificate have priority.  Enrollment is strictly capped. 
 * CSE 587A: Algorithms for Computational Biology. PhD students in the Computational and Systems Biology DBBS PhD program, for whom CSE587A is required, are enrolled first, then all other PhD students, then Bioinformatics minors, then all others (space permitting).
 
