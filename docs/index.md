@@ -1496,7 +1496,22 @@ You may want to browse courses that are required for [Computer Engineering](http
 
 ---
 <h2 class="anchored" id="how-do-i-earn-a-minor-in-computer-science">How do I earn a minor in computer science?</h2>
-<a id=75></a> The requirements for our minor are CSE131 (Introduction to Computer Science), CSE247 (Algorithms and Data Structures, and then three courses of your choosing that end with S, T, M, A, or E. You may also take CSE132, CSE240, or CSE347 and have it count toward the minor. At least 4 of your 5 courses must be traditional classroom courses offered by our department. One of your 5 courses can be outside the traditional classroom.  See ["Can I take courses outside the department..."](https://faq.cse.wustl.edu/#can-i-take-courses-outside-the-department-to-satisfy-core-requirements-or-electives--what-courses-count-toward-my-major-or-minor-from-outside-the-cse-department-).
+<a id=75></a>**Students Admitted to the Minor _After_ to August 1, 2024**:
+
+* CSE 131: Intro. to Computer Science
+* CSE 132: Intro. to Computer Engineering
+* CSE 247: Data Structures and Algorithms
+* CSE 332S: Object-Oriented Software Development Labratory
+
+And one of:
+* CSE 240: Discrete Mathematics
+* MA 310: Foundations for Higher Mathematics
+* CSE 330S: Rapid Prototype Development and Creative Programming
+* CSE 361S: Introduction to Systems Software
+
+
+**Students Admitted to the Minor _Prior_ to August 2024**:
+The requirements for our minor are CSE131 (Introduction to Computer Science), CSE247 (Algorithms and Data Structures, and then three courses of your choosing that end with S, T, M, A, or E. You may also take CSE132, CSE240, or CSE347 and have it count toward the minor. At least 4 of your 5 courses must be traditional classroom courses offered by our department. One of your 5 courses can be outside the traditional classroom.  See ["Can I take courses outside the department..."](https://faq.cse.wustl.edu/#can-i-take-courses-outside-the-department-to-satisfy-core-requirements-or-electives--what-courses-count-toward-my-major-or-minor-from-outside-the-cse-department-).
 
 <span class="tag-links">[#computer_science](#computer_science) [#minor](#minor) [#residency](#residency) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/75">Discussions View</a></span>
