@@ -36,7 +36,7 @@ markdown: kramdown
 
 [Can the same course satisfy requirements across majors between Engineering (McKelvey School of Engineering) and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-engineering-mckelvey-school-of-engineering-and-other-schools)
 
-[Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
+[Can the same course satisfy requirements for multiple degrees?](#can-the-same-course-satisfy-requirements-for-multiple-degrees)
 
 [How are admissions handled?](#how-are-admissions-handled)
 
@@ -176,7 +176,7 @@ markdown: kramdown
 
 [Can the same course satisfy requirements across majors between Engineering (McKelvey School of Engineering) and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-engineering-mckelvey-school-of-engineering-and-other-schools)
 
-[Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
+[Can the same course satisfy requirements for multiple degrees?](#can-the-same-course-satisfy-requirements-for-multiple-degrees)
 
 [How can I place out of a course if I think I already know that course's material?  / What happens to my program of study if I do place out?](#how-can-i-place-out-of-a-course-if-i-think-i-already-know-that-courses-material---what-happens-to-my-program-of-study-if-i-do-place-out)
 
@@ -268,7 +268,9 @@ markdown: kramdown
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="double_counting" aria-hidden="false">
 
-[Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
+[Can the same course satisfy requirements across majors between Engineering (McKelvey School of Engineering) and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-engineering-mckelvey-school-of-engineering-and-other-schools)
+
+[Can the same course satisfy requirements for multiple degrees?](#can-the-same-course-satisfy-requirements-for-multiple-degrees)
 
 </dd>
 
@@ -606,7 +608,7 @@ markdown: kramdown
 
 [Can the same course satisfy requirements across majors between Engineering (McKelvey School of Engineering) and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-engineering-mckelvey-school-of-engineering-and-other-schools)
 
-[Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
+[Can the same course satisfy requirements for multiple degrees?](#can-the-same-course-satisfy-requirements-for-multiple-degrees)
 
 [Degree requirements have changed since I started.  Am I required or allowed to use the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-use-the-new-requirements)
 
@@ -736,7 +738,7 @@ markdown: kramdown
 
 [Can the same course satisfy requirements across majors between Engineering (McKelvey School of Engineering) and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-engineering-mckelvey-school-of-engineering-and-other-schools)
 
-[Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
+[Can the same course satisfy requirements for multiple degrees?](#can-the-same-course-satisfy-requirements-for-multiple-degrees)
 
 [Degree requirements have changed since I started.  Am I required or allowed to use the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-use-the-new-requirements)
 
@@ -906,7 +908,7 @@ markdown: kramdown
 
 [Can the same course satisfy requirements across majors between Engineering (McKelvey School of Engineering) and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-engineering-mckelvey-school-of-engineering-and-other-schools)
 
-[Can the same course satisfy requirements for multiple majors?](#can-the-same-course-satisfy-requirements-for-multiple-majors)
+[Can the same course satisfy requirements for multiple degrees?](#can-the-same-course-satisfy-requirements-for-multiple-degrees)
 
 <hr class="toc-divider">
 
@@ -1203,12 +1205,12 @@ Similarly, if a student takes a course from another department that CSE feels ha
 
 
 
-<span class="tag-links">[#academia](#academia) [#artsci](#artsci) [#courses](#courses) [#graduate](#graduate) [#math](#math) [#misc](#misc) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#artsci](#artsci) [#courses](#courses) [#double_counting](#double_counting) [#graduate](#graduate) [#math](#math) [#misc](#misc) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/65">Discussions View</a></span>
 
 ---
-<h2 class="anchored" id="can-the-same-course-satisfy-requirements-for-multiple-majors">Can the same course satisfy requirements for multiple majors?</h2>
-<a id=86></a>The McKelvey School of Engineering has no prohibition against the same course satisfying multiple requirements. For example, if CSE 131 is required by both computer science and mechanical engineering, then it counts for both by satisfying each such requirement concurrently.  
+<h2 class="anchored" id="can-the-same-course-satisfy-requirements-for-multiple-degrees">Can the same course satisfy requirements for multiple degrees?</h2>
+<a id=86></a>The McKelvey School of Engineering has no prohibition against the same course satisfying multiple requirements. For example, if CSE 131 is required by both computer science and mechanical engineering, then it counts for both by satisfying each such requirement concurrently.  Credits can even be counted for multiple degrees from the CSE department, like the CS Major and the BioInformatics Minor. 
 
 Other Departments or Schools, like the School of Arts and Sciences, may have rules that restrict double counting.  If/when there are courses that may be used by a degree that generally restricts "double counting", Computer Science and Engineering is *usually* willing to "waive" requirements on the Computer Science and Engineering degree to offset coursework in recognition of the coursework that was completed for other degrees.  
 
