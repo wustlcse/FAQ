@@ -532,6 +532,210 @@ markdown: kramdown
 
 </dd>
 
+<dt class="accordion-header" aria-expanded="false" id="needs_review" role="tab" aria-controls="needs_review" aria-selected="false" tabindex="0"><span class="accordion-header-content anchored" id="needs_review">needs_review : Topics that need review.  Posted answer may not be accurate.</span><svg width="20" height="20" viewBox="0 0 20 20"><path fill="#a51417" d="M5 6l5 5 5-5 2 1-7 7-7-7z"></path></svg></dt>
+
+<dd class="accordion-content" role="tabpanel" aria-labelledby="needs_review" aria-hidden="false">
+
+[Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
+
+[Can I get a different faculty advisor?](#can-i-get-a-different-faculty-advisor)
+
+[Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
+
+[Can I take courses outside the department to satisfy **core** requirements or **electives**?  What courses count toward my major or minor from outside the CSE department? ](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements-or-electives--what-courses-count-toward-my-major-or-minor-from-outside-the-cse-department-)
+
+[Can the same course satisfy requirements across majors between Engineering (McKelvey School of Engineering) and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-engineering-mckelvey-school-of-engineering-and-other-schools)
+
+[Can the same course satisfy requirements for multiple degrees?](#can-the-same-course-satisfy-requirements-for-multiple-degrees)
+
+[Degree requirements have changed since I started.  Am I required or allowed to use the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-use-the-new-requirements)
+
+[Do I need any computer science background to succeed in CSE131?](#do-i-need-any-computer-science-background-to-succeed-in-cse)
+
+[Do I need to take CSE 240 before CSE 247?](#do-i-need-to-take-cse--before-cse-)
+
+[Do I need to take CSE347?](#do-i-need-to-take-cse)
+
+[How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
+
+[How are admissions handled?](#how-are-admissions-handled)
+
+[How can I contribute to this FAQ?](#how-can-i-contribute-to-this-faq)
+
+[How can I find out what I still need to do to meet my degree requirements and graduate?](#how-can-i-find-out-what-i-still-need-to-do-to-meet-my-degree-requirements-and-graduate)
+
+[How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
+
+[How can I place out of a course if I think I already know that course's material?  / What happens to my program of study if I do place out?](#how-can-i-place-out-of-a-course-if-i-think-i-already-know-that-courses-material---what-happens-to-my-program-of-study-if-i-do-place-out)
+
+[How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
+
+[How do I arrange to study abroad?](#how-do-i-arrange-to-study-abroad)
+
+[How do I become a programmer right now? ](#how-do-i-become-a-programmer-right-now-)
+
+[How do I do CS+Math? What upper level electives count? Can I do this as a second major?](#how-do-i-do-csmath-what-upper-level-electives-count-can-i-do-this-as-a-second-major)
+
+[How do I earn a minor in Human-Computer Interaction (HCI)?](#how-do-i-earn-a-minor-in-human-computer-interaction-hci)
+
+[How do I earn a minor in bioinformatics?](#how-do-i-earn-a-minor-in-bioinformatics)
+
+[How do I earn a minor in computer engineering?](#how-do-i-earn-a-minor-in-computer-engineering)
+
+[How do I earn a minor in computer science?](#how-do-i-earn-a-minor-in-computer-science)
+
+[How do I earn a second major in computer engineering?](#how-do-i-earn-a-second-major-in-computer-engineering)
+
+[How do I find a summer internship?](#how-do-i-find-a-summer-internship)
+
+[How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
+
+[How do I sign up for summer classes?](#how-do-i-sign-up-for-summer-classes)
+
+[How do I study CSE while preparing for medical school?](#how-do-i-study-cse-while-preparing-for-medical-school)
+
+[How do I subscribe the the department's <EM>jobs</EM> email list?](#how-do-i-subscribe-the-the-departments-emjobsem-email-list)
+
+[How do the honors math courses count?](#how-do-the-honors-math-courses-count)
+
+[How does pass/fail work?](#how-does-passfail-work)
+
+[How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
+
+[How does the CSE131 placement exam work?  Do I need to take CSE 131?](#how-does-the-cse-placement-exam-work--do-i-need-to-take-cse-)
+
+[How is CS+Math different from a double (second) major?](#how-is-csmath-different-from-a-double-second-major)
+
+[How is the Data Science Practicum requirement met?](#how-is-the-data-science-practicum-requirement-met)
+
+[How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
+
+[How much time do I spend on a course here?](#how-much-time-do-i-spend-on-a-course-here)
+
+[How much time should I expect to spend on CSE131?](#how-much-time-should-i-expect-to-spend-on-cse)
+
+[How should I back up my work on my computer?](#how-should-i-back-up-my-work-on-my-computer)
+
+[I accepted a job offer with company X but have since received a more attracive offer from company Y. What should I do?](#i-accepted-a-job-offer-with-company-x-but-have-since-received-a-more-attracive-offer-from-company-y-what-should-i-do)
+
+[I am on the waiting list for CSE131 or for the lab section I need.  Will I be able to take the course?](#i-am-on-the-waiting-list-for-cse-or-for-the-lab-section-i-need--will-i-be-able-to-take-the-course)
+
+[I am struggling and need some help.  Is tutoring available for CSE classes?](#i-am-struggling-and-need-some-help--is-tutoring-available-for-cse-classes)
+
+[I have a conflict with one of my exams in this class.  What should I do?](#i-have-a-conflict-with-one-of-my-exams-in-this-class--what-should-i-do)
+
+[I have accommodation on timed exams and quizzes.  How do I arrange to take these?](#i-have-accommodation-on-timed-exams-and-quizzes--how-do-i-arrange-to-take-these)
+
+[I have enjoyed 131.  What course should I take next?](#i-have-enjoyed---what-course-should-i-take-next)
+
+[I have some programming experience.  Will I be bored in CSE131?](#i-have-some-programming-experience--will-i-be-bored-in-cse)
+
+[I have to take Math 310 (or 310W) as part of my studies for a math major or minor?  Can this count toward my CSE studies?](#i-have-to-take-math--or-w-as-part-of-my-studies-for-a-math-major-or-minor--can-this-count-toward-my-cse-studies)
+
+[I need a laptop for my CSE work and don't have one that works; what should I do?](#i-need-a-laptop-for-my-cse-work-and-dont-have-one-that-works-what-should-i-do)
+
+[I'm having trouble with my computer.  Where can I get help?](#im-having-trouble-with-my-computer--where-can-i-get-help)
+
+[I'm struggling and feeling overwhelmed. What should I do?](#im-struggling-and-feeling-overwhelmed-what-should-i-do)
+
+[If CSE131 is waived do I have to take another course instead?](#if-cse-is-waived-do-i-have-to-take-another-course-instead)
+
+[If I am not satisfied with a grade I received on an assignment or in a course, what should I do?](#if-i-am-not-satisfied-with-a-grade-i-received-on-an-assignment-or-in-a-course-what-should-i-do)
+
+[If I retake a course, what happens on my transcript and how does this affect my GPA?](#if-i-retake-a-course-what-happens-on-my-transcript-and-how-does-this-affect-my-gpa)
+
+[If I withdraw from a course, what shows up on my transcript and how does the dropped course affect my GPA?](#if-i-withdraw-from-a-course-what-shows-up-on-my-transcript-and-how-does-the-dropped-course-affect-my-gpa)
+
+[Is CSE131 a weed-out course?](#is-cse-a-weed-out-course)
+
+[Is it ever worth it to cheat?](#is-it-ever-worth-it-to-cheat)
+
+[Is there a computing student group within our department / school / university?](#is-there-a-computing-student-group-within-our-department--school--university)
+
+[Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
+
+[README](#readme)
+
+[Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
+
+[Should I get course credit (CSE 400E, CSE 599, CSE 598) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-cse--cse--or-be-paid-for-research-with-faculty)
+
+[Should I pursue a master's degree (at WashU / BS/MS)?](#should-i-pursue-a-masters-degree-at-washu--bsms)
+
+[What are residency requirements?](#what-are-residency-requirements)
+
+[What are the core courses for my degree?](#what-are-the-core-courses-for-my-degree)
+
+[What can I read to learn more about "computing" topics?](#what-can-i-read-to-learn-more-about-computing-topics)
+
+[What courses should I take if I am interested in machine learning?](#what-courses-should-i-take-if-i-am-interested-in-machine-learning)
+
+[What do our classrooms look like and how many people can they seat?](#what-do-our-classrooms-look-like-and-how-many-people-can-they-seat)
+
+[What do our graduates do?](#what-do-our-graduates-do)
+
+[What does a dean do?](#what-does-a-dean-do)
+
+[What does a provost do?](#what-does-a-provost-do)
+
+[What is CSE&nbsp;501N?  How is it different from 131?](#what-is-csenbspn--how-is-it-different-from-)
+
+[What is a FAQ?](#what-is-a-faq)
+
+[What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
+
+[What is academic integrity and how does the academic integrity process work?](#what-is-academic-integrity-and-how-does-the-academic-integrity-process-work)
+
+[What is recursion?](#what-is-recursion)
+
+[What is the difference between CSE 400 and CSE 400E  How does independent study work?](#what-is-the-difference-between-cse--and-cse-e--how-does-independent-study-work)
+
+[What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
+
+[What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
+
+[What is the difference between computer science (CS) and computer engineering (CoE)?](#what-is-the-difference-between-computer-science-cs-and-computer-engineering-coe)
+
+[What is the difference between my 4-year advisor and my departmental advisor?](#what-is-the-difference-between-my--year-advisor-and-my-departmental-advisor)
+
+[What kind of computer should I have for studies in computer science or computer engineering?](#what-kind-of-computer-should-i-have-for-studies-in-computer-science-or-computer-engineering)
+
+[What language does CSE247/502N use?  Do I have to have taken CSE131/501N?](#what-language-does-csen-use--do-i-have-to-have-taken-csen)
+
+[What probability/statistics course should I take?](#what-probabilitystatistics-course-should-i-take)
+
+[What programming languages do we teach in our curriculum?](#what-programming-languages-do-we-teach-in-our-curriculum)
+
+[What web design courses can I take?](#what-web-design-courses-can-i-take)
+
+[What's a hackathon, where/when/why/how should I get involved?](#whats-a-hackathon-wherewhenwhyhow-should-i-get-involved)
+
+[What's an "open" program?    How do I change/add/drop a degree (open program)?](#whats-an-open-program----how-do-i-changeadddrop-a-degree-open-program)
+
+[When am I allowed to collaborate on assignments?](#when-am-i-allowed-to-collaborate-on-assignments)
+
+[When and how often should I meet with my departmental faculty advisor?  What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisor--what-kind-of-advice-should-i-expect-my-advisor-to-provide)
+
+[Where can I find the form I need to fill out for independent study?](#where-can-i-find-the-form-i-need-to-fill-out-for-independent-study)
+
+[Where can I learn more about cyber security?](#where-can-i-learn-more-about-cyber-security)
+
+[Where do CSE students study abroad?](#where-do-cse-students-study-abroad)
+
+[Where do I look to see the various dates pertaining to our academic calendar?](#where-do-i-look-to-see-the-various-dates-pertaining-to-our-academic-calendar)
+
+[Which is better, a mac or a pc?](#which-is-better-a-mac-or-a-pc)
+
+[Why St. Louis?](#why-st-louis)
+
+[Why am I on a waitlist? How are waitlists managed? What are my chances of enrollment? What is "Managed by waitlist"?](#why-am-i-on-a-waitlist-how-are-waitlists-managed-what-are-my-chances-of-enrollment-what-is-managed-by-waitlist)
+
+[Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
+
+[Why would I consider transferring schools?](#why-would-i-consider-transferring-schools)
+
+</dd>
+
 <dt class="accordion-header" aria-expanded="false" id="olin" role="tab" aria-controls="olin" aria-selected="false" tabindex="0"><span class="accordion-header-content anchored" id="olin">olin : Olin Business School</span><svg width="20" height="20" viewBox="0 0 20 20"><path fill="#a51417" d="M5 6l5 5 5-5 2 1-7 7-7-7z"></path></svg></dt>
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="olin" aria-hidden="false">
@@ -1133,7 +1337,7 @@ Students are advised to consult counsel and to take steps to be on the safe side
 *up-front* whether any or all members are interested in publishing their work for money or even for free. If some members want to earn money or publish their work, and others do not, it is best that the group disband.
 
 
-<span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/31">Discussions View</a></span>
 
 ---
@@ -1149,7 +1353,7 @@ The change link should look like:
 That option may not be available during advising/registration periods or for certain degree programs that don't allow students to make such requests (all CSE programs _do_ allow this).   If the option isn't available and it is _not_ advising/registration time (approximately mid-semester until the last week of the semester), contact the registrar in the school that is the home to the degree program where you'd like a new advisor. 
 
 
-<span class="tag-links">[#academia](#academia)</span>
+<span class="tag-links">[#academia](#academia) [#needs_review](#needs_review)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/139">Discussions View</a></span>
 
 ---
@@ -1163,7 +1367,7 @@ Courses from other universities (non study abroad) may be transferred in with so
    * You can request consideration of courses that are not already in the database by following the [Course Transfer Policies](https://engineering.wustl.edu/current-students/student-services/Pages/transfer-course-credit.aspx).
 
 
-<span class="tag-links">[#graduate](#graduate) [#residency](#residency) [#transfer_courses](#transfer_courses) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#needs_review](#needs_review) [#residency](#residency) [#transfer_courses](#transfer_courses) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/51">Discussions View</a></span>
 
 ---
@@ -1189,7 +1393,7 @@ CSE 131 is a little bit of an exception.  Appropriate courses and AP CS-A credit
 
 
 
-<span class="tag-links">[#graduate](#graduate) [#residency](#residency) [#transfer_courses](#transfer_courses) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#needs_review](#needs_review) [#residency](#residency) [#transfer_courses](#transfer_courses) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/13">Discussions View</a></span>
 
 ---
@@ -1205,7 +1409,7 @@ Similarly, if a student takes a course from another department that CSE feels ha
 
 
 
-<span class="tag-links">[#academia](#academia) [#artsci](#artsci) [#courses](#courses) [#double_counting](#double_counting) [#graduate](#graduate) [#math](#math) [#misc](#misc) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#artsci](#artsci) [#courses](#courses) [#double_counting](#double_counting) [#graduate](#graduate) [#math](#math) [#misc](#misc) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/65">Discussions View</a></span>
 
 ---
@@ -1216,7 +1420,7 @@ Other Departments or Schools, like the School of Arts and Sciences, may have rul
 
 For example, a student majoring in Math may take MA 310 as a requirement of their Math studies.  Many CSE degrees require either MA 310 or CSE 240 to ensure our students have experience with Discrete Math and proof techniques.  We usually "waive" the requirement for students who have taken MA 310.  They clearly have completed coursework needed for our degree and the waiver allows the MA 310 credit be used by the Math degree rather than being rejected due to double counting rules. 
 
-<span class="tag-links">[#academia](#academia) [#courses](#courses) [#double_counting](#double_counting) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#courses](#courses) [#double_counting](#double_counting) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/86">Discussions View</a></span>
 
 ---
@@ -1232,7 +1436,7 @@ Degree audits ([WUAchieve](https://registrar.wustl.edu/wuachieve/)) will use the
 
 
 
-<span class="tag-links">[#degree](#degree) [#graduate](#graduate) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#degree](#degree) [#graduate](#graduate) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/6">Discussions View</a></span>
 
 ---
@@ -1242,7 +1446,7 @@ Degree audits ([WUAchieve](https://registrar.wustl.edu/wuachieve/)) will use the
  * If you're looking for an interesting and worthwhile course, welcome!
 
 
-<span class="tag-links">[#cse131](#cse131) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/62">Discussions View</a></span>
 
 ---
@@ -1262,7 +1466,7 @@ In addition, 247 assumes prior experience with Calculus concepts:
 
 
 
-<span class="tag-links">[#graduate](#graduate) [#prerequisites](#prerequisites) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#needs_review](#needs_review) [#prerequisites](#prerequisites) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/132">Discussions View</a></span>
 
 ---
@@ -1275,7 +1479,7 @@ CSE 347 is currently required for:
 * B.S. in Computer Science + Mathematics / Second Major in Computer Science + Mathematics / AB in Mathematics & Computer Science
 
 
-<span class="tag-links">[#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/38">Discussions View</a></span>
 
 ---
@@ -1298,7 +1502,7 @@ You should start by:
 
 
 
-<span class="tag-links">[#academia](#academia) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/97">Discussions View</a></span>
 
 ---
@@ -1312,7 +1516,7 @@ You should start by:
  * You are notified about the outcome, generally within a month of the draft's appearance. 
 
 
-<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
+<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/112">Discussions View</a></span>
 
 ---
@@ -1324,7 +1528,7 @@ You should start by:
 
 
 
-<span class="tag-links">[#get_involved](#get_involved) [#misc](#misc) [#student_life](#student_life)</span>
+<span class="tag-links">[#get_involved](#get_involved) [#misc](#misc) [#needs_review](#needs_review) [#student_life](#student_life)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/69">Discussions View</a></span>
 
 ---
@@ -1342,7 +1546,7 @@ Because there is leeway in how some courses count, students in a combined BS and
 
 
 
-<span class="tag-links">[#graduate](#graduate) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/9">Discussions View</a></span>
 
 ---
@@ -1360,7 +1564,7 @@ You should also consider taking [CSE 247R](https://courses.wustl.edu/CourseInfo.
 
 
 
-<span class="tag-links">[#acm](#acm) [#get_involved](#get_involved) [#graduate](#graduate) [#misc](#misc) [#programming](#programming) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#acm](#acm) [#get_involved](#get_involved) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#programming](#programming) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/125">Discussions View</a></span>
 
 ---
@@ -1390,7 +1594,7 @@ If you feel you know the majority of the content:
 
 
 
-<span class="tag-links">[#ap_credit](#ap_credit) [#courses](#courses) [#transfer_courses](#transfer_courses) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#ap_credit](#ap_credit) [#courses](#courses) [#needs_review](#needs_review) [#transfer_courses](#transfer_courses) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/20">Discussions View</a></span>
 
 ---
@@ -1414,7 +1618,7 @@ While the applications for REU sites will vary, they almost all require some sta
 
 
 
-<span class="tag-links">[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#recommendation_letters](#recommendation_letters) [#research](#research) [#reu](#reu) [#student_life](#student_life) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
+<span class="tag-links">[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#research](#research) [#reu](#reu) [#student_life](#student_life) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/121">Discussions View</a></span>
 
 ---
@@ -1436,7 +1640,7 @@ Many of our students are interested in studying abroad. You should start to plan
 
 
 
-<span class="tag-links">[#student_life](#student_life) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/110">Discussions View</a></span>
 
 ---
@@ -1457,7 +1661,7 @@ Things that can help:
 
 
 
-<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/19">Discussions View</a></span>
 
 ---
@@ -1473,7 +1677,7 @@ Approved electives are based on agreements between C.S. faculty and Math faculty
 * It should be there but we haven't thought to put it there.  You should contact the associate chair in the department hosting your CS+Math studies (Computer Science and Engineering, or Math).
 
 
-<span class="tag-links">[#math](#math) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#math](#math) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/18">Discussions View</a></span>
 
 ---
@@ -1483,7 +1687,7 @@ Approved electives are based on agreements between C.S. faculty and Math faculty
 
 
 
-<span class="tag-links">[#academia](#academia) [#computer_science](#computer_science) [#minor](#minor) [#misc](#misc) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#computer_science](#computer_science) [#minor](#minor) [#misc](#misc) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/115">Discussions View</a></span>
 
 ---
@@ -1492,7 +1696,7 @@ Approved electives are based on agreements between C.S. faculty and Math faculty
 
 You may want to browse courses that are required for [Computer Engineering](https://bulletin.wustl.edu/undergrad/engineering/computerscience/bs-computer-engineering/) to select courses of interest.  Note that any course number that ends with an "M", like 260M, are focused on "Machines" and have a computer engineering focus. 
 
-<span class="tag-links">[#computer_engineering](#computer_engineering) [#minor](#minor) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#computer_engineering](#computer_engineering) [#minor](#minor) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/80">Discussions View</a></span>
 
 ---
@@ -1514,7 +1718,7 @@ And one of:
 **Students Admitted to the Minor _Prior_ to August 2024**:
 The requirements for our minor are CSE131 (Introduction to Computer Science), CSE247 (Algorithms and Data Structures, and then three courses of your choosing that end with S, T, M, A, or E. You may also take CSE132, CSE240, or CSE347 and have it count toward the minor. At least 4 of your 5 courses must be traditional classroom courses offered by our department. One of your 5 courses can be outside the traditional classroom.  See ["Can I take courses outside the department..."](https://faq.cse.wustl.edu/#can-i-take-courses-outside-the-department-to-satisfy-core-requirements-or-electives--what-courses-count-toward-my-major-or-minor-from-outside-the-cse-department-).
 
-<span class="tag-links">[#computer_science](#computer_science) [#minor](#minor) [#residency](#residency) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#computer_science](#computer_science) [#minor](#minor) [#needs_review](#needs_review) [#residency](#residency) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/75">Discussions View</a></span>
 
 ---
@@ -1524,14 +1728,14 @@ HCI studies the way humans and computers interact, aiming to improve the interfa
 
 
 
-<span class="tag-links">[#minor](#minor) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#minor](#minor) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/35">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="how-do-i-earn-a-second-major-in-computer-engineering">How do I earn a second major in computer engineering?</h2>
 <a id=70></a> You can't: we don't offer a second major in Computer Engineering. Consider a primary major in Computer Engineering and a Second Major in Computer Science.   This approach will ensure you have the background needed for Computer Engineering and still allows you to get a significant amount of work in Computer Science.  In fact, with careful selection of electives it's possible to get both with only a little additional coursework. 
 
-<span class="tag-links">[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/70">Discussions View</a></span>
 
 ---
@@ -1543,7 +1747,7 @@ HCI studies the way humans and computers interact, aiming to improve the interfa
 * Participate in one of the School of Engineering's many [Mentoring Programs](https://engineering.wustl.edu/offices-services/student-services/mentor-programs.html). 
 
 
-<span class="tag-links">[#jobs](#jobs)</span>
+<span class="tag-links">[#jobs](#jobs) [#needs_review](#needs_review)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/33">Discussions View</a></span>
 
 ---
@@ -1570,7 +1774,7 @@ The portfolio documents your progress as a student of computer science as well a
 * Establish a relationship with faculty so that they can supply letters of recommendation. There is advice elsewhere in this FAQ about that.
 
 
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#jobs](#jobs) [#recommendation_letters](#recommendation_letters) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
+<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/57">Discussions View</a></span>
 
 ---
@@ -1581,7 +1785,7 @@ Registration for summer courses uses [WebSTAC](https://acadinfo.wustl.edu/WSHome
 The School of Engineering provides additional details about summer courses, like dates for registration, fees, etc., [here](https://engineering.wustl.edu/academics/summer-school.html). 
 
 
-<span class="tag-links">[#courses](#courses) [#graduate](#graduate) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/93">Discussions View</a></span>
 
 ---
@@ -1596,7 +1800,7 @@ Studies in computer science are an excellent fit for medical school preparation 
 
 Once you declare your interest in medicine, you will be assigned a pre-med advisor in your primary school. That advisor will make sure you stay on track to be ready for the MCAT and for medical school.
 
-<span class="tag-links">[#graduate](#graduate) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/72">Discussions View</a></span>
 
 ---
@@ -1606,7 +1810,7 @@ Once you declare your interest in medicine, you will be assigned a pre-med advis
 Each time you get a message from the list it will include a footer that describes how you can leave the list if you no longer want to receive these announcements.
 
 
-<span class="tag-links">[#jobs](#jobs)</span>
+<span class="tag-links">[#jobs](#jobs) [#needs_review](#needs_review)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/128">Discussions View</a></span>
 
 ---
@@ -1623,7 +1827,7 @@ Each time you get a message from the list it will include a footer that describe
 
 
 
-<span class="tag-links">[#math](#math) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#math](#math) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/84">Discussions View</a></span>
 
 ---
@@ -1642,7 +1846,7 @@ Here are some notes about taking courses pass/fail:
 
 
 
-<span class="tag-links">[#credit](#credit) [#graduate](#graduate) [#passfail](#passfail) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#credit](#credit) [#graduate](#graduate) [#needs_review](#needs_review) [#passfail](#passfail) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/60">Discussions View</a></span>
 
 ---
@@ -1654,7 +1858,7 @@ You may also want review the [Resources for Master's Students](https://cse.wustl
 
 For more information go to [Graduate Programs](https://cse.wustl.edu/academics/graduate/index.html), select a degree of interest, then use the "Contact Us" information to contact faculty/staff who can provide further assistance.  
 
-<span class="tag-links">[#graduate](#graduate) [#masters](#masters) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#masters](#masters) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/73">Discussions View</a></span>
 
 ---
@@ -1666,7 +1870,7 @@ Having the course waived does not provide credit for the course, but it will all
 See [here](https://cse.wustl.edu/academics/placement-exam.html) to see if you may benefit from taking the exam and for directions to sign up. 
 
 
-<span class="tag-links">[#ap_credit](#ap_credit) [#cse131](#cse131) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#ap_credit](#ap_credit) [#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/123">Discussions View</a></span>
 
 ---
@@ -1679,7 +1883,7 @@ CS+Math also differs in the electives available.  A CS Major can select any CSE 
 
 
 
-<span class="tag-links">[#computer_science](#computer_science) [#math](#math) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#computer_science](#computer_science) [#math](#math) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/89">Discussions View</a></span>
 
 ---
@@ -1700,7 +1904,7 @@ Any deviation from the approved practicum approaches must be explicitly approved
 We lean towards accepting internship experiences in satisfaction of the requirements, subject to faculty agreeing to oversee it. If it is paid, it cannot count for credit, but can satisfy the requirements.  The oversight requirements may require sharing Intellectual Property and internal details of the project and, consequently, should also be approved by employers in advance.  Evidence of such approval should be submitted with the Practicum registration form. 
 
 
-<span class="tag-links">[#academia](#academia) [#data_science](#data_science)</span>
+<span class="tag-links">[#academia](#academia) [#data_science](#data_science) [#needs_review](#needs_review)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/140">Discussions View</a></span>
 
 ---
@@ -1727,7 +1931,7 @@ As an extreme example of this, a student in our department was in an Olin course
 
 
 
-<span class="tag-links">[#courses](#courses) [#graduate](#graduate) [#olin](#olin) [#prerequisites](#prerequisites) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#olin](#olin) [#prerequisites](#prerequisites) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/21">Discussions View</a></span>
 
 ---
@@ -1736,14 +1940,14 @@ As an extreme example of this, a student in our department was in an Olin course
 
 Non-classroom activities, like project, thesis, and independent study have the same work expectations.  For example, a 3 unit project over a 15-week semester should be about 150–180 hours of work. If you are interested in a 6 unit project it would take twice that, and that's usually not possible in a single semester.  Most 6-unit projects and such are accomplished in two semesters.
 
-<span class="tag-links">[#credit](#credit) [#independent_study](#independent_study) [#masters](#masters) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#credit](#credit) [#independent_study](#independent_study) [#masters](#masters) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/81">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="how-much-time-should-i-expect-to-spend-on-cse">How much time should I expect to spend on CSE131?</h2>
 <a id=52></a> CSE131 emphasises learning by doing. Most of your time outside of class will be spent on weekly assignments.  Since CSE131 is a 3 unit course, you should expect to spend about 10-11 hours per week on average, including time spent in class sessions and reading/videos. Some weeks will require more time, some will require less. 
 
-<span class="tag-links">[#cse131](#cse131) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/52">Discussions View</a></span>
 
 ---
@@ -1756,7 +1960,7 @@ Non-classroom activities, like project, thesis, and independent study have the s
 * Other files can be backed up to [dropbox](https://www.dropbox.com/) or [box](https://box.wustl.edu/) or other such providers.
 
 
-<span class="tag-links">[#computer](#computer) [#misc](#misc)</span>
+<span class="tag-links">[#computer](#computer) [#misc](#misc) [#needs_review](#needs_review)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/131">Discussions View</a></span>
 
 ---
@@ -1778,7 +1982,7 @@ Usually it's best to:
  
 
 
-<span class="tag-links">[#jobs](#jobs)</span>
+<span class="tag-links">[#jobs](#jobs) [#needs_review](#needs_review)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/111">Discussions View</a></span>
 
 ---
@@ -1791,7 +1995,7 @@ Often there is about a 5% change in enrollments in 131 during the first week(s) 
 **If you're high on the waitlist, be sure to do all course work and attend sections.** 
 
 
-<span class="tag-links">[#cse131](#cse131) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/87">Discussions View</a></span>
 
 ---
@@ -1807,7 +2011,7 @@ Students in the School of Engineering can get some tutoring for free.  Students 
 To get more information on availability, any time limitations or fees, etc., complete the "Tutor Request" form on the "Advising & Services tab [here](https://engineering.wustl.edu/offices-services/student-services/undergraduate-student-services/index.html#tab2),
 
 
-<span class="tag-links">[#cse131](#cse131) [#get_help](#get_help) [#graduate](#graduate) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#cse131](#cse131) [#get_help](#get_help) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/8">Discussions View</a></span>
 
 ---
@@ -1822,7 +2026,7 @@ Usually conflicts are due to:
 
 
 
-<span class="tag-links">[#courses](#courses)</span>
+<span class="tag-links">[#courses](#courses) [#needs_review](#needs_review)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/102">Discussions View</a></span>
 
 ---
@@ -1831,7 +2035,7 @@ Usually conflicts are due to:
 
 If you don't hear from instructors, it's best to contact them at least a week before any exams or timed activities to ensure appropriate accommodations. 
 
-<span class="tag-links">[#get_help](#get_help)</span>
+<span class="tag-links">[#get_help](#get_help) [#needs_review](#needs_review)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/40">Discussions View</a></span>
 
 ---
@@ -1851,7 +2055,7 @@ If you don't hear from instructors, it's best to contact them at least a week be
 
 
 
-<span class="tag-links">[#cse131](#cse131) [#graduate](#graduate) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#cse131](#cse131) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/77">Discussions View</a></span>
 
 ---
@@ -1862,7 +2066,7 @@ However, we do not want you to waste your time! If you have had an AP course in 
 
 
 
-<span class="tag-links">[#cse131](#cse131) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/50">Discussions View</a></span>
 
 ---
@@ -1878,7 +2082,7 @@ If you're pursuing a Major/Minor from the Math/Stat Department, you should check
 
 
 
-<span class="tag-links">[#math](#math) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#math](#math) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/96">Discussions View</a></span>
 
 ---
@@ -1888,7 +2092,7 @@ If you're pursuing a Major/Minor from the Math/Stat Department, you should check
 * You can utilize a computer lab on campus.  The directory of labs is [here](https://engineering.wustl.edu/offices-services/non-academic/EIT/computer-labs/lab-locations-schedules.html).   You can browse [Reserve-A-Space](https://reserve.wustl.edu/EMSWebApp/) for specific labs to see if/when they are reserved for other uses.
 
 
-<span class="tag-links">[#computer](#computer) [#get_help](#get_help) [#graduate](#graduate) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#computer](#computer) [#get_help](#get_help) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/127">Discussions View</a></span>
 
 ---
@@ -1899,7 +2103,7 @@ If you need immediate access to a computer, [Engineering IT](https://engineering
 The School of Engineering also has a "laptop loaner" program for students taking courses from the School.  It allows you to borrow a laptop for short term use until you have managed to get a repair/replacement.  Contact your instructor, who will be able to confirm your enrollment and put you in touch with the laptop loaner coordinator.
 
 
-<span class="tag-links">[#computer](#computer)</span>
+<span class="tag-links">[#computer](#computer) [#needs_review](#needs_review)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/41">Discussions View</a></span>
 
 ---
@@ -1911,7 +2115,7 @@ The School of Engineering also has a "laptop loaner" program for students taking
 * WashU Cares specializes providing referrals and resources, both on, and off campus for mental health, medical health, financial and academic resources by using supportive case management. WashU Cares also receives reports on students who may need help connecting to resources or whom a campus partner is concerned about. If you are concerned about yourself or someone else, you can file a report here: [https://washucares.wustl.edu/](https://washucares.wustl.edu/).
 
 
-<span class="tag-links">[#get_help](#get_help) [#graduate](#graduate) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#get_help](#get_help) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/126">Discussions View</a></span>
 
 ---
@@ -1923,7 +2127,7 @@ CSE131, if our department waives CSE 131, then you do not have to take anything 
 In rare cases, other courses can also be waived due to prior experience/proficiency.  For example, if someone has taken a course we'd normally consider equivalent to one of our core courses, but has hit course transfer limits and can't actually get official credit for the course.  In those cases they would be work with the advisor and the associate chair to select another course to replace the waived course.  (See [residency](https://wustlcse.github.io/FAQ/#residency)).
 
 
-<span class="tag-links">[#cse131](#cse131) [#minor](#minor) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#cse131](#cse131) [#minor](#minor) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/85">Discussions View</a></span>
 
 ---
@@ -1962,7 +2166,7 @@ Was the point tally on an assignment computed incorrectly? (See "Grading Issues"
 
 
 
-<span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/58">Discussions View</a></span>
 
 ---
@@ -1978,7 +2182,7 @@ Take careful note of the following:
 
 
 
-<span class="tag-links">[#courses](#courses) [#graduate](#graduate) [#plagiarism](#plagiarism) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#plagiarism](#plagiarism) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/26">Discussions View</a></span>
 
 ---
@@ -1995,7 +2199,7 @@ If you are conflicted about whether to stay or withdraw from a course:
 * Talk with your academic and/or 4-year advisor.  
 * Review if you are required to maintain a certain course load, if dropping/withdrawing would put you under that threshold, and what the implications may be.  You may want to check with your school's student services group.  (If you're in McKelvey, either [Undergraduate Student Services](https://engineering.wustl.edu/offices-services/student-services/undergraduate-student-services/index.html) or [Graduate Student Services](https://engineering.wustl.edu/offices-services/student-services/graduate-student-services/index.html)).
 
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/24">Discussions View</a></span>
 
 ---
@@ -2015,7 +2219,7 @@ Your grade is typically based on participation, studio work, weekly assignments,
 
 
 
-<span class="tag-links">[#cse131](#cse131) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/36">Discussions View</a></span>
 
 ---
@@ -2037,7 +2241,7 @@ You are at a top level university with great academic resources and you should b
 In the short-term and long-term, it is never worth it to cheat. There is always another way, and that alternative path will always be more beneficial. Do not risk your personal integrity for one assignment or one class. 
 
 
-<span class="tag-links">[#academic_integrity](#academic_integrity) [#plagiarism](#plagiarism)</span>
+<span class="tag-links">[#academic_integrity](#academic_integrity) [#needs_review](#needs_review) [#plagiarism](#plagiarism)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/39">Discussions View</a></span>
 
 ---
@@ -2100,7 +2304,7 @@ The [WashU Robotics Club](https://www.washurobotics.com/) (also [here](https://w
 > Washington University Women in Computer Science’s mission is to create a welcoming and supportive community for women in computing, bolster professional development by providing networking and mentorship opportunities, and inspire future generations of women by giving back to the greater St. Louis community.
 
 
-<span class="tag-links">[#acm](#acm) [#get_involved](#get_involved) [#graduate](#graduate) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#acm](#acm) [#get_involved](#get_involved) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/120">Discussions View</a></span>
 
 ---
@@ -2123,7 +2327,7 @@ Yes!
 
 
 
-<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/10">Discussions View</a></span>
 
 ---
@@ -2182,7 +2386,7 @@ Questions and answer in this FAQ come from a variety of contributors, including:
 * Jon Shidal
 * Andrew Swafford
 
-<span class="tag-links">[#meta](#meta)</span>
+<span class="tag-links">[#meta](#meta) [#needs_review](#needs_review)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/2">Discussions View</a></span>
 
 ---
@@ -2211,7 +2415,7 @@ Approximately 1-2 weeks after you register for classes you should get an email t
 
 
 
-<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#recommendation_letters](#recommendation_letters) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
+<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/53">Discussions View</a></span>
 
 ---
@@ -2219,7 +2423,7 @@ Approximately 1-2 weeks after you register for classes you should get an email t
 <a id=78></a>
 It's between you and your research or independent study mentor. Some students prefer credit, as it makes progress toward their degree; others prefer to be paid.
 
-<span class="tag-links">[#graduate](#graduate) [#independent_study](#independent_study) [#jobs](#jobs) [#research](#research) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#independent_study](#independent_study) [#jobs](#jobs) [#needs_review](#needs_review) [#research](#research) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/78">Discussions View</a></span>
 
 ---
@@ -2240,7 +2444,7 @@ First, how do you feel about staying for an extra ~2 semesters to complete the m
 
 
 
-<span class="tag-links">[#graduate](#graduate) [#masters](#masters) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#masters](#masters) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/124">Discussions View</a></span>
 
 ---
@@ -2262,7 +2466,7 @@ coursework at the 200-level or higher.
 Most schools provide a system to "Audit" your degree.  Most schools use [WUAchieve](https://registrar.wustl.edu/wuachieve/) (Olin may be different).  You can run an "Audit" to make sure you are on track for your degree.  It includes checks for most types of residency.  Note that audits are *not* infallible.  Be sure to check degree requirements in the [Bulletin](https://bulletin.wustl.edu/) and confer with your advisors.  
 
 
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#residency](#residency) [#transfer_courses](#transfer_courses) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#needs_review](#needs_review) [#residency](#residency) [#transfer_courses](#transfer_courses) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/118">Discussions View</a></span>
 
 ---
@@ -2272,7 +2476,7 @@ Most schools provide a system to "Audit" your degree.  Most schools use [WUAchie
 For all degree requirements, including the "core courses" see details for your degree(s) in the [Bulletin](https://bulletin.wustl.edu/). 
 
 
-<span class="tag-links">[#computer_science](#computer_science) [#courses](#courses) [#curriculum](#curriculum) [#graduate](#graduate) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#computer_science](#computer_science) [#courses](#courses) [#curriculum](#curriculum) [#graduate](#graduate) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/90">Discussions View</a></span>
 
 ---
@@ -2306,7 +2510,7 @@ Here are some recommendations by CSE faculty:
 
 
 
-<span class="tag-links">[#misc](#misc) [#programming](#programming)</span>
+<span class="tag-links">[#misc](#misc) [#needs_review](#needs_review) [#programming](#programming)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/104">Discussions View</a></span>
 
 ---
@@ -2330,7 +2534,7 @@ Machine learning requires a strong background in Probability, especially Bayesia
 
 
 
-<span class="tag-links">[#academia](#academia) [#courses](#courses)</span>
+<span class="tag-links">[#academia](#academia) [#courses](#courses) [#needs_review](#needs_review)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/74">Discussions View</a></span>
 
 ---
@@ -2346,7 +2550,7 @@ Many CSE courses are in the labs in Urbauer Hall, like:
 
 Image from [https://engineering.wustl.edu/about/facilities/tour-our-buildings.html#UrbauerTour](https://engineering.wustl.edu/about/facilities/tour-our-buildings.html#UrbauerTour)
 
-<span class="tag-links">[#academia](#academia) [#misc](#misc)</span>
+<span class="tag-links">[#academia](#academia) [#misc](#misc) [#needs_review](#needs_review)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/43">Discussions View</a></span>
 
 ---
@@ -2366,7 +2570,7 @@ Image from [https://engineering.wustl.edu/about/facilities/tour-our-buildings.ht
 
 
 
-<span class="tag-links">[#jobs](#jobs)</span>
+<span class="tag-links">[#jobs](#jobs) [#needs_review](#needs_review)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/44">Discussions View</a></span>
 
 ---
@@ -2381,7 +2585,7 @@ Each school also has an Associate Dean who supervises the academic activities of
 
 
 
-<span class="tag-links">[#academia](#academia)</span>
+<span class="tag-links">[#academia](#academia) [#needs_review](#needs_review)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/25">Discussions View</a></span>
 
 ---
@@ -2389,14 +2593,14 @@ Each school also has an Associate Dean who supervises the academic activities of
 <a id=116></a> The provost is the chief academic officer at a university. The schools of our institution are organized to be relatively independent. The provost looks for opportunities for advancement of teaching, scholarship, and learning across our schools. The web page for
 [our provost](https://provost.wustl.edu/) shows the nature and breadth of activities associated with our provost's office.
 
-<span class="tag-links">[#academia](#academia)</span>
+<span class="tag-links">[#academia](#academia) [#needs_review](#needs_review)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/116">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="what-is-a-faq">What is a FAQ?</h2>
 <a id=63></a> That's a Frequently Asked Question! See Wikipedia's [FAQ](https://en.wikipedia.org/wiki/FAQ) for some history of the term.
 
-<span class="tag-links">[#misc](#misc)</span>
+<span class="tag-links">[#misc](#misc) [#needs_review](#needs_review)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/63">Discussions View</a></span>
 
 ---
@@ -2420,7 +2624,7 @@ Completion of a senior thesis is designated in your transcripts as a "milestone"
 
 
 
-<span class="tag-links">[#research](#research) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#needs_review](#needs_review) [#research](#research) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/11">Discussions View</a></span>
 
 ---
@@ -2457,7 +2661,7 @@ In overview the process for dealing with alleged violations of integrity proceed
 
 
 
-<span class="tag-links">[#academia](#academia) [#academic_integrity](#academic_integrity) [#plagiarism](#plagiarism)</span>
+<span class="tag-links">[#academia](#academia) [#academic_integrity](#academic_integrity) [#needs_review](#needs_review) [#plagiarism](#plagiarism)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/122">Discussions View</a></span>
 
 ---
@@ -2468,7 +2672,7 @@ The courses are co-listed (same place/time/instructor and coursework).  The cour
  
 Courses with an "N" designation will not count for credit for students in the department's degrees.  Undergraduates should always take the course as 131, which lacks the "N".  Many students decided to pursue a Minor or Major from our department following this course and the 131 version will automatically be applied to their degree. 
 
-<span class="tag-links">[#cse131](#cse131) [#graduate](#graduate) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#cse131](#cse131) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/103">Discussions View</a></span>
 
 ---
@@ -2477,7 +2681,7 @@ Courses with an "N" designation will not count for credit for students in the de
 
 (yes we had to do this)
 
-<span class="tag-links"></span>
+<span class="tag-links">[#needs_review](#needs_review)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/100">Discussions View</a></span>
 
 ---
@@ -2514,7 +2718,7 @@ WebSTAC, and by consulting with her second major advisor as needed. That advisor
 
 
 
-<span class="tag-links">[#degree](#degree) [#dual_degree](#dual_degree) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#degree](#degree) [#dual_degree](#dual_degree) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/95">Discussions View</a></span>
 
 ---
@@ -2529,7 +2733,7 @@ If you are a primary major in computer science, then you have two kinds of cours
 
 
 
-<span class="tag-links">[#computer_science](#computer_science) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#computer_science](#computer_science) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/91">Discussions View</a></span>
 
 ---
@@ -2555,7 +2759,7 @@ We also have a variety of [Master's and PhD programs in Computer Engineering & C
 
 
 
-<span class="tag-links">[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#graduate](#graduate) [#misc](#misc) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#graduate](#graduate) [#misc](#misc) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/105">Discussions View</a></span>
 
 ---
@@ -2590,7 +2794,7 @@ Success depends upon investment of time by the student, the accurate and timely 
 
 
 
-<span class="tag-links">[#graduate](#graduate) [#independent_study](#independent_study) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#independent_study](#independent_study) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/30">Discussions View</a></span>
 
 ---
@@ -2624,7 +2828,7 @@ Success depends upon investment of time by the student, the accurate and timely 
 
 
 
-<span class="tag-links">[#academia](#academia) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/113">Discussions View</a></span>
 
 ---
@@ -2638,7 +2842,7 @@ There are only a few CSE courses that require a specific operating systems and t
 * CSE 260M (Introduction to Digital Logic and Computer Design), CSE 362M (Computer Architecture), and CSE 462M (Computer Systems Design) use PC-based tools (Vivado is one).  Students do not need access during class sessions. Those with Macs can use engineering computer labs, remote access, or try to use emulation tools, like Parallels or VMWare Fusion.  All have some potential limitations:  Engineering labs require travelling to campus and finding an available machine.  Remote access is clunky and doesn't support all needs, like connecting to a device via USB.  As of July 2022, I'm not sure emulation has been tested on Apple Silicon to see how well it works. "
 
 
-<span class="tag-links">[#computer](#computer) [#misc](#misc)</span>
+<span class="tag-links">[#computer](#computer) [#misc](#misc) [#needs_review](#needs_review)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/15">Discussions View</a></span>
 
 ---
@@ -2655,7 +2859,7 @@ The use of Java in this course is fairly straightforward. If you have further qu
 
 
 
-<span class="tag-links">[#graduate](#graduate) [#masters](#masters) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#masters](#masters) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/61">Discussions View</a></span>
 
 ---
@@ -2675,7 +2879,7 @@ If you are a major or minor outside our school, you should consider other depart
 
 
 
-<span class="tag-links">[#academia](#academia) [#olin](#olin) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#needs_review](#needs_review) [#olin](#olin) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/88">Discussions View</a></span>
 
 ---
@@ -2695,7 +2899,7 @@ For those who are interested in programming languages as a subject of study, we 
 
 
 
-<span class="tag-links">[#programming](#programming)</span>
+<span class="tag-links">[#needs_review](#needs_review) [#programming](#programming)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/7">Discussions View</a></span>
 
 ---
@@ -2710,7 +2914,7 @@ There are many related courses, many of which can be used for the [Minor in Huma
 
 
 
-<span class="tag-links">[#courses](#courses) [#graduate](#graduate) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/114">Discussions View</a></span>
 
 ---
@@ -2763,7 +2967,7 @@ And finally, don't be intimidated if it's your first hackathon. Everyone remembe
 
 
 
-<span class="tag-links">[#get_involved](#get_involved) [#student_life](#student_life)</span>
+<span class="tag-links">[#get_involved](#get_involved) [#needs_review](#needs_review) [#student_life](#student_life)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/3">Discussions View</a></span>
 
 ---
@@ -2790,7 +2994,7 @@ If you'd like to know if you are already "on track" for a potential new major, y
 
 
 
-<span class="tag-links">[#graduate](#graduate) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/5">Discussions View</a></span>
 
 ---
@@ -2812,7 +3016,7 @@ Following are some **_examples_** of collaborative scenarios from some courses. 
 
 
 
-<span class="tag-links">[#academic_integrity](#academic_integrity) [#plagiarism](#plagiarism)</span>
+<span class="tag-links">[#academic_integrity](#academic_integrity) [#needs_review](#needs_review) [#plagiarism](#plagiarism)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/49">Discussions View</a></span>
 
 ---
@@ -2853,14 +3057,14 @@ While second majors and minors do not require explicit approval from their advis
 
 
 
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#minor](#minor) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#minor](#minor) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/109">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="where-can-i-find-the-form-i-need-to-fill-out-for-independent-study">Where can I find the form I need to fill out for independent study?</h2>
 <a id=67></a>See the "Independent Study" section [here](https://cse.wustl.edu/academics/undergraduate/undergraduate-research.html#incdependent-study:~:text=you%20are%20interested.-,Independent%20Study,-During%20the%20academic).
 
-<span class="tag-links">[#independent_study](#independent_study) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#independent_study](#independent_study) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/67">Discussions View</a></span>
 
 ---
@@ -2881,14 +3085,14 @@ Courses directly focused on security / cyber include:
 
 There are also online resources that can teach these subjects, such as [this free one]( https://www.cybrary.it/), which provides excellent courses for all levels.
 
-<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/83">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="where-do-cse-students-study-abroad">Where do CSE students study abroad?</h2>
 <a id=98></a>WashU CSE students study at nearly every school that participates in the study abroad program, but some are more popular than others (for example, locations where English is the language of instruction and in common use are accessible to all WashU students).  You may want to review the "Current Opportunities" section on the School of Engineering's [Study Abroad](https://engineering.wustl.edu/academics/study-abroad.html) page.
 
-<span class="tag-links">[#student_life](#student_life) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/98">Discussions View</a></span>
 
 ---
@@ -2901,7 +3105,7 @@ There are also online resources that can teach these subjects, such as [this fre
 
 
 
-<span class="tag-links">[#academia](#academia) [#passfail](#passfail)</span>
+<span class="tag-links">[#academia](#academia) [#needs_review](#needs_review) [#passfail](#passfail)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/119">Discussions View</a></span>
 
 ---
@@ -2913,7 +3117,7 @@ There are only a few CSE courses that require a specific operating systems and t
 * CSE 439S: Mobile App Development II:  Always based on iOS app development and requires access to a Mac.  Again, the lab can be used. 
 * CSE 260M (Introduction to Digital Logic and Computer Design), CSE 362M (Computer Architecture), and CSE 462M (Computer Systems Design) use PC-based tools (Vivado is one).  Students do not need access during class sessions. Those with Macs can use engineering computer labs, remote access, or try to use emulation tools, like Parallels or VMWare Fusion.  All have some potential limitations:  Engineering labs require travelling to campus and finding an available machine.  Remote access is clunky and doesn't support all needs, like connecting to a device via USB.  As of July 2022, I'm not sure emulation has been tested on Apple silicon to see how well it works. 
 
-<span class="tag-links">[#computer](#computer) [#misc](#misc)</span>
+<span class="tag-links">[#computer](#computer) [#misc](#misc) [#needs_review](#needs_review)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/129">Discussions View</a></span>
 
 ---
@@ -3000,7 +3204,7 @@ Here are the common waitlist processing priorities and guidance for many courses
 
 
 
-<span class="tag-links">[#courses](#courses) [#degree](#degree) [#prerequisites](#prerequisites)</span>
+<span class="tag-links">[#courses](#courses) [#degree](#degree) [#needs_review](#needs_review) [#prerequisites](#prerequisites)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/138">Discussions View</a></span>
 
 ---
@@ -3024,7 +3228,7 @@ There are a variety of reasons!
 
 
 
-<span class="tag-links">[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/99">Discussions View</a></span>
 
 ---
@@ -3035,7 +3239,7 @@ There are a variety of reasons!
 * [A day in St. Louis](https://www.youtube.com/watch?v=FsAd1CTlDSo)
 
 
-<span class="tag-links">[#get_involved](#get_involved) [#misc](#misc) [#student_life](#student_life)</span>
+<span class="tag-links">[#get_involved](#get_involved) [#misc](#misc) [#needs_review](#needs_review) [#student_life](#student_life)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/22">Discussions View</a></span>
 
 ---
@@ -3059,7 +3263,7 @@ If **you want only one major and want to study computing**, you can consider the
 
 
 
-<span class="tag-links">[#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/12">Discussions View</a></span>
 
 ---
