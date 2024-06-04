@@ -538,17 +538,9 @@ markdown: kramdown
 
 [Can I earn money outside of Washington University while on an F1 visa?](#can-i-earn-money-outside-of-washington-university-while-on-an-f-visa)
 
-[Can I get a different faculty advisor?](#can-i-get-a-different-faculty-advisor)
-
 [Can I take courses at other universities and have them count here?](#can-i-take-courses-at-other-universities-and-have-them-count-here)
 
 [Can I take courses outside the department to satisfy **core** requirements or **electives**?  What courses count toward my major or minor from outside the CSE department? ](#can-i-take-courses-outside-the-department-to-satisfy-core-requirements-or-electives--what-courses-count-toward-my-major-or-minor-from-outside-the-cse-department-)
-
-[Can the same course satisfy requirements across majors between Engineering (McKelvey School of Engineering) and other schools?](#can-the-same-course-satisfy-requirements-across-majors-between-engineering-mckelvey-school-of-engineering-and-other-schools)
-
-[Can the same course satisfy requirements for multiple degrees?](#can-the-same-course-satisfy-requirements-for-multiple-degrees)
-
-[Degree requirements have changed since I started.  Am I required or allowed to use the new requirements?](#degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-use-the-new-requirements)
 
 [Do I need any computer science background to succeed in CSE131?](#do-i-need-any-computer-science-background-to-succeed-in-cse)
 
@@ -567,8 +559,6 @@ markdown: kramdown
 [How can I get involved in programming contests?](#how-can-i-get-involved-in-programming-contests)
 
 [How can I place out of a course if I think I already know that course's material?  / What happens to my program of study if I do place out?](#how-can-i-place-out-of-a-course-if-i-think-i-already-know-that-courses-material---what-happens-to-my-program-of-study-if-i-do-place-out)
-
-[How do I apply for REU programs?](#how-do-i-apply-for-reu-programs)
 
 [How do I arrange to study abroad?](#how-do-i-arrange-to-study-abroad)
 
@@ -605,8 +595,6 @@ markdown: kramdown
 [How does the CSE131 placement exam work?  Do I need to take CSE 131?](#how-does-the-cse-placement-exam-work--do-i-need-to-take-cse-)
 
 [How is CS+Math different from a double (second) major?](#how-is-csmath-different-from-a-double-second-major)
-
-[How is the Data Science Practicum requirement met?](#how-is-the-data-science-practicum-requirement-met)
 
 [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
 
@@ -650,11 +638,7 @@ markdown: kramdown
 
 [Is it ever worth it to cheat?](#is-it-ever-worth-it-to-cheat)
 
-[Is there a computing student group within our department / school / university?](#is-there-a-computing-student-group-within-our-department--school--university)
-
 [Is there a student group for women in computer science or computer engineering?](#is-there-a-student-group-for-women-in-computer-science-or-computer-engineering)
-
-[README](#readme)
 
 [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
 
@@ -688,8 +672,6 @@ markdown: kramdown
 
 [What is recursion?](#what-is-recursion)
 
-[What is the difference between CSE 400 and CSE 400E  How does independent study work?](#what-is-the-difference-between-cse--and-cse-e--how-does-independent-study-work)
-
 [What is the difference between a <EM>second degree</EM> and a <EM>second major</EM>?](#what-is-the-difference-between-a-emsecond-degreeem-and-a-emsecond-majorem)
 
 [What is the difference between a first (primary) major in computer science and a second major in computer science?](#what-is-the-difference-between-a-first-primary-major-in-computer-science-and-a-second-major-in-computer-science)
@@ -710,8 +692,6 @@ markdown: kramdown
 
 [What's a hackathon, where/when/why/how should I get involved?](#whats-a-hackathon-wherewhenwhyhow-should-i-get-involved)
 
-[What's an "open" program?    How do I change/add/drop a degree (open program)?](#whats-an-open-program----how-do-i-changeadddrop-a-degree-open-program)
-
 [When am I allowed to collaborate on assignments?](#when-am-i-allowed-to-collaborate-on-assignments)
 
 [When and how often should I meet with my departmental faculty advisor?  What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisor--what-kind-of-advice-should-i-expect-my-advisor-to-provide)
@@ -727,8 +707,6 @@ markdown: kramdown
 [Which is better, a mac or a pc?](#which-is-better-a-mac-or-a-pc)
 
 [Why St. Louis?](#why-st-louis)
-
-[Why am I on a waitlist? How are waitlists managed? What are my chances of enrollment? What is "Managed by waitlist"?](#why-am-i-on-a-waitlist-how-are-waitlists-managed-what-are-my-chances-of-enrollment-what-is-managed-by-waitlist)
 
 [Why should I study computer science or computer engineering?](#why-should-i-study-computer-science-or-computer-engineering)
 
@@ -1353,7 +1331,7 @@ The change link should look like:
 That option may not be available during advising/registration periods or for certain degree programs that don't allow students to make such requests (all CSE programs _do_ allow this).   If the option isn't available and it is _not_ advising/registration time (approximately mid-semester until the last week of the semester), contact the registrar in the school that is the home to the degree program where you'd like a new advisor. 
 
 
-<span class="tag-links">[#academia](#academia) [#needs_review](#needs_review)</span>
+<span class="tag-links">[#academia](#academia)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/139">Discussions View</a></span>
 
 ---
@@ -1409,7 +1387,7 @@ Similarly, if a student takes a course from another department that CSE feels ha
 
 
 
-<span class="tag-links">[#academia](#academia) [#artsci](#artsci) [#courses](#courses) [#double_counting](#double_counting) [#graduate](#graduate) [#math](#math) [#misc](#misc) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#artsci](#artsci) [#courses](#courses) [#double_counting](#double_counting) [#graduate](#graduate) [#math](#math) [#misc](#misc) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/65">Discussions View</a></span>
 
 ---
@@ -1420,13 +1398,13 @@ Other Departments or Schools, like the School of Arts and Sciences, may have rul
 
 For example, a student majoring in Math may take MA 310 as a requirement of their Math studies.  Many CSE degrees require either MA 310 or CSE 240 to ensure our students have experience with Discrete Math and proof techniques.  We usually "waive" the requirement for students who have taken MA 310.  They clearly have completed coursework needed for our degree and the waiver allows the MA 310 credit be used by the Math degree rather than being rejected due to double counting rules. 
 
-<span class="tag-links">[#academia](#academia) [#courses](#courses) [#double_counting](#double_counting) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#courses](#courses) [#double_counting](#double_counting) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/86">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="degree-requirements-have-changed-since-i-started--am-i-required-or-allowed-to-use-the-new-requirements">Degree requirements have changed since I started.  Am I required or allowed to use the new requirements?</h2>
 <a id=6></a>
-By default, degree requirements are based on the year you started that degree (see [here](https://bulletin.wustl.edu/about/editions/). The year you start is referred to as your "catalog year".   Requirements for the **current year**  are listed in the [Bulletin](https://bulletin.wustl.edu/). You can browse prior years at [https://bulletin.wustl.edu/about/prior/](https://bulletin.wustl.edu/about/prior/).  
+By default, degree requirements are based on the year you started at WashU (see [here](https://bulletin.wustl.edu/about/editions/) for most degrees.  Some degrees, like the Minor in C.S., may be based on the year you joined that degree. The year you start is referred to as your "catalog year".   Requirements for the **current year**  are listed in the [Bulletin](https://bulletin.wustl.edu/). You can browse prior years at [https://bulletin.wustl.edu/about/prior/](https://bulletin.wustl.edu/about/prior/).  
 
 Degree audits ([WUAchieve](https://registrar.wustl.edu/wuachieve/)) will use the year you added a degree.  You can also run a "What If" report to see how well you comply with other years.   It's not possible to mix-and-match rules from different years, but the School of Engineering generally does allow students to request changes to **newer** catalog years.   If updates to the requirements seem to be beneficial to you, contact your advisors (both faculty and four-year) to review the situation.  If the consensus is that a newer catalog year is beneficial, contact either [Undergraduate Student Services](https://engineering.wustl.edu/offices-services/student-services/undergraduate-student-services/index.html) or [Graduate Student Services](https://engineering.wustl.edu/offices-services/student-services/graduate-student-services/index.html) to request a change (in some cases advisors may contact relevant parties on your behalf).
 
@@ -1436,7 +1414,7 @@ Degree audits ([WUAchieve](https://registrar.wustl.edu/wuachieve/)) will use the
 
 
 
-<span class="tag-links">[#degree](#degree) [#graduate](#graduate) [#needs_review](#needs_review) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#degree](#degree) [#graduate](#graduate) [#requirements](#requirements) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/6">Discussions View</a></span>
 
 ---
@@ -1618,7 +1596,7 @@ While the applications for REU sites will vary, they almost all require some sta
 
 
 
-<span class="tag-links">[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#recommendation_letters](#recommendation_letters) [#research](#research) [#reu](#reu) [#student_life](#student_life) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
+<span class="tag-links">[#academia](#academia) [#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#recommendation_letters](#recommendation_letters) [#research](#research) [#reu](#reu) [#student_life](#student_life) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/121">Discussions View</a></span>
 
 ---
@@ -1904,7 +1882,7 @@ Any deviation from the approved practicum approaches must be explicitly approved
 We lean towards accepting internship experiences in satisfaction of the requirements, subject to faculty agreeing to oversee it. If it is paid, it cannot count for credit, but can satisfy the requirements.  The oversight requirements may require sharing Intellectual Property and internal details of the project and, consequently, should also be approved by employers in advance.  Evidence of such approval should be submitted with the Practicum registration form. 
 
 
-<span class="tag-links">[#academia](#academia) [#data_science](#data_science) [#needs_review](#needs_review)</span>
+<span class="tag-links">[#academia](#academia) [#data_science](#data_science)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/140">Discussions View</a></span>
 
 ---
@@ -2271,15 +2249,21 @@ The [Developer Student Club WashU](https://www.dscwashu.com/) (also [here](https
 
 > We provide a voice for the engineering student body to voice their opinions to the engineering undergraduate student services office and provide spaces for engineering students to mingle with their peers, faculty, and professionals.  
 
+<!--  Appears to be gone 
 ## Girls Who Code WashU 
 
 The Girls Who Code page can be found on Facebook: [Girls Who Code WashU](https://www.facebook.com/gwcwashu) (or [here](https://wustl.presence.io/organization/girls-who-code-washu)).
 
 > Girls Who Code is a national non-profit organization dedicated to closing the gender gap in technology. Girls Who Code WashU is a branch of this national non-profit organization with the same goals - empowering, inspiring, motivating, and supporting girls to dream big, think outside of the box, and have the confidence in themselves to change their world. 
+--> 
+
+## HackWashU
+
+[HackWashU](https://hackwashu.com) (or [here](https://wustl.presence.io/organization/hack-washu)) runs the annual HackWashU Hackathon!
 
 ## Human-Computer Interaction Club
 
-The [HCI Club](https://www.washuhciclub.com/) (also [here](https://wustl.presence.io/organization/human-computer-interaction-club)) is a club, that in their own words: 
+The [HCI Club](https://wustl.presence.io/organization/human-computer-interaction-club) <!-- https://www.washuhciclub.com/ (also [here](https://wustl.presence.io/organization/human-computer-interaction-club)) --> is a club, that in their own words: 
 > We're a group of students passionate about design & development.
 
 ## Institute of Electrical and Electronic Engineers (IEEE)
@@ -2304,7 +2288,7 @@ The [WashU Robotics Club](https://www.washurobotics.com/) (also [here](https://w
 > Washington University Women in Computer Science’s mission is to create a welcoming and supportive community for women in computing, bolster professional development by providing networking and mentorship opportunities, and inspire future generations of women by giving back to the greater St. Louis community.
 
 
-<span class="tag-links">[#acm](#acm) [#get_involved](#get_involved) [#graduate](#graduate) [#needs_review](#needs_review) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#acm](#acm) [#get_involved](#get_involved) [#graduate](#graduate) [#student_life](#student_life) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/120">Discussions View</a></span>
 
 ---
@@ -2386,7 +2370,7 @@ Questions and answer in this FAQ come from a variety of contributors, including:
 * Jon Shidal
 * Andrew Swafford
 
-<span class="tag-links">[#meta](#meta) [#needs_review](#needs_review)</span>
+<span class="tag-links">[#meta](#meta)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/2">Discussions View</a></span>
 
 ---
@@ -2794,7 +2778,7 @@ Success depends upon investment of time by the student, the accurate and timely 
 
 
 
-<span class="tag-links">[#graduate](#graduate) [#independent_study](#independent_study) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#independent_study](#independent_study) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/30">Discussions View</a></span>
 
 ---
@@ -2939,7 +2923,6 @@ Some well-known or large Hackathon events and projects include:
 * [Major League Hacking](https://mlh.io/) is the official student hackathon league, and has resources for career-building and coding challenges. Several universities pair with MLH, and will provide reimbursements for travel.
 * [GlobalHack](https://globalhack.org/events/) is another St. Louis hackathon created by three St. Louis entrepreneurs with the goal of generating social impact through technology. GlobalHack hosts youth programs, and has developed solutions to local problems, such as homelessness, through their annual hackathons. 
 * [Devpost](https://devpost.com/hackathons) is specifically for software developers and will frequently list corporate-sponsored hackathons, as well as univeristy-led hackathons. In addition, Devpost has online hackathons where you can submit projects on their site for prizes and feedback. 
-* [Amazon's Deep Lens Challenge](https://aws.amazon.com/deeplens/challenge/)
 * [TechCrunch's Disrupt Hackathon](https://techcrunch.com/events/)  for start-ups 
 * HackMIT
 * HackIllinois
@@ -2994,7 +2977,7 @@ If you'd like to know if you are already "on track" for a potential new major, y
 
 
 
-<span class="tag-links">[#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/5">Discussions View</a></span>
 
 ---
@@ -3204,7 +3187,7 @@ Here are the common waitlist processing priorities and guidance for many courses
 
 
 
-<span class="tag-links">[#courses](#courses) [#degree](#degree) [#needs_review](#needs_review) [#prerequisites](#prerequisites)</span>
+<span class="tag-links">[#courses](#courses) [#degree](#degree) [#prerequisites](#prerequisites)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/138">Discussions View</a></span>
 
 ---
