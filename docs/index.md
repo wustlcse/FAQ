@@ -548,8 +548,6 @@ markdown: kramdown
 
 [Do I need to take CSE347?](#do-i-need-to-take-cse)
 
-[How are TAs chosen?  When does the TA draft occur?](#how-are-tas-chosen--when-does-the-ta-draft-occur)
-
 [How are admissions handled?](#how-are-admissions-handled)
 
 [How can I contribute to this FAQ?](#how-can-i-contribute-to-this-faq)
@@ -584,15 +582,11 @@ markdown: kramdown
 
 [How do I study CSE while preparing for medical school?](#how-do-i-study-cse-while-preparing-for-medical-school)
 
-[How do I subscribe the the department's <EM>jobs</EM> email list?](#how-do-i-subscribe-the-the-departments-emjobsem-email-list)
-
 [How do the honors math courses count?](#how-do-the-honors-math-courses-count)
 
 [How does pass/fail work?](#how-does-passfail-work)
 
 [How does the BS/MS work?  When do I declare my interest?](#how-does-the-bsms-work--when-do-i-declare-my-interest)
-
-[How does the CSE131 placement exam work?  Do I need to take CSE 131?](#how-does-the-cse-placement-exam-work--do-i-need-to-take-cse-)
 
 [How is CS+Math different from a double (second) major?](#how-is-csmath-different-from-a-double-second-major)
 
@@ -644,8 +638,6 @@ markdown: kramdown
 
 [Should I get course credit (CSE 400E, CSE 599, CSE 598) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-cse--cse--or-be-paid-for-research-with-faculty)
 
-[Should I pursue a master's degree (at WashU / BS/MS)?](#should-i-pursue-a-masters-degree-at-washu--bsms)
-
 [What are residency requirements?](#what-are-residency-requirements)
 
 [What are the core courses for my degree?](#what-are-the-core-courses-for-my-degree)
@@ -690,8 +682,6 @@ markdown: kramdown
 
 [What web design courses can I take?](#what-web-design-courses-can-i-take)
 
-[What's a hackathon, where/when/why/how should I get involved?](#whats-a-hackathon-wherewhenwhyhow-should-i-get-involved)
-
 [When am I allowed to collaborate on assignments?](#when-am-i-allowed-to-collaborate-on-assignments)
 
 [When and how often should I meet with my departmental faculty advisor?  What kind of advice should I expect my advisor to provide?](#when-and-how-often-should-i-meet-with-my-departmental-faculty-advisor--what-kind-of-advice-should-i-expect-my-advisor-to-provide)
@@ -703,8 +693,6 @@ markdown: kramdown
 [Where do CSE students study abroad?](#where-do-cse-students-study-abroad)
 
 [Where do I look to see the various dates pertaining to our academic calendar?](#where-do-i-look-to-see-the-various-dates-pertaining-to-our-academic-calendar)
-
-[Which is better, a mac or a pc?](#which-is-better-a-mac-or-a-pc)
 
 [Why St. Louis?](#why-st-louis)
 
@@ -1486,15 +1474,15 @@ You should start by:
 ---
 <h2 class="anchored" id="how-are-tas-chosen--when-does-the-ta-draft-occur">How are TAs chosen?  When does the TA draft occur?</h2>
 <a id=112></a> We ask our students in our major and minor programs, and often those students who recently took a course, to apply for the department's *TA draft*. The timeline for that is generally:
-* The draft will open about a week after you register for the next semester.  Some classes hire TAs to help with the class sessions, so it's important you know your schedule. 
+* The draft will open about a week after everyone has had a chance to register for the next semester.  Some classes hire TAs to help with the class sessions, so it's important you know your course schedule. 
 *  You will get an email with details about the draft and a link to an application form.  Many courses also post the draft in their course forums.
  * You indicate your interest by filling out the form, on time and completely.
  * Soon after the forms are due, professors review applicants and indicate who they would like to hire.  
  * Once professors have indicated their preferences, all hiring requests are reviewed and some adjustments are made to balance hiring requests with: a) course needs and b) each individual TAs' availability, which you provide in the application. 
- * You are notified about the outcome, generally within a month of the draft's appearance. 
+ * You are notified about the outcome, generally within a month of the draft's start. 
 
 
-<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#needs_review](#needs_review) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
+<span class="tag-links">[#get_involved](#get_involved) [#graduate](#graduate) [#jobs](#jobs) [#teaching_assistant](#teaching_assistant) [#undergraduate](#undergraduate) [#working_with_faculty](#working_with_faculty)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/112">Discussions View</a></span>
 
 ---
@@ -1788,7 +1776,7 @@ Once you declare your interest in medicine, you will be assigned a pre-med advis
 Each time you get a message from the list it will include a footer that describes how you can leave the list if you no longer want to receive these announcements.
 
 
-<span class="tag-links">[#jobs](#jobs) [#needs_review](#needs_review)</span>
+<span class="tag-links">[#jobs](#jobs)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/128">Discussions View</a></span>
 
 ---
@@ -1848,7 +1836,7 @@ Having the course waived does not provide credit for the course, but it will all
 See [here](https://cse.wustl.edu/academics/placement-exam.html) to see if you may benefit from taking the exam and for directions to sign up. 
 
 
-<span class="tag-links">[#ap_credit](#ap_credit) [#cse131](#cse131) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#ap_credit](#ap_credit) [#cse131](#cse131) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/123">Discussions View</a></span>
 
 ---
@@ -2428,7 +2416,7 @@ First, how do you feel about staying for an extra ~2 semesters to complete the m
 
 
 
-<span class="tag-links">[#graduate](#graduate) [#masters](#masters) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#masters](#masters) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/124">Discussions View</a></span>
 
 ---
@@ -2950,7 +2938,7 @@ And finally, don't be intimidated if it's your first hackathon. Everyone remembe
 
 
 
-<span class="tag-links">[#get_involved](#get_involved) [#needs_review](#needs_review) [#student_life](#student_life)</span>
+<span class="tag-links">[#get_involved](#get_involved) [#student_life](#student_life)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/3">Discussions View</a></span>
 
 ---
@@ -3098,9 +3086,9 @@ There are also online resources that can teach these subjects, such as [this fre
 There are only a few CSE courses that require a specific operating systems and they usually have alternatives available.  Example courses with machine requirements and alternatives are:
 * CSE 438S (Mobile App Development):  Nearly all semesters require access to a Mac for iOS app development.  There is a Mac lab available for students who don't have a Mac, which is a bit less convenient but allows all course work to be completed.   (This course has been offered for Android a few times, which worked on macOS or Windows)
 * CSE 439S: Mobile App Development II:  Always based on iOS app development and requires access to a Mac.  Again, the lab can be used. 
-* CSE 260M (Introduction to Digital Logic and Computer Design), CSE 362M (Computer Architecture), and CSE 462M (Computer Systems Design) use PC-based tools (Vivado is one).  Students do not need access during class sessions. Those with Macs can use engineering computer labs, remote access, or try to use emulation tools, like Parallels or VMWare Fusion.  All have some potential limitations:  Engineering labs require travelling to campus and finding an available machine.  Remote access is clunky and doesn't support all needs, like connecting to a device via USB.  As of July 2022, I'm not sure emulation has been tested on Apple silicon to see how well it works. 
+* CSE 260M (Introduction to Digital Logic and Computer Design), CSE 362M (Computer Architecture), and CSE 462M (Computer Systems Design) **may** use PC-based tools, such as Vivado.  Those with Macs can use engineering computer labs, remote access, or try to use emulation tools, like Parallels or VMWare Fusion.  All have some potential limitations:  Engineering labs require travelling to campus and finding an available machine.  Remote access is clunky and doesn't support all needs, like connecting to a device via USB.  As of July 2022, not all software has been tested in emulation and may not work. 
 
-<span class="tag-links">[#computer](#computer) [#misc](#misc) [#needs_review](#needs_review)</span>
+<span class="tag-links">[#computer](#computer) [#misc](#misc)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/129">Discussions View</a></span>
 
 ---
@@ -3131,7 +3119,7 @@ Many courses are essentially the same size from semester to semester.  It may he
 #### Two rules that apply to most waitlists
 
 1. **_Your waitlist position is not relevant in the majority of courses that are managed by waitlist._**  Waitlist position is based on when one adds the course to the schedule.  This does not provide fair access or allow prioritization of students who need specific courses. 
-2. **_There are exceptions and limitations to all prioritization schemes._**  For example, priority may **_not_** be given to someone who has **_recently_** added/changed degrees and now needs a specific course.  Some courses ensure enrollments of some non-senior undergraduates who may be able to be Teaching Assistants for the course in the future.  
+2. **_There are exceptions and limitations to all prioritization schemes._**  For example, priority may **_not_** be given to someone who has **_recently_** added/changed degrees, even if they now need a specific course for the new/added degree.  Some courses ensure enrollments of some non-senior undergraduates who may be able to be Teaching Assistants for the course in the future.  
 
 #### If you are on a waitlist when class begins
 
