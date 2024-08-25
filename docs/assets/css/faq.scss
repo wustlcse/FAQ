@@ -5,6 +5,20 @@
 Overrides of WashU style for FAQ needs / order / elements
 */
 
+
+.washu-logo-b, .washu-logo-c, .washu-logo-d {
+    stroke-width: 0px;
+  }
+
+  .washu-logo-c {
+    fill: #2c5234;
+  }
+
+  .washu-logo-d {
+    fill: #ba0c2f;
+  }
+
+
 .wysiwyg {
    ul {
       margin-left: 1.5rem;

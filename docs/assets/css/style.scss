@@ -570,11 +570,11 @@ button {
 .button {
   position: relative;
   background: 0 0;
-  color: #9F1415;
+  color: #BA0C2F;
   display: inline-block;
   margin-right: 0.25rem;
   line-height: 1.5em;
-  border: 1px solid #9F1415;
+  border: 1px solid #BA0C2F;
   border-radius: 3px;
   padding: 0.1875em 1.5625em;
   text-align: center;
@@ -592,8 +592,8 @@ button {
   }
 
   &:hover {
-    background: #9F1415;
-    border-color: #9F1415;
+    background: #BA0C2F;
+    border-color: #BA0C2F;
     color: #fff;
     transform: scale(1.05);
   }
@@ -621,7 +621,7 @@ button {
 
   &:hover {
     background: 0 0;
-    color: #9F1415;
+    color: #BA0C2F;
 
     &::after {
       opacity: 1;
@@ -639,7 +639,7 @@ button {
   &::before {
     font-size: 12px;
     margin-right: 1rem;
-    content: url('data:image/svg+xml;utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 12" fill="none" stroke="%239F1415" stroke-width="2" stroke-miterlimit="10" xmlns:v="https://vecta.io/nano"><path d="M0 1h18M0 5.56h14M0 10.12h10"/></svg>');
+    content: url('data:image/svg+xml;utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 12" fill="none" stroke="%23BA0C2F" stroke-width="2" stroke-miterlimit="10" xmlns:v="https://vecta.io/nano"><path d="M0 1h18M0 5.56h14M0 10.12h10"/></svg>');
     width: 19px;
     display: inline-block;
   }
@@ -655,13 +655,13 @@ button {
   height: 40px;
   padding: 0;
   background: #f7f7f7;
-  color: #9F1415;
+  color: #BA0C2F;
   border: 0;
   border-radius: 50%;
 
   &:hover {
-    background: #9F1415;
-    color: #9F1415;
+    background: #BA0C2F;
+    color: #BA0C2F;
     text-decoration: underline;
   }
 
@@ -670,7 +670,7 @@ button {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    content: url("data:image/svg+xml;utf8, <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' stroke='%239F1415' stroke-width='2' stroke-miterlimit='10' xmlns:v='https://vecta.io/nano'><path d='M2.4 2.4l19.2 19.2'/><path d='M21.6 2.4L2.4 21.6'/></svg>");
+    content: url("data:image/svg+xml;utf8, <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' stroke='%23BA0C2F' stroke-width='2' stroke-miterlimit='10' xmlns:v='https://vecta.io/nano'><path d='M2.4 2.4l19.2 19.2'/><path d='M21.6 2.4L2.4 21.6'/></svg>");
     width: 20px;
     height: 20px;
   }
@@ -713,7 +713,7 @@ button {
 .action {
   position: relative;
   display: inline-block;
-  color: #9F1415;
+  color: #BA0C2F;
 
   &::after {
     line-height: 1;
@@ -721,7 +721,7 @@ button {
     opacity: 0;
     -webkit-backface-visibility: hidden;
     transition: opacity 0.2s;
-    content: url('data:image/svg+xml;utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" fill="none" stroke="%239F1415" stroke-width="2" stroke-miterlimit="10" xmlns:v="https://vecta.io/nano"><path d="M8.45.9l8.1 8.1-8.1 8.1M16 9H0"/></svg>');
+    content: url('data:image/svg+xml;utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" fill="none" stroke="%23BA0C2F" stroke-width="2" stroke-miterlimit="10" xmlns:v="https://vecta.io/nano"><path d="M8.45.9l8.1 8.1-8.1 8.1M16 9H0"/></svg>');
     width: 11px;
     display: inline-block;
   }
@@ -880,7 +880,7 @@ iframe {
 .utility-menu-toggle {
   position: relative;
   z-index: 2;
-  background: #9F1415;
+  background: #BA0C2F;
   border-radius: 0;
   border: 0;
   height: 48px;
@@ -910,7 +910,7 @@ iframe {
   color: #000;
 
   .arrow {
-    color: #9F1415;
+    color: #BA0C2F;
   }
 }
 
@@ -960,7 +960,7 @@ iframe {
   }
 
   a {
-    color: #9F1415;
+    color: #BA0C2F;
   }
 
   hr {
@@ -1119,7 +1119,7 @@ iframe {
 }
 
 .dept .site-header__primary {
-  background: #9F1415;
+  background: #BA0C2F;
 }
 
 @media (min-width: 48em) {
@@ -1137,7 +1137,7 @@ iframe {
 .site-header-branding {
   position: relative;
   padding-left: 0.5rem;
-  color: #9F1415;
+  color: #BA0C2F;
   line-height: 1.2;
 
   .wustl-shield {
@@ -1282,7 +1282,7 @@ iframe {
       height: 30px;
       display: block;
       border-left: 1px solid #e5e5e5;
-      color: #9F1415;
+      color: #BA0C2F;
 
       &::after {
         position: absolute;
@@ -1294,7 +1294,7 @@ iframe {
   }
 
   .secondary-menu {
-    background: #9F1415;
+    background: #BA0C2F;
     color: #fff;
     padding: 2rem 5%;
 
@@ -1376,7 +1376,7 @@ iframe {
         height: 6px;
         left: 0;
         width: 100%;
-        background: #9F1415;
+        background: #BA0C2F;
         visibility: hidden;
         opacity: 0;
         transition: opacity 0.3s;
@@ -1541,7 +1541,7 @@ iframe {
     }
 
     ul {
-      color: #9F1415;
+      color: #BA0C2F;
 
       li:last-child {
         margin-bottom: 0;
@@ -1593,7 +1593,7 @@ iframe {
     display: inline-block;
     font-size: 18px;
     font-size: 1.125rem;
-    color: #9F1415;
+    color: #BA0C2F;
 
     .arrow {
       position: absolute;
@@ -1722,13 +1722,13 @@ iframe {
         display: flex;
         flex-direction: column;
         justify-content: center;
-        background: #9F1415;
+        background: #BA0C2F;
         color: #fff;
       }
     }
 
     .type-news-events {
-      background: #9F1415;
+      background: #BA0C2F;
       color: #fff;
       padding: 2rem;
 
@@ -1832,7 +1832,7 @@ iframe {
   padding: 0;
 
   span {
-    background: #9F1415;
+    background: #BA0C2F;
     display: block;
     height: 2px;
     left: 50%;
@@ -1843,7 +1843,7 @@ iframe {
     width: 18px;
 
     &:after {
-      background: #9F1415;
+      background: #BA0C2F;
       content: '';
       height: 2px;
       position: absolute;
@@ -1853,7 +1853,7 @@ iframe {
     }
 
     &:before {
-      background: #9F1415;
+      background: #BA0C2F;
       content: '';
       height: 2px;
       position: absolute;
@@ -1963,7 +1963,7 @@ iframe {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    content: url('data:image/svg+xml;utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="%239F1415" stroke-width="2" xmlns:v="https://vecta.io/nano"><path d="M13 13l8.6 8.6" stroke-miterlimit="10"/><circle cx="8.5" cy="8.5" r="6.66"/></svg>');
+    content: url('data:image/svg+xml;utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="%23BA0C2F" stroke-width="2" xmlns:v="https://vecta.io/nano"><path d="M13 13l8.6 8.6" stroke-miterlimit="10"/><circle cx="8.5" cy="8.5" r="6.66"/></svg>');
     width: 20px;
     height: 20px;
   }
@@ -1982,7 +1982,7 @@ iframe {
 @media (min-width: 48em) {
   .search-toggle {
     background: #f7f7f7;
-    color: #9F1415;
+    color: #BA0C2F;
   }
 }
 
@@ -2092,7 +2092,7 @@ iframe {
     text-decoration: underline;
 
     &:hover {
-      color: #9F1415;
+      color: #BA0C2F;
     }
   }
 }
@@ -2165,7 +2165,7 @@ iframe {
     padding: 3px;
 
     &:hover {
-      color: #9F1415;
+      color: #BA0C2F;
     }
   }
 
@@ -2252,7 +2252,7 @@ iframe {
 }
 
 .page-header-404 {
-  background: #9F1415;
+  background: #BA0C2F;
   min-height: calc(100vh - 138px);
   display: flex;
   flex-direction: column;
@@ -2295,7 +2295,7 @@ iframe {
       content: "▸";
       margin-left: 0;
       margin-right: 0;
-      color: #9F1415;
+      color: #BA0C2F;
     }
 
     &:last-child::after {
@@ -2304,7 +2304,7 @@ iframe {
   }
 
   a {
-    color: #9F1415;
+    color: #BA0C2F;
     text-decoration: underline;
   }
 }
@@ -2480,7 +2480,7 @@ iframe {
     margin-bottom: 0;
 
     a {
-      color: #9F1415;
+      color: #BA0C2F;
       text-decoration: underline;
     }
   }
@@ -2700,7 +2700,7 @@ iframe {
   }
 
   a {
-    color: #9F1415;
+    color: #BA0C2F;
   }
 
   &.show {
@@ -3179,7 +3179,7 @@ iframe {
     background: #f7f7f7;
     list-style: none;
     padding: 0 1.5rem 1rem;
-    color: #9F1415;
+    color: #BA0C2F;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
 
     &::before {
@@ -3209,7 +3209,7 @@ iframe {
   display: none;
 
   .dropdown-toggle {
-    background: #9F1415;
+    background: #BA0C2F;
     border: 0;
     border-radius: 0;
     color: #fff;
@@ -3223,7 +3223,7 @@ iframe {
   .search-form {
     width: 100%;
     height: 100%;
-    background: #9F1415;
+    background: #BA0C2F;
 
     .search-field {
       background: 0 0;
@@ -3460,7 +3460,7 @@ iframe {
   }
 
   .module__title {
-    color: #9F1415;
+    color: #BA0C2F;
   }
 
   .slideshow {
@@ -3480,7 +3480,7 @@ iframe {
 .popular-links {
   margin-left: 1.75rem;
   max-width: 570px;
-  border-left: 4px solid #9F1415;
+  border-left: 4px solid #BA0C2F;
   padding-left: 1rem;
 
   ul {
@@ -3498,7 +3498,7 @@ iframe {
   }
 
   a {
-    color: #9F1415;
+    color: #BA0C2F;
     position: relative;
     text-decoration: underline;
 
@@ -3815,7 +3815,7 @@ iframe {
 
 .student-quote__blockquote-quote {
   padding: 4rem 2rem 5rem;
-  background: #9F1415;
+  background: #BA0C2F;
   color: #fff;
 
   p {
@@ -3899,7 +3899,7 @@ iframe {
   }
 
   a {
-    color: #9F1415;
+    color: #BA0C2F;
     text-decoration: underline;
   }
 }
@@ -4013,7 +4013,7 @@ iframe {
   }
 
   a {
-    color: #9F1415;
+    color: #BA0C2F;
   }
 
   .tab__heading {
@@ -4036,7 +4036,7 @@ iframe {
     }
 
     &.active, &:hover {
-      color: #9F1415;
+      color: #BA0C2F;
     }
 
     &.active::after, &:hover::after {
@@ -4153,7 +4153,7 @@ iframe {
       }
 
       &.active::after {
-        background: #9F1415;
+        background: #BA0C2F;
       }
     }
 
@@ -4528,7 +4528,7 @@ iframe {
 }
 
 .stats__number {
-  color: #9F1415;
+  color: #BA0C2F;
   font-size: 120px;
   font-size: 7.5rem;
   font-weight: 300;
@@ -4868,7 +4868,7 @@ iframe {
     bottom: 100%;
     left: 0;
     padding: 0.375em 1.25em;
-    background: #9F1415;
+    background: #BA0C2F;
     color: #fff;
     opacity: 0;
     transform: translateX(-5px);
@@ -4901,7 +4901,7 @@ iframe {
 }
 
 .academic-dept-teaser__title {
-  color: #9F1415;
+  color: #BA0C2F;
   margin-bottom: 1rem;
   line-height: 1.5;
   min-height: 60px;
@@ -4955,7 +4955,7 @@ iframe {
         left: 0;
         width: 13.223%;
         height: 2px;
-        background: #9F1415;
+        background: #BA0C2F;
       }
     }
 
@@ -5005,7 +5005,7 @@ iframe {
 }
 
 .academic-programs__teaser-title {
-  color: #9F1415;
+  color: #BA0C2F;
 }
 
 h3.academic-programs__teaser-title {
@@ -5186,7 +5186,7 @@ h3.academic-programs__teaser-title {
   }
 
   .filter-select__title {
-    color: #9F1415;
+    color: #BA0C2F;
   }
 }
 
@@ -5431,7 +5431,7 @@ h3.academic-programs__teaser-title {
 }
 
 .faculty-name {
-  color: #9F1415;
+  color: #BA0C2F;
   font-size: 22px;
   font-size: 1.375rem;
   margin-bottom: 1rem;
@@ -5653,7 +5653,7 @@ h3.academic-programs__teaser-title {
 }
 
 .news__meta {
-  color: #9F1415;
+  color: #BA0C2F;
   font-size: 14px;
   font-size: 0.875rem;
 
@@ -5677,7 +5677,7 @@ h3.academic-programs__teaser-title {
   font-size: 0.8125rem;
   text-transform: uppercase;
   font-weight: 700;
-  color: #9F1415;
+  color: #BA0C2F;
 
   li {
     display: inline-block;
@@ -5718,7 +5718,7 @@ h3.academic-programs__teaser-title {
     width: 22px;
     height: 22px;
     border-radius: 50%;
-    background: #9F1415;
+    background: #BA0C2F;
 
     &::before {
       position: absolute;
@@ -5875,7 +5875,7 @@ h3.academic-programs__teaser-title {
   position: relative;
 
   a {
-    color: #9F1415;
+    color: #BA0C2F;
     text-decoration: underline;
   }
 }
@@ -5904,7 +5904,7 @@ h3.academic-programs__teaser-title {
 }
 
 .magazine-issue {
-  color: #9F1415;
+  color: #BA0C2F;
   font-weight: 700;
   margin-bottom: 0.5rem;
   text-transform: uppercase;
@@ -5964,7 +5964,7 @@ h3.academic-programs__teaser-title {
 }
 
 .magazine-teaser__meta {
-  color: #9F1415;
+  color: #BA0C2F;
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 0.05em;
@@ -6188,7 +6188,7 @@ h3.academic-programs__teaser-title {
   flex-direction: column;
 
   .event-title {
-    color: #9F1415;
+    color: #BA0C2F;
   }
 
   .action {
@@ -6261,7 +6261,7 @@ h3.academic-programs__teaser-title {
     font-size: 18px;
     font-size: 1.125rem;
     line-height: 1;
-    color: #9F1415;
+    color: #BA0C2F;
   }
 }
 
@@ -6293,7 +6293,7 @@ h3.academic-programs__teaser-title {
   }
 
   .event-date {
-    color: #9F1415;
+    color: #BA0C2F;
     font-size: 22px;
     font-size: 1.375rem;
   }
@@ -6471,7 +6471,7 @@ h3.academic-programs__teaser-title {
   }
 
   svg {
-    fill: #9F1415;
+    fill: #BA0C2F;
     margin-right: 0.35rem;
   }
 }
@@ -6601,14 +6601,14 @@ h3.academic-programs__teaser-title {
     background: 0 0;
     border: 0;
     padding: 0;
-    color: #9F1415;
+    color: #BA0C2F;
 
     &::after {
       position: absolute;
       left: 50%;
       top: 50%;
       transform: translate(-50%, -50%);
-      content: url('data:image/svg+xml;utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="%239F1415" stroke-width="2" xmlns:v="https://vecta.io/nano"><path d="M13 13l8.6 8.6" stroke-miterlimit="10"/><circle cx="8.5" cy="8.5" r="6.66"/></svg>');
+      content: url('data:image/svg+xml;utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="%23BA0C2F" stroke-width="2" xmlns:v="https://vecta.io/nano"><path d="M13 13l8.6 8.6" stroke-miterlimit="10"/><circle cx="8.5" cy="8.5" r="6.66"/></svg>');
       width: 20px;
       height: 20px;
     }
@@ -6651,7 +6651,7 @@ h3.academic-programs__teaser-title {
 
 .module__figcaption a, .page-header__image figcaption a {
   text-decoration: underline;
-  color: #9F1415;
+  color: #BA0C2F;
 }
 
 .second_nav {
@@ -6730,10 +6730,10 @@ h3.academic-programs__teaser-title {
 
   &.red {
     position: relative;
-    background-color: #9F1415;
+    background-color: #BA0C2F;
 
     &::before {
-      background-color: #9F1415;
+      background-color: #BA0C2F;
     }
   }
 
@@ -6814,7 +6814,7 @@ h3.academic-programs__teaser-title {
       color: #fff;
 
       &:hover {
-        background: #9F1415;
+        background: #BA0C2F;
         color: #fff;
       }
     }
@@ -6822,7 +6822,7 @@ h3.academic-programs__teaser-title {
 
   &.red .wysiwyg a.widget_button.red.button:hover {
     background-color: #fff;
-    color: #9F1415;
+    color: #BA0C2F;
   }
 }
 
@@ -6885,7 +6885,7 @@ h3.academic-programs__teaser-title {
 
   &.green .button:hover, &.red .button:hover {
     background: #fff;
-    color: #9F1415;
+    color: #BA0C2F;
   }
 }
 
@@ -7117,7 +7117,7 @@ th[scope="row"] {
   }
 
   &.magazine_red {
-    border-left-color: #9F1415;
+    border-left-color: #BA0C2F;
   }
 
   &.magazine_turquoise {
@@ -7200,7 +7200,7 @@ body.page-faculty-single {
 }
 
 .show-search .search-toggle::after {
-  content: url("data:image/svg+xml;utf8, <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' stroke='%239F1415' stroke-width='2' stroke-miterlimit='10' xmlns:v='https://vecta.io/nano'><path d='M2.4 2.4l19.2 19.2'/><path d='M21.6 2.4L2.4 21.6'/></svg>");
+  content: url("data:image/svg+xml;utf8, <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' stroke='%23BA0C2F' stroke-width='2' stroke-miterlimit='10' xmlns:v='https://vecta.io/nano'><path d='M2.4 2.4l19.2 19.2'/><path d='M21.6 2.4L2.4 21.6'/></svg>");
   width: 20px;
   height: 20px;
 }
@@ -7210,17 +7210,17 @@ body.page-faculty-single {
 }
 
 .action--email::before {
-  content: url('data:image/svg+xml;utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" fill="none" stroke="%239F1415" stroke-miterlimit="10" xmlns:v="https://vecta.io/nano"><path d="M.75 2.5h16.5V15H.75z"/><path d="M.9 2.92L9 9l8.1-6.08"/></svg>');
+  content: url('data:image/svg+xml;utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" fill="none" stroke="%23BA0C2F" stroke-miterlimit="10" xmlns:v="https://vecta.io/nano"><path d="M.75 2.5h16.5V15H.75z"/><path d="M.9 2.92L9 9l8.1-6.08"/></svg>');
   width: 17px;
 }
 
 .action--website::before {
-  content: url('data:image/svg+xml;utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" fill="none" stroke="%239F1415" stroke-miterlimit="10" xmlns:v="https://vecta.io/nano"><path d="M.75 2.5h16.5V15H.75z"/><path d="M.5 4.5h17m-15-2v2"/></svg>');
+  content: url('data:image/svg+xml;utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" fill="none" stroke="%23BA0C2F" stroke-miterlimit="10" xmlns:v="https://vecta.io/nano"><path d="M.75 2.5h16.5V15H.75z"/><path d="M.5 4.5h17m-15-2v2"/></svg>');
   width: 17px;
 }
 
 .action--download::before {
-  content: url('data:image/svg+xml;utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="none" stroke="%239F1415" xmlns:v="https://vecta.io/nano"><path d="M8 15.2A7.2 7.2 0 0 1 .81 8C.8 4.04 4.04.8 8 .8s7.2 3.23 7.2 7.2-3.23 7.2-7.2 7.2z"/><path d="M2.82 8.1L8 13.3l5.18-5.2M8 12.94V2" stroke-width="1.3" stroke-miterlimit="10"/></svg>');
+  content: url('data:image/svg+xml;utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="none" stroke="%23BA0C2F" xmlns:v="https://vecta.io/nano"><path d="M8 15.2A7.2 7.2 0 0 1 .81 8C.8 4.04 4.04.8 8 .8s7.2 3.23 7.2 7.2-3.23 7.2-7.2 7.2z"/><path d="M2.82 8.1L8 13.3l5.18-5.2M8 12.94V2" stroke-width="1.3" stroke-miterlimit="10"/></svg>');
   width: 15px;
 }
 
@@ -7234,22 +7234,22 @@ body.page-faculty-single {
 }
 
 .action--twitter::before {
-  content: url('data:image/svg+xml;utf8, <svg fill="%239F1415" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" x="0px" xml:space="preserve" y="0px"><path d="M21.4,6.7c-0.7,0.3-1.4,0.5-2.2,0.6c0.8-0.5,1.4-1.2,1.7-2.1c-0.8,0.4-1.6,0.8-2.4,0.9c-0.7-0.8-1.7-1.2-2.8-1.2c-2.1,0-3.8,1.7-3.8,3.8c0,0.3,0,0.6,0.1,0.9c-3.1-0.2-6-1.6-7.9-4C3.6,6.2,3.4,6.9,3.4,7.5c0,1.3,0.6,2.5,1.7,3.2c-0.6,0-1.2-0.2-1.7-0.5c0,0,0,0,0,0c0,1.8,1.3,3.4,3.1,3.8c-0.3,0.1-0.7,0.1-1,0.1c-0.2,0-0.5,0-0.7-0.1c0.5,1.6,1.9,2.6,3.6,2.7c-1.4,1.1-3,1.6-4.8,1.6c-0.3,0-0.6,0-0.9-0.1c1.8,1.1,3.8,1.7,5.9,1.7c6,0,10.9-4.8,10.9-10.8c0-0.1,0-0.1,0-0.2c0-0.2,0-0.3,0-0.5C20.2,8.2,20.8,7.5,21.4,6.7z"></path></svg>');
+  content: url('data:image/svg+xml;utf8, <svg fill="%23BA0C2F" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" x="0px" xml:space="preserve" y="0px"><path d="M21.4,6.7c-0.7,0.3-1.4,0.5-2.2,0.6c0.8-0.5,1.4-1.2,1.7-2.1c-0.8,0.4-1.6,0.8-2.4,0.9c-0.7-0.8-1.7-1.2-2.8-1.2c-2.1,0-3.8,1.7-3.8,3.8c0,0.3,0,0.6,0.1,0.9c-3.1-0.2-6-1.6-7.9-4C3.6,6.2,3.4,6.9,3.4,7.5c0,1.3,0.6,2.5,1.7,3.2c-0.6,0-1.2-0.2-1.7-0.5c0,0,0,0,0,0c0,1.8,1.3,3.4,3.1,3.8c-0.3,0.1-0.7,0.1-1,0.1c-0.2,0-0.5,0-0.7-0.1c0.5,1.6,1.9,2.6,3.6,2.7c-1.4,1.1-3,1.6-4.8,1.6c-0.3,0-0.6,0-0.9-0.1c1.8,1.1,3.8,1.7,5.9,1.7c6,0,10.9-4.8,10.9-10.8c0-0.1,0-0.1,0-0.2c0-0.2,0-0.3,0-0.5C20.2,8.2,20.8,7.5,21.4,6.7z"></path></svg>');
 }
 
 .action--scholar::before {
-  content: url('data:image/svg+xml;utf8, <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="20" height="20" viewBox="0 0 50 50" style="fill:%239F1415;"><path d="M 25 2 C 12.309534 2 2 12.309534 2 25 C 2 37.690466 12.309534 48 25 48 C 37.690466 48 48 37.690466 48 25 C 48 12.309534 37.690466 2 25 2 z M 25 4 C 36.609534 4 46 13.390466 46 25 C 46 36.609534 36.609534 46 25 46 C 13.390466 46 4 36.609534 4 25 C 4 13.390466 13.390466 4 25 4 z M 21 11 L 11 20 L 17.78125 20 C 17.80125 22.847 19.967531 25.730469 23.769531 25.730469 C 24.129531 25.730469 24.529688 25.690391 24.929688 25.650391 C 24.749688 26.100391 24.560547 26.470078 24.560547 27.080078 C 24.560547 28.230078 25.140391 28.920078 25.650391 29.580078 C 24.020391 29.690078 20.989766 29.879531 18.759766 31.269531 C 16.629766 32.559531 15.980469 34.43 15.980469 35.75 C 15.980469 38.47 18.500469 41 23.730469 41 C 29.930469 41 33.220703 37.510547 33.220703 34.060547 C 33.220703 31.530547 31.779453 30.279922 30.189453 28.919922 L 28.900391 27.890625 C 28.500391 27.570625 27.949219 27.120312 27.949219 26.320312 C 27.949219 25.510313 28.500703 24.989766 28.970703 24.509766 C 30.480703 23.309766 32 21.960234 32 19.240234 C 32 18.197234 31.756203 17.348391 31.408203 16.650391 L 35 13.570312 L 35 17.277344 C 34.405 17.623344 34 18.261 34 19 L 34 25 C 34 26.104 34.896 27 36 27 C 37.104 27 38 26.104 38 25 L 38 19 C 38 18.262 37.595 17.624344 37 17.277344 L 37 12 C 37 11.957 36.980609 11.920906 36.974609 11.878906 L 38 11 L 21 11 z M 24.269531 14.240234 C 27.269531 14.240234 28.820312 18.35 28.820312 21 C 28.820312 21.65 28.739922 22.819922 27.919922 23.669922 C 27.339922 24.259922 26.370938 24.699219 25.460938 24.699219 C 22.370938 24.699219 20.949219 20.620156 20.949219 18.160156 C 20.949219 17.210156 21.14 16.220938 21.75 15.460938 C 22.33 14.710938 23.339531 14.240234 24.269531 14.240234 z M 26.039062 30.609375 C 26.409063 30.609375 26.590859 30.610391 26.880859 30.650391 C 29.620859 32.630391 30.800781 33.620234 30.800781 35.490234 C 30.800781 37.760234 28.97 39.460938 25.5 39.460938 C 21.64 39.460938 19.160156 37.590469 19.160156 34.980469 C 19.160156 32.370469 21.459766 31.499219 22.259766 31.199219 C 23.769766 30.679219 25.719062 30.609375 26.039062 30.609375 z"></path></svg>');
+  content: url('data:image/svg+xml;utf8, <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="20" height="20" viewBox="0 0 50 50" style="fill:%23BA0C2F;"><path d="M 25 2 C 12.309534 2 2 12.309534 2 25 C 2 37.690466 12.309534 48 25 48 C 37.690466 48 48 37.690466 48 25 C 48 12.309534 37.690466 2 25 2 z M 25 4 C 36.609534 4 46 13.390466 46 25 C 46 36.609534 36.609534 46 25 46 C 13.390466 46 4 36.609534 4 25 C 4 13.390466 13.390466 4 25 4 z M 21 11 L 11 20 L 17.78125 20 C 17.80125 22.847 19.967531 25.730469 23.769531 25.730469 C 24.129531 25.730469 24.529688 25.690391 24.929688 25.650391 C 24.749688 26.100391 24.560547 26.470078 24.560547 27.080078 C 24.560547 28.230078 25.140391 28.920078 25.650391 29.580078 C 24.020391 29.690078 20.989766 29.879531 18.759766 31.269531 C 16.629766 32.559531 15.980469 34.43 15.980469 35.75 C 15.980469 38.47 18.500469 41 23.730469 41 C 29.930469 41 33.220703 37.510547 33.220703 34.060547 C 33.220703 31.530547 31.779453 30.279922 30.189453 28.919922 L 28.900391 27.890625 C 28.500391 27.570625 27.949219 27.120312 27.949219 26.320312 C 27.949219 25.510313 28.500703 24.989766 28.970703 24.509766 C 30.480703 23.309766 32 21.960234 32 19.240234 C 32 18.197234 31.756203 17.348391 31.408203 16.650391 L 35 13.570312 L 35 17.277344 C 34.405 17.623344 34 18.261 34 19 L 34 25 C 34 26.104 34.896 27 36 27 C 37.104 27 38 26.104 38 25 L 38 19 C 38 18.262 37.595 17.624344 37 17.277344 L 37 12 C 37 11.957 36.980609 11.920906 36.974609 11.878906 L 38 11 L 21 11 z M 24.269531 14.240234 C 27.269531 14.240234 28.820312 18.35 28.820312 21 C 28.820312 21.65 28.739922 22.819922 27.919922 23.669922 C 27.339922 24.259922 26.370938 24.699219 25.460938 24.699219 C 22.370938 24.699219 20.949219 20.620156 20.949219 18.160156 C 20.949219 17.210156 21.14 16.220938 21.75 15.460938 C 22.33 14.710938 23.339531 14.240234 24.269531 14.240234 z M 26.039062 30.609375 C 26.409063 30.609375 26.590859 30.610391 26.880859 30.650391 C 29.620859 32.630391 30.800781 33.620234 30.800781 35.490234 C 30.800781 37.760234 28.97 39.460938 25.5 39.460938 C 21.64 39.460938 19.160156 37.590469 19.160156 34.980469 C 19.160156 32.370469 21.459766 31.499219 22.259766 31.199219 C 23.769766 30.679219 25.719062 30.609375 26.039062 30.609375 z"></path></svg>');
 }
 
 select.filter-dropdown {
-  color: #9F1415;
-  border: 1px solid #9F1415;
+  color: #BA0C2F;
+  border: 1px solid #BA0C2F;
   padding: 10px 30px 10px 10px;
   background: transparent;
   max-width: 100%;
   -webkit-appearance: none;
   appearance: none;
-  background-image: url('data:image/svg+xml;utf8, <svg xmlns="http://www.w3.org/2000/svg" width="14" height="9"><path d="M.5.5L6.75 8 13 .5z" fill="%239F1415" stroke="none"/></svg>');
+  background-image: url('data:image/svg+xml;utf8, <svg xmlns="http://www.w3.org/2000/svg" width="14" height="9"><path d="M.5.5L6.75 8 13 .5z" fill="%23BA0C2F" stroke="none"/></svg>');
   background-repeat: no-repeat;
   background-position: bottom 50% right 10px;
 }
@@ -7332,7 +7332,7 @@ select.filter-dropdown {
 
 .steps {
   .carousel__slide {
-    background-color: #9F1415;
+    background-color: #BA0C2F;
     color: #fff;
     padding: 3rem 0;
   }
@@ -7438,7 +7438,7 @@ select.filter-dropdown {
   transition: transform 0.1s;
 
   &.active {
-    background-color: #9F1415;
+    background-color: #BA0C2F;
   }
 }
 
@@ -7448,7 +7448,7 @@ select.filter-dropdown {
 
 .carousel_caption a {
   text-decoration: underline;
-  color: #9F1415;
+  color: #BA0C2F;
 }
 
 hr.tq-light {
@@ -7593,7 +7593,7 @@ lite-youtube {
 
     a {
       font-family: "Source Sans Pro", sans-serif;
-      color: #9F1415;
+      color: #BA0C2F;
       text-decoration: underline;
     }
   }
@@ -7690,7 +7690,7 @@ main.funnelback section.search-results blockquote.search-exhibit {
   font-size: 1em;
 
   a {
-    color: #9F1415;
+    color: #BA0C2F;
     text-decoration: underline;
   }
 }
