@@ -636,8 +636,6 @@ markdown: kramdown
 
 [Should I consider becoming a TA?](#should-i-consider-becoming-a-ta)
 
-[Should I get course credit (CSE 400E, CSE 599, CSE 598) or be paid for research with faculty?](#should-i-get-course-credit-cse-e-cse--cse--or-be-paid-for-research-with-faculty)
-
 [What are residency requirements?](#what-are-residency-requirements)
 
 [What are the core courses for my degree?](#what-are-the-core-courses-for-my-degree)
@@ -650,15 +648,11 @@ markdown: kramdown
 
 [What do our graduates do?](#what-do-our-graduates-do)
 
-[What does a dean do?](#what-does-a-dean-do)
-
 [What does a provost do?](#what-does-a-provost-do)
 
 [What is CSE&nbsp;501N?  How is it different from 131?](#what-is-csenbspn--how-is-it-different-from-)
 
 [What is a FAQ?](#what-is-a-faq)
-
-[What is a senior thesis and should I do one?](#what-is-a-senior-thesis-and-should-i-do-one)
 
 [What is academic integrity and how does the academic integrity process work?](#what-is-academic-integrity-and-how-does-the-academic-integrity-process-work)
 
@@ -670,8 +664,6 @@ markdown: kramdown
 
 [What is the difference between computer science (CS) and computer engineering (CoE)?](#what-is-the-difference-between-computer-science-cs-and-computer-engineering-coe)
 
-[What is the difference between my 4-year advisor and my departmental advisor?](#what-is-the-difference-between-my--year-advisor-and-my-departmental-advisor)
-
 [What kind of computer should I have for studies in computer science or computer engineering?](#what-kind-of-computer-should-i-have-for-studies-in-computer-science-or-computer-engineering)
 
 [What language does CSE247/502N use?  Do I have to have taken CSE131/501N?](#what-language-does-csen-use--do-i-have-to-have-taken-csen)
@@ -679,8 +671,6 @@ markdown: kramdown
 [What probability/statistics course should I take?](#what-probabilitystatistics-course-should-i-take)
 
 [What programming languages do we teach in our curriculum?](#what-programming-languages-do-we-teach-in-our-curriculum)
-
-[What web design courses can I take?](#what-web-design-courses-can-i-take)
 
 [When am I allowed to collaborate on assignments?](#when-am-i-allowed-to-collaborate-on-assignments)
 
@@ -2395,7 +2385,7 @@ Approximately 1-2 weeks after you register for classes you should get an email t
 <a id=78></a>
 It's between you and your research or independent study mentor. Some students prefer credit, as it makes progress toward their degree; others prefer to be paid.
 
-<span class="tag-links">[#graduate](#graduate) [#independent_study](#independent_study) [#jobs](#jobs) [#needs_review](#needs_review) [#research](#research) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#graduate](#graduate) [#independent_study](#independent_study) [#jobs](#jobs) [#research](#research) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/78">Discussions View</a></span>
 
 ---
@@ -2557,7 +2547,7 @@ Each school also has an Associate Dean who supervises the academic activities of
 
 
 
-<span class="tag-links">[#academia](#academia) [#needs_review](#needs_review)</span>
+<span class="tag-links">[#academia](#academia)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/25">Discussions View</a></span>
 
 ---
@@ -2596,7 +2586,7 @@ Completion of a senior thesis is designated in your transcripts as a "milestone"
 
 
 
-<span class="tag-links">[#needs_review](#needs_review) [#research](#research) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#research](#research) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/11">Discussions View</a></span>
 
 ---
@@ -2800,7 +2790,7 @@ Success depends upon investment of time by the student, the accurate and timely 
 
 
 
-<span class="tag-links">[#academia](#academia) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#academia](#academia) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/113">Discussions View</a></span>
 
 ---
@@ -2886,7 +2876,7 @@ There are many related courses, many of which can be used for the [Minor in Huma
 
 
 
-<span class="tag-links">[#courses](#courses) [#graduate](#graduate) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#courses](#courses) [#graduate](#graduate) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/114">Discussions View</a></span>
 
 ---
