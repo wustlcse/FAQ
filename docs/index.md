@@ -572,8 +572,6 @@ markdown: kramdown
 
 [How do I earn a minor in computer science?](#how-do-i-earn-a-minor-in-computer-science)
 
-[How do I earn a second major in computer engineering?](#how-do-i-earn-a-second-major-in-computer-engineering)
-
 [How do I find a summer internship?](#how-do-i-find-a-summer-internship)
 
 [How do I prepare for and find an internship?](#how-do-i-prepare-for-and-find-an-internship)
@@ -1689,9 +1687,9 @@ HCI studies the way humans and computers interact, aiming to improve the interfa
 
 ---
 <h2 class="anchored" id="how-do-i-earn-a-second-major-in-computer-engineering">How do I earn a second major in computer engineering?</h2>
-<a id=70></a> You can't: we don't offer a second major in Computer Engineering. Consider a primary major in Computer Engineering and a Second Major in Computer Science.   This approach will ensure you have the background needed for Computer Engineering and still allows you to get a significant amount of work in Computer Science.  In fact, with careful selection of electives it's possible to get both with only a little additional coursework. 
+<a id=70></a> You can't: we don't offer a second major in Computer Engineering. 
 
-<span class="tag-links">[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#needs_review](#needs_review) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
+<span class="tag-links">[#computer_engineering](#computer_engineering) [#computer_science](#computer_science) [#second_major](#second_major) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/70">Discussions View</a></span>
 
 ---
