@@ -3134,32 +3134,32 @@ There are only a few CSE courses that require a specific operating systems and t
 It usually depends on the course:
 
 * Waitlists are used when the demand for a course exceeds the capacity. See [Overflow enrollment](#overflow-enrollment) below.
-* Courses that indicate they are "Managed by waitlist" put all students on a waitlist initially.    See [Managed by waitlist](#managed-by-waitlist) below.
+* Waitlists are also used in courses where specific audiences need priority for the course to ensure they can complete their degree. See [Managed by waitlist](#managed-by-waitlist) below.
 
 ## Overflow Enrollment
 
-Most courses that are _not_ "Managed by Waitlist" and have overflow enrollment will usually give students in CSE degrees (or PhDs) priority and will process students in waitlist order. Openings are filled as students drop/add.  Often additions are not done until the first week of the semester when students are changing schedules and there are openings.
+Most courses that are _not_ "Managed by Waitlist" and have overflow enrollment will process students in waitlist order. Openings are filled as students drop/add or if the overall course capacity can be increased.  Often additions are not done until the first week of the semester when students are changing schedules and there are openings.
 
-Introductory courses (CSE 131/501N, CSE 132, CSE 240, CSE 247/502N) are usually able to accommodate all students, but some students may have to select alternate times/sections with openings.
+Introductory courses (CSE 1301, CSE 1302, CSE 2400, CSE 2407) are usually able to accommodate all students, but some students may have to select alternate times/sections with openings.
 
 ## Managed by waitlist
 
-Courses that are "Managed by Waitlist" may use a waitlist for a combination of reasons. The most common reasons are: a) to prioritize some groups of student (degrees with high need for the specific course), b) to ensure pre-reqs are met before enrollment, or c) to ensure there is fair access to a high demand course.   Such courses will usually enroll about 80-90% of the course capacity by the end of the registration semester (for example, by the end of the spring semester the vast majority of enrollments will be done for fall semester).  
+Courses that are "Managed by Waitlist" may use a waitlist for a combination of reasons. The most common reasons are: a) to prioritize some groups of student (degrees with high need for the specific course) or b) to ensure there is fair access to a high demand course.   
 
-Many courses are essentially the same size from semester to semester.  It may help to review the enrollment of prior semesters and the current size of the waitlist to get some idea of chances of enrollment.  Go to the course in WebSTAC, expand the "Details" for the course, and select the "History" and then a specific semester to be able to look at enrollments of prior semesters.  There are other factors that influence the size, like having a new/different instructor and the capacity of the assigned room.
+Many courses are essentially the same size from semester to semester.  It may help to review the enrollment of prior semesters and the current size of the waitlist to get some idea of chances of enrollment.  However, there are other factors that influence the size, like having a new/different instructor and the capacity of the assigned room.
 
 ### Courses that are managed by waitlist
 
-#### Two rules that apply to most waitlists
+<!-- #### Two rules that apply to most waitlists
 
 1. **_Your waitlist position is not relevant in the majority of courses that are managed by waitlist._**  Waitlist position is based on when one adds the course to the schedule.  This does not provide fair access or allow prioritization of students who need specific courses. 
-2. **_There are exceptions and limitations to all prioritization schemes._**  For example, priority may **_not_** be given to someone who has **_recently_** added/changed degrees, even if they now need a specific course for the new/added degree.  Some courses ensure enrollments of some non-senior undergraduates who may be able to be Teaching Assistants for the course in the future.  
+2. **_There are exceptions and limitations to all prioritization schemes._**  For example, priority may **_not_** be given to someone who has **_recently_** added/changed degrees, even if they now need a specific course for the new/added degree.  Some courses ensure enrollments of some non-senior undergraduates who may be able to be Teaching Assistants for the course in the future.   -->
 
 #### If you are on a waitlist when class begins
 
-If you are still on a waitlist when class begins, there may still be some chance of enrollment.  You should attend the first session(s) if space permits and do work/etc. (officially enrolled students get priority if there is insufficient classroom space).  If the instructor does not address waitlisted students during the first class session or you are unable to attend due to space constraints, you may contact them following the session (in person after class if scheduling permits or via email) to seek guidance on your chances of enrollment. 
+If you are still on a waitlist when class begins, there may still be some chance of enrollment.  You should attend the first session(s) if space permits and do work/etc. (officially enrolled students get priority if there is insufficient classroom space).  If the instructor does not address waitlisted students during the first class session or you are unable to attend due to space constraints, you may contact them following the session to seek guidance on your chances of enrollment (in person after class if scheduling permits or via email) . 
 
-#### Course-by-Course priorities
+<!--- #### Course-by-Course priorities
 
 Here are the common waitlist processing priorities and guidance for many courses:
 
@@ -3212,7 +3212,7 @@ Here are the common waitlist processing priorities and guidance for many courses
 * CSE 559A: Computer Vision. Pre-reqs are strictly enforced. CSE, DCDS, BME, Imaging Science, ESE PhD have top priority followed by students in CSE degrees that accept the course for degree credit.  Majors have priority over Minors. 
 * CSE 561A: Large Language Models.  Priority to PhD students, then CSE students in degrees that accept the course for technical elective credit, then other CSE students, then Engineering students, then others.
 * CSE 571S: Network Security.  Students in the M.S. in Cybersecurity Engineering or the Cybersecurity Graduate Certificate have priority.  Enrollment is strictly capped. 
-* CSE 587A: Algorithms for Computational Biology. PhD students in the Computational and Systems Biology DBBS PhD program, for whom CSE587A is required, are enrolled first, then all other PhD students, then Bioinformatics minors, then all others (space permitting).
+* CSE 587A: Algorithms for Computational Biology. PhD students in the Computational and Systems Biology DBBS PhD program, for whom CSE587A is required, are enrolled first, then all other PhD students, then Bioinformatics minors, then all others (space permitting). -->
 
 
 
