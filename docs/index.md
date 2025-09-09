@@ -1888,20 +1888,17 @@ CS+Math also differs in the electives available.  A CS Major can select any CSE 
 
 ---
 <h2 class="anchored" id="how-is-the-data-science-practicum-requirement-met">How is the Data Science Practicum requirement met?</h2>
-<a id=140></a>## Registration and Evaluation Process
+<a id=140></a>Practicum Requirement
+Students must complete an approved comprehensive data science project or experience for their practicum requirement. The practicum must be approved by the committee of data science faculty.
+The practicum experience should be completed during the next-to-last semester of study (i.e., the first semester of senior year). It is important that practicum plans be submitted for review prior to starting the project or coursework to ensure the proposed work is sufficient for the objectives of the practicum. After-the-fact approvals are possible but not guaranteed.
 
-_**<u>Before</u>**_ starting the project, the project needs to be approved via the practicum registration form ([here](https://wustl.app.box.com/s/xfrrpne12unn00s8omnvktw4e2wrjh12) / contact the [CSE Undergraduate Coordinator](mailto:cse.undergrad@email.wustl.edu)). This means it needs to be proposed by the student and approved by both the advisor and one member of the BS/ABDS committee. If being satisfied via a course the name and number, such as CSE400E, etc., must be provided.  
+- Appropriate practicum work is possible via the following pathways: Independent Study (CSE 4001 or SDS 4000) 
+- Project-focused courses, including (but not limited to) CSE 4109 Introduction to AI for Health, CSE 4307 Software Engineering Workshop, and CSE 4504 Software Engineering for External Clients. Students should contact course instructors in advance to identify the degree of agency the student will have over project selection and requirements.
+- Internships related to data science can be used to fulfill the practicum. Internships (paid or unpaid) cannot count for credit, but can satisfy the practicum requirement.
 
-_**<u>After</u>**_ completing the project (before the end of the semester it is counted for) the advisor and a BS/ABDS committee member will need to evaluate the project (report/presentation/documented software product or the like) and determine if the work satisfies the practicum.  If it does, academic records will be updated to indicate the Practicum Requirement has been fulfilled.
+To initiate the approval process, majors through the McKelvey School of Engineering should contact the [CSE undergraduate coordinator](mailto:cse.undergrad@wustl.edu) in the CSE department, and majors through Arts & Sciences should contact the [Undergraduate Director(s)](mailto:sdsundergraduatedirector@wustl.edu) in the Department of Statistics and Data Science. 
 
-**Incomplete**: If the project is not finished in the semester it is registered for, the advisor (or course instructor) or a AB/BSDS committee member will need to issue an incomplete (I) for the course the practicum is registered for.  
-
-**Grading**: The letter grade is up to the advisor (or course instructor) similar to our independent study or MS projects.
-
-Any deviation from the approved practicum approaches must be explicitly approved by the BS/ABDS committee in advance of the work.  This ensures the work will meet the objectives of the practicum, there will be sufficient faculty oversight, and the outcome will be reported in a way that can be reviewed by the BS/AB DS committee.
- 
-## Internship Experiences
-We lean towards accepting internship experiences in satisfaction of the requirements, subject to faculty agreeing to oversee it. If it is paid, it cannot count for credit, but can satisfy the requirements.  The oversight requirements may require sharing Intellectual Property and internal details of the project and, consequently, should also be approved by employers in advance.  Evidence of such approval should be submitted with the Practicum registration form. 
+[Practicum approval form](https://wustl.box.com/s/023m5nvq8kva0wehc1gk8i1k52g512r8) 
 
 
 <span class="tag-links">[#academia](#academia) [#data_science](#data_science) [#needs_review](#needs_review)</span>
