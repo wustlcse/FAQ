@@ -24,6 +24,21 @@ Include the anchor links on anchored items (headings by default and anything wit
   });
 </script>
 
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
+
+  mermaid.initialize({ startOnLoad: false });
+
+  document.querySelectorAll("pre > code.language-mermaid").forEach((code) => {
+    const diagram = document.createElement("pre");
+    diagram.className = "mermaid";
+    diagram.textContent = code.textContent;
+    code.parentElement.replaceWith(diagram);
+  });
+
+  await mermaid.run();
+</script>
+
 
 <script src="./assets/js/nojq-min.js"></script>
 <script type="text/javascript" src="./assets/js/frontend-min.js" id="washu-blocks-frontend-js"></script> 
