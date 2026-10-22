@@ -190,6 +190,8 @@ markdown: kramdown
 
 [If I retake a course, what happens on my transcript and how does this affect my GPA?](#if-i-retake-a-course-what-happens-on-my-transcript-and-how-does-this-affect-my-gpa)
 
+[What are course prereq chains?](#what-are-course-prereq-chains)
+
 [What are the core courses for my degree?](#what-are-the-core-courses-for-my-degree)
 
 [What courses should I take if I am interested in machine learning?](#what-courses-should-i-take-if-i-am-interested-in-machine-learning)
@@ -239,6 +241,8 @@ markdown: kramdown
 <dt class="accordion-header" aria-expanded="false" id="curriculum" role="tab" aria-controls="curriculum" aria-selected="false" tabindex="0"><span class="accordion-header-content anchored" id="curriculum">curriculum : Details about content that comprise our degrees.</span><svg width="20" height="20" viewBox="0 0 20 20"><path fill="#a51417" d="M5 6l5 5 5-5 2 1-7 7-7-7z"></path></svg></dt>
 
 <dd class="accordion-content" role="tabpanel" aria-labelledby="curriculum" aria-hidden="false">
+
+[What are course prereq chains?](#what-are-course-prereq-chains)
 
 [What are the core courses for my degree?](#what-are-the-core-courses-for-my-degree)
 
@@ -778,6 +782,8 @@ markdown: kramdown
 
 [How much attention should I pay to a course's stated prerequisites?](#how-much-attention-should-i-pay-to-a-courses-stated-prerequisites)
 
+[What are course prereq chains?](#what-are-course-prereq-chains)
+
 [Why am I on a waitlist? How are waitlists managed? What are my chances of enrollment? What is "Managed by waitlist"?](#why-am-i-on-a-waitlist-how-are-waitlists-managed-what-are-my-chances-of-enrollment-what-is-managed-by-waitlist)
 
 </dd>
@@ -1239,6 +1245,8 @@ markdown: kramdown
 [Should I pursue a master's degree (at WashU / BS/MS)?](#should-i-pursue-a-masters-degree-at-washu--bsms)
 
 <hr class="toc-divider">
+
+[What are course prereq chains?](#what-are-course-prereq-chains)
 
 [What are residency requirements?](#what-are-residency-requirements)
 
@@ -2449,6 +2457,3223 @@ First, how do you feel about staying for an extra ~2 semesters to complete the m
 
 <span class="tag-links">[#graduate](#graduate) [#masters](#masters) [#needs_review](#needs_review) [#undergraduate](#undergraduate)</span>
 <br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/124">Discussions View</a></span>
+
+---
+<h2 class="anchored" id="what-are-course-prereq-chains">What are course prereq chains?</h2>
+<a id=148></a>Common prereq chains are shown below. 
+
+## CSE Prerequisite Graphs
+
+Generated from the latest row per course in *All Courses Requirements* (future effective dates included). Legend: blue = target course; white = course; red = not in the data, prereqs unknown; grey pill = non-course condition; diamond = junction (*any of* / *all of*); dotted arrow = concurrent ok. Equivalent courses are merged into one node, named for the member with the newest record, with the other members listed after ≡.
+
+### CSE 1302: Introduction to Computer Engineering
+
+Rule: `Has completed (CSE 1301)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_1302["<b>CSE 1302</b><br/><small>Introduction to Computer Engineering</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  CSE_1301 ---> CSE_1302
+
+  class CSE_1302 target
+  class CSE_1301 course
+```
+
+### CSE 2004: Web Development
+
+Rule: `Has completed (CSE 1301)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_2004["<b>CSE 2004</b><br/><small>Web Development</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  CSE_1301 ---> CSE_2004
+
+  class CSE_2004 target
+  class CSE_1301 course
+```
+
+### CSE 2107: Introduction to Data Science
+
+Rule: `Has completed or is in the process of completing (MATH 2130 and CSE 2407)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_2107["<b>CSE 2107</b><br/><small>Introduction to Data Science</small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  MATH_2130 -..->|concurrent ok| CSE_2107
+  CSE_2407 -..->|concurrent ok| CSE_2107
+  CSE_1301 ---> CSE_2407
+
+  class CSE_2107 target
+  class MATH_2130,CSE_2407,CSE_1301 course
+```
+
+### CSE 2301: Introduction to Parallel and Concurrent Programming
+
+Rule: `Has completed (CSE 1301)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_2301["<b>CSE 2301</b><br/><small>Introduction to Parallel and Concurrent Programming</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  CSE_1301 ---> CSE_2301
+
+  class CSE_2301 target
+  class CSE_1301 course
+```
+
+### CSE 2307: Programming Tools and Techniques
+
+Rule: `Has completed (CSE 1301)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_2307["<b>CSE 2307</b><br/><small>Programming Tools and Techniques</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  CSE_1301 ---> CSE_2307
+
+  class CSE_2307 target
+  class CSE_1301 course
+```
+
+### CSE 2400: Logic and Discrete Mathematics
+
+Rule: `Has completed (CSE 1301)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_2400["<b>CSE 2400</b><br/><small>Logic and Discrete Mathematics</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  CSE_1301 ---> CSE_2400
+
+  class CSE_2400 target
+  class CSE_1301 course
+```
+
+### CSE 2407: Data Structures and Algorithms
+
+Rule: `Has completed (CSE 1301)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  CSE_1301 ---> CSE_2407
+
+  class CSE_2407 target
+  class CSE_1301 course
+```
+
+### CSE 2497: Seminar: Data Structures and Algorithms
+
+Rule: `Has completed (CSE-E81 247)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_2497["<b>CSE 2497</b><br/><small>Seminar: Data Structures and Algorithms</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  CSE_2407 ---> CSE_2497
+  CSE_1301 ---> CSE_2407
+
+  class CSE_2497 target
+  class CSE_2407,CSE_1301 course
+```
+
+### CSE 2506: Introduction to Human-Centered Design
+
+Rule: `Has completed (CSE 1301)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_2506["<b>CSE 2506</b><br/><small>Introduction to Human-Centered Design</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  CSE_1301 ---> CSE_2506
+
+  class CSE_2506 target
+  class CSE_1301 course
+```
+
+### CSE 2600: Introduction to Digital Logic and Computer Design
+
+Rule: `Has completed (CSE 1301)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_2600["<b>CSE 2600</b><br/><small>Introduction to Digital Logic and Computer Design</small><br/><small><i>≡ CSE-E81 505N, ESE-E35 260</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  CSE_1301 ---> CSE_2600
+
+  class CSE_2600 target
+  class CSE_1301 course
+```
+
+### CSE 3050: Responsible Data Science
+
+Rule: `Has completed (CSE 2107 and CSE 2407)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_3050["<b>CSE 3050</b><br/><small>Responsible Data Science</small>"]
+  CSE_2107["<b>CSE 2107</b><br/><small>Introduction to Data Science</small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  CSE_2107 ---> CSE_3050
+  CSE_2407 ---> CSE_3050
+  MATH_2130 -..->|concurrent ok| CSE_2107
+  CSE_2407 -..->|concurrent ok| CSE_2107
+  CSE_1301 ---> CSE_2407
+
+  class CSE_3050 target
+  class CSE_2107,MATH_2130,CSE_2407,CSE_1301 course
+```
+
+### CSE 3101: Introduction to Intelligent Agents Using Science Fiction
+
+Rule: `Has completed (CSE 2407)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_3101["<b>CSE 3101</b><br/><small>Introduction to Intelligent Agents Using Science Fiction</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  CSE_2407 ---> CSE_3101
+  CSE_1301 ---> CSE_2407
+
+  class CSE_3101 target
+  class CSE_2407,CSE_1301 course
+```
+
+### CSE 3104: Data Manipulation and Management
+
+Rule: `Has completed (CSE-E81 217A ) and (CSE-E81 131)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_3104["<b>CSE 3104</b><br/><small>Data Manipulation and Management</small>"]
+  CSE_2107["<b>CSE 2107</b><br/><small>Introduction to Data Science</small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  CSE_2107 ---> CSE_3104
+  CSE_1301 ---> CSE_3104
+  MATH_2130 -..->|concurrent ok| CSE_2107
+  CSE_2407 -..->|concurrent ok| CSE_2107
+  CSE_1301 ---> CSE_2407
+
+  class CSE_3104 target
+  class CSE_2107,MATH_2130,CSE_2407,CSE_1301 course
+```
+
+### CSE 3300: Rapid Prototype Development and Creative Programming
+
+Rule: `Has completed (CSE 1301)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_3300["<b>CSE 3300</b><br/><small>Rapid Prototype Development and Creative Programming</small><br/><small><i>≡ CSE 5306</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  CSE_1301 ---> CSE_3300
+
+  class CSE_3300 target
+  class CSE_1301 course
+```
+
+### CSE 3302: Object-Oriented Software Development Laboratory
+
+Rule: `Has completed (CSE-E81 131, CSE-E81 247)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_3302["<b>CSE 3302</b><br/><small>Object-Oriented Software Development Laboratory</small><br/><small><i>≡ CSE-E81 504N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+
+  CSE_1301 ---> CSE_3302
+  CSE_2407 ---> CSE_3302
+  CSE_1301 ---> CSE_2407
+
+  class CSE_3302 target
+  class CSE_1301,CSE_2407 course
+```
+
+### CSE 3407: Analysis of Algorithms
+
+Rule: `Has completed (CSE 2400 or MATH 3010) AND (CSE 2407)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_3407["<b>CSE 3407</b><br/><small>Analysis of Algorithms</small>"]
+  CSE_2400["<b>CSE 2400</b><br/><small>Logic and Discrete Mathematics</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  MATH_3010["<b>MATH 3010</b><br/><small>Foundations for Higher Mathematics</small><br/><small><i>≡ MATH 3101</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+
+  J1{"any of"}
+  J1 --> CSE_3407
+  CSE_2400 --> J1
+  MATH_3010 --> J1
+  CSE_2407 ---> CSE_3407
+  CSE_1301 ---> CSE_2400
+  MATH_2130 ---> MATH_3010
+  CSE_1301 ---> CSE_2407
+
+  class CSE_3407 target
+  class CSE_2400,CSE_1301,MATH_3010,MATH_2130,CSE_2407 course
+  class J1 junction
+```
+
+### CSE 3601: Introduction to Systems Software
+
+Rule: `Has completed (CSE 1301, CSE 1302)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_3601["<b>CSE 3601</b><br/><small>Introduction to Systems Software</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_1302["<b>CSE 1302</b><br/><small>Introduction to Computer Engineering</small>"]
+
+  CSE_1301 ---> CSE_3601
+  CSE_1302 ---> CSE_3601
+  CSE_1301 ---> CSE_1302
+
+  class CSE_3601 target
+  class CSE_1301,CSE_1302 course
+```
+
+### CSE 3602: Computer Architecture
+
+Rule: `Has completed (CSE-E81 260M)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_3602["<b>CSE 3602</b><br/><small>Computer Architecture</small><br/><small><i>≡ ESE-E35 362</i></small>"]
+  CSE_2600["<b>CSE 2600</b><br/><small>Introduction to Digital Logic and Computer Design</small><br/><small><i>≡ CSE-E81 505N, ESE-E35 260</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  CSE_2600 ---> CSE_3602
+  CSE_1301 ---> CSE_2600
+
+  class CSE_3602 target
+  class CSE_2600,CSE_1301 course
+```
+
+### CSE 3605: Elements of Computing Systems
+
+Rule: `Has completed (CSE-E81 247)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_3605["<b>CSE 3605</b><br/><small>Elements of Computing Systems</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  CSE_2407 ---> CSE_3605
+  CSE_1301 ---> CSE_2407
+
+  class CSE_3605 target
+  class CSE_2407,CSE_1301 course
+```
+
+### CSE 4059: Applied Parallel Programming: Gpus for High-Performance Computing On Manycore Architectures
+
+Rule: `Has completed (CSE 3601) OR has program of study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4059["<b>CSE 4059</b><br/><small>Applied Parallel Programming: Gpus for High-Performance Computing On Manycore Architectures</small>"]
+  CSE_3601["<b>CSE 3601</b><br/><small>Introduction to Systems Software</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_1302["<b>CSE 1302</b><br/><small>Introduction to Computer Engineering</small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J1 --> CSE_4059
+  CSE_3601 --> J1
+  C1 --> J1
+  CSE_1301 ---> CSE_3601
+  CSE_1302 ---> CSE_3601
+  CSE_1301 ---> CSE_1302
+
+  class CSE_4059 target
+  class CSE_3601,CSE_1301,CSE_1302 course
+  class J1 junction
+  class C1 cond
+```
+
+### CSE 4061: Text Mining
+
+Rule: `Has completed (CSE 4107) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4061["<b>CSE 4061</b><br/><small>Text Mining</small>"]
+  CSE_4107["<b>CSE 4107</b><br/><small>Introduction to Machine Learning</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  ESE_3260["<b>ESE 3260</b><br/><small>not in data — prereqs unknown</small>"]
+  SDS_3020["<b>SDS 3020</b><br/><small>Elementary to Intermediate Statistics and Data Analysis</small><br/><small><i>≡ MATH 3200</i></small>"]
+  MATH_1520["<b>MATH 1520</b><br/><small>Calculus II</small>"]
+  SDS_3030["<b>SDS 3030</b><br/><small>Statistics for Data Science I</small><br/><small><i>≡ MATH 3211, SDS 5212</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  MATH_3300["<b>MATH 3300</b><br/><small>Matrix Algebra</small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J2{"any of"}
+  J3{"any of"}
+  C2(["Score 2 on MATH Proficiency Exam"])
+  J4{"any of"}
+  C3(["Score 2 on MATH Proficiency Exam"])
+  J1 --> CSE_4061
+  CSE_4107 --> J1
+  C1 --> J1
+  CSE_2407 ---> CSE_4107
+  J2 --> CSE_4107
+  ESE_3260 --> J2
+  SDS_3020 --> J2
+  SDS_3030 --> J2
+  MATH_2130 ---> CSE_4107
+  MATH_3300 ---> CSE_4107
+  CSE_1301 ---> CSE_2407
+  J3 --> SDS_3020
+  MATH_1520 --> J3
+  C2 --> J3
+  MATH_2130 ---> SDS_3030
+  J4 --> MATH_3300
+  MATH_1520 --> J4
+  C3 --> J4
+
+  class CSE_4061 target
+  class CSE_4107,CSE_2407,CSE_1301,SDS_3020,MATH_1520,SDS_3030,MATH_2130,MATH_3300 course
+  class ESE_3260 external
+  class J1,J2,J3,J4 junction
+  class C1,C2,C3 cond
+```
+
+### CSE 4101: AI and Society
+
+Rule: `Has completed (CSE 2407)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4101["<b>CSE 4101</b><br/><small>AI and Society</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  CSE_2407 ---> CSE_4101
+  CSE_1301 ---> CSE_2407
+
+  class CSE_4101 target
+  class CSE_2407,CSE_1301 course
+```
+
+### CSE 4102: Introduction to Artificial Intelligence
+
+Rule: `Has completed (CSE 2407) and (MATH 2130) and (ESE 3260 or MATH 3200 or MATH 3211 or ENGR 3280 or SDS 3030 or DAT 1201)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4102["<b>CSE 4102</b><br/><small>Introduction to Artificial Intelligence</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  ESE_3260["<b>ESE 3260</b><br/><small>not in data — prereqs unknown</small>"]
+  SDS_3020["<b>SDS 3020</b><br/><small>Elementary to Intermediate Statistics and Data Analysis</small><br/><small><i>≡ MATH 3200</i></small>"]
+  MATH_1520["<b>MATH 1520</b><br/><small>Calculus II</small>"]
+  SDS_3030["<b>SDS 3030</b><br/><small>Statistics for Data Science I</small><br/><small><i>≡ MATH 3211, SDS 5212</i></small>"]
+  ENGR_3280["<b>ENGR 3280</b><br/><small>Engineering Statistics With Probability</small>"]
+  DAT_1201["<b>DAT 1201</b><br/><small>Managerial Statistics II</small>"]
+  DAT_1200["<b>DAT 1200</b><br/><small>Managerial Statistics I</small><br/><small><i>≡ DAT 1996</i></small>"]
+  MEC_2900["<b>MEC 2900</b><br/><small>not in data — prereqs unknown</small>"]
+  ECON_1501["<b>ECON 1501</b><br/><small>Introduction to Microeconomics</small>"]
+  ECON_4001["<b>ECON 4001</b><br/><small>Intermediate Microeconomic Theory</small><br/><small><i>≡ ECON 5001</i></small>"]
+
+  J1{"any of"}
+  J2{"any of"}
+  C1(["Score 2 on MATH Proficiency Exam"])
+  J3{"any of"}
+  C2(["Equivalent course"])
+  J4{"any of"}
+  J5{"any of"}
+  J6{"any of"}
+  J7{"any of"}
+  C3(["5 on EMI"])
+  C4(["7 on Economics HL"])
+  C5(["A on British A-Level ECON"])
+  J8{"any of"}
+  C6(["Score 2 on MATH Proficiency Exam"])
+  CSE_2407 ---> CSE_4102
+  MATH_2130 ---> CSE_4102
+  J1 --> CSE_4102
+  ESE_3260 --> J1
+  SDS_3020 --> J1
+  SDS_3030 --> J1
+  ENGR_3280 --> J1
+  DAT_1201 --> J1
+  CSE_1301 ---> CSE_2407
+  J2 --> SDS_3020
+  MATH_1520 --> J2
+  C1 --> J2
+  MATH_2130 ---> SDS_3030
+  MATH_2130 -..->|concurrent ok| ENGR_3280
+  J3 --> DAT_1201
+  DAT_1200 --> J3
+  C2 --> J3
+  J4 --> DAT_1201
+  MATH_1520 --> J4
+  MATH_2130 --> J4
+  J5 -.->|concurrent ok| DAT_1201
+  MEC_2900 --> J5
+  ECON_1501 --> J5
+  ECON_4001 --> J5
+  J6 -.->|concurrent ok| DAT_1200
+  MATH_1520 --> J6
+  MATH_2130 --> J6
+  J7 --> ECON_4001
+  ECON_1501 --> J7
+  C3 --> J7
+  C4 --> J7
+  C5 --> J7
+  J8 --> ECON_4001
+  MATH_1520 --> J8
+  C6 --> J8
+
+  class CSE_4102 target
+  class CSE_2407,CSE_1301,MATH_2130,SDS_3020,MATH_1520,SDS_3030,ENGR_3280,DAT_1201,DAT_1200,ECON_1501,ECON_4001 course
+  class ESE_3260,MEC_2900 external
+  class J1,J2,J3,J4,J5,J6,J7,J8 junction
+  class C1,C2,C3,C4,C5,C6 cond
+```
+
+### CSE 4103: Web Privacy and Security
+
+Rule: `Has completed (CSE 2407) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4103["<b>CSE 4103</b><br/><small>Web Privacy and Security</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J1 --> CSE_4103
+  CSE_2407 --> J1
+  C1 --> J1
+  CSE_1301 ---> CSE_2407
+
+  class CSE_4103 target
+  class CSE_2407,CSE_1301 course
+  class J1 junction
+  class C1 cond
+```
+
+### CSE 4106: Data Science for Complex Networks
+
+Rule: `Has completed (CSE 2407, (ESE 32600 or MATH 3200 or MATH 3211) and MATH 3300) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4106["<b>CSE 4106</b><br/><small>Data Science for Complex Networks</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  ESE_3260["<b>ESE 3260</b><br/><small>not in data — prereqs unknown</small>"]
+  SDS_3020["<b>SDS 3020</b><br/><small>Elementary to Intermediate Statistics and Data Analysis</small><br/><small><i>≡ MATH 3200</i></small>"]
+  MATH_1520["<b>MATH 1520</b><br/><small>Calculus II</small>"]
+  SDS_3030["<b>SDS 3030</b><br/><small>Statistics for Data Science I</small><br/><small><i>≡ MATH 3211, SDS 5212</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  MATH_3300["<b>MATH 3300</b><br/><small>Matrix Algebra</small>"]
+
+  J1{"any of"}
+  J2{"all of"}
+  J3{"any of"}
+  C1(["Program of study: PhD CS / PhD CE"])
+  J4{"any of"}
+  C2(["Score 2 on MATH Proficiency Exam"])
+  J5{"any of"}
+  C3(["Score 2 on MATH Proficiency Exam"])
+  J1 --> CSE_4106
+  J2 --> J1
+  CSE_2407 --> J2
+  J3 --> J2
+  ESE_3260 --> J3
+  SDS_3020 --> J3
+  SDS_3030 --> J3
+  MATH_3300 --> J2
+  C1 --> J1
+  CSE_1301 ---> CSE_2407
+  J4 --> SDS_3020
+  MATH_1520 --> J4
+  C2 --> J4
+  MATH_2130 ---> SDS_3030
+  J5 --> MATH_3300
+  MATH_1520 --> J5
+  C3 --> J5
+
+  class CSE_4106 target
+  class CSE_2407,CSE_1301,SDS_3020,MATH_1520,SDS_3030,MATH_2130,MATH_3300 course
+  class ESE_3260 external
+  class J1,J2,J3,J4,J5 junction
+  class C1,C2,C3 cond
+```
+
+### CSE 4107: Introduction to Machine Learning
+
+Rule: `Has completed (CSE 2407), (ESE 32600 or MATH 3200 or MATH 3211 or SDS 3200 or SDS 3030), (MATH 2130 and MATH 3300)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4107["<b>CSE 4107</b><br/><small>Introduction to Machine Learning</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  ESE_3260["<b>ESE 3260</b><br/><small>not in data — prereqs unknown</small>"]
+  SDS_3020["<b>SDS 3020</b><br/><small>Elementary to Intermediate Statistics and Data Analysis</small><br/><small><i>≡ MATH 3200</i></small>"]
+  MATH_1520["<b>MATH 1520</b><br/><small>Calculus II</small>"]
+  SDS_3030["<b>SDS 3030</b><br/><small>Statistics for Data Science I</small><br/><small><i>≡ MATH 3211, SDS 5212</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  MATH_3300["<b>MATH 3300</b><br/><small>Matrix Algebra</small>"]
+
+  J1{"any of"}
+  J2{"any of"}
+  C1(["Score 2 on MATH Proficiency Exam"])
+  J3{"any of"}
+  C2(["Score 2 on MATH Proficiency Exam"])
+  CSE_2407 ---> CSE_4107
+  J1 --> CSE_4107
+  ESE_3260 --> J1
+  SDS_3020 --> J1
+  SDS_3030 --> J1
+  MATH_2130 ---> CSE_4107
+  MATH_3300 ---> CSE_4107
+  CSE_1301 ---> CSE_2407
+  J2 --> SDS_3020
+  MATH_1520 --> J2
+  C1 --> J2
+  MATH_2130 ---> SDS_3030
+  J3 --> MATH_3300
+  MATH_1520 --> J3
+  C2 --> J3
+
+  class CSE_4107 target
+  class CSE_2407,CSE_1301,SDS_3020,MATH_1520,SDS_3030,MATH_2130,MATH_3300 course
+  class ESE_3260 external
+  class J1,J2,J3 junction
+  class C1,C2 cond
+```
+
+### CSE 4109: Introduction to AI for Health
+
+Rule: `Has completed (CSE 2107 or CSE 4102 or CSE 4107 or ESE 4170 or CSE 5104 or CSE 5107) OR Has program of study (PhD in Computer Science or PhD in Computer Engineering)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4109["<b>CSE 4109</b><br/><small>Introduction to AI for Health</small>"]
+  CSE_2107["<b>CSE 2107</b><br/><small>Introduction to Data Science</small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_4102["<b>CSE 4102</b><br/><small>Introduction to Artificial Intelligence</small>"]
+  ESE_3260["<b>ESE 3260</b><br/><small>not in data — prereqs unknown</small>"]
+  SDS_3020["<b>SDS 3020</b><br/><small>Elementary to Intermediate Statistics and Data Analysis</small><br/><small><i>≡ MATH 3200</i></small>"]
+  MATH_1520["<b>MATH 1520</b><br/><small>Calculus II</small>"]
+  SDS_3030["<b>SDS 3030</b><br/><small>Statistics for Data Science I</small><br/><small><i>≡ MATH 3211, SDS 5212</i></small>"]
+  ENGR_3280["<b>ENGR 3280</b><br/><small>Engineering Statistics With Probability</small>"]
+  DAT_1201["<b>DAT 1201</b><br/><small>Managerial Statistics II</small>"]
+  DAT_1200["<b>DAT 1200</b><br/><small>Managerial Statistics I</small><br/><small><i>≡ DAT 1996</i></small>"]
+  MEC_2900["<b>MEC 2900</b><br/><small>not in data — prereqs unknown</small>"]
+  ECON_1501["<b>ECON 1501</b><br/><small>Introduction to Microeconomics</small>"]
+  ECON_4001["<b>ECON 4001</b><br/><small>Intermediate Microeconomic Theory</small><br/><small><i>≡ ECON 5001</i></small>"]
+  CSE_4107["<b>CSE 4107</b><br/><small>Introduction to Machine Learning</small>"]
+  MATH_3300["<b>MATH 3300</b><br/><small>Matrix Algebra</small>"]
+  ESE_4170["<b>ESE 4170</b><br/><small>not in data — prereqs unknown</small>"]
+  CSE_5104["<b>CSE 5104</b><br/><small>Data Mining</small>"]
+  CSE_5107["<b>CSE 5107</b><br/><small>Machine Learning</small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE"])
+  J2{"any of"}
+  J3{"any of"}
+  C2(["Score 2 on MATH Proficiency Exam"])
+  J4{"any of"}
+  C3(["Equivalent course"])
+  J5{"any of"}
+  J6{"any of"}
+  J7{"any of"}
+  J8{"any of"}
+  C4(["5 on EMI"])
+  C5(["7 on Economics HL"])
+  C6(["A on British A-Level ECON"])
+  J9{"any of"}
+  C7(["Score 2 on MATH Proficiency Exam"])
+  J10{"any of"}
+  J11{"any of"}
+  C8(["Score 2 on MATH Proficiency Exam"])
+  J12{"any of"}
+  J13{"all of"}
+  J14{"any of"}
+  C9(["Program of study: PhD CS / PhD CE"])
+  J15{"any of"}
+  J16{"all of"}
+  J17{"any of"}
+  J18{"any of"}
+  C10(["Program of study: PhD CS / PhD CE"])
+  J1 --> CSE_4109
+  CSE_2107 --> J1
+  CSE_4102 --> J1
+  CSE_4107 --> J1
+  ESE_4170 --> J1
+  CSE_5104 --> J1
+  CSE_5107 --> J1
+  C1 --> J1
+  MATH_2130 -..->|concurrent ok| CSE_2107
+  CSE_2407 -..->|concurrent ok| CSE_2107
+  CSE_1301 ---> CSE_2407
+  CSE_2407 ---> CSE_4102
+  MATH_2130 ---> CSE_4102
+  J2 --> CSE_4102
+  ESE_3260 --> J2
+  SDS_3020 --> J2
+  SDS_3030 --> J2
+  ENGR_3280 --> J2
+  DAT_1201 --> J2
+  J3 --> SDS_3020
+  MATH_1520 --> J3
+  C2 --> J3
+  MATH_2130 ---> SDS_3030
+  MATH_2130 -..->|concurrent ok| ENGR_3280
+  J4 --> DAT_1201
+  DAT_1200 --> J4
+  C3 --> J4
+  J5 --> DAT_1201
+  MATH_1520 --> J5
+  MATH_2130 --> J5
+  J6 -.->|concurrent ok| DAT_1201
+  MEC_2900 --> J6
+  ECON_1501 --> J6
+  ECON_4001 --> J6
+  J7 -.->|concurrent ok| DAT_1200
+  MATH_1520 --> J7
+  MATH_2130 --> J7
+  J8 --> ECON_4001
+  ECON_1501 --> J8
+  C4 --> J8
+  C5 --> J8
+  C6 --> J8
+  J9 --> ECON_4001
+  MATH_1520 --> J9
+  C7 --> J9
+  CSE_2407 ---> CSE_4107
+  J10 --> CSE_4107
+  ESE_3260 --> J10
+  SDS_3020 --> J10
+  SDS_3030 --> J10
+  MATH_2130 ---> CSE_4107
+  MATH_3300 ---> CSE_4107
+  J11 --> MATH_3300
+  MATH_1520 --> J11
+  C8 --> J11
+  J12 --> CSE_5104
+  J13 --> J12
+  CSE_2407 --> J13
+  J14 --> J13
+  SDS_3020 --> J14
+  ESE_3260 --> J14
+  MATH_2130 --> J13
+  C9 --> J12
+  J15 --> CSE_5107
+  J16 --> J15
+  CSE_2407 --> J16
+  J17 --> J16
+  CSE_4107 --> J17
+  ESE_4170 --> J17
+  J18 --> J16
+  ESE_3260 --> J18
+  SDS_3030 --> J18
+  MATH_2130 --> J16
+  MATH_3300 --> J16
+  C10 --> J15
+
+  class CSE_4109 target
+  class CSE_2107,MATH_2130,CSE_2407,CSE_1301,CSE_4102,SDS_3020,MATH_1520,SDS_3030,ENGR_3280,DAT_1201,DAT_1200,ECON_1501,ECON_4001,CSE_4107,MATH_3300,CSE_5104,CSE_5107 course
+  class ESE_3260,MEC_2900,ESE_4170 external
+  class J1,J2,J3,J4,J5,J6,J7,J8,J9,J10,J11,J12,J13,J14,J15,J16,J17,J18 junction
+  class C1,C2,C3,C4,C5,C6,C7,C8,C9,C10 cond
+```
+
+### CSE 4202: Operating Systems Organization
+
+Rule: `Has completed (CSE-E81 361S)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4202["<b>CSE 4202</b><br/><small>Operating Systems Organization</small>"]
+  CSE_3601["<b>CSE 3601</b><br/><small>Introduction to Systems Software</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_1302["<b>CSE 1302</b><br/><small>Introduction to Computer Engineering</small>"]
+
+  CSE_3601 ---> CSE_4202
+  CSE_1301 ---> CSE_3601
+  CSE_1302 ---> CSE_3601
+  CSE_1301 ---> CSE_1302
+
+  class CSE_4202 target
+  class CSE_3601,CSE_1301,CSE_1302 course
+```
+
+### CSE 4205: Programming Systems and Languages
+
+Rule: `Has completed (CSE 3302) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4205["<b>CSE 4205</b><br/><small>Programming Systems and Languages</small>"]
+  CSE_3302["<b>CSE 3302</b><br/><small>Object-Oriented Software Development Laboratory</small><br/><small><i>≡ CSE-E81 504N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J1 --> CSE_4205
+  CSE_3302 --> J1
+  C1 --> J1
+  CSE_1301 ---> CSE_3302
+  CSE_2407 ---> CSE_3302
+  CSE_1301 ---> CSE_2407
+
+  class CSE_4205 target
+  class CSE_3302,CSE_1301,CSE_2407 course
+  class J1 junction
+  class C1 cond
+```
+
+### CSE 4207: Cloud Computing With Big Data Applications
+
+Rule: `Has completed (CSE 2407 and CSE 3300) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4207["<b>CSE 4207</b><br/><small>Cloud Computing With Big Data Applications</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_3300["<b>CSE 3300</b><br/><small>Rapid Prototype Development and Creative Programming</small><br/><small><i>≡ CSE 5306</i></small>"]
+
+  J1{"any of"}
+  J2{"all of"}
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J1 --> CSE_4207
+  J2 --> J1
+  CSE_2407 --> J2
+  CSE_3300 --> J2
+  C1 --> J1
+  CSE_1301 ---> CSE_2407
+  CSE_1301 ---> CSE_3300
+
+  class CSE_4207 target
+  class CSE_2407,CSE_1301,CSE_3300 course
+  class J1,J2 junction
+  class C1 cond
+```
+
+### CSE 4208: Multi-Paradigm Programming in C++
+
+Rule: `Has completed (CSE 3302 or CSE-E81 504N) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4208["<b>CSE 4208</b><br/><small>Multi-Paradigm Programming in C++</small>"]
+  CSE_3302["<b>CSE 3302</b><br/><small>Object-Oriented Software Development Laboratory</small><br/><small><i>≡ CSE-E81 504N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J1 --> CSE_4208
+  CSE_3302 --> J1
+  C1 --> J1
+  CSE_1301 ---> CSE_3302
+  CSE_2407 ---> CSE_3302
+  CSE_1301 ---> CSE_2407
+
+  class CSE_4208 target
+  class CSE_3302,CSE_1301,CSE_2407 course
+  class J1 junction
+  class C1 cond
+```
+
+### CSE 4301: Translation of Computer Languages
+
+Rule: `Has completed (CSE 2407) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4301["<b>CSE 4301</b><br/><small>Translation of Computer Languages</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J1 --> CSE_4301
+  CSE_2407 --> J1
+  C1 --> J1
+  CSE_1301 ---> CSE_2407
+
+  class CSE_4301 target
+  class CSE_2407,CSE_1301 course
+  class J1 junction
+  class C1 cond
+```
+
+### CSE 4303: Introduction to Computer Security
+
+Rule: `Has completed (CSE 2407) and (CSE 3601 or CSE 3302) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4303["<b>CSE 4303</b><br/><small>Introduction to Computer Security</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_3601["<b>CSE 3601</b><br/><small>Introduction to Systems Software</small>"]
+  CSE_1302["<b>CSE 1302</b><br/><small>Introduction to Computer Engineering</small>"]
+  CSE_3302["<b>CSE 3302</b><br/><small>Object-Oriented Software Development Laboratory</small><br/><small><i>≡ CSE-E81 504N</i></small>"]
+
+  J1{"any of"}
+  J2{"all of"}
+  J3{"any of"}
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J1 --> CSE_4303
+  J2 --> J1
+  CSE_2407 --> J2
+  J3 --> J2
+  CSE_3601 --> J3
+  CSE_3302 --> J3
+  C1 --> J1
+  CSE_1301 ---> CSE_2407
+  CSE_1301 ---> CSE_3601
+  CSE_1302 ---> CSE_3601
+  CSE_1301 ---> CSE_1302
+  CSE_1301 ---> CSE_3302
+  CSE_2407 ---> CSE_3302
+
+  class CSE_4303 target
+  class CSE_2407,CSE_1301,CSE_3601,CSE_1302,CSE_3302 course
+  class J1,J2,J3 junction
+  class C1 cond
+```
+
+### CSE 4304: Reverse Engineering and Malware Analysis
+
+Rule: `Has completed (CSE 3601) OR has program of study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4304["<b>CSE 4304</b><br/><small>Reverse Engineering and Malware Analysis</small>"]
+  CSE_3601["<b>CSE 3601</b><br/><small>Introduction to Systems Software</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_1302["<b>CSE 1302</b><br/><small>Introduction to Computer Engineering</small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J1 --> CSE_4304
+  CSE_3601 --> J1
+  C1 --> J1
+  CSE_1301 ---> CSE_3601
+  CSE_1302 ---> CSE_3601
+  CSE_1301 ---> CSE_1302
+
+  class CSE_4304 target
+  class CSE_3601,CSE_1301,CSE_1302 course
+  class J1 junction
+  class C1 cond
+```
+
+### CSE 4307: Software Engineering Workshop
+
+Rule: `Has completed (CSE-E81 330S) and Junior or Senior standing`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4307["<b>CSE 4307</b><br/><small>Software Engineering Workshop</small>"]
+  CSE_3300["<b>CSE 3300</b><br/><small>Rapid Prototype Development and Creative Programming</small><br/><small><i>≡ CSE 5306</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  C1(["Junior standing+"])
+  CSE_3300 ---> CSE_4307
+  C1 ---> CSE_4307
+  CSE_1301 ---> CSE_3300
+
+  class CSE_4307 target
+  class CSE_3300,CSE_1301 course
+  class C1 cond
+```
+
+### CSE 4308: Mobile Application Development
+
+Rule: `Has completed (CSE-E81 247)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4308["<b>CSE 4308</b><br/><small>Mobile Application Development</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  CSE_2407 ---> CSE_4308
+  CSE_1301 ---> CSE_2407
+
+  class CSE_4308 target
+  class CSE_2407,CSE_1301 course
+```
+
+### CSE 4393: Seminar: Capture the Flag (CTF) Studio
+
+Rule: `Has completed or is in the process of completing (CSE 4303)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4393["<b>CSE 4393</b><br/><small>Seminar: Capture the Flag (CTF) Studio</small>"]
+  CSE_4303["<b>CSE 4303</b><br/><small>Introduction to Computer Security</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_3601["<b>CSE 3601</b><br/><small>Introduction to Systems Software</small>"]
+  CSE_1302["<b>CSE 1302</b><br/><small>Introduction to Computer Engineering</small>"]
+  CSE_3302["<b>CSE 3302</b><br/><small>Object-Oriented Software Development Laboratory</small><br/><small><i>≡ CSE-E81 504N</i></small>"]
+
+  J1{"any of"}
+  J2{"all of"}
+  J3{"any of"}
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  CSE_4303 -..->|concurrent ok| CSE_4393
+  J1 --> CSE_4303
+  J2 --> J1
+  CSE_2407 --> J2
+  J3 --> J2
+  CSE_3601 --> J3
+  CSE_3302 --> J3
+  C1 --> J1
+  CSE_1301 ---> CSE_2407
+  CSE_1301 ---> CSE_3601
+  CSE_1302 ---> CSE_3601
+  CSE_1301 ---> CSE_1302
+  CSE_1301 ---> CSE_3302
+  CSE_2407 ---> CSE_3302
+
+  class CSE_4393 target
+  class CSE_4303,CSE_2407,CSE_1301,CSE_3601,CSE_1302,CSE_3302 course
+  class J1,J2,J3 junction
+  class C1 cond
+```
+
+### CSE 4402: Introduction to Cryptography
+
+Rule: `Has completed (CSE 2400 and CSE 2407) OR Has Program of Study(PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4402["<b>CSE 4402</b><br/><small>Introduction to Cryptography</small>"]
+  CSE_2400["<b>CSE 2400</b><br/><small>Logic and Discrete Mathematics</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+
+  J1{"any of"}
+  J2{"all of"}
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J1 --> CSE_4402
+  J2 --> J1
+  CSE_2400 --> J2
+  CSE_2407 --> J2
+  C1 --> J1
+  CSE_1301 ---> CSE_2400
+  CSE_1301 ---> CSE_2407
+
+  class CSE_4402 target
+  class CSE_2400,CSE_1301,CSE_2407 course
+  class J1,J2 junction
+  class C1 cond
+```
+
+### CSE 4470: Introduction to Formal Languages and Automata
+
+Rule: `Has completed (CSE 2400 or MATH 3010) AND (CSE 2407)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4470["<b>CSE 4470</b><br/><small>Introduction to Formal Languages and Automata</small>"]
+  CSE_2400["<b>CSE 2400</b><br/><small>Logic and Discrete Mathematics</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  MATH_3010["<b>MATH 3010</b><br/><small>Foundations for Higher Mathematics</small><br/><small><i>≡ MATH 3101</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+
+  J1{"any of"}
+  J1 --> CSE_4470
+  CSE_2400 --> J1
+  MATH_3010 --> J1
+  CSE_2407 ---> CSE_4470
+  CSE_1301 ---> CSE_2400
+  MATH_2130 ---> MATH_3010
+  CSE_1301 ---> CSE_2407
+
+  class CSE_4470 target
+  class CSE_2400,CSE_1301,MATH_3010,MATH_2130,CSE_2407 course
+  class J1 junction
+```
+
+### CSE 4500: Video Game Programming
+
+Rule: `Has completed (CSE 2407) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4500["<b>CSE 4500</b><br/><small>Video Game Programming</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J1 --> CSE_4500
+  CSE_2407 --> J1
+  C1 --> J1
+  CSE_1301 ---> CSE_2407
+
+  class CSE_4500 target
+  class CSE_2407,CSE_1301 course
+  class J1 junction
+  class C1 cond
+```
+
+### CSE 4501: Video Game Programming II
+
+Rule: `Has completed (cse 4500) and has received permission to take (cse 4501)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4501["<b>CSE 4501</b><br/><small>Video Game Programming II</small>"]
+  CSE_4500["<b>CSE 4500</b><br/><small>Video Game Programming</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  C1(["Instructor permission"])
+  J1{"any of"}
+  C2(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  CSE_4500 ---> CSE_4501
+  C1 ---> CSE_4501
+  J1 --> CSE_4500
+  CSE_2407 --> J1
+  C2 --> J1
+  CSE_1301 ---> CSE_2407
+
+  class CSE_4501 target
+  class CSE_4500,CSE_2407,CSE_1301 course
+  class C1,C2 cond
+  class J1 junction
+```
+
+### CSE 4504: Software Engineering for External Clients
+
+Rule: `Has completed or is in the process of completing (CSE-E81 330S or CSE-E81 332S) and Junior standing or above`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4504["<b>CSE 4504</b><br/><small>Software Engineering for External Clients</small>"]
+  CSE_3300["<b>CSE 3300</b><br/><small>Rapid Prototype Development and Creative Programming</small><br/><small><i>≡ CSE 5306</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_3302["<b>CSE 3302</b><br/><small>Object-Oriented Software Development Laboratory</small><br/><small><i>≡ CSE-E81 504N</i></small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+
+  J1{"any of"}
+  C1(["Junior standing+"])
+  J1 -.->|concurrent ok| CSE_4504
+  CSE_3300 --> J1
+  CSE_3302 --> J1
+  C1 ---> CSE_4504
+  CSE_1301 ---> CSE_3300
+  CSE_1301 ---> CSE_3302
+  CSE_2407 ---> CSE_3302
+  CSE_1301 ---> CSE_2407
+
+  class CSE_4504 target
+  class CSE_3300,CSE_1301,CSE_3302,CSE_2407 course
+  class J1 junction
+  class C1 cond
+```
+
+### CSE 4507: Introduction to Visualization
+
+Rule: `Has completed (CSE 3300) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4507["<b>CSE 4507</b><br/><small>Introduction to Visualization</small>"]
+  CSE_3300["<b>CSE 3300</b><br/><small>Rapid Prototype Development and Creative Programming</small><br/><small><i>≡ CSE 5306</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J1 --> CSE_4507
+  CSE_3300 --> J1
+  C1 --> J1
+  CSE_1301 ---> CSE_3300
+
+  class CSE_4507 target
+  class CSE_3300,CSE_1301 course
+  class J1 junction
+  class C1 cond
+```
+
+### CSE 4602: Computer Systems Design
+
+Rule: `Has completed (CSE 3601 and CSE 3602) OR Has received permission to take (CSE 4602) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4602["<b>CSE 4602</b><br/><small>Computer Systems Design</small><br/><small><i>≡ ESE-E35 462</i></small>"]
+  CSE_3601["<b>CSE 3601</b><br/><small>Introduction to Systems Software</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_1302["<b>CSE 1302</b><br/><small>Introduction to Computer Engineering</small>"]
+  CSE_3602["<b>CSE 3602</b><br/><small>Computer Architecture</small><br/><small><i>≡ ESE-E35 362</i></small>"]
+  CSE_2600["<b>CSE 2600</b><br/><small>Introduction to Digital Logic and Computer Design</small><br/><small><i>≡ CSE-E81 505N, ESE-E35 260</i></small>"]
+
+  J1{"any of"}
+  J2{"all of"}
+  C1(["Instructor permission"])
+  C2(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J1 --> CSE_4602
+  J2 --> J1
+  CSE_3601 --> J2
+  CSE_3602 --> J2
+  C1 --> J1
+  C2 --> J1
+  CSE_1301 ---> CSE_3601
+  CSE_1302 ---> CSE_3601
+  CSE_1301 ---> CSE_1302
+  CSE_2600 ---> CSE_3602
+  CSE_1301 ---> CSE_2600
+
+  class CSE_4602 target
+  class CSE_3601,CSE_1301,CSE_1302,CSE_3602,CSE_2600 course
+  class J1,J2 junction
+  class C1,C2 cond
+```
+
+### CSE 4607: Embedded Computing Systems
+
+Rule: `Has completed (CSE 2600 or CSE 1302 or ESE 2050)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4607["<b>CSE 4607</b><br/><small>Embedded Computing Systems</small><br/><small><i>≡ ESE-E35 467</i></small>"]
+  CSE_2600["<b>CSE 2600</b><br/><small>Introduction to Digital Logic and Computer Design</small><br/><small><i>≡ CSE-E81 505N, ESE-E35 260</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_1302["<b>CSE 1302</b><br/><small>Introduction to Computer Engineering</small>"]
+  ESE_2050["<b>ESE 2050</b><br/><small>not in data — prereqs unknown</small>"]
+
+  J1{"any of"}
+  J1 --> CSE_4607
+  CSE_2600 --> J1
+  CSE_1302 --> J1
+  ESE_2050 --> J1
+  CSE_1301 ---> CSE_2600
+  CSE_1301 ---> CSE_1302
+
+  class CSE_4607 target
+  class CSE_2600,CSE_1301,CSE_1302 course
+  class ESE_2050 external
+  class J1 junction
+```
+
+### CSE 4608: Introduction to Quantum Computing
+
+Rule: `Has completed ((CSE 2407 and MATH 3300) and (MATH 3200 or ESE 3260)) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4608["<b>CSE 4608</b><br/><small>Introduction to Quantum Computing</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  MATH_3300["<b>MATH 3300</b><br/><small>Matrix Algebra</small>"]
+  MATH_1520["<b>MATH 1520</b><br/><small>Calculus II</small>"]
+  SDS_3020["<b>SDS 3020</b><br/><small>Elementary to Intermediate Statistics and Data Analysis</small><br/><small><i>≡ MATH 3200</i></small>"]
+  ESE_3260["<b>ESE 3260</b><br/><small>not in data — prereqs unknown</small>"]
+
+  J1{"any of"}
+  J2{"all of"}
+  J3{"any of"}
+  C1(["Program of study: PhD CS / PhD CE"])
+  J4{"any of"}
+  C2(["Score 2 on MATH Proficiency Exam"])
+  J5{"any of"}
+  C3(["Score 2 on MATH Proficiency Exam"])
+  J1 --> CSE_4608
+  J2 --> J1
+  CSE_2407 --> J2
+  MATH_3300 --> J2
+  J3 --> J2
+  SDS_3020 --> J3
+  ESE_3260 --> J3
+  C1 --> J1
+  CSE_1301 ---> CSE_2407
+  J4 --> MATH_3300
+  MATH_1520 --> J4
+  C2 --> J4
+  J5 --> SDS_3020
+  MATH_1520 --> J5
+  C3 --> J5
+
+  class CSE_4608 target
+  class CSE_2407,CSE_1301,MATH_3300,MATH_1520,SDS_3020 course
+  class ESE_3260 external
+  class J1,J2,J3,J4,J5 junction
+  class C1,C2,C3 cond
+```
+
+### CSE 4703: Introduction to Computer Networks
+
+Rule: `Has completed (CSE 2407) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_4703["<b>CSE 4703</b><br/><small>Introduction to Computer Networks</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J1 --> CSE_4703
+  CSE_2407 --> J1
+  C1 --> J1
+  CSE_1301 ---> CSE_2407
+
+  class CSE_4703 target
+  class CSE_2407,CSE_1301 course
+  class J1 junction
+  class C1 cond
+```
+
+### CSE 5100: Deep Reinforcement Learning
+
+Rule: `Has completed (MATH 4301, (MATH 439 or ENGR 3180), MATH 2130, (CSE 4102, (CSE 4107 or ESE 4170)) OR has a program of study (PhD in Computer Science or PhD in Computer Engineering)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5100["<b>CSE 5100</b><br/><small>Deep Reinforcement Learning</small>"]
+  MATH_4301["<b>MATH 4301</b><br/><small>Linear Algebra</small>"]
+  MATH_3010["<b>MATH 3010</b><br/><small>Foundations for Higher Mathematics</small><br/><small><i>≡ MATH 3101</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  MATH_3015["<b>MATH 3015</b><br/><small>Foundations for Higher Mathematics With Writing</small>"]
+  MATH_2801["<b>MATH 2801</b><br/><small>Honors Mathematics I</small>"]
+  SDS_5130["<b>SDS 5130</b><br/><small>Linear Statistical Models</small><br/><small><i>≡ MATH 439, MATH 5393, SDS 4130</i></small>"]
+  ENGR_3180["<b>ENGR 3180</b><br/><small>Engineering Mathematics A</small>"]
+  MATH_2500["<b>MATH 2500</b><br/><small>Differential Equations</small>"]
+  ESE_2170["<b>ESE 2170</b><br/><small>not in data — prereqs unknown</small>"]
+  STAB_1217["<b>STAB 1217</b><br/><small>not in data — prereqs unknown</small>"]
+  CSE_4102["<b>CSE 4102</b><br/><small>Introduction to Artificial Intelligence</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  ESE_3260["<b>ESE 3260</b><br/><small>not in data — prereqs unknown</small>"]
+  SDS_3020["<b>SDS 3020</b><br/><small>Elementary to Intermediate Statistics and Data Analysis</small><br/><small><i>≡ MATH 3200</i></small>"]
+  MATH_1520["<b>MATH 1520</b><br/><small>Calculus II</small>"]
+  SDS_3030["<b>SDS 3030</b><br/><small>Statistics for Data Science I</small><br/><small><i>≡ MATH 3211, SDS 5212</i></small>"]
+  ENGR_3280["<b>ENGR 3280</b><br/><small>Engineering Statistics With Probability</small>"]
+  DAT_1201["<b>DAT 1201</b><br/><small>Managerial Statistics II</small>"]
+  DAT_1200["<b>DAT 1200</b><br/><small>Managerial Statistics I</small><br/><small><i>≡ DAT 1996</i></small>"]
+  MEC_2900["<b>MEC 2900</b><br/><small>not in data — prereqs unknown</small>"]
+  ECON_1501["<b>ECON 1501</b><br/><small>Introduction to Microeconomics</small>"]
+  ECON_4001["<b>ECON 4001</b><br/><small>Intermediate Microeconomic Theory</small><br/><small><i>≡ ECON 5001</i></small>"]
+  CSE_4107["<b>CSE 4107</b><br/><small>Introduction to Machine Learning</small>"]
+  MATH_3300["<b>MATH 3300</b><br/><small>Matrix Algebra</small>"]
+  ESE_4170["<b>ESE 4170</b><br/><small>not in data — prereqs unknown</small>"]
+
+  J1{"any of"}
+  J2{"all of"}
+  J3{"any of"}
+  J4{"any of"}
+  C1(["Program of study: PhD CS / PhD CE"])
+  J5{"any of"}
+  C2(["has a score of 5 on the MATH Proficiency Exam"])
+  J6{"any of"}
+  C3(["Has a score of 3 on the Math Proficiency Exam"])
+  C4(["Instructor permission"])
+  C5(["Program of study: SDS Ph.D. / SDS MA"])
+  J7{"any of"}
+  J8{"any of"}
+  J9{"any of"}
+  C6(["Score 2 on MATH Proficiency Exam"])
+  J10{"any of"}
+  C7(["Equivalent course"])
+  J11{"any of"}
+  J12{"any of"}
+  J13{"any of"}
+  J14{"any of"}
+  C8(["5 on EMI"])
+  C9(["7 on Economics HL"])
+  C10(["A on British A-Level ECON"])
+  J15{"any of"}
+  C11(["Score 2 on MATH Proficiency Exam"])
+  J16{"any of"}
+  J17{"any of"}
+  C12(["Score 2 on MATH Proficiency Exam"])
+  J1 --> CSE_5100
+  J2 --> J1
+  MATH_4301 --> J2
+  J3 --> J2
+  SDS_5130 --> J3
+  ENGR_3180 --> J3
+  MATH_2130 --> J2
+  CSE_4102 --> J2
+  J4 --> J2
+  CSE_4107 --> J4
+  ESE_4170 --> J4
+  C1 --> J1
+  J5 --> MATH_4301
+  MATH_3010 --> J5
+  MATH_3015 --> J5
+  MATH_2801 --> J5
+  C2 --> J5
+  MATH_2130 ---> MATH_3010
+  J6 --> MATH_3015
+  MATH_2130 --> J6
+  C3 --> J6
+  C4 ---> MATH_3015
+  C5 ---> SDS_5130
+  MATH_2130 ---> ENGR_3180
+  J7 -.->|concurrent ok| ENGR_3180
+  MATH_2500 --> J7
+  ESE_2170 --> J7
+  STAB_1217 --> J7
+  CSE_2407 ---> CSE_4102
+  MATH_2130 ---> CSE_4102
+  J8 --> CSE_4102
+  ESE_3260 --> J8
+  SDS_3020 --> J8
+  SDS_3030 --> J8
+  ENGR_3280 --> J8
+  DAT_1201 --> J8
+  CSE_1301 ---> CSE_2407
+  J9 --> SDS_3020
+  MATH_1520 --> J9
+  C6 --> J9
+  MATH_2130 ---> SDS_3030
+  MATH_2130 -..->|concurrent ok| ENGR_3280
+  J10 --> DAT_1201
+  DAT_1200 --> J10
+  C7 --> J10
+  J11 --> DAT_1201
+  MATH_1520 --> J11
+  MATH_2130 --> J11
+  J12 -.->|concurrent ok| DAT_1201
+  MEC_2900 --> J12
+  ECON_1501 --> J12
+  ECON_4001 --> J12
+  J13 -.->|concurrent ok| DAT_1200
+  MATH_1520 --> J13
+  MATH_2130 --> J13
+  J14 --> ECON_4001
+  ECON_1501 --> J14
+  C8 --> J14
+  C9 --> J14
+  C10 --> J14
+  J15 --> ECON_4001
+  MATH_1520 --> J15
+  C11 --> J15
+  CSE_2407 ---> CSE_4107
+  J16 --> CSE_4107
+  ESE_3260 --> J16
+  SDS_3020 --> J16
+  SDS_3030 --> J16
+  MATH_2130 ---> CSE_4107
+  MATH_3300 ---> CSE_4107
+  J17 --> MATH_3300
+  MATH_1520 --> J17
+  C12 --> J17
+
+  class CSE_5100 target
+  class MATH_4301,MATH_3010,MATH_2130,MATH_3015,MATH_2801,SDS_5130,ENGR_3180,MATH_2500,CSE_4102,CSE_2407,CSE_1301,SDS_3020,MATH_1520,SDS_3030,ENGR_3280,DAT_1201,DAT_1200,ECON_1501,ECON_4001,CSE_4107,MATH_3300 course
+  class ESE_2170,STAB_1217,ESE_3260,MEC_2900,ESE_4170 external
+  class J1,J2,J3,J4,J5,J6,J7,J8,J9,J10,J11,J12,J13,J14,J15,J16,J17 junction
+  class C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12 cond
+```
+
+### CSE 5103: Theory of Artificial Intelligence and Machine Learning
+
+Rule: `Has completed (CSE 3407) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5103["<b>CSE 5103</b><br/><small>Theory of Artificial Intelligence and Machine Learning</small>"]
+  CSE_3407["<b>CSE 3407</b><br/><small>Analysis of Algorithms</small>"]
+  CSE_2400["<b>CSE 2400</b><br/><small>Logic and Discrete Mathematics</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  MATH_3010["<b>MATH 3010</b><br/><small>Foundations for Higher Mathematics</small><br/><small><i>≡ MATH 3101</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J2{"any of"}
+  J1 --> CSE_5103
+  CSE_3407 --> J1
+  C1 --> J1
+  J2 --> CSE_3407
+  CSE_2400 --> J2
+  MATH_3010 --> J2
+  CSE_2407 ---> CSE_3407
+  CSE_1301 ---> CSE_2400
+  MATH_2130 ---> MATH_3010
+  CSE_1301 ---> CSE_2407
+
+  class CSE_5103 target
+  class CSE_3407,CSE_2400,CSE_1301,MATH_3010,MATH_2130,CSE_2407 course
+  class J1,J2 junction
+  class C1 cond
+```
+
+### CSE 5104: Data Mining
+
+Rule: `Has completed (CSE 2407, (MATH 3200 or SDS 3200 or ESE 32600) and MATH 2130) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5104["<b>CSE 5104</b><br/><small>Data Mining</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  SDS_3020["<b>SDS 3020</b><br/><small>Elementary to Intermediate Statistics and Data Analysis</small><br/><small><i>≡ MATH 3200</i></small>"]
+  MATH_1520["<b>MATH 1520</b><br/><small>Calculus II</small>"]
+  ESE_3260["<b>ESE 3260</b><br/><small>not in data — prereqs unknown</small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+
+  J1{"any of"}
+  J2{"all of"}
+  J3{"any of"}
+  C1(["Program of study: PhD CS / PhD CE"])
+  J4{"any of"}
+  C2(["Score 2 on MATH Proficiency Exam"])
+  J1 --> CSE_5104
+  J2 --> J1
+  CSE_2407 --> J2
+  J3 --> J2
+  SDS_3020 --> J3
+  ESE_3260 --> J3
+  MATH_2130 --> J2
+  C1 --> J1
+  CSE_1301 ---> CSE_2407
+  J4 --> SDS_3020
+  MATH_1520 --> J4
+  C2 --> J4
+
+  class CSE_5104 target
+  class CSE_2407,CSE_1301,SDS_3020,MATH_1520,MATH_2130 course
+  class ESE_3260 external
+  class J1,J2,J3,J4 junction
+  class C1,C2 cond
+```
+
+### CSE 5105: Bayesian Methods in Machine Learning
+
+Rule: `Has completed (CSE 4107, ESE 32600) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5105["<b>CSE 5105</b><br/><small>Bayesian Methods in Machine Learning</small>"]
+  CSE_4107["<b>CSE 4107</b><br/><small>Introduction to Machine Learning</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  ESE_3260["<b>ESE 3260</b><br/><small>not in data — prereqs unknown</small>"]
+  SDS_3020["<b>SDS 3020</b><br/><small>Elementary to Intermediate Statistics and Data Analysis</small><br/><small><i>≡ MATH 3200</i></small>"]
+  MATH_1520["<b>MATH 1520</b><br/><small>Calculus II</small>"]
+  SDS_3030["<b>SDS 3030</b><br/><small>Statistics for Data Science I</small><br/><small><i>≡ MATH 3211, SDS 5212</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  MATH_3300["<b>MATH 3300</b><br/><small>Matrix Algebra</small>"]
+
+  J1{"any of"}
+  J2{"all of"}
+  C1(["Program of study: PhD CS / PhD CE"])
+  J3{"any of"}
+  J4{"any of"}
+  C2(["Score 2 on MATH Proficiency Exam"])
+  J5{"any of"}
+  C3(["Score 2 on MATH Proficiency Exam"])
+  J1 --> CSE_5105
+  J2 --> J1
+  CSE_4107 --> J2
+  ESE_3260 --> J2
+  C1 --> J1
+  CSE_2407 ---> CSE_4107
+  J3 --> CSE_4107
+  ESE_3260 --> J3
+  SDS_3020 --> J3
+  SDS_3030 --> J3
+  MATH_2130 ---> CSE_4107
+  MATH_3300 ---> CSE_4107
+  CSE_1301 ---> CSE_2407
+  J4 --> SDS_3020
+  MATH_1520 --> J4
+  C2 --> J4
+  MATH_2130 ---> SDS_3030
+  J5 --> MATH_3300
+  MATH_1520 --> J5
+  C3 --> J5
+
+  class CSE_5105 target
+  class CSE_4107,CSE_2407,CSE_1301,SDS_3020,MATH_1520,SDS_3030,MATH_2130,MATH_3300 course
+  class ESE_3260 external
+  class J1,J2,J3,J4,J5 junction
+  class C1,C2,C3 cond
+```
+
+### CSE 5106: Multi-Agent Systems
+
+Rule: `Has completed (ESE-E35 326 or MATH 3200) and (MATH 233) and has completed or is in the process of completing (CSE-E81 347)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5106["<b>CSE 5106</b><br/><small>Multi-Agent Systems</small>"]
+  ESE_E35_326["<b>ESE-E35 326</b><br/><small>not in data — prereqs unknown</small>"]
+  SDS_3020["<b>SDS 3020</b><br/><small>Elementary to Intermediate Statistics and Data Analysis</small><br/><small><i>≡ MATH 3200</i></small>"]
+  MATH_1520["<b>MATH 1520</b><br/><small>Calculus II</small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  CSE_3407["<b>CSE 3407</b><br/><small>Analysis of Algorithms</small>"]
+  CSE_2400["<b>CSE 2400</b><br/><small>Logic and Discrete Mathematics</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  MATH_3010["<b>MATH 3010</b><br/><small>Foundations for Higher Mathematics</small><br/><small><i>≡ MATH 3101</i></small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+
+  J1{"any of"}
+  J2{"any of"}
+  C1(["Score 2 on MATH Proficiency Exam"])
+  J3{"any of"}
+  J1 --> CSE_5106
+  ESE_E35_326 --> J1
+  SDS_3020 --> J1
+  MATH_2130 ---> CSE_5106
+  CSE_3407 -..->|concurrent ok| CSE_5106
+  J2 --> SDS_3020
+  MATH_1520 --> J2
+  C1 --> J2
+  J3 --> CSE_3407
+  CSE_2400 --> J3
+  MATH_3010 --> J3
+  CSE_2407 ---> CSE_3407
+  CSE_1301 ---> CSE_2400
+  MATH_2130 ---> MATH_3010
+  CSE_1301 ---> CSE_2407
+
+  class CSE_5106 target
+  class ESE_E35_326 external
+  class SDS_3020,MATH_1520,MATH_2130,CSE_3407,CSE_2400,CSE_1301,MATH_3010,CSE_2407 course
+  class J1,J2,J3 junction
+  class C1 cond
+```
+
+### CSE 5107: Machine Learning
+
+Rule: `Has completed (CSE 2407), (CSE 4107 or ESE 4170), (ESE 32600 or MATH 3211), (MATH 2130 and MATH 3300) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5107["<b>CSE 5107</b><br/><small>Machine Learning</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_4107["<b>CSE 4107</b><br/><small>Introduction to Machine Learning</small>"]
+  ESE_3260["<b>ESE 3260</b><br/><small>not in data — prereqs unknown</small>"]
+  SDS_3020["<b>SDS 3020</b><br/><small>Elementary to Intermediate Statistics and Data Analysis</small><br/><small><i>≡ MATH 3200</i></small>"]
+  MATH_1520["<b>MATH 1520</b><br/><small>Calculus II</small>"]
+  SDS_3030["<b>SDS 3030</b><br/><small>Statistics for Data Science I</small><br/><small><i>≡ MATH 3211, SDS 5212</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  MATH_3300["<b>MATH 3300</b><br/><small>Matrix Algebra</small>"]
+  ESE_4170["<b>ESE 4170</b><br/><small>not in data — prereqs unknown</small>"]
+
+  J1{"any of"}
+  J2{"all of"}
+  J3{"any of"}
+  J4{"any of"}
+  C1(["Program of study: PhD CS / PhD CE"])
+  J5{"any of"}
+  J6{"any of"}
+  C2(["Score 2 on MATH Proficiency Exam"])
+  J7{"any of"}
+  C3(["Score 2 on MATH Proficiency Exam"])
+  J1 --> CSE_5107
+  J2 --> J1
+  CSE_2407 --> J2
+  J3 --> J2
+  CSE_4107 --> J3
+  ESE_4170 --> J3
+  J4 --> J2
+  ESE_3260 --> J4
+  SDS_3030 --> J4
+  MATH_2130 --> J2
+  MATH_3300 --> J2
+  C1 --> J1
+  CSE_1301 ---> CSE_2407
+  CSE_2407 ---> CSE_4107
+  J5 --> CSE_4107
+  ESE_3260 --> J5
+  SDS_3020 --> J5
+  SDS_3030 --> J5
+  MATH_2130 ---> CSE_4107
+  MATH_3300 ---> CSE_4107
+  J6 --> SDS_3020
+  MATH_1520 --> J6
+  C2 --> J6
+  MATH_2130 ---> SDS_3030
+  J7 --> MATH_3300
+  MATH_1520 --> J7
+  C3 --> J7
+
+  class CSE_5107 target
+  class CSE_2407,CSE_1301,CSE_4107,SDS_3020,MATH_1520,SDS_3030,MATH_2130,MATH_3300 course
+  class ESE_3260,ESE_4170 external
+  class J1,J2,J3,J4,J5,J6,J7 junction
+  class C1,C2,C3 cond
+```
+
+### CSE 5108: Human-In-The-Loop Computation
+
+Rule: `Has completed (CSE 2407, ESE 3260, MATH 2130, MATH 3300) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5108["<b>CSE 5108</b><br/><small>Human-In-The-Loop Computation</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  ESE_3260["<b>ESE 3260</b><br/><small>not in data — prereqs unknown</small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  MATH_3300["<b>MATH 3300</b><br/><small>Matrix Algebra</small>"]
+  MATH_1520["<b>MATH 1520</b><br/><small>Calculus II</small>"]
+
+  J1{"any of"}
+  J2{"all of"}
+  C1(["Program of study: PhD CS / PhD CE"])
+  J3{"any of"}
+  C2(["Score 2 on MATH Proficiency Exam"])
+  J1 --> CSE_5108
+  J2 --> J1
+  CSE_2407 --> J2
+  ESE_3260 --> J2
+  MATH_2130 --> J2
+  MATH_3300 --> J2
+  C1 --> J1
+  CSE_1301 ---> CSE_2407
+  J3 --> MATH_3300
+  MATH_1520 --> J3
+  C2 --> J3
+
+  class CSE_5108 target
+  class CSE_2407,CSE_1301,MATH_2130,MATH_3300,MATH_1520 course
+  class ESE_3260 external
+  class J1,J2,J3 junction
+  class C1,C2 cond
+```
+
+### CSE 5202: Advanced Operating Systems
+
+Rule: `Has completed (CSE-E81 422S)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5202["<b>CSE 5202</b><br/><small>Advanced Operating Systems</small>"]
+  CSE_4202["<b>CSE 4202</b><br/><small>Operating Systems Organization</small>"]
+  CSE_3601["<b>CSE 3601</b><br/><small>Introduction to Systems Software</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_1302["<b>CSE 1302</b><br/><small>Introduction to Computer Engineering</small>"]
+
+  CSE_4202 ---> CSE_5202
+  CSE_3601 ---> CSE_4202
+  CSE_1301 ---> CSE_3601
+  CSE_1302 ---> CSE_3601
+  CSE_1301 ---> CSE_1302
+
+  class CSE_5202 target
+  class CSE_4202,CSE_3601,CSE_1301,CSE_1302 course
+```
+
+### CSE 5203: Systems Security
+
+Rule: `Has completed (CSE 3601) OR has program of study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5203["<b>CSE 5203</b><br/><small>Systems Security</small>"]
+  CSE_3601["<b>CSE 3601</b><br/><small>Introduction to Systems Software</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_1302["<b>CSE 1302</b><br/><small>Introduction to Computer Engineering</small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J1 --> CSE_5203
+  CSE_3601 --> J1
+  C1 --> J1
+  CSE_1301 ---> CSE_3601
+  CSE_1302 ---> CSE_3601
+  CSE_1301 ---> CSE_1302
+
+  class CSE_5203 target
+  class CSE_3601,CSE_1301,CSE_1302 course
+  class J1 junction
+  class C1 cond
+```
+
+### CSE 5205: Computation in Economics and Social Choice
+
+Rule: `Has completed (CSE 3407, and (CSE 5401 or CSE 5180)) OR has a program of study (PhD in Computer Science or PhD in Computer Engineering)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5205["<b>CSE 5205</b><br/><small>Computation in Economics and Social Choice</small>"]
+  CSE_3407["<b>CSE 3407</b><br/><small>Analysis of Algorithms</small>"]
+  CSE_2400["<b>CSE 2400</b><br/><small>Logic and Discrete Mathematics</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  MATH_3010["<b>MATH 3010</b><br/><small>Foundations for Higher Mathematics</small><br/><small><i>≡ MATH 3101</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_5401["<b>CSE 5401</b><br/><small>Advanced Algorithms</small>"]
+  CSE_5180["<b>CSE 5180</b><br/><small>Heuristic Search and Constraint Processing</small>"]
+  CSE_5101["<b>CSE 5101</b><br/><small>Introduction to Artificial Intelligence</small>"]
+  ESE_E35_326["<b>ESE-E35 326</b><br/><small>not in data — prereqs unknown</small>"]
+
+  J1{"any of"}
+  J2{"all of"}
+  J3{"any of"}
+  C1(["Program of study: PhD CS / PhD CE"])
+  J4{"any of"}
+  J5{"any of"}
+  C2(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J1 --> CSE_5205
+  J2 --> J1
+  CSE_3407 --> J2
+  J3 --> J2
+  CSE_5401 --> J3
+  CSE_5180 --> J3
+  C1 --> J1
+  J4 --> CSE_3407
+  CSE_2400 --> J4
+  MATH_3010 --> J4
+  CSE_2407 ---> CSE_3407
+  CSE_1301 ---> CSE_2400
+  MATH_2130 ---> MATH_3010
+  CSE_1301 ---> CSE_2407
+  J5 --> CSE_5401
+  CSE_3407 --> J5
+  C2 --> J5
+  CSE_2407 ---> CSE_5180
+  CSE_5101 ---> CSE_5180
+  CSE_2407 ---> CSE_5101
+  ESE_E35_326 ---> CSE_5101
+  MATH_2130 ---> CSE_5101
+
+  class CSE_5205 target
+  class CSE_3407,CSE_2400,CSE_1301,MATH_3010,MATH_2130,CSE_2407,CSE_5401,CSE_5180,CSE_5101 course
+  class ESE_E35_326 external
+  class J1,J2,J3,J4,J5 junction
+  class C1,C2 cond
+```
+
+### CSE 5271: Data-Driven Privacy and Security
+
+Rule: `Has a program of study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5271["<b>CSE 5271</b><br/><small>Data-Driven Privacy and Security</small>"]
+
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  C1 ---> CSE_5271
+
+  class CSE_5271 target
+  class C1 cond
+```
+
+### CSE 5306: Rapid Prototype Development and Creative Programming
+
+Rule: `Has completed (CSE 1301) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5306["<b>CSE 5306</b><br/><small>Rapid Prototype Development and Creative Programming</small><br/><small><i>≡ CSE 3300</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J1 --> CSE_5306
+  CSE_1301 --> J1
+  C1 --> J1
+
+  class CSE_5306 target
+  class CSE_1301 course
+  class J1 junction
+  class C1 cond
+```
+
+### CSE 5308: Modeling and Performance Evaluation of Computer Systems
+
+Rule: `Has completed (ESE 32600 or Math 3211) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5308["<b>CSE 5308</b><br/><small>Modeling and Performance Evaluation of Computer Systems</small>"]
+  ESE_3260["<b>ESE 3260</b><br/><small>not in data — prereqs unknown</small>"]
+  SDS_3030["<b>SDS 3030</b><br/><small>Statistics for Data Science I</small><br/><small><i>≡ MATH 3211, SDS 5212</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE"])
+  J1 --> CSE_5308
+  ESE_3260 --> J1
+  SDS_3030 --> J1
+  C1 --> J1
+  MATH_2130 ---> SDS_3030
+
+  class CSE_5308 target
+  class ESE_3260 external
+  class SDS_3030,MATH_2130 course
+  class J1 junction
+  class C1 cond
+```
+
+### CSE 5309: Concepts in Multicore Computing
+
+Rule: `Has completed (CSE-E81 247, CSE-E81 361S)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5309["<b>CSE 5309</b><br/><small>Concepts in Multicore Computing</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_3601["<b>CSE 3601</b><br/><small>Introduction to Systems Software</small>"]
+  CSE_1302["<b>CSE 1302</b><br/><small>Introduction to Computer Engineering</small>"]
+
+  CSE_2407 ---> CSE_5309
+  CSE_3601 ---> CSE_5309
+  CSE_1301 ---> CSE_2407
+  CSE_1301 ---> CSE_3601
+  CSE_1302 ---> CSE_3601
+  CSE_1301 ---> CSE_1302
+
+  class CSE_5309 target
+  class CSE_2407,CSE_1301,CSE_3601,CSE_1302 course
+```
+
+### CSE 5313: Coding and Information Theory for Data Science
+
+Rule: `Has completed (MATH 309 or ESE-E35 318) AND (CSE-E81 240 or MATH 310) AND (MATH 2200 or SDS 2200 or ESE-E35 326)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5313["<b>CSE 5313</b><br/><small>Coding and Information Theory for Data Science</small>"]
+  MATH_3300["<b>MATH 3300</b><br/><small>Matrix Algebra</small>"]
+  MATH_1520["<b>MATH 1520</b><br/><small>Calculus II</small>"]
+  ESE_E35_318["<b>ESE-E35 318</b><br/><small>not in data — prereqs unknown</small>"]
+  CSE_2400["<b>CSE 2400</b><br/><small>Logic and Discrete Mathematics</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  MATH_3010["<b>MATH 3010</b><br/><small>Foundations for Higher Mathematics</small><br/><small><i>≡ MATH 3101</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  SDS_2020["<b>SDS 2020</b><br/><small>Elementary Probability and Statistics</small><br/><small><i>≡ MATH 2200</i></small>"]
+  MATH_1510["<b>MATH 1510</b><br/><small>Calculus I</small>"]
+  ESE_E35_326["<b>ESE-E35 326</b><br/><small>not in data — prereqs unknown</small>"]
+
+  J1{"any of"}
+  J2{"any of"}
+  J3{"any of"}
+  J4{"any of"}
+  C1(["Score 2 on MATH Proficiency Exam"])
+  J5{"any of"}
+  C2(["has scored 1 on the MATH Proficiency Exam"])
+  C3(["has scored 30"])
+  C4(["higher on the Math Placement Exam"])
+  J1 --> CSE_5313
+  MATH_3300 --> J1
+  ESE_E35_318 --> J1
+  J2 --> CSE_5313
+  CSE_2400 --> J2
+  MATH_3010 --> J2
+  J3 --> CSE_5313
+  SDS_2020 --> J3
+  ESE_E35_326 --> J3
+  J4 --> MATH_3300
+  MATH_1520 --> J4
+  C1 --> J4
+  CSE_1301 ---> CSE_2400
+  MATH_2130 ---> MATH_3010
+  J5 --> SDS_2020
+  MATH_1510 --> J5
+  C2 --> J5
+  C3 --> J5
+  C4 --> J5
+
+  class CSE_5313 target
+  class MATH_3300,MATH_1520,CSE_2400,CSE_1301,MATH_3010,MATH_2130,SDS_2020,MATH_1510 course
+  class ESE_E35_318,ESE_E35_326 external
+  class J1,J2,J3,J4,J5 junction
+  class C1,C2,C3,C4 cond
+```
+
+### CSE 5370: Trustworthy Autonomy
+
+Rule: `Has completed (CSE 2400 or MATH 3010) AND (CSE 2407)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5370["<b>CSE 5370</b><br/><small>Trustworthy Autonomy</small>"]
+  CSE_2400["<b>CSE 2400</b><br/><small>Logic and Discrete Mathematics</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  MATH_3010["<b>MATH 3010</b><br/><small>Foundations for Higher Mathematics</small><br/><small><i>≡ MATH 3101</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+
+  J1{"any of"}
+  J1 --> CSE_5370
+  CSE_2400 --> J1
+  MATH_3010 --> J1
+  CSE_2407 ---> CSE_5370
+  CSE_1301 ---> CSE_2400
+  MATH_2130 ---> MATH_3010
+  CSE_1301 ---> CSE_2407
+
+  class CSE_5370 target
+  class CSE_2400,CSE_1301,MATH_3010,MATH_2130,CSE_2407 course
+  class J1 junction
+```
+
+### CSE 5401: Advanced Algorithms
+
+Rule: `Has completed (CSE 3407) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5401["<b>CSE 5401</b><br/><small>Advanced Algorithms</small>"]
+  CSE_3407["<b>CSE 3407</b><br/><small>Analysis of Algorithms</small>"]
+  CSE_2400["<b>CSE 2400</b><br/><small>Logic and Discrete Mathematics</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  MATH_3010["<b>MATH 3010</b><br/><small>Foundations for Higher Mathematics</small><br/><small><i>≡ MATH 3101</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J2{"any of"}
+  J1 --> CSE_5401
+  CSE_3407 --> J1
+  C1 --> J1
+  J2 --> CSE_3407
+  CSE_2400 --> J2
+  MATH_3010 --> J2
+  CSE_2407 ---> CSE_3407
+  CSE_1301 ---> CSE_2400
+  MATH_2130 ---> MATH_3010
+  CSE_1301 ---> CSE_2407
+
+  class CSE_5401 target
+  class CSE_3407,CSE_2400,CSE_1301,MATH_3010,MATH_2130,CSE_2407 course
+  class J1,J2 junction
+  class C1 cond
+```
+
+### CSE 5402: Concurrency and Memory Safe System Software Development
+
+Rule: `Has completed (CSE 4202) or has received permission to take (CSE 5402)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5402["<b>CSE 5402</b><br/><small>Concurrency and Memory Safe System Software Development</small>"]
+  CSE_4202["<b>CSE 4202</b><br/><small>Operating Systems Organization</small>"]
+  CSE_3601["<b>CSE 3601</b><br/><small>Introduction to Systems Software</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_1302["<b>CSE 1302</b><br/><small>Introduction to Computer Engineering</small>"]
+
+  J1{"any of"}
+  C1(["Instructor permission"])
+  J1 --> CSE_5402
+  CSE_4202 --> J1
+  C1 --> J1
+  CSE_3601 ---> CSE_4202
+  CSE_1301 ---> CSE_3601
+  CSE_1302 ---> CSE_3601
+  CSE_1301 ---> CSE_1302
+
+  class CSE_5402 target
+  class CSE_4202,CSE_3601,CSE_1301,CSE_1302 course
+  class J1 junction
+  class C1 cond
+```
+
+### CSE 5403: Algorithms for Nonlinear Optimization
+
+Rule: `Has completed (MATH 1510 or scored a 1 on the MATH Proficiency Exam) and (MATH 3300 or scored a 6 on the MATH Proficiency Exam) OR has Program of Study (PhD in Computer Science or PhD in Computer Engineering)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5403["<b>CSE 5403</b><br/><small>Algorithms for Nonlinear Optimization</small>"]
+  MATH_1510["<b>MATH 1510</b><br/><small>Calculus I</small>"]
+  MATH_3300["<b>MATH 3300</b><br/><small>Matrix Algebra</small>"]
+  MATH_1520["<b>MATH 1520</b><br/><small>Calculus II</small>"]
+
+  J1{"any of"}
+  J2{"all of"}
+  J3{"any of"}
+  C1(["Score 1 on MATH Proficiency Exam"])
+  J4{"any of"}
+  C2(["Score 6 on MATH Proficiency Exam"])
+  C3(["Program of study: PhD CS / PhD CE"])
+  J5{"any of"}
+  C4(["Score 2 on MATH Proficiency Exam"])
+  J1 --> CSE_5403
+  J2 --> J1
+  J3 --> J2
+  MATH_1510 --> J3
+  C1 --> J3
+  J4 --> J2
+  MATH_3300 --> J4
+  C2 --> J4
+  C3 --> J1
+  J5 --> MATH_3300
+  MATH_1520 --> J5
+  C4 --> J5
+
+  class CSE_5403 target
+  class MATH_1510,MATH_3300,MATH_1520 course
+  class J1,J2,J3,J4,J5 junction
+  class C1,C2,C3,C4 cond
+```
+
+### CSE 5406: Computational Geometry
+
+Rule: `Has completed (CSE 3407) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5406["<b>CSE 5406</b><br/><small>Computational Geometry</small>"]
+  CSE_3407["<b>CSE 3407</b><br/><small>Analysis of Algorithms</small>"]
+  CSE_2400["<b>CSE 2400</b><br/><small>Logic and Discrete Mathematics</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  MATH_3010["<b>MATH 3010</b><br/><small>Foundations for Higher Mathematics</small><br/><small><i>≡ MATH 3101</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J2{"any of"}
+  J1 --> CSE_5406
+  CSE_3407 --> J1
+  C1 --> J1
+  J2 --> CSE_3407
+  CSE_2400 --> J2
+  MATH_3010 --> J2
+  CSE_2407 ---> CSE_3407
+  CSE_1301 ---> CSE_2400
+  MATH_2130 ---> MATH_3010
+  CSE_1301 ---> CSE_2407
+
+  class CSE_5406 target
+  class CSE_3407,CSE_2400,CSE_1301,MATH_3010,MATH_2130,CSE_2407 course
+  class J1,J2 junction
+  class C1 cond
+```
+
+### CSE 5409: Theory of Parallel Systems
+
+Rule: `Has completed (CSE-E81 247)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5409["<b>CSE 5409</b><br/><small>Theory of Parallel Systems</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  CSE_2407 ---> CSE_5409
+  CSE_1301 ---> CSE_2407
+
+  class CSE_5409 target
+  class CSE_2407,CSE_1301 course
+```
+
+### CSE 5504: Geometric Computing for Biomedicine
+
+Rule: `Has completed (CSE-E81 332S, CSE-E81 247)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5504["<b>CSE 5504</b><br/><small>Geometric Computing for Biomedicine</small>"]
+  CSE_3302["<b>CSE 3302</b><br/><small>Object-Oriented Software Development Laboratory</small><br/><small><i>≡ CSE-E81 504N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+
+  CSE_3302 ---> CSE_5504
+  CSE_2407 ---> CSE_5504
+  CSE_1301 ---> CSE_3302
+  CSE_2407 ---> CSE_3302
+  CSE_1301 ---> CSE_2407
+
+  class CSE_5504 target
+  class CSE_3302,CSE_1301,CSE_2407 course
+```
+
+### CSE 5505: Adversarial AI
+
+Rule: `Has completed (CSE-E81 417T)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5505["<b>CSE 5505</b><br/><small>Adversarial AI</small>"]
+  CSE_4107["<b>CSE 4107</b><br/><small>Introduction to Machine Learning</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  ESE_3260["<b>ESE 3260</b><br/><small>not in data — prereqs unknown</small>"]
+  SDS_3020["<b>SDS 3020</b><br/><small>Elementary to Intermediate Statistics and Data Analysis</small><br/><small><i>≡ MATH 3200</i></small>"]
+  MATH_1520["<b>MATH 1520</b><br/><small>Calculus II</small>"]
+  SDS_3030["<b>SDS 3030</b><br/><small>Statistics for Data Science I</small><br/><small><i>≡ MATH 3211, SDS 5212</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  MATH_3300["<b>MATH 3300</b><br/><small>Matrix Algebra</small>"]
+
+  J1{"any of"}
+  J2{"any of"}
+  C1(["Score 2 on MATH Proficiency Exam"])
+  J3{"any of"}
+  C2(["Score 2 on MATH Proficiency Exam"])
+  CSE_4107 ---> CSE_5505
+  CSE_2407 ---> CSE_4107
+  J1 --> CSE_4107
+  ESE_3260 --> J1
+  SDS_3020 --> J1
+  SDS_3030 --> J1
+  MATH_2130 ---> CSE_4107
+  MATH_3300 ---> CSE_4107
+  CSE_1301 ---> CSE_2407
+  J2 --> SDS_3020
+  MATH_1520 --> J2
+  C1 --> J2
+  MATH_2130 ---> SDS_3030
+  J3 --> MATH_3300
+  MATH_1520 --> J3
+  C2 --> J3
+
+  class CSE_5505 target
+  class CSE_4107,CSE_2407,CSE_1301,SDS_3020,MATH_1520,SDS_3030,MATH_2130,MATH_3300 course
+  class ESE_3260 external
+  class J1,J2,J3 junction
+  class C1,C2 cond
+```
+
+### CSE 5507: Advanced Visualization
+
+Rule: `Has completed (CSE 4507) or has received permission to take (CSE 5507) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5507["<b>CSE 5507</b><br/><small>Advanced Visualization</small>"]
+  CSE_4507["<b>CSE 4507</b><br/><small>Introduction to Visualization</small>"]
+  CSE_3300["<b>CSE 3300</b><br/><small>Rapid Prototype Development and Creative Programming</small><br/><small><i>≡ CSE 5306</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  J1{"any of"}
+  C1(["Instructor permission"])
+  C2(["Program of study: PhD CS / PhD CE"])
+  J2{"any of"}
+  C3(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J1 --> CSE_5507
+  CSE_4507 --> J1
+  C1 --> J1
+  C2 --> J1
+  J2 --> CSE_4507
+  CSE_3300 --> J2
+  C3 --> J2
+  CSE_1301 ---> CSE_3300
+
+  class CSE_5507 target
+  class CSE_4507,CSE_3300,CSE_1301 course
+  class J1,J2 junction
+  class C1,C2,C3 cond
+```
+
+### CSE 5509: Computer Vision
+
+Rule: `Has completed (CSE 4107, ESE 4170, CSE 5104, or CSE 5107) OR has a program of study (PhD in Computer Science or PhD in Computer Engineering) OR has received permission to take (CSE 5509)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5509["<b>CSE 5509</b><br/><small>Computer Vision</small>"]
+  CSE_4107["<b>CSE 4107</b><br/><small>Introduction to Machine Learning</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  ESE_3260["<b>ESE 3260</b><br/><small>not in data — prereqs unknown</small>"]
+  SDS_3020["<b>SDS 3020</b><br/><small>Elementary to Intermediate Statistics and Data Analysis</small><br/><small><i>≡ MATH 3200</i></small>"]
+  MATH_1520["<b>MATH 1520</b><br/><small>Calculus II</small>"]
+  SDS_3030["<b>SDS 3030</b><br/><small>Statistics for Data Science I</small><br/><small><i>≡ MATH 3211, SDS 5212</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  MATH_3300["<b>MATH 3300</b><br/><small>Matrix Algebra</small>"]
+  ESE_4170["<b>ESE 4170</b><br/><small>not in data — prereqs unknown</small>"]
+  CSE_5104["<b>CSE 5104</b><br/><small>Data Mining</small>"]
+  CSE_5107["<b>CSE 5107</b><br/><small>Machine Learning</small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE"])
+  C2(["Instructor permission"])
+  J2{"any of"}
+  J3{"any of"}
+  C3(["Score 2 on MATH Proficiency Exam"])
+  J4{"any of"}
+  C4(["Score 2 on MATH Proficiency Exam"])
+  J5{"any of"}
+  J6{"all of"}
+  J7{"any of"}
+  C5(["Program of study: PhD CS / PhD CE"])
+  J8{"any of"}
+  J9{"all of"}
+  J10{"any of"}
+  J11{"any of"}
+  C6(["Program of study: PhD CS / PhD CE"])
+  J1 --> CSE_5509
+  CSE_4107 --> J1
+  ESE_4170 --> J1
+  CSE_5104 --> J1
+  CSE_5107 --> J1
+  C1 --> J1
+  C2 --> J1
+  CSE_2407 ---> CSE_4107
+  J2 --> CSE_4107
+  ESE_3260 --> J2
+  SDS_3020 --> J2
+  SDS_3030 --> J2
+  MATH_2130 ---> CSE_4107
+  MATH_3300 ---> CSE_4107
+  CSE_1301 ---> CSE_2407
+  J3 --> SDS_3020
+  MATH_1520 --> J3
+  C3 --> J3
+  MATH_2130 ---> SDS_3030
+  J4 --> MATH_3300
+  MATH_1520 --> J4
+  C4 --> J4
+  J5 --> CSE_5104
+  J6 --> J5
+  CSE_2407 --> J6
+  J7 --> J6
+  SDS_3020 --> J7
+  ESE_3260 --> J7
+  MATH_2130 --> J6
+  C5 --> J5
+  J8 --> CSE_5107
+  J9 --> J8
+  CSE_2407 --> J9
+  J10 --> J9
+  CSE_4107 --> J10
+  ESE_4170 --> J10
+  J11 --> J9
+  ESE_3260 --> J11
+  SDS_3030 --> J11
+  MATH_2130 --> J9
+  MATH_3300 --> J9
+  C6 --> J8
+
+  class CSE_5509 target
+  class CSE_4107,CSE_2407,CSE_1301,SDS_3020,MATH_1520,SDS_3030,MATH_2130,MATH_3300,CSE_5104,CSE_5107 course
+  class ESE_3260,ESE_4170 external
+  class J1,J2,J3,J4,J5,J6,J7,J8,J9,J10,J11 junction
+  class C1,C2,C3,C4,C5,C6 cond
+```
+
+### CSE 5519: Advances in Computer Vision
+
+Rule: `Has completed or is in the process of completing (CSE-E81 559A)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5519["<b>CSE 5519</b><br/><small>Advances in Computer Vision</small>"]
+  CSE_5509["<b>CSE 5509</b><br/><small>Computer Vision</small>"]
+  CSE_4107["<b>CSE 4107</b><br/><small>Introduction to Machine Learning</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  ESE_3260["<b>ESE 3260</b><br/><small>not in data — prereqs unknown</small>"]
+  SDS_3020["<b>SDS 3020</b><br/><small>Elementary to Intermediate Statistics and Data Analysis</small><br/><small><i>≡ MATH 3200</i></small>"]
+  MATH_1520["<b>MATH 1520</b><br/><small>Calculus II</small>"]
+  SDS_3030["<b>SDS 3030</b><br/><small>Statistics for Data Science I</small><br/><small><i>≡ MATH 3211, SDS 5212</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  MATH_3300["<b>MATH 3300</b><br/><small>Matrix Algebra</small>"]
+  ESE_4170["<b>ESE 4170</b><br/><small>not in data — prereqs unknown</small>"]
+  CSE_5104["<b>CSE 5104</b><br/><small>Data Mining</small>"]
+  CSE_5107["<b>CSE 5107</b><br/><small>Machine Learning</small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE"])
+  C2(["Instructor permission"])
+  J2{"any of"}
+  J3{"any of"}
+  C3(["Score 2 on MATH Proficiency Exam"])
+  J4{"any of"}
+  C4(["Score 2 on MATH Proficiency Exam"])
+  J5{"any of"}
+  J6{"all of"}
+  J7{"any of"}
+  C5(["Program of study: PhD CS / PhD CE"])
+  J8{"any of"}
+  J9{"all of"}
+  J10{"any of"}
+  J11{"any of"}
+  C6(["Program of study: PhD CS / PhD CE"])
+  CSE_5509 -..->|concurrent ok| CSE_5519
+  J1 --> CSE_5509
+  CSE_4107 --> J1
+  ESE_4170 --> J1
+  CSE_5104 --> J1
+  CSE_5107 --> J1
+  C1 --> J1
+  C2 --> J1
+  CSE_2407 ---> CSE_4107
+  J2 --> CSE_4107
+  ESE_3260 --> J2
+  SDS_3020 --> J2
+  SDS_3030 --> J2
+  MATH_2130 ---> CSE_4107
+  MATH_3300 ---> CSE_4107
+  CSE_1301 ---> CSE_2407
+  J3 --> SDS_3020
+  MATH_1520 --> J3
+  C3 --> J3
+  MATH_2130 ---> SDS_3030
+  J4 --> MATH_3300
+  MATH_1520 --> J4
+  C4 --> J4
+  J5 --> CSE_5104
+  J6 --> J5
+  CSE_2407 --> J6
+  J7 --> J6
+  SDS_3020 --> J7
+  ESE_3260 --> J7
+  MATH_2130 --> J6
+  C5 --> J5
+  J8 --> CSE_5107
+  J9 --> J8
+  CSE_2407 --> J9
+  J10 --> J9
+  CSE_4107 --> J10
+  ESE_4170 --> J10
+  J11 --> J9
+  ESE_3260 --> J11
+  SDS_3030 --> J11
+  MATH_2130 --> J9
+  MATH_3300 --> J9
+  C6 --> J8
+
+  class CSE_5519 target
+  class CSE_5509,CSE_4107,CSE_2407,CSE_1301,SDS_3020,MATH_1520,SDS_3030,MATH_2130,MATH_3300,CSE_5104,CSE_5107 course
+  class ESE_3260,ESE_4170 external
+  class J1,J2,J3,J4,J5,J6,J7,J8,J9,J10,J11 junction
+  class C1,C2,C3,C4,C5,C6 cond
+```
+
+### CSE 5600: Computer Systems Architecture I
+
+Rule: `Has completed (CSE 3601 and CSE 2600) OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5600["<b>CSE 5600</b><br/><small>Computer Systems Architecture I</small><br/><small><i>≡ ESE-E35 560</i></small>"]
+  CSE_3601["<b>CSE 3601</b><br/><small>Introduction to Systems Software</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  CSE_1302["<b>CSE 1302</b><br/><small>Introduction to Computer Engineering</small>"]
+  CSE_2600["<b>CSE 2600</b><br/><small>Introduction to Digital Logic and Computer Design</small><br/><small><i>≡ CSE-E81 505N, ESE-E35 260</i></small>"]
+
+  J1{"any of"}
+  J2{"all of"}
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J1 --> CSE_5600
+  J2 --> J1
+  CSE_3601 --> J2
+  CSE_2600 --> J2
+  C1 --> J1
+  CSE_1301 ---> CSE_3601
+  CSE_1302 ---> CSE_3601
+  CSE_1301 ---> CSE_1302
+  CSE_1301 ---> CSE_2600
+
+  class CSE_5600 target
+  class CSE_3601,CSE_1301,CSE_1302,CSE_2600 course
+  class J1,J2 junction
+  class C1 cond
+```
+
+### CSE 5605: Acceleration of Algorithms in Reconfigurable Logic
+
+Rule: `Has completed (CSE-E81 260M)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5605["<b>CSE 5605</b><br/><small>Acceleration of Algorithms in Reconfigurable Logic</small><br/><small><i>≡ ESE-E35 565</i></small>"]
+  CSE_2600["<b>CSE 2600</b><br/><small>Introduction to Digital Logic and Computer Design</small><br/><small><i>≡ CSE-E81 505N, ESE-E35 260</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+
+  CSE_2600 ---> CSE_5605
+  CSE_1301 ---> CSE_2600
+
+  class CSE_5605 target
+  class CSE_2600,CSE_1301 course
+```
+
+### CSE 5606: High Performance Computer Systems
+
+Rule: `Graduate Standing and has received permission to take (CSE 5606)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5606["<b>CSE 5606</b><br/><small>High Performance Computer Systems</small>"]
+
+  C1(["Graduate standing"])
+  C2(["Instructor permission"])
+  C1 ---> CSE_5606
+  C2 ---> CSE_5606
+
+  class CSE_5606 target
+  class C1,C2 cond
+```
+
+### CSE 5610: Large Language Models
+
+Rule: `Has completed (CSE-E81 417T or ESE-E35 417)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5610["<b>CSE 5610</b><br/><small>Large Language Models</small>"]
+  CSE_4107["<b>CSE 4107</b><br/><small>Introduction to Machine Learning</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  ESE_3260["<b>ESE 3260</b><br/><small>not in data — prereqs unknown</small>"]
+  SDS_3020["<b>SDS 3020</b><br/><small>Elementary to Intermediate Statistics and Data Analysis</small><br/><small><i>≡ MATH 3200</i></small>"]
+  MATH_1520["<b>MATH 1520</b><br/><small>Calculus II</small>"]
+  SDS_3030["<b>SDS 3030</b><br/><small>Statistics for Data Science I</small><br/><small><i>≡ MATH 3211, SDS 5212</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  MATH_3300["<b>MATH 3300</b><br/><small>Matrix Algebra</small>"]
+  ESE_E35_417["<b>ESE-E35 417</b><br/><small>not in data — prereqs unknown</small>"]
+
+  J1{"any of"}
+  J2{"any of"}
+  J3{"any of"}
+  C1(["Score 2 on MATH Proficiency Exam"])
+  J4{"any of"}
+  C2(["Score 2 on MATH Proficiency Exam"])
+  J1 --> CSE_5610
+  CSE_4107 --> J1
+  ESE_E35_417 --> J1
+  CSE_2407 ---> CSE_4107
+  J2 --> CSE_4107
+  ESE_3260 --> J2
+  SDS_3020 --> J2
+  SDS_3030 --> J2
+  MATH_2130 ---> CSE_4107
+  MATH_3300 ---> CSE_4107
+  CSE_1301 ---> CSE_2407
+  J3 --> SDS_3020
+  MATH_1520 --> J3
+  C1 --> J3
+  MATH_2130 ---> SDS_3030
+  J4 --> MATH_3300
+  MATH_1520 --> J4
+  C2 --> J4
+
+  class CSE_5610 target
+  class CSE_4107,CSE_2407,CSE_1301,SDS_3020,MATH_1520,SDS_3030,MATH_2130,MATH_3300 course
+  class ESE_3260,ESE_E35_417 external
+  class J1,J2,J3,J4 junction
+  class C1,C2 cond
+```
+
+### CSE 5619: Recent Advances in Computer Security and Privacy
+
+Rule: `Has a program of study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5619["<b>CSE 5619</b><br/><small>Recent Advances in Computer Security and Privacy</small>"]
+
+  C1(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  C1 ---> CSE_5619
+
+  class CSE_5619 target
+  class C1 cond
+```
+
+### CSE 5804: Algorithms for Biosequence Comparison
+
+Rule: `Has completed (CSE 3407) or has received permission to take (CSE 5804 OR Has Program of Study (PhD in Computer Science or PhD in Computer Engineering or MS in Computer Science or MS in Computer Engineering or Master of Engineering in CSE or MS Cybersecurity)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5804["<b>CSE 5804</b><br/><small>Algorithms for Biosequence Comparison</small><br/><small><i>≡ BIOL 5504</i></small>"]
+  CSE_3407["<b>CSE 3407</b><br/><small>Analysis of Algorithms</small>"]
+  CSE_2400["<b>CSE 2400</b><br/><small>Logic and Discrete Mathematics</small>"]
+  CSE_1301["<b>CSE 1301</b><br/><small>Introduction to Computer Science</small><br/><small><i>≡ CSE-E81 501N</i></small>"]
+  MATH_3010["<b>MATH 3010</b><br/><small>Foundations for Higher Mathematics</small><br/><small><i>≡ MATH 3101</i></small>"]
+  MATH_2130["<b>MATH 2130</b><br/><small>Calculus III</small>"]
+  CSE_2407["<b>CSE 2407</b><br/><small>Data Structures and Algorithms</small><br/><small><i>≡ CSE-E81 502N</i></small>"]
+
+  J1{"any of"}
+  C1(["Instructor permission"])
+  C2(["Program of study: PhD CS / PhD CE / MS CS / MS CE / MEng CSE / MS Cyber"])
+  J2{"any of"}
+  J1 --> CSE_5804
+  CSE_3407 --> J1
+  C1 --> J1
+  C2 --> J1
+  J2 --> CSE_3407
+  CSE_2400 --> J2
+  MATH_3010 --> J2
+  CSE_2407 ---> CSE_3407
+  CSE_1301 ---> CSE_2400
+  MATH_2130 ---> MATH_3010
+  CSE_1301 ---> CSE_2407
+
+  class CSE_5804 target
+  class CSE_3407,CSE_2400,CSE_1301,MATH_3010,MATH_2130,CSE_2407 course
+  class J1,J2 junction
+  class C1,C2 cond
+```
+
+### CSE 5990: Introduction to Graduate Study in CSE
+
+Rule: `Has a program of study (PhD in Computer Science or PhD in Computer Engineering)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_5990["<b>CSE 5990</b><br/><small>Introduction to Graduate Study in CSE</small>"]
+
+  C1(["Program of study: PhD CS / PhD CE"])
+  C1 ---> CSE_5990
+
+  class CSE_5990 target
+  class C1 cond
+```
+
+### CSE 7900: Research Seminar On Computer Science Pedagogy
+
+Rule: `Has Program of Study [PhD in Computer Science or PhD in Computer Engineering] OR Has received permission to take (CSE 7900)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_7900["<b>CSE 7900</b><br/><small>Research Seminar On Computer Science Pedagogy</small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE"])
+  C2(["Instructor permission"])
+  J1 --> CSE_7900
+  C1 --> J1
+  C2 --> J1
+
+  class CSE_7900 target
+  class J1 junction
+  class C1,C2 cond
+```
+
+### CSE 7905: Research Seminar On Machine Learning
+
+Rule: `Has Program of Study (PhD in Computer Science or PhD in Computer Engineering) OR has received permission to take (CSE 7905)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_7905["<b>CSE 7905</b><br/><small>Research Seminar On Machine Learning</small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE"])
+  C2(["Instructor permission"])
+  J1 --> CSE_7905
+  C1 --> J1
+  C2 --> J1
+
+  class CSE_7905 target
+  class J1 junction
+  class C1,C2 cond
+```
+
+### CSE 7910: Research Seminar On Robotics and Human-Computer Interaction
+
+Rule: `Has Program of Study (PhD in Computer Science or PhD in Computer Engineering) OR has received permission to take (CSE 7910)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_7910["<b>CSE 7910</b><br/><small>Research Seminar On Robotics and Human-Computer Interaction</small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE"])
+  C2(["Instructor permission"])
+  J1 --> CSE_7910
+  C1 --> J1
+  C2 --> J1
+
+  class CSE_7910 target
+  class J1 junction
+  class C1,C2 cond
+```
+
+### CSE 7925: Research Seminar On Graphics and Vision
+
+Rule: `Has Program of Study(PhD in Computer Science or PhD in Computer Engineering) OR has received permission to take (CSE 7925)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_7925["<b>CSE 7925</b><br/><small>Research Seminar On Graphics and Vision</small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE"])
+  C2(["Instructor permission"])
+  J1 --> CSE_7925
+  C1 --> J1
+  C2 --> J1
+
+  class CSE_7925 target
+  class J1 junction
+  class C1,C2 cond
+```
+
+### CSE 7950: Research Seminar On AI for Health
+
+Rule: `Has Program of Study [PhD in Computer Science or PhD in Computer Engineering] OR has received permission to take (CSE 7950)`
+
+```mermaid
+flowchart LR
+  classDef course fill:#fff,stroke:#333,color:#111
+  classDef target fill:#dbeafe,stroke:#1d4ed8,stroke-width:2px,color:#111
+  classDef external fill:#fecaca,stroke:#b91c1c,color:#111
+  classDef cond fill:#e5e7eb,stroke:#9ca3af,color:#374151,font-size:11px
+  classDef junction fill:#f3f4f6,stroke:#6b7280,color:#111,font-size:11px
+
+  CSE_7950["<b>CSE 7950</b><br/><small>Research Seminar On AI for Health</small>"]
+
+  J1{"any of"}
+  C1(["Program of study: PhD CS / PhD CE"])
+  C2(["Instructor permission"])
+  J1 --> CSE_7950
+  C1 --> J1
+  C2 --> J1
+
+  class CSE_7950 target
+  class J1 junction
+  class C1,C2 cond
+```
+
+
+<span class="tag-links">[#courses](#courses) [#curriculum](#curriculum) [#prerequisites](#prerequisites)</span>
+<br><span class="discussion-link "><a href="https://github.com//wustlcse/FAQ/discussions/148">Discussions View</a></span>
 
 ---
 <h2 class="anchored" id="what-are-residency-requirements">What are residency requirements?</h2>
